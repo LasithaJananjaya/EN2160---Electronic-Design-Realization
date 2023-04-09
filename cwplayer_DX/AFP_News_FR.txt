@@ -1,0 +1,11 @@
+Lorsque l'option du menu "Options / Divers / FICHIER : Télécharger les news AFP ..."   est cochée, le texte qui est affiché devant vous sera remplacé par un petit fichier texte créé à partir des derniers titres de l'actualité internationale issus de l'AFP - Agence France Presse. 
+Cette option requiert une connexion internet. 
+Cinq langues sont disponibles associées aux fichiers texte suivants : 
+- AFP_News_EN.txt pour l'actualité en anglais 
+- AFP_News_FR.txt pour l'actualité en français 
+- AFP_News_ES.txt pour l'actualité en espagnol 
+- AFP_News_PT.txt pour l'actualité en portugais 
+- AFP_News_DE.txt pour l'actualité en allemand. 
+Noter que ces fichiers contiennent des caractères locaux spécifiques à chaque langue. 
+Vous pouvez leur associer un code Morse partriculier à partir du menu "Outils / Caractères locaux". 
+ 

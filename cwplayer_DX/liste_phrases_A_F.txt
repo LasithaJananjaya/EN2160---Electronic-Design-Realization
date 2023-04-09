@@ -1,0 +1,1329 @@
+0001 - A barque désespérée, Dieu fait trouver le port.
+0002 - A beau mentir qui vient de loin. 
+0003 - A bon chat, bon rat.
+0004 - A bon demandeur bon refuseur.
+0005 - A bon entendeur, il ne faut qu'une parole.
+0006 - A bon entendeur, salut.
+0007 - A bon vin point d'enseigne.
+0008 - A chaque jour suffit sa peine. 
+0009 - A chaque Saint sa chandelle.
+0010 - A chemin battu il ne croît point d'herbe. 
+0011 - A cheval donné, on ne regarde pas a la bride.
+0012 - A cheval donné, on ne regarde pas les dents.
+0013 - A chevaux maigres vont les mouches.
+0014 - A coeur vaillant rien d'impossible 
+0015 - A donner donner, a vendre vendre.
+0016 - A faute de chapon, Pain et oignon.
+0017 - A femme sotte nul ne s'y frotte.
+0018 - A fol conteur, Sage écouteur.
+0019 - A force de forger on devient forgeron. 
+0020 - A grands seigneurs, peu de paroles.
+0021 - A la Chandeleur l'hiver cesse ou reprend vigueur.
+0022 - A la Chandeleur, l'hiver se passe ou prend vigueur.
+0023 - A la chandelle, la chèvre semble demoiselle.
+0024 - A la guerre comme a la guerre. 
+0025 - A la meilleure femme le meilleur vin.
+0026 - A laver la tête d'un âne, on perd sa lessive.
+0027 - A l'heureux l'heureux.
+0028 - A l'impossible nul n'est tenu.
+0029 - A l'oeuvre on connaît l'artisan.
+0030 - A l'oeuvre on connaît l'ouvrier.
+0031 - A l'ongle on connaît le lion.
+0032 - A mal enfourner, on fait les pains cornus.
+0033 - A mauvais jeu, bonne mine.
+0034 - A méchant ouvrier, point de bon outil.
+0035 - A menteur, menteur et demi.
+0036 - A nouvelles affaires, nouveaux conseils.
+0037 - A pauvres gens, enfants sont richesse.
+0038 - A père amasseur, fils gaspilleur.
+0039 - A père avare, enfant prodigue et a femme avare, galant escroc.
+0040 - A père avare, fils prodigue.
+0041 - A père prodigue, fils avare.
+0042 - A quelque chose malheur est bon.
+0043 - A riche homme souvent sa vache vêle et du pauvre le loup veau emmène.
+0044 - A sotte demande, point de réponse.
+0045 - A tête de fer bras d'acier.
+0046 - A tous seigneurs tous honneurs.
+0047 - A tout bon compte revenir.
+0048 - A tout péché miséricorde.
+0049 - A tout perdre il n'y a qu'un coup périlleux.
+0050 - A tout seigneur tout honneur.
+0051 - A tout venant beau jeu.
+0052 - A toute bête la nature a donné son ennemi.
+0053 - A toute heure, Chien pisse et femme pleure.
+0054 - A trompeur, trompeur et demi.
+0055 - A trop tirer, on rompt la corde.
+0056 - A trop vieux corps, point de remède.
+0057 - A un chacun sent bon sa merde.
+0058 - A un cheval hargneux il faut une étable a part.
+0059 - A une femme et a une vieille maison il y a toujours a refaire.
+0060 - A vaillant homme courte épée.
+0061 - A vaincre sans péril, on triomphe sans gloire.
+0062 - A vieille mule, frein doré.
+0063 - A vivre près de la mer, on devient crustacé.
+0064 - Abondance de biens ne nuit pas.
+0065 - Abondance engendre fâcherie.
+0066 - Absent le chat, les souris dansent. 
+0067 - Accommodez-vous, le pays est large.
+0068 - Acheter est meilleur marché que demander.
+0069 - Adieu paniers, vendanges sont faites.
+0070 - Advienne que pourra. 
+0071 - Aide-toi, le ciel t'aidera.
+0072 - Aller et venir font le chemin pelé.
+0073 - Ami au prêter, ennemi au rendre.
+0074 - Ami de table est variable.
+0075 - Ami vaut mieux qu'argent.
+0076 - Amis au prêter, ennemis au rendre.
+0077 - Amitié de grands, serments de femmes, et soleil d'hiver ne durent guère.
+0078 - Ane avec le cheval n'attèle.
+0079 - Année glanduleuse année chanceuse.
+0080 - Apprentis ne sont pas maîtres.
+0081 - Après la panse viens la danse.
+0082 - Après la pluie vient le beau temps.
+0083 - Après la pluie, le beau temps.
+0084 - Après la poire, le vin ou le prêtre.
+0085 - Après trois jours, sa femme, un hôte et de la pluie, sont trois choses dont on s'ennuie.
+0086 - Argent comptant porte médecine.
+0087 - Argent comptant porte médecine, argent emprunté porte tristesse.
+0088 - Argent fait perdre et pendre gens.
+0089 - Au besoin on connaît l'ami.
+0090 - Au bout de l'aune faut le drap.
+0091 - Au bout du fossé la culbute.
+0092 - Au chant on connaît l'oiseau.
+0093 - Au cheval maigre va la mouche.
+0094 - Au coeur sans but, coeur fidèle.
+0095 - Au corbeau, préfère la pie.
+0096 - Au danger on connaît les braves.
+0097 - Au feu uriner est sain, et y cracher est vain.
+0098 - Au jour du jugement, chacun sera mercier et portera son panier.
+0099 - Au mal de goutte, le médecin ne voit goutte.
+0100 - Au paresseux laboureur, les rats mangent le meilleur.
+0101 - Au pauvre un oeuf vaut un boeuf.
+0102 - Au rire on connaît le fou.
+0103 - Au royaume des aveugles les borgnes sont rois.
+0104 - Aujourd'hui chevalier, demain vacher.
+0105 - Aujourd'hui en chère, demain en bière.
+0106 - Aujourd'hui en fleur, demain en pleur.
+0107 - Aujourd'hui maître, demain valet.
+0108 - Aujourd'hui roi, demain rien.
+0109 - Aussitôt dit, aussitôt fait.
+0110 - Autant croît le désir que le trésor.
+0111 - Autant de pays, autant de guises.
+0112 - Autant de têtes, autant d'avis
+0113 - Autant de têtes, autant de sentiments.
+0114 - Autant de trous, autant de chevilles.
+0115 - Autant en emporte le vent.
+0116 - Autant vaut traîné que porté.
+0117 - Autres temps, autres moeurs.
+0118 - Aux bonnes fêtes les bon coups.
+0119 - Aux bons ils arrivent souvent malheur.
+0120 - Aux derniers, les bons.
+0121 - Aux grands maux, les grands remèdes.
+0122 - Aux innocents, les mains pleines.
+0123 - Aux maux extrêmes, les extrêmes remèdes.
+0124 - Aux vêpres on connaît la fête.
+0125 - Avec des si, on mettrait Paris dans une bouteille.
+0126 - Avec le vent on nettoie le froment, Et vice avec supplice et châtiment.
+0127 - Avocats se querellent, et vont boire ensemble.
+0128 - Cadran solaire et faux ami, parlent tant que le soleil luit, et se taisent quand il s'enfuit.
+0129 - Ce ne sont pas les grands mots, Qui remplissent les boisseaux.
+0130 - Ce n'est pas tout que des choux, Il faut encore de la graisse.
+0131 - Ce que Dieu garde est bien gardé.
+0132 - Ce que femme veut, Dieu le veut.
+0133 - Ce que gantelet saisit, Gorgelet l'engloutit.
+0134 - Ce que je dis a vous, ma nièce, C'est pour vous mon neveu.
+0135 - Ce que l'on acquiert méchamment, On le dépense sottement.
+0136 - Ce que l'on donne aux méchants, toujours on le regrette.
+0137 - Ce que maître veut et valet pleure, sont larmes perdues.
+0138 - Ce qui abonde ne vicie pas.
+0139 - Ce qui arrive a l'un peut arriver a l'autre.
+0140 - Ce qui doit être sera. 
+0141 - Ce qui est amer a la bouche peut être doux au coeur.
+0142 - Ce qui est bon a prendre, Est bon a rendre.
+0143 - Ce qui est fait n'est plus a faire.
+0144 - Ce qui ne coûte rien, est sensé ne valoir rien.
+0145 - Ce qui nuit a l'un, duit a l'autre.
+0146 - Ce qui rentre par une oreille, sort par l'autre.
+0147 - Ce qui se conçoit bien s'énonce clairement, et les mots pour le dire arrivent aisément.
+0148 - Ce qui tombe dans le fossé est pour le soldat.
+0149 - Ce qui vient par la flûte s'en va par le tambour.
+0150 - Ce qu'on dérobe, Ne fait pas garde-robe.
+0151 - Ce qu'on donne aux méchants, toujours on le regrette.
+0152 - Ce qu'on gagne par le gosier s'en va par le gésier.
+0153 - Ce qu'on méprise est souvent très utile.
+0154 - Celui qui combat avec des lances d'argent est sûr de vaincre. 
+0155 - Cent ans bannière, Cent ans civière.
+0156 - Cent ans de chagrins ne paient pas un sou de dettes.
+0157 - Cent ans ne sont pas si longs qu'ils en ont la mine.
+0158 - Cerf bien donné aux chiens est a demi pris.
+0159 - C'est au pied du mur que l'on voit le maçon. 
+0160 - C'est dans l'arène que le gladiateur prend sa décision.
+0161 - C'est la femme qui fait ou défait la maison.
+0162 - C'est la poule qui a pondu l'oeuf qui chante. 
+0163 - C'est le greffier de Vaugirard. Il ne peut écrire quand on le regarde.
+0164 - C'est le signe d'un fou, qu'avoir honte d'apprendre.
+0165 - C'est pain béni, qu'escroquer un avare.
+0166 - C'est peu de chose d'être loué de son père, de sa nourrice et de son curé.
+0167 - C'est trop d'aimer quand on en meurt.
+0168 - Ceux que le malheur n'abat point, il les instruit.
+0169 - Ceux qui n'ont point d'affaires, s'en font.
+0170 - Ceux qui sont de notre avis, Sont les vrais hommes d'esprit.
+0171 - Chacun croit fort aisément Ce qu'il craint et ce qu'il désire.
+0172 - Chacun décharge son péché, et charge celui d'autrui.
+0173 - Chacun est bossu quand il se baisse.
+0174 - Chacun est l'artisan de sa fortune.
+0175 - Chacun prêche pour son saint.
+0176 - Chacun sait où le bât blesse.
+0177 - Chacun son métier, Les vaches seront bien gardées.
+0178 - Chagrin d'autrui ne touche qu'a demi.
+0179 - Chance vaut mieux que de bien jouer.
+0180 - Changement de propos réjouit l'homme.
+0181 - Changement de temps, entretien de sots.
+0182 - Chapon de huit mois, Dîner de roi.
+0183 - Chaque plat de poisson est payé cinq fois au fisc, et une fois au pêcheur.
+0184 - Charbonnier est maître dans sa loge.
+0185 - Charité bien ordonnée commence par soi même.
+0186 - Chasseur, pêcheurs, preneur de taupes, Feraient beaucoup, n'étaient les fautes.
+0187 - Chat échaudé craint l'eau froide.
+0188 - Chat ganté ne prit jamais souris.
+0189 - Château pris, ville rendue.
+0190 - Chats et chiens, Mauvais voisins.
+0191 - Cheptel de moutons et d'abeilles, Fait souvent bien gratter l'oreille.
+0192 - Cher est le miel qu'on lèche sur les épines.
+0193 - Cheval de foin, cheval de rien.
+0194 - Cheval d'avoine, cheval de peine.
+0195 - Cheval de paille, cheval de bataille.
+0196 - Cheval qui piaffe, n'avance guère.
+0197 - Chien échaudé ne revient pas en cuisine.
+0198 - Chien hargneux a toujours oreilles déchirées.
+0199 - Chose prohibée, Est d'autant plus désirée.
+0200 - Chose promise, chose due.
+0201 - Chute d'ardoise pèse plus au présent, Que chute de tour a l'absent.
+0202 - Clé d'or passe partout.
+0203 - Coeur content, grand talent.
+0204 - Coeur étroit n'est jamais au large.
+0205 - Coeur facile a donner, Facile a ôter.
+0206 - Coeur qui soupire, N'a pas ce qu'il désire.
+0207 - Comme on fait son lit, on se couche.
+0208 - Comme tu fais on fera.
+0209 - Commettre un crime et le nier, N'est pas le chemin de se corriger.
+0210 - Compagnon bien parlant, Vaut en chemin chariot branlant. 
+0211 - Comparaison n'est pas raison. 
+0212 - Conseil est bon, Mais aide est encore mieux.
+0213 - Conserver libre oreille, coeur et mains, Fait le doux vivre et le mourir serein.
+0214 - Content chacun doit être de son etat.
+0215 - Contentement passe richesse.
+0216 - Conteur sempiternel, Pauvre cervelle.
+0217 - Contre forts et contre faux, Ne valent ni lettres ni sceaux.
+0218 - Contre la mort, point d'appel.
+0219 - Contre un plus puissant que soi, on ne dispute pas sans perte.
+0220 - Corsaires, attaquant corsaires, Ne font pas, dit-on, leurs affaires.
+0221 - Coucher de poule et lever de corbeau Écartent l'homme du tombeau.
+0222 - Couche-toi plutôt sans souper, que de te lever avec des dettes.
+0223 - Coureur comme un Basque.
+0224 - Cruauté est fille de couardise.
+0225 - Cruauté est mainte fois bonne Quand sages hommes a temps la donne.
+0226 - Dame qui moult se mire, Peu file.
+0227 - Dans le doute, abstiens-toi.
+0228 - Dans les affaires du monde, ce n'est pas la foi qui sauve, mais plutôt l'incrédulité.
+0229 - Dans les conseils, Les murs ont des oreilles.
+0230 - Dans les petites boites sont les fines épices.
+0231 - Dauphinois, fin matois, Ne vous y fiez pas.
+0232 - De belles paroles ne mettent pas de beurre dans les panais.
+0233 - De bien commun, l'on ne fait pas monceau.
+0234 - De cent noyés, pas un sauvé et De cent pendus, pas un perdu.
+0235 - De chiens, chevaux, armes, amours, Pour un plaisir, mille doulours.
+0236 - De deux maux, il faut éviter le pire.
+0237 - De fou juge, prompte sentence.
+0238 - De jeune avocat, héritage perdu et De jeune médecin, cimetière bossu.
+0239 - De la panse vient la danse.
+0240 - De l'esprit comme quatre, et pas de sens comme un.
+0241 - De marchand a marchand, il n'y a que la main.
+0242 - De mouton a courte laine, On n'aura pas bonne toison.
+0243 - De tous métiers, il y en a de pauvres et de riches.
+0244 - De tout homme inconnu, le sage se méfie.
+0245 - De trois choses Dieu nous garde. De boeuf salé sans moutarde, De valet qui se regarde, Et de femme qui se farde.
+0246 - De trop prés se chauffe, qui se brûle.
+0247 - Débander l'arc ne guérit pas la plaie.
+0248 - Défie-toi d'un homme qui parle peu, D'un chien qui n'aboie guère et de l'et cetera d'un notaire.
+0249 - Dépend le pendard, il te pendra.
+0250 - Dépense toujours moins que ta rente.
+0251 - Dernier couché, premier debout, Doit être chaque maître partout.
+0252 - Des femmes et des chevaux, Il n'en est point sans défauts.
+0253 - Des goûts et des couleurs, on ne discute pas. 
+0254 - Des mauvaises coutumes, naissent les bonnes lois.
+0255 - Désir n'est pas volonté.
+0256 - Désir promet plus que jouissance ne tient.
+0257 - Deux chiens sont mauvais a un os.
+0258 - Deux femmes font un plaid, Trois un grand caquet, Quatre un plein marché.
+0259 - Deux fois bon, c'est une fois bête.
+0260 - Dieu ne veut pas plus qu'on ne peut.
+0261 - Dieu nous a point bâtit de ponts, Il nous a donné des mains pour en faire.
+0262 - Dieu nous garde d'un et cetera d'un notaire, Et d'un quiproquo d'un apothicaire .
+0263 - Dieu nous garde d'un homme qui n'a qu'une affaire.
+0264 - Dieu voit qui est bon pèlerin.
+0265 - Différé n'est pas perdu.
+0266 - Difficile chose est de souffrir aise.
+0267 - D'injuste gain, Juste daim.
+0268 - Dire et faire, sont deux.
+0269 - Diseur de bons mots, mauvais caractère.
+0270 - Dis-moi qui tu hantes, je te dirai qui tu es.
+0271 - Diviser pour régner. 
+0272 - Donne au reconnaissant plus qu'il ne demande.
+0273 - Donner et retenir, ne vaut.
+0274 - Donner pour Dieu, n'appauvrit l'homme.
+0275 - Donner un oeuf, pour avoir un boeuf.
+0276 - Dos de brochet, ventre de carpe.
+0277 - Double jeune, double morceau.
+0278 - Douces paroles n'écorchent langue.
+0279 - Douces paroles n'écorchent pas la langue.
+0280 - D'un mauvais payeur, on tire ce qu'on peut.
+0281 - D'un sac a charbon ne saurait sortir blanche mouture.
+0282 - D'une buse on ne peut faire un épervier.
+0283 - Eau coite jour et nuit, noie, submerge et nuit.
+0284 - Eau courante n'est jamais salissante.
+0285 - Eau courante, bonne boisson mais eau immobile, poison.
+0286 - Eau et pain, c'est la viande du chien.
+0287 - Eau et vin dans un estomac, chat et chien dans le même sac.
+0288 - Eau qui court fait joli visage.
+0289 - Eau trouble fait bonne pêche.
+0290 - Eau trouble ne fait pas miroir.
+0291 - Elle change d'amoureux comme de chemises.
+0292 - Elle est comme les mauvaises vaches, elle a plus de gorge que de lait.
+0293 - Elle est large la voie qui mène en enfer.
+0294 - Elle sait qui elle veut mais elle ne sait pas qui la veut.
+0295 - Elle se fait prier, on voit bien que c'est une belle fille.
+0296 - Elle se marierait avec un bouc coiffé.
+0297 - Elle épouserait un chien avec un chapeau.
+0298 - Elle épouserait un manche a balai costumé.
+0299 - Elles en ont tant porté de grands qu'elles n'en sauraient plus porter des petits.
+0300 - Elles ont mis le char avant les boeufs.
+0301 - Elles partent agnelles au bal et elles reviennent brebis.
+0302 - Embrasse le chien sur le museau, jusque quand tu lui passes la muselière.
+0303 - Emploie ton bien quand il est tien, après ta mort tu n'y as rien.
+0304 - Emprunter n'est pas avancé.
+0305 - Emprunter vaut pas gros mieux que mendier.
+0306 - Empêche un fou de dévorer son sac.
+0307 - En allant et en venant, le garçon fit son an.
+0308 - En amour est folie et sens.
+0309 - En amour l'apprenti en sait plus que le maître.
+0310 - En amour un beau cheveu est plus fort que quatre boeufs.
+0311 - En amour, en procès, en vaillance, un rien fait pencher la balance.
+0312 - En amourettes plaisirs fallaces y a.
+0313 - En amours il y a folie et sens.
+0314 - En août fait-il bon glaner. 
+0315 - En août les gélines poules sont sourdes. 
+0316 - En aval tous les saints sont forts.
+0317 - En aventure gisent beaux coups.
+0318 - En avril nuée, en mai rosée.
+0319 - En avril, ne te découvre pas d'un fil, en mai fais ce qu'il te plaît. 
+0320 - En bas tous les bons saints aident, en haut fais comme tu peux.
+0321 - En bavardant le rôti brûle.
+0322 - En beau semblant gît fausseté.
+0323 - En beaucoup de nouvelles, y a des bourdes belles.
+0324 - En beauté corporelle gît souvent la mère de vice et marâtre de vertu.
+0325 - En beauté gît souvent le venin.
+0326 - En belle prairie, belle pâture.
+0327 - En bien faisant l'on guerroie le méchant.
+0328 - En bonne maison a-t-on tôt apprêté.
+0329 - En bonne maison, pain rassis et bois sec.
+0330 - En buisson et en maison, fait mal dire sa raison.
+0331 - En buvant et en mangeant on perd l'appétit.
+0332 - En cas hâtif, nul avis.
+0333 - En ce monde chétif et mesquin, quand il y a du pain, il y manque le vin.
+0334 - En ce monde n'a que heur et malheur.
+0335 - En ce monde, fortune et infortune abondent.
+0336 - En cent livres de plaidoyers n'y a pas une maille d'amour.
+0337 - En chacune maison, sa croix et passion. 
+0338 - En chaque pays, vertu est en prix.
+0339 - En cheminant l'on se lasse.
+0340 - En chômant l'on apprend a mal faire.
+0341 - En commençant, pense a finir.
+0342 - En conseil écoute le vieil.
+0343 - En corps petit, gît bien un grand esprit.
+0344 - En couvent souffle tout vent.
+0345 - En coeur sujet a vice et a péché, n'entrera sagesse, vertu ni bonté.
+0346 - En demandant on va a Rome.
+0347 - En dignité bien sied humanité.
+0348 - En discutant, on s'entend.
+0349 - En donnant aie égard et cure, de tenir règle et bonne mesure.
+0350 - En dressant des embûches a un autre on se tend un piège a soi-même.
+0351 - En défaut d'homme sage, Monte le fol en chaire et cage.
+0352 - En défaut de sage monte fol en chaire.
+0353 - En eau coite tu ne dois mettre un pied, main ni doigts.
+0354 - En eau endormie, nul ne s'y fie.
+0355 - En enseignant lentement, on apprend vite.
+0356 - En enseignant, on apprend.
+0357 - En espérance d'avoir mieux, vit le loup tant qu'il devient vieux.
+0358 - En espérant d'avoir mieux, en vivant devenons vieux.
+0359 - En face du vrai bonheur, les richesses valent l'ombre d'une fumée.
+0360 - En faisant la cage l'oiseau s'en va.
+0361 - En faisant les sots on apprend toujours quelque chose.
+0362 - En fait de semailles et de mariage, garde-toi de conseiller.
+0363 - En fait de soupes et d'amours, les premières sont les meilleures.
+0364 - En faut voir de par ce monde.
+0365 - En feu de façon ni braise ni charbon.
+0366 - En fleuve où manque le poisson, jeter filets est sans raison.
+0367 - En forgeant on devient forgeron. 
+0368 - En four chaud ne croît point d'herbe.
+0369 - En frottant fer souvent on le polit.
+0370 - En fuyant le loup, j'ai fait rencontre de l'ours.
+0371 - En gagnant avec peine on apprend a bien garder ce qu'on a.
+0372 - En gaine d'or souvent gît glaive de plomb.
+0373 - En gardant le sien, l'on fait guerre a autrui.
+0374 - En gaspillant le bien de Dieu, vient qu'on en n'a plus rien.
+0375 - En gouttes, médecin ne voit goutte.
+0376 - En grand fardeau n'est pas l'acquit.
+0377 - En grand fleuve tel poisson et le bon nageur au fond.
+0378 - En grand torrent grand poison se prend.
+0379 - En grande beauté, rarement loyauté.
+0380 - En grande pauvreté ne gît pas grande loyauté.
+0381 - En grandes entreprises on a beaucoup fait, quand on a montré sa bonne volonté.
+0382 - En grands plaids, petits faits.
+0383 - En hiver au feu et en été au bois et au jeu.
+0384 - En hiver partout pleut, en été la où Dieu veut.
+0385 - En hiver, bonne soupe et vin chaud.
+0386 - En janvier le médecin perd et le fossoyeur gagne.
+0387 - En jeunes gens nulle foi n'est trouvée.
+0388 - En jouant on perd argent et temps.
+0389 - En jouant, le temps se passe, sage est qui bien le compasse.
+0390 - En juin, de trois habits l'un.
+0391 - En justice tu gagnes une poule et tu perds une brebis.
+0392 - En l'air pur et clair, se forme le son clair.
+0393 - En l'alphabet, il y a des lettres plus riches les unes que les autres.
+0394 - En la balance l'or et le fer font tout un poids pareil et per.
+0395 - En la bouche de l'homme ayant faim, n'entre de froment chacun grain.
+0396 - En la bouche du discret, le public est secret.
+0397 - En la cour du roi, chacun y est pour soi.
+0398 - En la fin connaît-on le bon et le fin.
+0399 - En la fin gît la difficulté.
+0400 - En la fin se chante le Gloria.
+0401 - En la maison Robin de la Vallée n'y a pot au feu ni écuelle lavée.
+0402 - En la maison de ton ennemi, tiens une femme pour ton ami.
+0403 - En la maison du ménestrier, tous sont danseurs.
+0404 - En la maison vaut mieux avoir fontaine que citerne.
+0405 - En la peau de brebis, ce que tu veux s'y écrit.
+0406 - En la peau où le loup est, il y meurt.
+0407 - En la peinture ne gît la figure.
+0408 - En la queue et en la fin, gît de coutume le venin.
+0409 - En la terre des aveugles, celui qui n'a qu'un oeil y est roi.
+0410 - En larmes de félon ne se doit nul fier.
+0411 - En lit de chien n'a point d'ointure. 
+0412 - En longue voie paille poise. 
+0413 - En mai, vin et blé naît.
+0414 - En maigre poil y a morsure.
+0415 - En maigre taverne la mouche ne s'hiverne.
+0416 - En maison neuve, qui n'y porte rien n'y trouve.
+0417 - En maison sans bois ni laine, qui n'en apporte pas ne cène.
+0418 - En mal encombrier, patience vaut bouclier.
+0419 - En mal faisant, pensez-y bien, le temps s'en va et la mort vient.
+0420 - En malfait ne gît qu'amende.
+0421 - En mangeant on perd l'appétit, en buvant trop on perd l'esprit.
+0422 - En marchant lentement, nous irons vite.
+0423 - En mariage trompe qui peut.
+0424 - En mauvais voisinage se loge-t-on.
+0425 - En mer calme, tous sont pilotes.
+0426 - En moissonnant se passe l'août.
+0427 - En ménage il faut savoir manger a la même écuelle.
+0428 - En mêlant le bon et le mauvais, on a le passable.
+0429 - En ne s'emportant pas, on se porte mieux.
+0430 - En neuf minutes le rhume se prend, en neuf semaines il se rend.
+0431 - En nulle contrée ne doit pas être le disciple par-dessus le maître.
+0432 - En parlant du larron, il se trouve derrière le buisson.
+0433 - En parlant, long chemin se raccourcit.
+0434 - En pauvre maison, braise ni tison.
+0435 - En pauvreté n'y a pas grande loyauté.
+0436 - En payant ses dettes on s'enrichit.
+0437 - En pays étranger, les vaches y battent les boeufs.
+0438 - En petit buisson trouve-t-on grand lièvre.
+0439 - En petit champ croît bien blé.
+0440 - En petit corps gît bien un coeur valeureux.
+0441 - En petite tête gît grand sens.
+0442 - En peu de temps il advient beaucoup de choses.
+0443 - En place du jeune merle on prend une vieille grive.
+0444 - En procès n'y a point d'amour.
+0445 - En péril et nécessité, prudence est élire sûreté.
+0446 - En remettant les affaires de jour a autre, la mort nous surprend.
+0447 - En rien faisant on a plus de peine qu'en travaillant.
+0448 - En santé et prospérité, facilement nous conseillons autrui.
+0449 - En se cuidant trop près chauffer on se ard.
+0450 - En se moquant dit-on bien vrai.
+0451 - En semant, ne pense pas aux pigeons.
+0452 - En septembre, si tu es prudent, achète grains et vêtements.
+0453 - En soi moquant dit-on bien vrai.
+0454 - En son pays nul n'est nommé prophète.
+0455 - En soufflant on allume la chandelle et on l'éteint aussi.
+0456 - En souhaitant nul n'enrichit.
+0457 - En souvent chamaillant le soldat devient aguerri.
+0458 - En suivant le fleuve, on parvient a la mer.
+0459 - En ta santé pas ne te fie, la mort a coup ravit la vie. 
+0460 - En ta vie ne te fie.
+0461 - En tant de pays tant de guises.
+0462 - En taverne pas ne t'hiverne, car c'est une dangereuse caverne.
+0463 - En tel peau qu'a le loup quand il naît, mourir lui échet. 
+0464 - En temps de famine il n'est pas de pain dur.
+0465 - En temps et lieu on doit tout faire.
+0466 - En temps et saison convient la répréhension.
+0467 - En tous temps fait-il bon bien faire.
+0468 - En tout bien tout honneur .
+0469 - En tout ce qu'avons de faire, le fait plus que dire est nécessaire.
+0470 - En tout pays il y a une lieue de mauvais chemin. 
+0471 - En tout temps et toute heure, la mort est prête et meure. 
+0472 - En tout temps fait-il bon bien faire.
+0473 - En tout temps le sage veille.
+0474 - En toute chose faut-il commencement.
+0475 - En toute part on prise l'art .
+0476 - En toute saison doit dominer raison.
+0477 - En toute saison femme est bien a la maison.
+0478 - En toutes choses aie mesure.
+0479 - En toutes choses il te faut diligemment préparer.
+0480 - En toutes choses un homme n'est complet.
+0481 - En toutes choses y a mesure.
+0482 - En trinité gît perfection.
+0483 - En trop bonne garde perd-on bien.
+0484 - En trop fier il y a danger.
+0485 - En trop parler n'y a pas raison.
+0486 - En trésor gît le coeur très ord.
+0487 - En tyrannisant on se tyrannise.
+0488 - En un corps grand, bien rarement sagesse prend son hébergement.
+0489 - En un long voyage, la paille même est a charge.
+0490 - En une belle gaine d'or couteau de plomb gît et dort.
+0491 - En une heure vient et va l'honneur.
+0492 - En une main il tient le pain, en l'autre le bâton.
+0493 - En une étroite couche, le sage au milieu se couche.
+0494 - En vain plante et sème, qui ne clôt et ne ferme.
+0495 - En vain veut-on chose impossible.
+0496 - En vaisseau ord et mal lavé, vin corrompu et tôt gâté.
+0497 - En vieille grange bat-on bien, mais de vieux fléaux on ne fait rien.
+0498 - En vieillissant, on perd toutes ses forces.
+0499 - En virant et en tournant, on arrive au bout de l'an.
+0500 - En vivant l'on devient vieux.
+0501 - En voulant avoir tout, on perd tout.
+0502 - En voyage et en mariage, ne prends conseil de personne.
+0503 - En été mieux vaut suer que trembler.
+0504 - En été a l'ombre et en hiver au soleil.
+0505 - Encore avec état, on a prou peine a vivre.
+0506 - Encore bien que le renard change son poil, il ne change pas son naturel.
+0507 - Encore fait-il bon avoir des amis en ennemis.
+0508 - Encore n'est pas couché qui aura mas le nuit. 
+0509 - Endurer faut pour mieux avoir.
+0510 - Enfant brûlé a peur du feu.
+0511 - Enfant et poisson, en eau croît.
+0512 - Enfant et rire, richesse de pauvre.
+0513 - Enfant grandet, adolescent jeune, homme parfait, vieil décrépité.
+0514 - Enfant haï ne sera jamais beau.
+0515 - Enfant humble en jeunesse, heureux en vieillesse.
+0516 - Enfant nourri de vin et femme qui parle latin ne font jamais bonne fin.
+0517 - Enfant par trop caressé, mal appris et pis réglé.
+0518 - Enfants deviennent gens.
+0519 - Enfants et sots sont devins.
+0520 - Enfants illégitimes, sont du tout bon ou du tout mauvais.
+0521 - Enfants nous naissons, enfants nous revenons.
+0522 - Enfants sont richesse de pauvres gens.
+0523 - Enfermer le loup dans la bergerie. 
+0524 - Enfoncer les fenêtres ouvertes.
+0525 - Engraisser de mal avoir. 
+0526 - Ennemi ne dort.
+0527 - Ennui le jour prolonge.
+0528 - Ennui ne porte point de fruit.
+0529 - Ennui nuit, jour et nuit.
+0530 - Enseigne l'ignorant, il deviendra ton ennemi.
+0531 - Enseigner convient aux enfants, ce qu'est de faire quand seront grands.
+0532 - Entendement vaut mieux que fortune.
+0533 - Entendre les deux sons de cloche.
+0534 - Entend premier, parle le dernier.
+0535 - Entre Pâques et la Pentecôte, le dessert est une croûte. 
+0536 - Entre amis la nappe est inutile.
+0537 - Entre bouche et cuiller, vient grand encombrier.
+0538 - Entre bride et éperon, en toute chose gît la raison.
+0539 - Entre chair et ongle, piquer ne dois cousin ni oncle.
+0540 - Entre chien et loup. 
+0541 - Entre choisir et non choisir, la fille tarde a s'établir.
+0542 - Entre ci et l'année qui vient, il se passera beaucoup de jours sereins et pluvieux.
+0543 - Entre deux amis n'a que deux paroles.
+0544 - Entre deux de pareil état, par l'huis étroit sort le débat.
+0545 - Entre deux maux, il faut choisir le moindre.
+0546 - Entre deux selles le cul choit a terre. Variante 
+0547 - Entre faire et dire, y a moult a redire.
+0548 - Entre gens de même nature, l'amitié s'entretient et dure.
+0549 - Entre haie et buisson, fait mal dire sa raison.
+0550 - Entre homme et femme le diable danse au milieu.
+0551 - Entre l'arbre et l'écorce il ne faut pas mettre le doigt. 
+0552 - Entre l'enclume et le marteau, qui doigt y fourre est tenu veau.
+0553 - Entre l'âme et le corps, souvent désaccord.
+0554 - Entre l'écorce et le bois, ne faut pas mettre le doigt.
+0555 - Entre l'écuelle et le pot, il ne faut pas mettre le doigt.
+0556 - Entre la Toussaint et Noël, ne peut trop pleuvoir ni venter.
+0557 - Entre la coupe et les lèvres il peut se passer bien des choses. 
+0558 - Entre la merde et l'urine, le bel enfant se nourrit.
+0559 - Entre la poire et le fromage. 
+0560 - Entre le dit et le fait y a grand trait.
+0561 - Entre les deux Notre-Dame, les oeufs sont infécondés.
+0562 - Entre les fiançailles et la noce le diable court.
+0563 - Entre les verres et les pots, moins de sages que de sots.
+0564 - Entre mari et femme ne t'y mets pas, même pour un bien.
+0565 - Entre mariage et regret il n'y a que l'épaisseur d'une haie mais si l'on y regarde de près il n'y a que l'épaisseur d'un sabot.
+0566 - Entre nous fols qui plaidoyons les praticiens nous nourrissons.
+0567 - Entre nous soit dit, se disent les femmes quand elles ont tout dit.
+0568 - Entre promesse et l'effet, y a grand trait.
+0569 - Entre sept et huit heures filles et femmes couchées, a neuf heures les hommes.
+0570 - Entretemps que le chien chie le loup s'en va.
+0571 - Envie aux grands fait la guerre et si elle peut les atterre.
+0572 - Envie choit-on de franchise en servage.
+0573 - Envie en tout art est en vie.
+0574 - Envie ne mourut oncques, mais les envieux mourront.
+0575 - Épargne de bouche vaut rente de pré. 
+0576 - Épouse joyeuse est souvent femme pleureuse.
+0577 - Espoir conduit l'homme tant qu'il soit vieux.
+0578 - Espoir de gain diminue la peine.
+0579 - Espoir de profit labeur diminue.
+0580 - Espoir en Dieu convient avoir, car elle vaut mieux qu'or ou avoir.
+0581 - Espère en Dieu en chaque lieu.
+0582 - Espérance ne donne a boire ni a manger.
+0583 - Espérant proie, plusieurs amis sont qui au partir sont ennemis.
+0584 - Espérer prendre des alouettes a la chute du ciel.
+0585 - Essaim de mai vaut vache a lait.
+0586 - Essuie tes mains convenablement, si tu ne veux pas qu'elles se gercent.
+0587 - Est bien malade qui ne connaît pas la gravité de son mal.
+0588 - Est bon de jeûner, mieux d'aumône donner.
+0589 - Est heureux plus qu'il ne croit, celui qui paie ce qu'il doit.
+0590 - Est pas tout or ce qui brille.
+0591 - Et plus il y a de chevaux en une étable et plus il y a de la fiente.
+0592 - Et plus a l'homme d'esprit en ce monde et plus est damné.
+0593 - Et plus a le diable et plus veut avoir.
+0594 - Et plus boit-on et plus voudra-t-on boire.
+0595 - Et plus de morts et moins d'ennemis.
+0596 - Et plus demeure-t-on aux services et plus est-on fol.
+0597 - Et plus est noble un homme et plus est ambitieux.
+0598 - Et plus met-on de paille en l'étable et plus y a de fumier.
+0599 - Et plus vit-on et plus voit-on.
+0600 - Et plus y a de faucheurs et moins y a a faucher.
+0601 - Être aussi ignorant que l'enfant qui vient de naître. 
+0602 - Être aux premières loges. 
+0603 - Être comme les deux doigts de la main. 
+0604 - Être en paradis, se croire dans le paradis. 
+0605 - Être entre le marteau et l'enclume. 
+0606 - Être faux comme un jeton. 
+0607 - Être fort en gueule 
+0608 - Être frais comme un gardon. 
+0609 - Être gras comme un moine. 
+0610 - Être hors de gamme. 
+0611 - Être ivre mort. 
+0612 - Être malheureux comme les pierres 
+0613 - Être paresseux comme une couleuvre 
+0614 - Être réglé comme un papier de musique 
+0615 - Être souple comme un gant. 
+0616 - Être sur la litière. 
+0617 - Être sur le grabat. 
+0618 - Être sur le pavé du roi. 
+0619 - Être a couvert ou a l'abri de la pluie. 
+0620 - Éveillé comme une potée de souris. 
+0621 - Exercice est au corps et a l'âme grand bénéfice.
+0622 - Exercice, a l'âme et corps est bénéfice.
+0623 - Exhibe honneur a ton parent, en te montrant bénévolent.
+0624 - Expérience est mère de science.
+0625 - Facile c'est de penser, difficile est pensée jeter.
+0626 - Fagot a bien rencontré bourrée. 
+0627 - Fagot bien lié est a moitié porté.
+0628 - Faillir ne peut terre bien cultivée.
+0629 - Faim en santé, grande maladie.
+0630 - Faim, pluie et femme sans raison, chassent l'homme de la maison.
+0631 - Fainéant et misère se marièrent, ils eurent un enfant qui s'appela souffre-douleur.
+0632 - Faire Pâques avant les Rameaux.
+0633 - Faire avaler le goujon a quelqu'un. 
+0634 - Faire beaucoup de bruit pour peu de laine.
+0635 - Faire boire un âne qui n'a pas soif, c'est perdre son temps.
+0636 - Faire bonne chère est de grand coût et de petite mémoire.
+0637 - Faire bonne mise a mauvais jeu. 
+0638 - Faire contre mauvaise Fortune, bon coeur est un soutien.
+0639 - Faire convient en sa jeunesse, provision pour la vieillesse, de chose qui est nécessaire et dont on peut avoir a faire.
+0640 - Faire d'un néant grande cause.
+0641 - Faire de cent sous quatre livres et de quatre livres rien. 
+0642 - Faire de nécessité vertu. 
+0643 - Faire de sa pâte gâteau.
+0644 - Faire des châteaux en Espagne.
+0645 - Faire du bois pour clôturer un champ d'orties.
+0646 - Faire du loup le berger.
+0647 - Faire d’un diable deux.
+0648 - Faire envie vaut mieux que faire pitié.
+0649 - Faire et défaire c'est toujours travailler, mais ce n'est pas gros avancer.
+0650 - Faire haie d'épines a mains nues.
+0651 - Faire l'aumône, c'est prêter au bon Dieu.
+0652 - Faire l'enfant. 
+0653 - Faire la cour et l'amour, peine et douleur nuit et jour.
+0654 - Faire le carnaval avec sa femme et Pâques avec son curé.
+0655 - Faire le gros dos. 
+0656 - Faire litière d'une chose. 
+0657 - Faire passer le goût du pain a quelqu'un. 
+0658 - Faire ses choux gras de quelque chose. 
+0659 - Faire ses orges. 
+0660 - Faire son paradis en ce monde. 
+0661 - Faire un trou dans l'eau.
+0662 - Faire une croix par-dessus l'épaule. 
+0663 - Fais bien sans cesse et sans demeure, en peu de temps se passe l'heure. 
+0664 - Fais bien tandis que tu es vivant.
+0665 - Fais bien a ton prochain avant ta mort, car rien ne te vaudra quand seras mort.
+0666 - Fais ce que dois, advienne que pourra. 
+0667 - Fais ce que je dis, ne fais pas ce que je fais. 
+0668 - Fais ce que tu veux, mais sois le premier.
+0669 - Fais ce que voudras avoir fait quand tu mourras.
+0670 - Fais comme tu voudras, comme tu feras ton lit tu te coucheras.
+0671 - Fais comme tu voudras, tu feras jamais a la guise de tout le monde.
+0672 - Fais comme votre âne qui ne boit qu'a sa soif.
+0673 - Fais de l'ami comme de l'or, ne le reçois pas sans l'avoir reconnu.
+0674 - Fais de la nuit nuit et du jour jour, et vivras sans ennui et dolour.
+0675 - Fais de ta bouche une prison, pour mettre ta langue a la raison.
+0676 - Fais des amis non pas lorsque tu en as besoin, mais pour lorsque tu en auras affaire.
+0677 - Fais du bien a un pauvre bougre, il te chie dans la main.
+0678 - Fais du bien a un vilain, il te chie dans la main. 
+0679 - Fais et fasse bonne farine sans sonner trompe ni bucine.
+0680 - Fais la porte de ta maison a l'orient si tu veux qu'elle soit saine.
+0681 - Fais premier le nécessaire, puis ce qui est a plaisir faut faire.
+0682 - Fais ton devoir et arrive que pourra. 
+0683 - Fais ton devoir et laisse dire les sots.
+0684 - Fais ton devoir et laisse faire le Bon Dieu.
+0685 - Fais ton devoir et puis tant pis pour le reste.
+0686 - Fais ton devoir, quand bien t'en coûterait gros.
+0687 - Fais ton huis au silvain, si tu veux vivre sain. 
+0688 - Fais toujours bien, fera mieux qui pourra.
+0689 - Fais une dette payable a Pâques, et trouveras le carême court. 
+0690 - Fais-toi agneau, le loup te mangera.
+0691 - Fais-toi lécher par le chien qui t'a mordu.
+0692 - Faisant son office la balance, d'or ni de plomb n'a connaissance.
+0693 - Faiseur de mariages, maudit sans avantages.
+0694 - Faisons ce qu'on doit faire, et non pas ce qu'on fait.
+0695 - Faisons de nécessité vertu et de mal jour fête.
+0696 - Faisons des ponts pour lorsque nous aurons des chèvres.
+0697 - Fait beau venir vieux, mais fait mal l'être.
+0698 - Fait bon boire quand on a soif.
+0699 - Fait bon venir vieux, mais fait mal s'y trouver.
+0700 - Fait mal servir les paresseux.
+0701 - Fait plus plaisir de donner que de recevoir.
+0702 - Fait ton fait et te connais.
+0703 - Fait toujours bon tenir son cheval par la bride.
+0704 - Faites bien faites mal, vous serez toujours critiqué.
+0705 - Faites ce que vous commandez et vos serviteurs seront payés.
+0706 - Faites du bien a un chien, il vous chie dans la main.
+0707 - Faites du bien a un chien, il vous pisse contre.
+0708 - Faites du bien a un vilain, il vous fera dans la main.
+0709 - Faites l'aumône non pas a l'individu, mais a l'homme.
+0710 - Faites la lessive a temps ou le linge devient comme du fumier.
+0711 - Faites soudain les choses conseillées.
+0712 - Faites une légère écorchure au bout de votre doigt, a chaque instant vous y trébuchez.
+0713 - Faites-le court, dépêchez-vous de dire ce que vous voulez.
+0714 - Fange sèche, envie s'attache.
+0715 - Farine fraîche et pain chaud font la ruine de la maison.
+0716 - Farine fraîche et pain chaud n'enrichissent pas la maison.
+0717 - Farine fraîche et pain tendre aident la maison a descendre.
+0718 - Faudrait croire que la moitié de ce qu'on voit.
+0719 - Faudrait rien croire de ce qu'on entend.
+0720 - Fausseté est prochaine a la vérité, comme adversité a prospérité.
+0721 - Faut accrocher les oiseaux avant qu'ils ne soient hors du nid.
+0722 - Faut aller vivre d'après ses moyens.
+0723 - Faut aller doucement, comme l'argent vient.
+0724 - Faut attendre pour voir.
+0725 - Faut avoir assez boue pour son compte pour salir les autres.
+0726 - Faut avoir de la boue pour salir les autres.
+0727 - Faut avoir mangé ensemble une mine de sel pour dire se connaître.
+0728 - Faut avoir a manger pour pouvoir travailler.
+0729 - Faut avoir égard aux autres comme a soi-même.
+0730 - Faut balayer devant chez soi avant de balayer devant chez les autres.
+0731 - Faut battre le fer pendant qu'il est chaud.
+0732 - Faut bien des petits pour un grand.
+0733 - Faut bien manger et bien travailler pour bien servir son maître.
+0734 - Faut boire le vin comme un roi et l'eau comme un taureau.
+0735 - Faut commencer jeune pour devenir bon maître.
+0736 - Faut connaître les saints avant de les adorer.
+0737 - Faut coucher sept ans avec sa femme avant de la connaître.
+0738 - Faut croire ce que disent les prêtres mais faut pas faire ce qu'ils font.
+0739 - Faut de tout pour faire un monde.
+0740 - Faut de toutes sortes de choses pour faire un monde.
+0741 - Faut de toutes sortes de gens pour faire un monde.
+0742 - Faut donner aux riches, les pauvres feront toujours.
+0743 - Faut dresser l'arbre pendant qu'il est jeune.
+0744 - Faut dresser l'arbre pendant qu'il est temps.
+0745 - Faut faire les chevilles avec le bois qu'on a.
+0746 - Faut faire suivant son argent.
+0747 - Faut faire vie qui dure mais pas vie qui crève.
+0748 - Faut gagner son pain soi-même pour savoir combien il coûte.
+0749 - Faut garder une poire pour la soif.
+0750 - Faut jamais aller bâtir a côté d'un château.
+0751 - Faut jamais dire hue qu'on eut passe le ru.
+0752 - Faut jamais se battre pour ce qu'il y a assez.
+0753 - Faut jamais se battre pour ce qui est suffisant.
+0754 - Faut jamais se décourager.
+0755 - Faut juger chacun de manière que le loup soit logé repu et la chèvre entière.
+0756 - Faut jurer de rien.
+0757 - Faut laisser aller le monde comme il va.
+0758 - Faut laisser le chien quand il dort car quand il est réveillé, il mord.
+0759 - Faut laisser les ministres parler et les chevriers garder les chèvres.
+0760 - Faut laisser pour ce qu'ils sont.
+0761 - Faut partout une mesure.
+0762 - Faut pas aller au bois si on a peur des branches.
+0763 - Faut pas apprendre aux vieux chats a attraper les souris.
+0764 - Faut pas attendre que soient gros les arbres pour détordre.
+0765 - Faut pas boire quand on a pas soif.
+0766 - Faut pas déranger les guêpes.
+0767 - Faut pas désavouer son cul pour un pet.
+0768 - Faut pas en prendre plus qu'on peut en emporter.
+0769 - Faut pas enseigner a chier a ceux qui ont la diarrhée.
+0770 - Faut pas enseigner a faire des enfants aux mères.
+0771 - Faut pas entreprendre plus qu'on ne peut.
+0772 - Faut pas exciter le guêpier si on veut pas être piqué.
+0773 - Faut pas faire emplette d'un porc de laitier ni d'une fille de cabaretier.
+0774 - Faut pas faire les gros que d'après ce qu'on a.
+0775 - Faut pas gaspiller le bien de Dieu.
+0776 - Faut pas laisser tomber le bâton trop vite.
+0777 - Faut pas manger le bien tandis qu'on a de bonnes dents.
+0778 - Faut pas manger son bien tandis qu'on a de bonnes dents.
+0779 - Faut pas marier des crétins pour la fortune.
+0780 - Faut pas mettre la chèvre avec le chou.
+0781 - Faut pas mettre la main au cul après qu'on a pété.
+0782 - Faut pas mettre le feu a côté de la paille.
+0783 - Faut pas mettre le feu a la paille quand il n'a pas besoin.
+0784 - Faut pas mettre tous ses oeufs dans le même panier.
+0785 - Faut pas ourdir plus qu'on ne peut tramer.
+0786 - Faut pas ourdir plus qu'on peut taper.
+0787 - Faut pas parler de corde dans la maison du pendu.
+0788 - Faut pas plaindre le cheval qui tombe mais celui qui ne se relève pas.
+0789 - Faut pas plus charger l'âne qu'il peut porter.
+0790 - Faut pas prendre les gens pour des chiens.
+0791 - Faut pas prendre un bâton pourri pour frapper sur les autres.
+0792 - Faut pas péter plus haut qu'on a le cul.
+0793 - Faut pas que la bouche devance les bras.
+0794 - Faut pas que les attaches du bonnet soient encore marquées pour songer a se marier.
+0795 - Faut pas regarder dans la gorge d'un cheval donné.
+0796 - Faut pas remettre au lendemain ce qu'on peut faire le jour avant.
+0797 - Faut pas renvoyer a demain ce qu'on peut faire aujourd'hui.
+0798 - Faut pas se charger de bois vert quand il y en a assez de sec.
+0799 - Faut pas se charger envie de ce qu'on peut pas avoir.
+0800 - Faut pas se croire que le bon fusse rien que d'un côté.
+0801 - Faut pas se déchausser avant que d'aller dormir.
+0802 - Faut pas se dépouiller avant qu'aller dormir. Faut pas se défaire du bien, avant que mourir.
+0803 - Faut pas se déshabiller avant de se coucher.
+0804 - Faut pas se dévêtir avant de s'aller coucher.
+0805 - Faut pas se dévêtir avant que d'aller dormir.
+0806 - Faut pas se dévêtir avant que de vouloir aller dormir.
+0807 - Faut pas se dévêtir trop vite et pas se vêtir trop vite.
+0808 - Faut pas se faire des amis avec des gens qui sont moins que soi.
+0809 - Faut pas se griffer le nez pour se faire beau le visage.
+0810 - Faut pas se laisser manger la laine sur les reins.
+0811 - Faut pas se marier ni a l'attente ni a l'aventure.
+0812 - Faut pas se tenir a la gueule du loup.
+0813 - Faut pas tailler des verges pour se faire a fesser.
+0814 - Faut pas tenir les lapins dans la choulière.
+0815 - Faut pas tirer la chemise avant qu'aller dormir.
+0816 - Faut pas vendre la peau de l'ours avant de l'avoir tué.
+0817 - Faut pas vendre la peau du loup avant d'avoir tiré la bête.
+0818 - Faut pas vendre la peau du loup avant de l'avoir tué.
+0819 - Faut pas verser d'eau sur le feu.
+0820 - Faut pas vouloir péter plus haut qu'on a le cul.
+0821 - Faut peu de lois aux avocats pour amorcer force ducats.
+0822 - Faut peu parler, beaucoup écouter.
+0823 - Faut prendre le bien quand il vient.
+0824 - Faut prendre le temps comme il vient et les femmes comme elles sont.
+0825 - Faut qu'avoir de l'argent pour être souhaité mort.
+0826 - Faut qu'une seule brebis gâtée pour perdre tout le troupeau.
+0827 - Faut que chacun porte sa croix sur cette terre.
+0828 - Faut que marier une tailleuse pour aller guenilleux et un régent pour crever de faim.
+0829 - Faut que tout le monde vive.
+0830 - Faut que toutes les cartes jouent.
+0831 - Faut reculer pour mieux sauter.
+0832 - Faut regarder ce qui cuit en sa marmite avant que regarder ce qui cuit en celle des autres.
+0833 - Faut regarder de quel pain on mange.
+0834 - Faut rendre le bien pour le mal.
+0835 - Faut rien croire que ce qu'on voit.
+0836 - Faut rien gaspiller.
+0837 - Faut rien laisser perdre.
+0838 - Faut s'adresser aux parents quand on a besoin de rien.
+0839 - Faut savoir bien obéir pour savoir bien commander.
+0840 - Faut savoir perdre pour pouvoir gagner.
+0841 - Faut savoir perdre si on veut gagner.
+0842 - Faut savoir s'arrêter du temps que va bien.
+0843 - Faut savoir se contenter de ce qu'on a.
+0844 - Faut se fier de tous et de personne.
+0845 - Faut se tirer près de la courtine pour avoir le purin.
+0846 - Faut semer pour récolter.
+0847 - Faut semer pour ramasser.
+0848 - Faut songer a nourrir avant de songer a mourir.
+0849 - Faut souvent mettre la vergogne derrière la porte.
+0850 - Faut toujours avoir quelque chose a manger avec son pain.
+0851 - Faut toujours bien faire, on peut quitter quand on veut.
+0852 - Faut toujours bien manier avant de traire.
+0853 - Faut toujours commencer un coup pour pouvoir finir.
+0854 - Faut toujours commencer un coup, si on veut finir une fois.
+0855 - Faut toujours espérer le bien, le mal arrive déja assez.
+0856 - Faut toujours garder une poire pour la soif.
+0857 - Faut toujours payer l'apprentissage.
+0858 - Faut toujours prendre la chose du bon côté.
+0859 - Faut toujours prendre le bien quand il vient, il ne vient déja pas trop souvent.
+0860 - Faut toujours prendre patience.
+0861 - Faut toujours se tirer près des vieux, les jeunes ont rien d'argent.
+0862 - Faut toujours songer a soi avant de songer aux autres.
+0863 - Faut tourner sept fois la langue dans la bouche avant de parler.
+0864 - Faut tous aller mourir un jour.
+0865 - Faut tout le temps garder une pomme pour la soif.
+0866 - Faut un désordre pour amener un ordre.
+0867 - Faut vivre sur l'espérance.
+0868 - Faut voir plus loin qu'on a le nez. 
+0869 - Faut être content de ce qu'on a.
+0870 - Faut être de son temps.
+0871 - Faut être deux pour faire un marché.
+0872 - Faut être quatre jours pendu, quatre jours dépendu avant de se marier.
+0873 - Faut être a ses noces pour qu'elles soient belles.
+0874 - Faute avouée est a moitié pardonnée. 
+0875 - Faute d'adresse, la bourse blesse.
+0876 - Faute d'argent est par dit et par fait, vrai ennemi familier et parfait.
+0877 - Faute d'argent n'emplit pas la bouteille, ainsi rend l'homme tremblant comme la feuille.
+0878 - Faute d'argent, c'est douleur non pareille.
+0879 - Faute d'argent, défaut de joie.
+0880 - Faute d'argent, honte d'accroire, défend l'homme d'aller boire.
+0881 - Faute d'expérience et d'usage, d'âge cause le jeune n'être sage.
+0882 - Faute d'un clou on perdit le cheval.
+0883 - Faute d'un moine, l'abbaye ne chôme pas. 
+0884 - Faute de bien fait dormir sur le sien.
+0885 - Faute de blé, on mange de l'avoine. 
+0886 - Faute de cheval on se sert d'âne.
+0887 - Faute de crédit et d'accroire, engarde l'homme d'aller boire.
+0888 - Faute de crédit et d'argent, rend l'homme triste, morne et dolent.
+0889 - Faute de grives, on mange des merles. 
+0890 - Faute de justice, absence de roi, présage méchef et grand désarroi.
+0891 - Faute de pain n'assouvit pas la faim.
+0892 - Faute de parler, on meurt sans confession. 
+0893 - Faute de puissance, le malin n'offense.
+0894 - Faveur a maints a porté préjudice, la où elle est ne règne point justice.
+0895 - Faveur a maints a porté préjudice, la où il ne règne point justice.
+0896 - Faveurs, femmes et deniers font de vachers chevaliers.
+0897 - Femme acariâtre, bois vert et pain chaud ont bientôt conduit l'homme au tombeau.
+0898 - Femme acariâtre, femme de bal, peu de besogne et la fait mal.
+0899 - Femme accomplie, trois fois discrète.
+0900 - Femme bien élevée aura toujours bonne tenue.
+0901 - Femme bonne et sage, fait toujours bon ménage.
+0902 - Femme bonne qui a mauvais mari, a bien souvent le coeur marri. 
+0903 - Femme bonne qui a mauvais mari, a souvent le coeur marri.
+0904 - Femme bonne vaut un empire, qui l'a mauvaise garde qu'elle n'empire.
+0905 - Femme bonne vaut une couronne.
+0906 - Femme bonne vaut une couronne, femme de bien vaut un grand bien.
+0907 - Femme couchée et bois debout, homme n'en vit jamais le bout.
+0908 - Femme couchée et bois debout, on n'en voit jamais le bout.
+0909 - Femme couchée et bois debout, on ne sait pas ce que ça peut porter.
+0910 - Femme couchée et fagot debout, l'homme n'en vit jamais le bout.
+0911 - Femme couchée, fagot debout, homme n'en voit jamais le bout.
+0912 - Femme coureuse, pas du tout ménagère.
+0913 - Femme coureuse, soupe froide.
+0914 - Femme curieuse et courrière, n'est en rien bonne ménagère.
+0915 - Femme d'aubergiste qui file, médecin qui se regarde au miroir, notaire qui ne sait pas le quantième des mois, mauvais pour tous les trois.
+0916 - Femme de bien vaut un grand bien.
+0917 - Femme de devant chagrin et tourment, femme de derrière pain a manger.
+0918 - Femme de marin, femme de chagrin.
+0919 - Femme de marinier, ni mariée ni demi mariée.
+0920 - Femme de maçon, mariée le matin le soir non.
+0921 - Femme de riche vêtement parée, a un fumier est comparée, qui devers fait sa couverture, au découvrir apert l'ordure.
+0922 - Femme de vin, femme de rien.
+0923 - Femme enivrée est a tous abandonnée.
+0924 - Femme estime toujours son voisin être de violette.
+0925 - Femme et baril, plus ils travaillent mieux ils valent.
+0926 - Femme et boisson sont deux ruine-maisons.
+0927 - Femme et chevaux, Il n'y en a pas sans défauts.
+0928 - Femme et châtaigne, belle en dehors, en dedans la malice.
+0929 - Femme et dentelle, sont plus belles a la chandelle.
+0930 - Femme et draps, ne les achetez pas a la chandelle.
+0931 - Femme et gélines, par trop aller dehors s'égarent.
+0932 - Femme et lune, aujourd'hui sereines demain brunes.
+0933 - Femme et melon, a peine les connaît-on.
+0934 - Femme et mule par la douceur, âne et valet par la rigueur.
+0935 - Femme et niais ne pardonnent jamais.
+0936 - Femme et toile, ne les achète pas a la chandelle.
+0937 - Femme et toile, ne les regarde pas a la chandelle.
+0938 - Femme et vin enivrent les plus fins. 
+0939 - Femme et vin ont leur venin.
+0940 - Femme fait et défait la maison.
+0941 - Femme fait souvent la fâchée dans le but d'être caressée.
+0942 - Femme fardée n'a pas de durée.
+0943 - Femme fardée, pomme ridée et ciel pommelé, ne sont pas de longue durée.
+0944 - Femme fenêtrière n'est pas ménagère.
+0945 - Femme fenêtrière, champ au bord d'une rivière, vigne au bord d'un chemin, ont toujours eu mauvaise fin.
+0946 - Femme fenêtrière, champ sur rivière et vigne sur chemin, ont toujours mauvaise fin.
+0947 - Femme fenêtrière, femme fainéante.
+0948 - Femme fort belle, rude et rebelle.
+0949 - Femme gourmande, au bout de l'an mange son patrimoine.
+0950 - Femme grosse, un pied dans la fosse. 
+0951 - Femme ivrogneresse, de son corps n'est point maîtresse.
+0952 - Femme jolie et mari jaloux n'ont pas de repos.
+0953 - Femme jolie, miroir de fou.
+0954 - Femme laide, bien gardée.
+0955 - Femme lécheresse ne fera jamais porée épaisse.
+0956 - Femme lécheresse ne fera tôt porée épaisse.
+0957 - Femme mariée qui va coquettement parée, mérite d'être huée.
+0958 - Femme muette n'a jamais été battue.
+0959 - Femme muette n'est jamais battue.
+0960 - Femme muette ne fut jamais battue.
+0961 - Femme ménagère vaut un trésor.
+0962 - Femme mûre attend aventure.
+0963 - Femme ne veut être tenue en cage.
+0964 - Femme oiseuse ne peut pas être vertueuse.
+0965 - Femme orgueilleuse se difforme en délaissant sa propre forme.
+0966 - Femme parlant latin, enfant nourri de vin, ne font pas bonne fin.
+0967 - Femme prudente et sage, est l'ornement du ménage.
+0968 - Femme près de la fenêtre, champ près d'une rivière, vigne près d'un chemin, ont toujours fait de mauvais résultats.
+0969 - Femme qui a mauvais mari, a bien souvent le coeur marri.
+0970 - Femme qui a un bon mari, au visage ou a la porte c'est écrit.
+0971 - Femme qui aime faire des gâteaux, au bout de l'an mange sa dot.
+0972 - Femme qui aime la galette, pauvre ménagère.
+0973 - Femme qui aime vin rouge et vin blanc aura les joues riches de sang, mais ses affaires iront pauvrement.
+0974 - Femme qui boit du vin, fille qui parle latin, vont le plus souvent a mauvaise fin.
+0975 - Femme qui chez soi ne fait rien, en d'autres lieux ne fait pas bien.
+0976 - Femme qui envie peu file porte chemise vile.
+0977 - Femme qui fait des galettes, au bout de l'an mange sa dot.
+0978 - Femme qui fait des galettes, pauvre ménagère.
+0979 - Femme qui fait des gâteaux, fille qui rit trop, vigne près d'un chemin, rarement font bonne fin.
+0980 - Femme qui file peu a toujours mauvaise chemise.
+0981 - Femme qui moult se mire peu file.
+0982 - Femme qui n'en a pas besoin ne doit pas sortir dans la rue.
+0983 - Femme qui n'est fidèle n'a pas long cours.
+0984 - Femme qui ne mange pas avec vous mange ensuite plus que deux.
+0985 - Femme qui ne mange pas, la boisson la soutient.
+0986 - Femme qui ne mange pas, le boire la soutient.
+0987 - Femme qui ne sait coudre, maison loqueteuse.
+0988 - Femme qui parle latin, je ne la veux pas pour moi.
+0989 - Femme qui parle pointu est toute venin.
+0990 - Femme qui parlemente, a demi consent.
+0991 - Femme qui perd honneur et honte, ne sera jamais d'estime ni de compte.
+0992 - Femme qui peu file, porte chemise vile.
+0993 - Femme qui pince ses lèvres est toute venin.
+0994 - Femme qui prend elle se vend, femme qui donne s'abandonne.
+0995 - Femme qui prend se rend, donne s'abandonne.
+0996 - Femme qui rit facilement pleure facilement.
+0997 - Femme qui rit, bientôt dans ton lit.
+0998 - Femme qui se meurt d'amour, c'est chercher la lune en plein jour.
+0999 - Femme qui se pare, au bout de l'an mange sa dot.
+1000 - Femme qui ses lèvres mord et par la rue son aller tord, elle montre qu'elle est du métier ord où ses manières lui font tort.
+1001 - Femme qui siffle et poule qui contrefait le coq, sont préludes de catastrophe.
+1002 - Femme qui siffle et poule qui fait le coq, sont préludes de grands maux.
+1003 - Femme qui siffle, homme qui tâte les poules, poule qui chante le coq, c'est trois bêtes de trop.
+1004 - Femme qui tourtelle, femme qui beignetelle, femme qui bricelle, amène a pauvreté sa maison.
+1005 - Femme qui trompe son mari fait jurer a l'amant de ne pas la trahir.
+1006 - Femme qui écoute et ville qui parlemente sont bientôt prises.
+1007 - Femme riche est vite consolée.
+1008 - Femme safre et ivrogneresse, de son corps n'est pas maîtresse.
+1009 - Femme sage et de façon, de peu remplit sa maison.
+1010 - Femme sage reste a la maison.
+1011 - Femme sage reste a son ménage.
+1012 - Femme sait un art avant le diable.
+1013 - Femme sale a tôt trouvé de l'eau.
+1014 - Femme sans rime ni raison, chasse l'homme de sa maison.
+1015 - Femme sans soin et sans souci ne vaut pas sous six.
+1016 - Femme sans vice, curé sans caprice et meunier fidèle, c'est trois miracles du ciel.
+1017 - Femme se plaint, femme geint, est malade quand il lui plaît.
+1018 - Femme se plaint, femme gémit, est malade quand il lui plaît.
+1019 - Femme se plaint, femme s'afflige, femme est malade quand elle veut.
+1020 - Femme se plaint, femme se deut, femme est malade quand elle veut.
+1021 - Femme sotte se connaît a la cotte.
+1022 - Femme sotte se connaît a la toque.
+1023 - Femme sotte, se connaît a la cotte. 
+1024 - Femme tentée et femme vaincue, c'est tout un.
+1025 - Femme toute par elle fait tout, deux font peu et puis trois rien. 
+1026 - Femme travailleuse, homme content.
+1027 - Femme travailleuse, homme heureux.
+1028 - Femme trop piteuse fait souvent fille teigneuse.
+1029 - Femme trop piteuse fait souvent sa fille teigneuse.
+1030 - Femme trop piteuse, rend sa fille teigneuse.
+1031 - Femme vaillante, maison d'or.
+1032 - Femme veut en toute saison être maîtresse en sa maison.
+1033 - Femme veut en toute saison, être dame en sa maison.
+1034 - Femme a bague, promise ou mariée.
+1035 - Femme a la fenêtre, terre a côté du pont, vigne près du chemin, n'ont jamais fait bonne fin.
+1036 - Femme économe est un trésor, femme alerte vaut son pesant d'or.
+1037 - Femme économe fait la maison bonne.
+1038 - Femme, de riche vêtement parée, a un fumier est comparée, qui devers fait sa couverture, au découvrir apert l'ordure.
+1039 - Femme, fumée et tuile non entière, chassent l'homme de sa maison arrière.
+1040 - Femme, lit, argent et vin, ont leur poison et venin.
+1041 - Femme, livre et cheval ne se prêtent pas.
+1042 - Femme, lune et vent, changent souvent.
+1043 - Femme, roue et poulie grognent si on ne les oint pas.
+1044 - Femmes et châtaignes, belles en-dehors et dedans la malice.
+1045 - Femmes et ânes, ruine des maisons.
+1046 - Femmes sont comme le temps, après la pluie le beau temps.
+1047 - Femmes sont a l'église saintes, ès rues anges, en la maison diablesses, crapauds aux fenêtres, pieds a la porte, aux jardins chèvres.
+1048 - Femmes, enfants, fols et malades, affectent ce que leur est nuisible.
+1049 - Femmes, roues et poulies mal graissées sont criardes.
+1050 - Fendre un cheveu en quatre 
+1051 - Fends du sapin, tu auras de la résine aux mains.
+1052 - Ferrer la mule. 
+1053 - Feu bien couvert, par sa cendre est entretenu.
+1054 - Feu d'amour et bois vert, mettent la maison a l'envers.
+1055 - Feu d'amour et feu de bois vert, mettent la maison a l'envers.
+1056 - Feu d'étoupes et feu d'étraint, bientôt épris, a coup éteint.
+1057 - Feu qui brûle n'a pas besoin d'être soufflé.
+1058 - Feu sans creux, gâteau sans mioche et bourse sans argent, ne vaillent pas grassement.
+1059 - Feu sans fosse, homme sans argent, ne valent grassement.
+1060 - Feu, argent, sagesse et santé, sont en prix hiver et été.
+1061 - Feu, fèvres, argent et bois, sont bons en tous mois.
+1062 - Fèves et haricots font plus de pets que de rots.
+1063 - Fèves manger fait gros songer.
+1064 - Février l'ânelier.
+1065 - Février le court, le pire de tout.
+1066 - Fête n'est que de vieux chapons, comme disent tous bons fripons.
+1067 - Fête passée, saint oublié.
+1068 - Fi d'argent qui n'a joie.
+1069 - Fi de jeunesse et de beauté, où il n'y a humilité.
+1070 - Fi de l'art qui en raison n'a fondement ni part.
+1071 - Fi de la pute médecine, qui l'homme a la mort enchemine.
+1072 - Fi de manteau quand il fait beau.
+1073 - Fi de richesse qui n'a joie.
+1074 - Fi de richesse, d'état, d'argent et d'or, qui de vertu n'aime le trésor.
+1075 - Fie-toi au diable, il te prendra.
+1076 - Fie-toi de tous et donne-toi garde de tous.
+1077 - Fiente de chien et marc d'argent, seront tout un au jour du jugement.
+1078 - Fier comme un Écossais, fier comme artaban. 
+1079 - Fier n'a que perdre.
+1080 - Fierté sans beauté c'est un tronc habillé.
+1081 - Figues de chat et marc d'argent, seront tout un au jugement.
+1082 - Fille aimant silence a grande science.
+1083 - Fille attifée, moitie mariée.
+1084 - Fille bien ajustée, a demi mariée.
+1085 - Fille bonne a marier, est difficile a garder.
+1086 - Fille brunette est de nature gaie et nette.
+1087 - Fille brunette, de nature gaie et nette.
+1088 - Fille cachée est recherchée.
+1089 - Fille comme elle est élevée, étoupe comme elle est filée.
+1090 - Fille comme on l'a élevée, étoupe comme on l'a filée.
+1091 - Fille coureuse et fenêtrière, rarement bonne ménagère.
+1092 - Fille coureuse et souvent a la fenêtre est rarement bonne ménagère.
+1093 - Fille d'auberge et cochon de meunier, laisse-les a qui les a élevés.
+1094 - Fille d'auberge et figue de chemin, si elles ne sont touchées aujourd'hui, le seront demain.
+1095 - Fille d'auberge et figues de chemin, si elles ne sont pas touchées le soir, le sont le matin.
+1096 - Fille d'aubergiste et figue de chemin, si elles ne sont pas goûtées a la vesprée sont mauvaises le matin.
+1097 - Fille d'aubergiste et figue qui se trouve dans un carrefour mûrissent avant la saison.
+1098 - Fille d'aubergiste et poire de carrefour mûrissent avant la saison.
+1099 - Fille d'hôte et figue de canton sont plus mûres que de saison.
+1100 - Fille d'hôte et figue de chemin, si elles ne sont touchées le soir le sont le matin.
+1101 - Fille d'hôtelier et figue de coin mûrissent avant la saison.
+1102 - Fille de bonne façon, fait plaisir et avec raison.
+1103 - Fille de bonne maison, a la chemise plus longue que le jupon.
+1104 - Fille effrontée ne vaut pas un brin de menthe.
+1105 - Fille est comme la rose, elle est belle quand elle est éclose.
+1106 - Fille et escabelle, a cinquante ans se démantibulent.
+1107 - Fille et gobelet sont toujours en danger.
+1108 - Fille et verre sont toujours en danger.
+1109 - Fille fais-toi des frisettes, sinon tu resteras seulette.
+1110 - Fille fenêtrière et trottière, rarement bonne ménagère.
+1111 - Fille fenêtrière, femme qui sait latin, prêtre qui danse, ne vont jamais a bonne fin.
+1112 - Fille fenêtrière, rarement ménagère.
+1113 - Fille fiancée n'est pas mariée, car tel fiance qui n'épouse pas.
+1114 - Fille fiancée n'est pas mariée.
+1115 - Fille fiancée n'est prise ni laissée.
+1116 - Fille gracieuse est toujours jolie.
+1117 - Fille honnête et bien morigénée, est assez riche et bien dotée.
+1118 - Fille honnête et morigénée est assez riche et bien dotée.
+1119 - Fille jolie sans habits, plus courtisée que mariée.
+1120 - Fille jolie sans habits, plus de galants que de maris.
+1121 - Fille jolie, miroir de fou.
+1122 - Fille laide, beaucoup de toilette.
+1123 - Fille laide, bien parée.
+1124 - Fille maigre avec grosse dot plaît a chaque jeune homme.
+1125 - Fille maigre et dot grasse, a chaque jeune homme plaît.
+1126 - Fille mariée, quarante gendres dans la soirée.
+1127 - Fille mûre porte l'enfant a sa ceinture.
+1128 - Fille ne doit être trop nue, non plus que robe trop vêtue.
+1129 - Fille ni prêtre ne savent où ils ont leur pain.
+1130 - Fille oiseuse, rarement vertueuse.
+1131 - Fille oisive a mal pensive, trop en rue tôt perdue.
+1132 - Fille oisive, a mal pensive.
+1133 - Fille ou poule trop en rue, tôt égarée ou perdue.
+1134 - Fille pleure souvent son rire d'il y a un an.
+1135 - Fille pour son honneur garder, ne doit prendre ni donner.
+1136 - Fille promise n'est point prise.
+1137 - Fille pâle demande le mâle.
+1138 - Fille pâle, garçon jaune de teint, du mariage ont grand besoin.
+1139 - Fille qui accepte des cadeaux se vend.
+1140 - Fille qui agrée est a demi-mariée.
+1141 - Fille qui coure, table qui branle et femme qui parle latin, feront toujours triste fin.
+1142 - Fille qui donne s'abandonne.
+1143 - Fille qui plaît est a demi-mariée.
+1144 - Fille qui plaît est a moitié mariée.
+1145 - Fille qui plaît, a moitié mariée.
+1146 - Fille qui prend elle se vend, fille qui demande est perdue.
+1147 - Fille qui prend se vend ou se rend.
+1148 - Fille qui prend se vend, fille qui donne s'abandonne.
+1149 - Fille qui prend se vend.
+1150 - Fille qui prend, elle se vend, fille qui donne elle s'abandonne.
+1151 - Fille qui reçoit des cadeaux, ou se rend ou se vend.
+1152 - Fille qui rit, tôt pleurera.
+1153 - Fille qui se promène, table qui tremble, femme qui parle latin, auront une triste fin.
+1154 - Fille qui siffle et coq qui pond, seront chassés hors du pays.
+1155 - Fille qui siffle et poule qui chante le coq, méritent d'avoir le cou coupé.
+1156 - Fille qui siffle ou poule qui chante le coq, annoncent un malheur.
+1157 - Fille qui siffle, coq qui pond, portent malheur a une maison.
+1158 - Fille qui siffle, le diable l'écoute.
+1159 - Fille qui siffle, poule qui chante le coq, curé qui danse, sont trois diables ensemble.
+1160 - Fille qui siffle, poule qui saute, eau qui danse, ne valent rien.
+1161 - Fille qui siffle, tords-lui le cou.
+1162 - Fille qui siffle, vache qui beugle comme un taureau, poule qui chante le coq, sont trois bêtes qui méritent la mort.
+1163 - Fille qui siffle, vache qui beugle, poule qui chante le coq, c'est trois bêtes de trop.
+1164 - Fille qui siffle, vache qui beugle, poule qui chante le coq, sont trois bêtes de trop.
+1165 - Fille qui trop se mire peu file.
+1166 - Fille qui veut être prise, ni vue ni visitée.
+1167 - Fille qui veux être prise, ne sois ni trop vue ni trop visitée.
+1168 - Fille qui écoute est bientôt dessous.
+1169 - Fille qui écoute est vite dessous.
+1170 - Fille qui écoute et ville qui parlemente, c'est signe qu'elle se veut rendre.
+1171 - Fille qui écoute, ville qui parlemente, sont bientôt prises.
+1172 - Fille recherchée, fille mal placée.
+1173 - Fille requise est souvent mal mise.
+1174 - Fille riche et jolie, pas plutôt nubile est mariée.
+1175 - Fille sans bonne renommée, paysan sans ferme.
+1176 - Fille sans crainte ne vaut pas un brin de menthe.
+1177 - Fille sans crainte ne vaut rien.
+1178 - Fille sans galant, porc sans glands.
+1179 - Fille sans pudeur ne vaut pas un brin d'herbe.
+1180 - Fille telle comme est élevée et étoupe comme elle est filée.
+1181 - Fille trop en rue, en peu tenue.
+1182 - Fille trop nue, robe trop vêtue, n'est jamais chère tenue.
+1183 - Fille trop nue, robe trop vêtue, n'est pas chère tenue.
+1184 - Fille trotteuse et fenêtrière, rarement bonne ménagère.
+1185 - Fille a marier, cheval a vendre.
+1186 - Fille a se parer, jeune a jouer et banqueter et vieillard a boire, dépensent leur avoir.
+1187 - Fille, fais-toi des frisettes, sinon tu resteras seulette.
+1188 - Fille, lentille et pain chaud, sont la ruine de la maison.
+1189 - Fille, lentille, pain chaud, sont la ruine de la maison.
+1190 - Fille, vigne, poirier et champ de fèves, se gardent difficilement.
+1191 - Filles d'hôte et figues de chemin, si elles ne sont goûtées le soir, le sont le matin.
+1192 - Filles d'hôtes et figues de chemin, sont cueillies soir ou matin.
+1193 - Filles d'hôtes et poires de carrefour sont précoces.
+1194 - Filles et verres, toujours en danger.
+1195 - Filles et épingles sont a qui les trouve.
+1196 - Filles sottes a marier, sont pénibles a bien garder.
+1197 - Filles verrières et verres, sont toujours en grands dangers.
+1198 - Filles a marier, méchant troupeau a garder.
+1199 - Filles a marier, troupeau difficile a garder.
+1200 - Filles, vignes, sont malaisées a garder. Sans cesse quelqu'un passe qui voudrait y goûter.
+1201 - Fin comme l'ambre 
+1202 - Fin comme une dague de plomb. 
+1203 - Fin contre fin fait pas bonne doublure.
+1204 - Fin contre fin ne vaut rien pour de la doublure.
+1205 - Fin a quinze ans, fou a cinquante.
+1206 - Finesse gagne au jeu.
+1207 - Finesse n'est qu'en femme ne soit.
+1208 - Fini de manger, le feu, le lit et le pain.
+1209 - Fièvre de nerfs ne veut ni docteur ni médecine.
+1210 - Flatte un loup, il te veut mordre. Fous-lui un coup de pied au cul, il te veut lécher.
+1211 - Flatteur et ensemble vrai ami, est incompatible par tout pays.
+1212 - Fleur a son côté, amant vite trouvé.
+1213 - Fleurer comme baume. 
+1214 - Fleurs de mars, peu de fruits l'on mangera.
+1215 - Foi de femme est une plume sur l'eau.
+1216 - Foi de femme, plume sur l'eau.
+1217 - Fol devise et Dieu départ.
+1218 - Fol est celui qui croit trop de léger.
+1219 - Fol est celui qui dit du mal des absents.
+1220 - Fol est et hors du sens, qui femme prend pour son argent.
+1221 - Fol est le marchand qui déprise sa denrée.
+1222 - Fol est le prêtre qui blâme ses reliques.
+1223 - Fol est qui cherche ce que ne se peut trouver.
+1224 - Fol est qui cherche son propre dommage.
+1225 - Fol est qui conseil ne croit.
+1226 - Fol est qui d'autrui médit, s'il ne regarde a soi.
+1227 - Fol est qui dépense plus que sa rente ne vaut.
+1228 - Fol est qui est bien et se bouge.
+1229 - Fol est qui est a cheval, éperonne et dit haie.
+1230 - Fol est qui est a table et n'ose manger.
+1231 - Fol est qui fait de son poing un coin.
+1232 - Fol est qui folâtre et folie.
+1233 - Fol est qui jette a ses pieds ce qu'il tient en ses mains.
+1234 - Fol est qui perd la chair pour les os.
+1235 - Fol est qui plus dépense que sa terre ne vaut.
+1236 - Fol est qui pour le bond perd la volée.
+1237 - Fol est qui pour le futur donne le présent.
+1238 - Fol est qui pour néant se peine.
+1239 - Fol est qui quiert meilleur pain que de froment.
+1240 - Fol est qui s'enivre de sa propre bouteille.
+1241 - Fol est qui s'oublie.
+1242 - Fol est qui se coupe de son propre couteau.
+1243 - Fol est qui se couvre d'un sac mouillé.
+1244 - Fol est qui se fait brebis entre les loups.
+1245 - Fol est qui se fie en eau endormie.
+1246 - Fol est qui se marie a femme étourdie.
+1247 - Fol est qui son bien ne pourchasse.
+1248 - Fol est tenu par tout l'empire, qui a le choix et prend le pire.
+1249 - Fol et félon ne peuvent avoir paix.
+1250 - Fol n'est jamais sans peine.
+1251 - Fol n'est point sage s'il ne reçoit.
+1252 - Fol ne croit jusqu'a tant qu'il reçoit.
+1253 - Fol ne croit jusques a tant qu'il reçoit.
+1254 - Fol ne croit s'il ne reçoit.
+1255 - Fol ne croit tant qu'il reçoit.
+1256 - Fol ne voit en sa folie que sens.
+1257 - Fol prise autant l'huile que le fin baume
+1258 - Fol qui n'estime son ennemi, tant soit mesquin ou petit.
+1259 - Fol qui ne croit jusqu'il prend.
+1260 - Fol semble sage quand il se tait.
+1261 - Folie est d'acheter chat en poche.
+1262 - Folie est d'acheter chat en sac.
+1263 - Folie est de mettre la charrue devant les boeufs.
+1264 - Folie est mettre la charrue devant les boeufs.
+1265 - Folie faire et folie connaître, ce sont deux paires de folies.
+1266 - Folie faire et folie reconnaître, sont deux paires de folies.
+1267 - Folie faite et folie reconnue sont deux folies.
+1268 - Folle espérance déçoit l'homme.
+1269 - Folle est la quérimonie qui est contre le temps.
+1270 - Folle et simple est la brebis qui au loup se confesse.
+1271 - Folle femme n'aime que pour pâture.
+1272 - Folles amours font les gens bêtes.
+1273 - Folles femmes n'aiment que pour pâture.
+1274 - Fonder sur la glace d'une nuit.
+1275 - Fontaine, je ne boirai de ton eau.
+1276 - Fontaine, je ne veux jamais boire de ton eau.
+1277 - Force d'argent porte partie.
+1278 - Force diminue la crainte
+1279 - Force fait loi. 
+1280 - Force n'est pas droit.
+1281 - Force passe droit.
+1282 - Force restes de velours, peu de demoiselles.
+1283 - Forces, peines et peu de gain, mettent tôt l'homme en mauvais train.
+1284 - Fort contre fort.
+1285 - Fort est qui abat et plus fort est qui se relève
+1286 - Fort est qui abat, plus fort est qui se relève.
+1287 - Fort vin émeut souvent grande tempête.
+1288 - Fort a la table, lâche a l'ouvrage.
+1289 - Fortune aide aux vaillantes gens.
+1290 - Fortune aveugle suit aveugle hardiesse.
+1291 - Fortune est une nourrice de folie.
+1292 - Fortune fait d'un petit un grand et a coup le dévêt en blanc.
+1293 - Fortune la féconde est facile a trouver et difficile a retenir et garder.
+1294 - Fortune n'avance tant personne que bon conseil et vraie conduite.
+1295 - Fortune n'est jamais en repos, happe qui peut.
+1296 - Fortune ne vient pas seule.
+1297 - Fortune ne vient seule.
+1298 - Fortune peut aider aux fols.
+1299 - Fortune peut touloir la richesse, non la vertu ni la sagesse.
+1300 - Fortune soudainement l'homme monte et puis a coup le renverse et démonte.
+1301 - Fortune tourne en petite heure.
+1302 - Fortune varie comme la lune, aujourd'hui seraine demain brune.
+1303 - Fortune, or claire or brune, ne vient sans autre aucune.
+1304 - Fou ne croit qu'il n'ait appris.
+1305 - Fou ne croit qu'il n'ait pris.
+1306 - Fou ne croit s'il ne reçoit.
+1307 - Fou qui cherche meilleur pain que de froment.
+1308 - Fougère de printemps, temps d'automne.
+1309 - Francs sont moult gentilshommes.
+1310 - Fraîche farine et puis chaud pain, ruinent une maison.
+1311 - Frire la vermine de la pauvreté sur le poêlon de l'amour.
+1312 - Frire la vermine de pauvreté dans le bassin de l'amour.
+1313 - Froides mains, chaudes amours.
+1314 - Fromage et melon, au poids les prend-on.
+1315 - Fromage et pain est médecine au sain.
+1316 - Frotter et laver, cela ne remplit pas les poches.
+1317 - Frottez les bottes a un vilain, il dira que vous les avez brûlées.
+1318 - Frottez une bourrique, elle vous fera des pets.
+1319 - Fruit tôt mûri, bien tôt pourri
+1320 - Fuir le vice est le commencement de la vertu.
+1321 - Fuir quelqu'un comme une brebis galeuse. 
+1322 - Fuis haine, courroux et mensonge.
+1323 - Fuis le vin et le sexe féminin.
+1324 - Fuis loger a qui reçoit mauvais hôte.
+1325 - Fuis mélancolie, tristesse et folie.
+1326 - Fuis paresse, avarice et orgueil.
+1327 - Fuis querelles, noises, procès et altercations.
+1328 - Fumée, pluie et femme sans raison, chassent l'homme de sa maison.
+1329 - Fuyant le loup, il a rencontré la louve.

@@ -1,0 +1,1504 @@
+0001 - J'ai chassé les oiseaux et tu les as pris.
+0002 - J'ai des garçons, surveille tes filles.
+0003 - J'ai fait lever les oiseaux de dedans le buisson et un autre les a pris.
+0004 - J'ai l'habitude de me taire sur ce que l'ignore.
+0005 - J'ai trouvé un homme entre mille, mais je n'ai pas trouvé une femme dans le même nombre.
+0006 - J'ai vu sous le soleil que la faveur n'appartient pas aux savants.
+0007 - J'ai vu sous le soleil que la richesse n'appartient pas aux intelligents.
+0008 - J'aime mieux ceux qui rendent le vice aimable que ceux qui dégradent la vertu.
+0009 - J'aime mieux le croire que d'y aller voir. 
+0010 - J'aime mieux me battre avec n'importe qui, qu'avec la faim.
+0011 - J'aime mieux un bien présent qu'un meilleur qui est à venir et gît en espérance.
+0012 - J'aime mieux un homme sans argent que de l'argent et point d'homme.
+0013 - J'aime mieux un raisin pour moi que deux figues pour toi.
+0014 - J'aime mieux un tiens que deux tu l'auras.
+0015 - J'aime mieux un vice commode, qu'une fatigante vertu.
+0016 - J'aime mieux une prune pour moi, même si elle n'est pas mûre qu'une poire d'hiver pour toi.
+0017 - J'aime mieux être appelée femme de bien que femme riche.
+0018 - J'aimerais mieux devenir fou que sensible.
+0019 - J'aimerais mieux garder cent moutons près d'un blé qu'une fillette dont le coeur a parlé.
+0020 - J'aimerais mieux que l'un me batît, que l’autre de ses dons me remplît.
+0021 - J'aimerais mieux être le premier dans un village que le second dans Rome.
+0022 - J'eus de l'amour pour notre vieille et je la pris pour une jeune pucelle.
+0023 - Jamais teigneux n'aimera peigne.
+0024 - Jalousie dépasse sorcellerie.
+0025 - Jalousie est pire que sorcellerie.
+0026 - Jalousie passe rage et pleine folie.
+0027 - Jalousie passe sorcellerie.
+0028 - Jamais amoureux timide n'eut belle amie.
+0029 - Jamais année sèche ne fait pauvre son maître.
+0030 - Jamais aveugle n'a eu trouvé un fer.
+0031 - Jamais beau parler n'écorche la langue. 
+0032 - Jamais beauté ne sait chanter.
+0033 - Jamais bien menacé ne fut bien battu.
+0034 - Jamais bon boeuf n'a ruminé à la charrue.
+0035 - Jamais bon cheval ne devient rosse.
+0036 - Jamais bon cheval ne devint rosse.
+0037 - Jamais bon chien n'a rogné un bon os.
+0038 - Jamais bon chien ne jappe pour rien.
+0039 - Jamais bon chien ne perdit sa route.
+0040 - Jamais bon coq n'a été gras.
+0041 - Jamais bon gourmand n'a trouvé mauvais hareng.
+0042 - Jamais bon goût n'a gâté sauce.
+0043 - Jamais bon os ne vient à bon chien.
+0044 - Jamais buse n'a fait pigeon.
+0045 - Jamais boeuf à cornes courbées n'a rien laissé perdre à son maître.
+0046 - Jamais bâtard ne fit bien.
+0047 - Jamais carron n'a été rond.
+0048 - Jamais chapon n'aima poule.
+0049 - Jamais charogne a fait crever bétail.
+0050 - Jamais charogne n'a empoisonné loup.
+0051 - Jamais charogne n’a fait crever bétail.
+0052 - Jamais chat miauleur n'a été bon chasseur.
+0053 - Jamais chat miauleur ne fut bon chasseur.
+0054 - Jamais chat miauleur ne fut bon chasseur non plus que grand homme bon caqueteur.
+0055 - Jamais cheval bien menacé ne fut bien battu.
+0056 - Jamais cheval jarreté n'est resté embourbé.
+0057 - Jamais cheval ni bonhomme, n'amende d'aller à Rome.
+0058 - Jamais cheval à bon jarret n'a laissé son maître dans le bourbier.
+0059 - Jamais cheval à queue de rat ne laissa son maître dans l'embarras.
+0060 - Jamais chiche ne fut riche.
+0061 - Jamais chien couard ne rongea bon os.
+0062 - Jamais coquin n'a fait grande guerre.
+0063 - Jamais corbeau n'a fait canaris.
+0064 - Jamais couard n'érigera trophée ni paresseux fera belle levée.
+0065 - Jamais coup de pied de jument ne fit mal à cheval. 
+0066 - Jamais de veuve sans conseil ni de samedi sans soleil.
+0067 - Jamais deux montagnes ne se rencontrent.
+0068 - Jamais deux orgueilleux ne chevaucheront bien un âne.
+0069 - Jamais dormeur ne fait bon guet.
+0070 - Jamais dormeur ne fit bon guet.
+0071 - Jamais femme muette n'a été battue par son mari.
+0072 - Jamais femme muette ne fut de son mari battue.
+0073 - Jamais femme ni cochon ne doit quitter la maison.
+0074 - Jamais femme sautière ne fut bonne ménagère.
+0075 - Jamais fille qui s'est fait trousser le cotillon n'a déshonoré une maison.
+0076 - Jamais fine femme ne mourut sans héritier.
+0077 - Jamais grain ne fructifie, si premier ne se mortifie.
+0078 - Jamais grand nez n'a diffamé beau visage.
+0079 - Jamais grand nez n'a déparé gâté beau visage. 
+0080 - Jamais grand vanteur n'a été grand faiseur.
+0081 - Jamais géline n'aima chapon.
+0082 - Jamais homme ne fut pauvre de louer maison.
+0083 - Jamais homme ne fut à priser, pour savoir autrui dépriser.
+0084 - Jamais homme ne gagne de plaider à son seigneur.
+0085 - Jamais homme ne gagne qui plaide à son maître.
+0086 - Jamais homme ne mange foie que le sien n'en ait joie.
+0087 - Jamais homme sage et discret, ne révèle à femme son secret.
+0088 - Jamais honteux n'eut belle amie.
+0089 - Jamais insulain ne prend pour compagnon, car mieux vaut moult lointain que trop prochain.
+0090 - Jamais ivrogne n'a connu le bon vin.
+0091 - Jamais je n'ai vu le juste abandonné, ni sa postérité mendiant son pain.
+0092 - Jamais jument ne fit mal de coup de pied à roussin.
+0093 - Jamais l'homme ne peut être riche, si son coeur en richesse fiche.
+0094 - Jamais l'homme sage et discret ne dit à sa femme son secret.
+0095 - Jamais la colère n'a bien conseillé.
+0096 - Jamais la cornemuse ne dit mot si elle n'a le ventre plein.
+0097 - Jamais la nature n'eut un langage et la philosophie un autre.
+0098 - Jamais la nature ne nous trompe, c'est toujours nous qui nous trompons.
+0099 - Jamais la nymphe Calypso ne réussit à persuader Ulysse.
+0100 - Jamais la souris ne confie à un seul trou sa destinée.
+0101 - Jamais les menaces d'un père ne s'accomplissent.
+0102 - Jamais les poux ne crèveront.
+0103 - Jamais lessive ne s'est faite qui ne soit séchée.
+0104 - Jamais louve ne fit d'agneau.
+0105 - Jamais maison n'a bien marché où les femmes ont gouverné.
+0106 - Jamais mal acquit ne profite.
+0107 - Jamais mal plus dangereux n'a rendu son monde si joyeux.
+0108 - Jamais mauvais ouvrier n'a eu bon outil.
+0109 - Jamais mauvais ouvrier n'a trouvé de bon aise.
+0110 - Jamais mauvais ouvrier ne trouve bon outil.
+0111 - Jamais n'a-t-il bon marché qui ne l'ose demander.
+0112 - Jamais n'aura bon marché qui ne l'ose demander.
+0113 - Jamais n'aura bon serviteur qui ne le nourrit.
+0114 - Jamais n'est bon marché de fausse marchandise.
+0115 - Jamais n'est misérable l'être qui accepte facilement la mort.
+0116 - Jamais n'est vice de se bien taire si de parler n'est nécessaire.
+0117 - Jamais ne fut de grand esprit qui n'eût de folie un petit.
+0118 - Jamais ne fut ni fera qu'une souris fasse son nid en l'oreille d'un chat.
+0119 - Jamais ne fut si beau soulier qui ne devient laide savatte.
+0120 - Jamais ne gagne qui procède à son maître.
+0121 - Jamais ne parlai de lui, sinon en tout honneur.
+0122 - Jamais ne serait médisant, s'il n'était nul écoute.
+0123 - Jamais ne vienne demain, n'apporte son pain.
+0124 - Jamais ne vienne demain, s'il n'apporte son pain.
+0125 - Jamais ne vienne demain, s'il ne rapporte du pain.
+0126 - Jamais ne vient une malheureté sans ajournement d'autre adversité.
+0127 - Jamais on a bon marché de méchantes denrées.
+0128 - Jamais on ne surmonte un péril sans péril.
+0129 - Jamais paresseux n'a eu bon temps.
+0130 - Jamais paresseux n'a eu grande écuelle.
+0131 - Jamais pauvre ne s'est marié.
+0132 - Jamais personne n'a trompé tout le monde, et jamais tout le monde n'a trompé personne.
+0133 - Jamais peureux n'a eu belle amie.
+0134 - Jamais pour longue demeurée n'est bon amour oublié.
+0135 - Jamais putain n'aima preud'homme.
+0136 - Jamais renard n'eut gorge emplumée, pour dormir grasse matinée.
+0137 - Jamais riche ne sera, qui l'autrui avec le sien ne mettra.
+0138 - Jamais safran n'a gâté sauce.
+0139 - Jamais sage homme ne vit buveur de vin sans appétit.
+0140 - Jamais sage homme on ne vit, buveur de vin sans appétit.
+0141 - Jamais sautier ne fut bon écolier.
+0142 - Jamais surintendant ne trouva de cruelles.
+0143 - Jamais teigneux n'aima le peigne.
+0144 - Jamais teigneux n'aimera peigne.
+0145 - Jamais un envieux ne pardonne au mérite.
+0146 - Jamais un homme ne mange foie que le sien en ait joie.
+0147 - Jamais une fortune ne vient seule.
+0148 - Jamais une maison n'a bien marché quand les femmes ont gouverné.
+0149 - Jamais vassal ne gagne à plaider à son seigneur.
+0150 - Jamais vendeur ne décrie sa bête.
+0151 - Jamais vertu ne fastidie et n'ennuie ni beauté assouvit.
+0152 - Jamais veuve sans conseil ni samedi sans soleil.
+0153 - Jamais vieil singe ne fait belle moue. 
+0154 - Jamais vieille femme ni grand vent n'ont couru pour rien.
+0155 - Jamais vieux singe ne fit belle moue.
+0156 - Jamais vilain n'aima noblesse.
+0157 - Jamais vin blanc ne fut vert.
+0158 - Jamais à un bon chien il ne vient un bon os. 
+0159 - Jamais étoupe ne fait bonne chemise.
+0160 - Jamais, homme sage et discret, ne révèle à femme son secret.
+0161 - Jambon et vin d'une année et ami d'une siéclée.
+0162 - Jambon passant un an n'est jamais bon, mais l'ami d'une siéclée est très bon.
+0163 - Janvier et février, comblent ou vident le grenier, février le court est le pire de tout.
+0164 - Janvier froid ou tempéré, passe-le bien couvert.
+0165 - Janvier, la vieille dans le foyer.
+0166 - Janvier, ne te glorifie pas pour tes beaux jours, car le février te suit de près.
+0167 - Je battrai le buisson, tu prendras les oiseaux.
+0168 - Je chie sur la moitié du monde et j'emmerde l'autre moitié, cela fait que tout le monde est emmerdé.
+0169 - Je conviendrais bien volontiers que les femmes nous sont supérieures, si cela pouvait les dissuader de se prétendre nos égales.
+0170 - Je crois afin de comprendre. 
+0171 - Je me presse de rire de tout, de peur d'être obligé d'en pleurer.
+0172 - Je me suis repenti d'avoir parlé, mais jamais de n'avoir pas parlé.
+0173 - Je mets la rage assûr au chien lequel je hais.
+0174 - Je n'ai pas d'ennemis quand ils sont malheureux.
+0175 - Je n'enseigne pas, je raconte.
+0176 - Je n'y doit point avoir d'appréhension à table, si le vin est bon.
+0177 - Je ne fais pas le bien que je veux, tandis que je fais le mal que je ne veux pas.
+0178 - Je ne regarde point la valeur du présent, mais le coeur qui le présente.
+0179 - Je ne suis jamais moins seul que dans la solitude.
+0180 - Je ne suis jamais plus occupé que quand je n'ai rien à faire.
+0181 - Je ne trouve rien si cher que ce qui m'est donné.
+0182 - Je plains l'homme accablé du poids de son loisir.
+0183 - Je préfère voir un homme rougir que le voir pâlir.
+0184 - Je suis homme et rien de ce qui est humain ne m'est étranger.
+0185 - Je suis riche des biens dont je sais me passer.
+0186 - Je suis si occupé aux affaires d'autrui, que je ne puis entendre aux miennes.
+0187 - Je suis un homme et je ne puis compter sur le jour qui doit suivre.
+0188 - Je veux cela, j'ordonne ainsi. Ma volonté, voilà ma raison.
+0189 - Je veux pas mettre mon cul à l'aise pour mettre ma bouche à la misère.
+0190 - Je vis celui qui avait dérobé des épingles fustigé, et celui qui avait
+0191 - volé le trésor, devenu bailli ou juge à la province.
+0192 - Je vis celui qui avait dérobé des épingles être fustigé, et celui qui avait volé le trésor devenir bailli.
+0193 - Jeter de l'huile sur le feu 
+0194 - Jeter des pierres dans le jardin de quelqu'un 
+0195 - Jeter le manche après la cognée 
+0196 - Jeter le mouchoir 
+0197 - Jeter sa langue aux chiens 
+0198 - Jeter son bien par les fenêtres 
+0199 - Jeter son bonnet par-dessus les moulins 
+0200 - Jette ton pain sur la surface des eaux, tu le retouveras dans la suite des jours.
+0201 - Jeune barbier vieil médecin, s'ils font outre ne vaillent pas un brin.
+0202 - Jeune brebis et vieux bélier ont vite fait un troupeau.
+0203 - Jeune cavalier, vieux piéton.
+0204 - Jeune chair et vieux poisson.
+0205 - Jeune charlatan, vieux médecin.
+0206 - Jeune chirurgien, vieux médecin, riche apothicaire.
+0207 - Jeune coeur est souvent volage, tant en ville comme en village.
+0208 - Jeune coeur n'a point de deuil.
+0209 - Jeune en sa croissance, a un loup en la panse.
+0210 - Jeune et jeune mariage de Dieu, jeune et vieux mariage du diable, vieux  et vieille mariage de rien.
+0211 - Jeune femme et bois vert mettent la maison à l'envers.
+0212 - Jeune femme et homme âgé, emplissent d'enfants le foyer.
+0213 - Jeune femme et pain chaud sont des ruine-outau.
+0214 - Jeune femme et vieux chevaux mènent l'homme au tombeau.
+0215 - Jeune femme à vieux mari, c'est noix dure à croc pourri.
+0216 - Jeune femme, bois vert et pain chaud, font la ruine de la maison.
+0217 - Jeune femme, bois vert et pain tendre, font bientôt maison à vendre.
+0218 - Jeune femme, pain frais et bois vert, sont la ruine de la maison.
+0219 - Jeune femme, pain tendre et bois vert mettent la maison à l'envers.
+0220 - Jeune femme, pain tendre et bois vert mettent une maison à l'envers.
+0221 - Jeune femme, pain tendre et bois vert, mettent la maison au désert.
+0222 - Jeune fille belle, tête étourdie.
+0223 - Jeune fille fenêtrière, ne sera pas bonne ménagère.
+0224 - Jeune fille légère, mariée sans attendre.
+0225 - Jeune fille qui mène la danse, une fois mariée a la contre-danse.
+0226 - Jeune fille qui ne danse pas ne se marie pas.
+0227 - Jeune fille qui se plaît à danser, une fois mariée a la contre-danse.
+0228 - Jeune fille toujours à la croisée n'est ni bois ni copeau.
+0229 - Jeune fille, pain frais et bois vert, mettent une ferme à désert.
+0230 - Jeune gars vieille guenon, mariage du démon.
+0231 - Jeune homme attifé est vite marie.
+0232 - Jeune homme dans sa croissance, a un loup dans sa panse.
+0233 - Jeune homme et vieille, le diable veille.
+0234 - Jeune qui trop veille, vieillard qui trop dort, vivre longtemps ne s'est jamais vu.
+0235 - Jeune sain, vieux démon.
+0236 - Jeunes filles, oies, cochons et veaux, à conduire vilaines bêtes.
+0237 - Jeunes gens ne songent que de se marier et maints mariés qu'à se démarier.
+0238 - Jeunes nous sautons, trop vieux nous ne pouvons courir.
+0239 - Jeunesse angélique fait vieil âge satanique.
+0240 - Jeunesse et adolescence ne sont qu'abus et ignorance.
+0241 - Jeunesse et folies sont deux mauvaises métairies.
+0242 - Jeunesse mal instruite, cité détruite.
+0243 - Jeunesse oiseuse, vieillesse disetteuse.
+0244 - Jeunesse pourrie, vieillesse pouilleuse.
+0245 - Jeunesse qui veille, vieillesse qui dort, sont bien près de la mort.
+0246 - Jeunesse rêve, vieillesse décompte. 
+0247 - Jeunesse, beauté de l'âme.
+0248 - Jeux de mains, jeu de vilain. 
+0249 - Jeûne fait vivre.
+0250 - Joie au coeur fait beau teint.
+0251 - Joie du courage donne beau teint au visage.
+0252 - Joie, ennui, mal comme le bien, à la face paraît et vient.
+0253 - Joindre les mains, c'est bien. Les ouvrir, c'est mieux.
+0254 - Joli au berceau, laid dans la rue.
+0255 - Joli au berceau, pas beau au mariage.
+0256 - Joli bébé devient laid en grandissant, vilain bébé devient joli en grandissant.
+0257 - Joli et gracieux, rend heureux.
+0258 - Joli vin, grand chanteur.
+0259 - Joli visage est de chaque jour.
+0260 - Jolie fille et mauvais drap trouvent toujours des accrochas.
+0261 - Jolie fille porte sur le front sa dot.
+0262 - Jolie fille sans habits, plus d'amoureux que de maris.
+0263 - Jolie fille sans habits, plus d'amoureux que de maris.Fille bien ajustée, à demi-mariée
+0264 - Jolie fille vaut une vigne.
+0265 - Jolie à l'extérieur, rien à l'intérieur.
+0266 - Jolies cloches et vilaines gens.
+0267 - Joncs marins en fleur, filles en chaleur.
+0268 - Jouer, gager, prêter, argent, font d'amitié écartement.
+0269 - Jouis du jour présent.
+0270 - Jour ouvrier gagne denier, jour fêté dépensier.
+0271 - Journellement et le plus souvent, en ma bourse n'y a point d'argent.
+0272 - Journée gagnée, journée dépensée et mangée.
+0273 - Joyeuse vie tue un homme.
+0274 - Joyeuse vie, père et mère oublie.
+0275 - Joyeux ne sait quel deuil ont les malheureux.
+0276 - Juge hâtif est périlleux.
+0277 - Juge l'oiseau à la plume et au chant, et au parler l'homme bon ou méchant.
+0278 - Juger de la pièce par l'échantillon. 
+0279 - Juges qui vont en biais sont dignes d'être jugés.
+0280 - Juillet, la faucille et le poignet.
+0281 - Jument ferrée glisse bien.
+0282 - Junon dissimule la colère qui l'enflamma contre son coupable époux.
+0283 - Jupe de lin, chemise de chanvre.
+0284 - Jusqu'aux genoux celui qui veut, plus en haut celui qui peut.
+0285 - Jusqu'aux genoux celui qui veut, à partir des genoux celui qui peut.
+0286 - Jusqu'à ce jour, ce n'est la mode que fille aille quérir garçon.
+0287 - Jusqu'à ce que les châtaigniers soient fleuris, ne sortez pas les couvertures des lits.
+0288 - Jusqu'à vingt-cinq ans, les enfants aiment leurs parents. A vingt-cinq ans, ils les jugent. Ensuite, ils leur pardonnent.
+0289 - Justice est la plus sûre garde du roi.
+0290 - Justice extrême est extrême injustice.
+0291 - Justice n'a lieu.
+0292 - Justice ploie, l'Église noie, le commun dévoie.
+0293 - Justice sur toutes vertus a le prix.
+0294 - Justice vaut mieux que force.
+0295 - L'abandon fait le larron.
+0296 - L'abattu veut toujours luire.
+0297 - L'abbé doit être un miroir.
+0298 - L'abbé ne vit que tant qu'il plaît aux moines.
+0299 - L'abeille est honorée parce qu'elle travaille non pour elle seule, mais pour tous.
+0300 - L'abeille est petite, mais son miel est la plus douce des douceurs.
+0301 - L'ablatif est un cas disolatif et le datif est partout optatif.
+0302 - L'aboi d'un viel chien doit-on croire.
+0303 - L'abondance des choses engendre ennui.
+0304 - L'abondance engendre la nausée.
+0305 - L'abondance satisfait l'appétit.
+0306 - L'absence d'un mois de mari sont cent ans à une femme de bien.
+0307 - L'absence diminue les médiocres passions et augmente les grandes, comme
+0308 - le vent éteint les bougies et allume le feu.
+0309 - L'absence est le plus grand des maux.
+0310 - L'absent ne sera pas héritier. 
+0311 - L'abus n'abolit pas l'usage.  
+0312 - L'abuseur sera abusé. 
+0313 - L'accessoire suit la nature du principal. 
+0314 - L'accoutumance de mal faire, rend l'homme cruel comme une bête.
+0315 - L'accusé innocent craint la Fortune et non pas les témoins.
+0316 - L'acte apparent prouve l'intention secrète. 
+0317 - L'adresse est faible en face de la nécessité.
+0318 - L'adulateur empoisonne les coeurs humains.
+0319 - L'adulateur est des humains empoisonneur.
+0320 - L'adulateur est vrai vorateur.
+0321 - L'adversité découvre du courage la qualité.
+0322 - L'adversité finit par atteindre celui qu'elle a parfois frôlé.
+0323 - L'affaire va mal quand la poule approche le coq.
+0324 - L'affection ou la haine change la justice de face.
+0325 - L'affirmation et l'opiniâtreté sont signes exprès de bêtise.
+0326 - L'affliction pour femme morte dure jusqu'à la porte.
+0327 - L'affliction pour une femme morte ne dure que jusqu'à la porte.
+0328 - L'agasse , c'est un bel oiseau, mais quand on le voit trop souvent il fatigue. 
+0329 - L'agasse est un bel oiseau, mais trop chanter ennuie. 
+0330 - L'agneau qui bêle perd une goulée, la chèvre broute dans ce temps.
+0331 - L'agneau qui se confesse au loup est fou.
+0332 - L'agneau sous la peau d'un renard a encore peur du loup.
+0333 - L'aigle d'une maison n'est qu'un sot dans une autre.
+0334 - L'aigle n'engendre pas la colombe.
+0335 - L'aigle ne chasse point aux mouches 
+0336 - L'aigle ne prend pas des mouches. 
+0337 - L'aigle seul a le droit de fixer le soleil.
+0338 - L'aigle, quand il est malheureux, appelle le hibou son frère.
+0339 - L'aiguille habille tout le monde et demeure elle-même toute nue.
+0340 - L'ail chasse les microbes.
+0341 - L'ail cru et le vin pur rendent la mort sûre.
+0342 - L'ail est l'épice du paysan.
+0343 - L'aimable répréhension sert au pécheur de guérison.
+0344 - L'air du matin vaut de l'or.
+0345 - L'air ne fais pas la chanson. 
+0346 - L'allaitement flétrit les femmes et l'accouchement les rétablit.
+0347 - L'amant ne connaît que son désir, il ne voit pas ce qu'il prend.
+0348 - L'amant sans fortune peut être aimable, mais il ne peut être heureux.
+0349 - L'ambitieux est parangonné au paon.
+0350 - L'ambition est un vice qui peut engendrer la vertu.
+0351 - L'ambition ne vieillit pas.
+0352 - L'ami aime en tout temps, et dans l'adversité il devient un frère.
+0353 - L'ami de tout le monde n'est l'ami de personne.
+0354 - L'ami de tout le monde n'est l'ami de personne. 
+0355 - L'ami est quelquefois plus proche qu'un frère.
+0356 - L'ami le plus dévoué se tait sur ce qu'il ignore.
+0357 - L'ami qui souffre seul fait une injure à l'autre.
+0358 - L'ami vieux et le compte récent sont les meilleurs de tous.
+0359 - L'ami véritable est l'ami des heures difficiles.
+0360 - L'amitié d'un grand homme est un bienfait des dieux.
+0361 - L'amitié de deux frères est plus solide qu'un rempart.
+0362 - L'amitié est comme une terre où l'on sème.
+0363 - L'amitié est le mariage de l'âme, et ce mariage est sujet à divorce.
+0364 - L'amitié est toujours profitable, l'amour est parfois nuisible.
+0365 - L'amitié est une égalité harmonieuse.
+0366 - L'amitié fait tout plan, l'argent fait tout.
+0367 - L'amitié se doit entretenir.
+0368 - L'amitié, c'est un parapluie qui s'enverse quand il fait méchant temps. 
+0369 - L'amorce est ce qui engagne le poisson et non la ligne.
+0370 - L'amour a besoin des yeux, comme la pensée a besoin de la mémoire.
+0371 - L'amour arrive sur la pointe des pieds et repart en claquant la porte.
+0372 - L'amour avidement croit tout ce qu'il souhaite.
+0373 - L'amour chasse jalousie.
+0374 - L'amour comme la goutte, on ne sait où ils se cachent.
+0375 - L'amour commence par l'anneau et finit par le couteau.
+0376 - L'amour d'un gendre est aussi chaud que la cendre.
+0377 - L'amour d'une jeune fille, c'est un feu de paille, il n'en reste ni charbon ni braise.
+0378 - L'amour d'une mère ne vieillit pas. 
+0379 - L'amour de l'art n'a jamais enrichi personne.
+0380 - L'amour de la justice n'est pour la plupart des hommes que la crainte de souffrir l'injustice.
+0381 - L'amour de la patrie est plus fort que toutes les raisons du monde.
+0382 - L'amour des enfants n'est pas équivalent à l'amour des parents.
+0383 - L'amour embourbe les jeunes et noie les vieux.
+0384 - L'amour est aveugle et rend aveugle.
+0385 - L'amour est aveugle.
+0386 - L'amour est comme la lance d'Achille, qui blesse et guérit.
+0387 - L'amour est comme la mort, s'il n'entre point par la petite porte, il entre par la petite fenêtre.
+0388 - L'amour est fort comme la mort.
+0389 - L'amour est l'histoire de la vie des femmes, c'est un épisode dans celle des hommes.
+0390 - L'amour est l'étoffe de la nature que l'imagination a brodée.
+0391 - L'amour est mêlé de miel et de fiel.
+0392 - L'amour est nu, mais masqué.
+0393 - L'amour est souvent un fruit du mariage.
+0394 - L'amour est un tyran qui n'épargne personne.
+0395 - L'amour est une herbe amère.
+0396 - L'amour est à la portée de tous, mais l'amitié est l'épreuve du coeur.
+0397 - L'amour et l'amitié s'excluent l'un l'autre.
+0398 - L'amour et la gale, on ne sait où ils commencent.
+0399 - L'amour et la goutte, on ne sait où ils se mettent.
+0400 - L'amour et la teigne s'attaquent à tous sans distinction.
+0401 - L'amour et la toux ne se cachent pas.
+0402 - L'amour et la toux ne se peuvent cacher.
+0403 - L'amour et la toux ne se peuvent celer.
+0404 - L'amour fait assez, l'argent fait tout.
+0405 - L'amour fait danser les ânes.
+0406 - L'amour fait passer le temps et le temps fait passer l'amour.
+0407 - L'amour n'est pas un feu que l'on tient dans la main.
+0408 - L'amour n'est que le roman du coeur, c'est le plaisir qui en est l'histoire.
+0409 - L'amour ne connaît pas de lois.
+0410 - L'amour ne fait pas bouillir la marmite.
+0411 - L'amour ne peut pas se cacher, et quand on cesse d'en avoir, cela se cache encore bien moins.
+0412 - L'amour ne se donna jamais pour apprenti.
+0413 - L'amour passe, la faim vient.
+0414 - L'amour plaît plus que le mariage, par la raison que les romans sont plus amusants que l'histoire.
+0415 - L'amour qui naît subitement est le plus long à guérir.
+0416 - L'amour qui vient de la beauté n'est pas fin.
+0417 - L'amour qui vient de la poule n'est pas amour de qualité.
+0418 - L'amour se paye par amour.
+0419 - L'amour se peut appeler une sauce, propre à donner goût à toute viande.
+0420 - L'amour tombe aussi bien sur une bouse de vache que sur une feuille de rose.
+0421 - L'amour vit d'inanition et meurt de nourriture.
+0422 - L'amour ôte l'esprit à ceux qui en ont et en donne à ceux qui n'en ont pas.
+0423 - L'amour-propre est le plus grand de tous les flatteurs.
+0424 - L'amour-propre offensé ne pardonne jamais.
+0425 - L'amoureuse qui tient pied à deux souliers ne sera jamais épousée.
+0426 - L'amphore garde longtemps l'odeur du premier vin qu'elle a contenu.
+0427 - L'an passé est toujours le meilleur.
+0428 - L'an passé ne reviendra plus.
+0429 - L'animal même sauvage, quand on le tient enfermé, oublie son courage.
+0430 - L'apprendre est grande sueur, mais son fruit est douceur.
+0431 - L'appétit aussi tôt ouvert que les yeux.
+0432 - L'appétit est le meilleur cuisinier. 
+0433 - L'appétit et la faim, ne trouvent jamais mauvais pain.
+0434 - L'appétit et la faim, ne trouvent nul mauvais pain.
+0435 - L'appétit vient en mangeant et la soif en buvant.
+0436 - L'appétit vient en mangeant, en buvant s'en va la soif.
+0437 - L'appétit vient en mangeant. 
+0438 - L'araignée mange la mouche et le lézard l'araignée.
+0439 - L'arbre croît comme on le soigne et le fruit tombe pas loin du tronc.
+0440 - L'arbre devient solide sous le vent.
+0441 - L'arbre est devenu tordu pour n'avoir été redressé lorsque ce n'était qu'un sillon.
+0442 - L'arbre ne tombe qu'après la feuille.
+0443 - L'arbre par trop souvent transplanté ne produira fruit à planté. 
+0444 - L'arbre penche du côté où il va tomber.
+0445 - L'arbre qui porte des fruits a beaucoup à souffrir. 
+0446 - L'arbre sans fruit est digne de feu.
+0447 - L'arbre sec ne reverdit pas.
+0448 - L'arbre tombe du côté où il penche.
+0449 - L'arbre transplanté devient à la fois plus fécond et fertile.
+0450 - L'arc par trop tendu se rompt.
+0451 - L'arc toujours ou trop ne doit être tendu, car il romprait.
+0452 - L'arc toujours tendu se gâte.
+0453 - L'arc trop tendu se rompt. 
+0454 - L'arc trop tendu, tôt lâché ou rompu.
+0455 - L'arc-en-ciel du soir, fait beau temps paroir.
+0456 - L'arc-en-ciel du matin, présage de pluie pour le soir.
+0457 - L'argent a droit partout.
+0458 - L'argent a moins de valeur que l'or, et l'or que la vertu.
+0459 - L'argent a raison partout.
+0460 - L'argent ard gens. 
+0461 - L'argent court, quand bien même il n'a pas de jambes.
+0462 - L'argent demeure au plus vivant.
+0463 - L'argent est fait pour circuler.
+0464 - L'argent est fait pour rouler.
+0465 - L'argent est l'âme du commerce.
+0466 - L'argent est le Bon Dieu de ce monde.
+0467 - L'argent est le nerf des affaires.
+0468 - L'argent est pour rouler.
+0469 - L'argent est rond.
+0470 - L'argent est rond, il s'arrête pas longtemps par les mains.
+0471 - L'argent est serviteur ou maître.
+0472 - L'argent est source de bien pour les bons et source de mal pour les échants.
+0473 - L'argent est un autre sang.
+0474 - L'argent est un bon serviteur et un mauvais maître. 
+0475 - L'argent est un bon valet et un mauvais maître.
+0476 - L'argent est un onguent.
+0477 - L'argent et la folie ne peuvent se dissimuler. 
+0478 - L'argent fait fou les gens.
+0479 - L'argent fait la guerre, tel le dit qui n'en a guère.
+0480 - L'argent fait parler les muets.
+0481 - L'argent n'a pas d'odeur.
+0482 - L'argent n'a pas de maître. 
+0483 - L'argent n'a pas de poux.
+0484 - L'argent n'a rien d'odeur. 
+0485 - L'argent n'a rien de maître.
+0486 - L'argent n'aime personne.
+0487 - L'argent n'est pas tout.
+0488 - L'argent ne fait pas le bonheur en ménage, mais il aide à s'en passer.
+0489 - L'argent ne se perd qu'à faute d'argent. 
+0490 - L'argent ne se trouve pas sous le sabot d'un cheval. 
+0491 - L'argent ne tombe pas du ciel.
+0492 - L'argent protège.
+0493 - L'argent prêté fait perdre le souvenir.
+0494 - L'argent prêté n'est pas en sûreté.
+0495 - L'argent qui n'est pas arrivé par le droit chemin s'en reva. 
+0496 - L'argent qui t'a été prêté, sans demander soit apprêté.
+0497 - L'argent s'amène, l'argent s'en va.
+0498 - L'argent s'en va, la honte demeure.
+0499 - L'argent tente tous.
+0500 - L'argent tombe pas aval la borne.
+0501 - L'argent tombe pas aval la cheminée.
+0502 - L'argent tremble devant la porte du juge et de l'avocat.
+0503 - L'argent va au pauvre tout comme une selle à une vache.
+0504 - L'argent volé vaut jamais ce qu'il coûte. Bonne conscience coûte jamais ce qu'elle vaut.
+0505 - L'argent économisé est deux fois gagné.
+0506 - L'arme cause maintes larmes.
+0507 - L'arrogance, si elle n'est pas une diablerie, elle en a du moins l'apparence.
+0508 - L'art de gouverner, c'est l'art de choisir.
+0509 - L'art de l'intrigue suppose de l'esprit et exclut le talent.
+0510 - L'art de parler, peu nécessaire est à cil qui ne se peut taire.
+0511 - L'art de persuader consiste autant en celui d'agréer qu'en celui de convaincre.
+0512 - L'art de savoir ami entretenir n'est pas moindre que le savoir acquérir.
+0513 - L'art de tout avoir est de n'exiger rien.
+0514 - L'art de vivre est une tactique où nous serons longtemps novices.
+0515 - L'art est de cacher l'art.
+0516 - L'art et industrie humaine a grande efficacité.
+0517 - L'art et l'usage rend l'idiot sage.
+0518 - L'art ne fait que des vers, le coeur seul est poète.
+0519 - L'artisan vit partout. 
+0520 - L'ascète n'a rien à lui que sa harpe.
+0521 - L'asile le plus sûr est le sein de sa mère.
+0522 - L'aspect des guerriers est pour une part dans la victoire.
+0523 - L'athée ne nie pas Dieu et la religion, il n'y pense point.
+0524 - L'attendu n'arrive point, c'est l'inattendu qui se présente.
+0525 - L'attente et chose latente tourmente.
+0526 - L'attente tourmente.
+0527 - L'aubépine demeure sur les hauts chemins.
+0528 - L'audace cache de grandes craintes.
+0529 - L'audacieux triomphe du péril avant de l'apercevoir.
+0530 - L'augment d'eau gâte le potage.
+0531 - L'aumône aux pauvres n'a jamais personne eu mis à la misère.
+0532 - L'aumône du pauvre n'appauvrit pas.
+0533 - L'aumône est soeur de la prière.
+0534 - L'aurore a de l'or dans la bouche. 
+0535 - L'aurore est l'amie des muses.
+0536 - L'aurore prend pour sa part le tiers de l'ouvrage.
+0537 - L'automne a encore de beaux jours.
+0538 - L'automne est le père des fruits.
+0539 - L'avalanche va toujours en contraval.
+0540 - L'avare a la goutte aux doigts.
+0541 - L'avare au rat d'une minière se compare en cette manière.
+0542 - L'avare court après les rouges centimes pour laisser courir les écus.
+0543 - L'avare est comme les porcs, il ne fait pas de bien qu'après sa mort.
+0544 - L'avare et le porc ne sont bien qu'après leur mort.
+0545 - L'avare fait de toute herbe faix.
+0546 - L'avare ferme les yeux quand il voit un pauvre.
+0547 - L'avare ne fait de bien que quand il meurt.
+0548 - L'avare ne possède pas son or, c'est son or qui le possède.
+0549 - L'avare se dit économe, le poltron se dit prudent.
+0550 - L'avarice ayant tué un homme se réfugia dans l'église et elle n'en est pas sortie de celle-ci depuis.
+0551 - L'avaricieux est toujours affamé de bien.
+0552 - L'avenir d'un enfant est l'oeuvre de sa mère.
+0553 - L'avenir n'est à personne, l'avenir est à Dieu.
+0554 - L'avenir pour la jeunesse, le souvenir pour la vieillesse.
+0555 - L'aveu de notre faute est presque l'innocence.
+0556 - L'aveugle ne peut juger des couleurs.
+0557 - L'aveugle voudrait que les autres le fussent aussi.
+0558 - L'aveuglement des hommes est le plus dangereux effet de leur orgueil.
+0559 - L'avoine fait le cheval.
+0560 - L'avoir et le savoir font un grand coup.
+0561 - L'eau courante n'est ni mauvaise ni puante.
+0562 - L'eau court toujours en aval.
+0563 - L'eau court toujours en la mer.
+0564 - L'eau de citerne, de tous maux gouverne.
+0565 - L'eau de citerne, tous maux gouverne.
+0566 - L'eau de la fontaine ne monte point plus haut que sa source.
+0567 - L'eau dormante vaut pis que l'eau courante.
+0568 - L'eau dormante vaut pis que la courante.
+0569 - L'eau dormante, c'est la plus trompeuse.
+0570 - L'eau fait pleurer, le vin chanter.
+0571 - L'eau fait pourrir la barque.
+0572 - L'eau fait venir des grenouilles dans le ventre et le vin tue les vers.
+0573 - L'eau gâte le vin et le vin ne gâte pas l'eau.
+0574 - L'eau gâte le vin, la charrette le chemin et la femme l'homme.
+0575 - L'eau gâte le vin, la charrette le chemin et la femme le voisin.
+0576 - L'eau gâte le vin, les charrettes les chemins et les femmes l'homme.
+0577 - L'eau perd le lait et trop d'importunité les amis.
+0578 - L'eau qui court ne fait pas mal au museau.
+0579 - L'eau qui court pas, elle tournoie.
+0580 - L'eau qui dort pue.
+0581 - L'eau qui dort, c'est celle qui noie.
+0582 - L'eau qui dort, l'eau qui noie.
+0583 - L'eau qui dégoutte ronge la pierre.
+0584 - L'eau va toujours au bief.
+0585 - L'eau va toujours en aval.
+0586 - L'eau va toujours à la fontaine.
+0587 - L'eau va à la rivière. 
+0588 - L'eau à traits de boeuf bois et le vin comme roi. 
+0589 - L'eau éteint le feu et l'aumône expie les péchés.
+0590 - L'eau, le seigneur et le grand chemin, sont tous de mauvais voisins.
+0591 - L'efficace de vertu est de résister à vice.
+0592 - L'effronterie est toujours la marque d'une âme de la dernière roture.
+0593 - L'effronté dans un festin se fait traiter avec des perdrix rôties, au
+0594 - bien que le honteux n'a que les restes du pain.
+0595 - L'empereur n'est qu'un homme.
+0596 - L'emprunteur devient valet du prêteur.
+0597 - L'encens gâte plus de cervelle que la poudre n'en fait sauter.
+0598 - L'enclume de femme rompt tous marteaux.
+0599 - L'enclume n'a pas peu du bruit.
+0600 - L'enfance est le sommeil de la raison.
+0601 - L'enfant bien instruit donne espoir de bon fruit.
+0602 - L'enfant est l'ancre de la mère. 
+0603 - L'enfant qui ressemble au père est l'honneur de la mère.
+0604 - L'enfant reconnaît sa mère à son sourire.
+0605 - L'enfant sans discipline en sa jeunesse fera rarement fruit en sa vieillesse.
+0606 - L'enfer a été fait pour les curieux.
+0607 - L'enfer des femmes, c'est la vieillesse.
+0608 - L'enfer est pas fait pour les chiens.
+0609 - L'enfer est pavé de bonnes intentions.
+0610 - L'enfer est tout pavé de bonnes intentions.
+0611 - L'engin de l'homme tout façonne et donne.
+0612 - L'engin humain prend sa forme par vertueux exercice. 
+0613 - L'engin humain se maintient et croît par bon exercice. 
+0614 - L'engin puéril, pour vif et accord qu'il soit, a besoin de l'aide du maître.
+0615 - L'ennui est entré dans le monde par la paresse.
+0616 - L'ennui est une maladie dont le travail est le remède.
+0617 - L'ennui naquit un jour de l'uniformité.
+0618 - L'entrée de plusieurs médecins fait mourir.
+0619 - L'entêtement et le dégoût se suivent de près.
+0620 - L'entêtement représente le caractère, à peu près comme le tempérament représente l'amour.
+0621 - L'envie a le teint livide et les discours calomnieux.
+0622 - L'envie escorte la gloire.
+0623 - L'envie est plus irréconciliable que la haine.
+0624 - L'envie et la colère abrègent la vie.
+0625 - L'envie ronge les envieux comme la rouille ronge le fer.
+0626 - L'envie s'attache toujours au mérite, elle ne cherche pas querelle à la médiocrité.
+0627 - L'envieux aperçoit en autrui ce qui n'y est pas et ne voit pas en soi-même ce qui y est, car il a les yeux faits de travers.
+0628 - L'envieux est un animal très fielleux et poisonneux.
+0629 - L'envieux est à autrui mauvais et à soi-même pire.
+0630 - L'envieux maigrit de l'embonpoint des autres.
+0631 - L'envieux préfère la pute ordure à la bonne et suave odeur.
+0632 - L'erreur d'un jour devient une faute, si l'on y retombe.
+0633 - L'erreur est aussi grande de se fier à tous que de tous se défier.
+0634 - L'erreur est humaine. 
+0635 - L'erreur est la règle, la vérité est l'accident de l'erreur.
+0636 - L'esclave de mauvaise volonté est malheureux sans être moins esclave.
+0637 - L'esclave n'a qu'un maître, l'ambitieux en a autant qu'il y a de gens utiles à sa fortune.
+0638 - L'espoir différé rend le coeur malade, mais le désir accompli est un arbre de vie.
+0639 - L'espoir du doux repos soulage le dur labeur de tout ouvrage.
+0640 - L'esprit dans le sommeil a de claires visions.
+0641 - L'esprit de conversation consiste bien moins à en montrer beaucoup qu'a en faire trouver aux autres.
+0642 - L'esprit de l'homme le soutient dans la maladie, mais l'esprit de l'homme abattu, qui le relèvera ?
+0643 - L'esprit des femmes est d'argent vif, leur coeur est de cire.
+0644 - L'esprit des femmes est léger comme le vent de midi.
+0645 - L'esprit est nourri par le silence de la nuit.
+0646 - L'esprit est prompt, mais la chair est faible.
+0647 - L'esprit est toujours la dupe du coeur.
+0648 - L'esprit est un tonneau plein de sagesse et de folie.
+0649 - L'esprit meut la masse.
+0650 - L'esprit ne peut remplacer le tact, le tact peut suppléer à beaucoup d'esprit.
+0651 - L'esprit puéril est le plus docile.
+0652 - L'esprit qu'on veut avoir gâte celui qu'on a.
+0653 - L'esprit sert à tout, mais il ne mène à rien.
+0654 - L'espérance en Dieu est certaine et toute autre vaine.
+0655 - L'espérance est la nourrice des hommes de peu d'esprit.
+0656 - L'espérance est le plus utile et le plus pernicieux des biens.
+0657 - L'espérance est le songe d'un homme éveillé.
+0658 - L'espérance nourrit les exilés.
+0659 - L'espérance que le mari en refera un autre, la femme oublie le deuil de son enfant mort.
+0660 - L'essai d'amour coûte trop cher.
+0661 - L'estime des hommes est un bien plus sûr que l'argent.
+0662 - L'estime vaut mieux que la célébrité, la considération vaut mieux que la renommée.
+0663 - L'estomac est le dos d'un âne.
+0664 - L'exactitude est la politesse des rois.
+0665 - L'exagération est le mensonge des honnêtes gens.
+0666 - L'excellence de l'esprit est un perpétuel festin.
+0667 - L'exception confirme la règle. 
+0668 - L'excès d'un très grand bien devient un mal très grand.
+0669 - L'excès de sommeil fatigue.
+0670 - L'excès de travailler aide fort bien à sommeiller.
+0671 - L'excès en tout est un défaut. 
+0672 - L'exemple descend et ne monte pas.
+0673 - L'exemple est le plus grand de tous les séducteurs.
+0674 - L'exemple est un dangereux leurre où la guêpe a passé, le moucheron demeure.
+0675 - L'exemple souvent n'est qu'un miroir trompeur.
+0676 - L'exemple touche plus que ne fait la menace.
+0677 - L'exercice et la propreté entretiennent la santé.
+0678 - L'exilé, qui n'a de demeure nulle part, est un mort sans tombeau.
+0679 - L'expérience confirme que la mollesse et l'indulgence pour soi et la dureté pour les autres n'est qu'un seul et même vice.
+0680 - L'expérience est le fruit d'un vieil arbre.
+0681 - L'expérience, on l'attrape à ses dépens.
+0682 - L'extrême exactitude est le sublime des sots. 
+0683 - L'habileté est le talent de voir juste la fin de chaque chose.
+0684 - L'habileté est à la ruse ce que la dextérité est à la filouterie.
+0685 - L'habit change les moeurs ainsi que la figure.
+0686 - L'habit fait l'homme.
+0687 - L'habit ne fait l'homme et la barbe ne fait pas le philosophe.
+0688 - L'habit ne fait pas le moine mais la belle plume fait le bel oiseau.
+0689 - L'habit ne fait pas le moine. 
+0690 - L'habit ne rend pas le singe beau quoiqu'il soit fait de soie.
+0691 - L'habitude est une seconde nature.
+0692 - L'habitude fait beaucoup.
+0693 - L'harmonie la plus douce est le son de voix de celle que l'on aime.
+0694 - L'hellébore, c'est du poison pour les personnes saines et la guérison des fols.
+0695 - L'herbe qu'on connaît doit-on lier à son doigt.
+0696 - L'herbe qu'on connaît faut mettre à son doigt.
+0697 - L'herbe qu'on connaît, on la doit bien lier à son doigt.
+0698 - L'herbe qu'on connaît, on la doit lier à son doigt
+0699 - L'heur de la maison est d'avoir de procès vacation.
+0700 - L'heure du berger se trouve dans la fortune comme en amour.
+0701 - L'heure fugitive vole d'une aile incertaine.
+0702 - L'hirondelle et l'orphie au 15 avril.
+0703 - L'histoire est la philosophie enseignée par l'exemple.
+0704 - L'histoire est un perpétuel recommencement.
+0705 - L'histoire est écrite pour raconter, non pour prouver.
+0706 - L'hiver donne le froid, le printemps la verdure, l'été le blé et l'automne le bon vin.
+0707 - L'hiver et les dettes sont de vilaines bêtes.
+0708 - L'hiver n'a point de matin.
+0709 - L'homme a deux bons jours sur terre, lorsqu'il prend une femme et lorsqu'il l'enterre.
+0710 - L'homme a plus soif de gloire que de vertu.
+0711 - L'homme absurde est celui qui ne change jamais.
+0712 - L'homme adultère laboure le champ d'autrui et laisse le sien inculte.
+0713 - L'homme affamé dévore sa moisson, l'homme altéré engloutit ses richesses.
+0714 - L'homme arrive novice à chaque âge de la vie.
+0715 - L'homme bien marié ne sait pas ce que Dieu lui a donné.
+0716 - L'homme bien sain, mangeant bien et buvant, sans travail ne le sera longtemps.
+0717 - L'homme bon est comme un arbre planté près d'un cours d'eau, qui donne son fruit en tout temps et dont le feuillage ne se flétrit jamais.
+0718 - L'homme c'est le feu, la femme l'étoupe, le diable le soufflet.
+0719 - L'homme chargé de péché est bien empêché.
+0720 - L'homme cherche, la femme récuse.
+0721 - L'homme choit en vice facilement mais en vertus dresse lentement. 
+0722 - L'homme chétif, pauvre et mesquin, de chacun est proche et voisin.
+0723 - L'homme commande et la femme en fait à sa tête.
+0724 - L'homme couard ne vaut rien en bataille, car il fuit avant que coup on lui baille. 
+0725 - L'homme cruel n'est pas touché par les larmes,il s'en repaît.
+0726 - L'homme curieux est toujours gueux.
+0727 - L'homme curieux est toujours malheureux.
+0728 - L'homme de bien a part en toute région, comme en la mer le poisson.
+0729 - L'homme de bien ne se dispute avec personne et, autant qu'il le peut, en empêche les autres.
+0730 - L'homme de bon sens, même s'il est lent, atteint un homme agile.
+0731 - L'homme de génie est souvent le premier et le dernier de sa dynastie.
+0732 - L'homme de nature sanguine, volontiers plaisante et badine.
+0733 - L'homme de passage, n'attrape femme si elle est sage.
+0734 - L'homme doit au vin d'être le seul animal à boire sans soif.
+0735 - L'homme doit dresser sa femme dès la première miche de pain.
+0736 - L'homme doit manger pour lui et pour sa femme.
+0737 - L'homme doit suivre son inclination naturelle.
+0738 - L'homme doit être constant tant en prospérité qu'adversité.
+0739 - L'homme dont le caractère se confond avec le nôtre vaut mieux que mille parents.
+0740 - L'homme double de coeur et courage est inconstant en tout ouvrage.
+0741 - L'homme doux, en tous lieux est reçu.
+0742 - L'homme débonnaire rend la femme grasse.
+0743 - L'homme dépourvu de l'aide de Dieu n'est sûr en nul lieu.
+0744 - L'homme est bien sot, qui ne sait se faire moquer de soi.
+0745 - L'homme est de chair, non de fer.
+0746 - L'homme est de feu, la femme d'étoupe et le diable souffle.
+0747 - L'homme est de glace aux vérités, il est de feu pour les mensonges.
+0748 - L'homme est dieu ou bête.
+0749 - L'homme est fait d'étoupe et la femme de filasse, le diable a bien vite fait d'y mettre le feu.
+0750 - L'homme est feu et la femme étoupe, le diable vient qui souffle.
+0751 - L'homme est inconstant comme l'oiseau est volage.
+0752 - L'homme est indigne d'être homme, si de sa femme il n'est maître.
+0753 - L'homme est indigne de l'être si de sa femme il n'est maître.
+0754 - L'homme est jugé par son intention.
+0755 - L'homme est l'âme de la maison.
+0756 - L'homme est la mesure de toutes choses.
+0757 - L'homme est le plus muable de tous autres animaux.
+0758 - L'homme est né pour bien travailler et l'âne pour somme ou charge porter.
+0759 - L'homme est prisé par sa constance et le fin or par sa substance.
+0760 - L'homme est semblable à un souffle, ses jours sont comme l'ombre qui passe.
+0761 - L'homme est tenu par ses paroles ainsi que le boeuf par les cornes.
+0762 - L'homme est toujours un sot, quand la femme en sait trop.
+0763 - L'homme est très noble créature quand par raison il guide sa nature.
+0764 - L'homme est un apprenti, la douleur est son maître.
+0765 - L'homme est un corrompu qui fait le délicat.
+0766 - L'homme est un dieu tombé qui se souvient des cieux.
+0767 - L'homme est un loup pour l'homme.
+0768 - L'homme est un être sociable, la nature l'a fait pour vivre avec ses semblables.
+0769 - L'homme est une chose abjecte et vile, s'il ne s'élève au-dessus de l'humanité.
+0770 - L'homme et la fortune ont toujours des projets différents.
+0771 - L'homme fait la femme et la femme fait l'homme.
+0772 - L'homme fait son pouvoir et Dieu son vouloir.
+0773 - L'homme fatigué, la pensée vide.
+0774 - L'homme fleurit pour mourir.
+0775 - L'homme frugal est son propre médecin. 
+0776 - L'homme généreux invente même des raisons de donner.
+0777 - L'homme généreux se croit toujours riche.
+0778 - L'homme habile est supérieur à l'homme fort.
+0779 - L'homme heureux ne porte pas de chemise.
+0780 - L'homme influençable n'est qu'une glaise molle.
+0781 - L'homme le plus adroit se brûle avec le feu.
+0782 - L'homme le plus fort ne saurait toujours labourer ni tirer au collier.
+0783 - L'homme malade en sa maison est un pauvre à la porte.
+0784 - L'homme marié est un oiseau en cage.
+0785 - L'homme meurt autant de fois qu'il perd l'un des siens.
+0786 - L'homme meurt de son chagrin, la femme s'en nourrit.
+0787 - L'homme meurt du mal dont il a peur.
+0788 - L'homme n'a pas plus le pouvoir d'être constant que celui d'écarter les maladies.
+0789 - L'homme n'a pas été créé pour la femme, mais la femme pour l'homme.
+0790 - L'homme n'a raison ni bon sens, s'il dit tout à sa femme.
+0791 - L'homme n'est bon qu'à la condition de l'être à l'égard de tous.
+0792 - L'homme n'est qu'un roseau, le plus faible de la nature, mais c'est un roseau pensant.
+0793 - L'homme n'est que la flamme, la femme est le brasier.
+0794 - L'homme n'est à priser pour sa science, s'il n'a pure et monde la conscience.
+0795 - L'homme naquit pour travailler, comme l'oiseau pour voler.
+0796 - L'homme ne doit être honoré que par ses bonnes oeuvres .
+0797 - L'homme ne peut rien rencontrer de meilleur que la femme, quand elle est bonne, mais rien de pire, quand elle est mauvaise.
+0798 - L'homme ne se connaît pas lui-même.
+0799 - L'homme ne vit pas pour manger, mais il boit et mange pour vivre.
+0800 - L'homme ne vit pas seulement de pain.
+0801 - L'homme noble, c'est l'homme vertueux.
+0802 - L'homme obéissant à raison, excelle tous animaux et créatures mortelles.
+0803 - L'homme par les paroles et le boeuf par les cornes.
+0804 - L'homme par trop ne convient louer, car on le voit tôt varier.
+0805 - L'homme patient et courageux fait lui-même son bonheur.
+0806 - L'homme propose et Dieu dispose. 
+0807 - L'homme propose, Dieu dispose.
+0808 - L'homme prudent fait de tout son profit.
+0809 - L'homme prudent fait de toute herbe faix.
+0810 - L'homme prudent sait dissimuler un outrage.
+0811 - L'homme quand il est sot tout jeune, pour vieillir ne devient point sage.
+0812 - L'homme quand il n'est pas marié, ne sait pas ce que Dieu lui a donné.
+0813 - L'homme qui a contentement, est nommé riche justement.
+0814 - L'homme qui a coeur et courage, de fortune ne craint l'orage.
+0815 - L'homme qui a les yeux malades ne peut regarder le jour ni le coupable entendre la vérité.
+0816 - L'homme qui a sa femme morte, a cent écus à sa porte.
+0817 - L'homme qui est seul est fol.
+0818 - L'homme qui flatte son prochain tend un filet sous ses pieds.
+0819 - L'homme qui moult boit, tard paye ce qu'il doit.
+0820 - L'homme qui ne prend pas femme est une moitié de ciseaux.
+0821 - L'homme qui possède la paix de l'âme n'est importun ni à lui-même ni aux autres.
+0822 - L'homme qui se confie à Dieu est un arbre qui ne cesse de porter du fruit.
+0823 - L'homme s'agite, mais Dieu le mène.
+0824 - L'homme s'attachera à sa femme, et ils deviendront une seule chair.
+0825 - L'homme sage, prudent et discret, à femme ne révèle son secret.
+0826 - L'homme se connaît en trois choses, à la bile, à la bourse et au verre.
+0827 - L'homme se demène, mais Dieu le mène.
+0828 - L'homme se marie quand il veut et la femme quand elle peut.
+0829 - L'homme se marie quand il veut et la femme seulement quand elle trouve.
+0830 - L'homme se pendrait au gerbier plutôt que d'avouer ses défauts.
+0831 - L'homme seul est dieu ou démon.
+0832 - L'homme soupçonneux incrimine la loyauté de chacun.
+0833 - L'homme suivant règle et raison est noble sans comparaison.
+0834 - L'homme toujours gai est un bien triste mortel.
+0835 - L'homme veut dompter les animaux et demeure farouche et sauvage.
+0836 - L'homme vieil amoureux doit-on moquer.
+0837 - L'homme à l'homme est ennemi ou à soi-même.
+0838 - L'homme à la langue bavarde ne s'affermit pas sur la terre.
+0839 - L'homme, quand il est sot tout jeune, pour vieillir ne devient point sage.
+0840 - L'honneur d'une fille est à elle, elle y regarde à deux fois. L'honneur d'une femme est à son mari, elle y regarde moins.
+0841 - L'honneur défend des actes que la loi tolère.
+0842 - L'honneur est le diamant que la vertu porte au doigt.
+0843 - L'honneur nourrit les arts.
+0844 - L'honneur, c'est la poésie du devoir.
+0845 - L'honnête homme tient le milieu entre l'habile homme et l'homme de bien, quoique dans une distance inégale de ces deux extrêmes.
+0846 - L'horloge ne peut exister sans horloger.
+0847 - L'huile comme aussi vérité, retournent toujours en sommité.
+0848 - L'huile d'olive fait fuir tous les maux.
+0849 - L'huis de derrière est celui qui gâte la maison.
+0850 - L'humanité se compose de plus de morts que de vivants.
+0851 - L'humble et sujet mérite pardon et le rebelle punition.
+0852 - L'humilité est l'autel sur lequel Dieu veut qu'on lui fasse des sacrifices.
+0853 - L'humilité est le contrepoison de l'orgueil.
+0854 - L'humilité est un artifice de l'orgueil.
+0855 - L'humilité précède la gloire.
+0856 - L'huître est pour le juge, les écailles pour les plaideurs. 
+0857 - L'hypocrisie est un hommage que le vice rend à la vertu.
+0858 - L'hypocrisie porte un masque qui déteint.
+0859 - L'hérésie est le fruit d'un peu de science et de loisir.
+0860 - L'hôte de la soif s'appelle la fièvre.
+0861 - L'hôte est toujours le plus foulé.
+0862 - L'hôte est toujours le plus gravé.
+0863 - L'hôte et la pluie, après trois jours ennuient.
+0864 - L'hôtel et le poisson, en trois jours sont poison.
+0865 - L'ignorance de la loi n'excuse personne. 
+0866 - L'ignorance et l'incuriosité font un doux oreiller.
+0867 - L'ignorance n'est défaut d'esprit, ni le savoir n'est preuve de génie.
+0868 - L'ignorance ne voit pas, même ce qui frappe ses regards.
+0869 - L'ignorance toujours est prête à s'admirer.
+0870 - L'ignorance vaut mieux qu'un savoir affecté.
+0871 - L'ignorant a des ailes d'aigle et les yeux d'hibou.
+0872 - L'ignorant est cruel comme un tyran.
+0873 - L'ignorant est obstiné.
+0874 - L'image et la peinture, sert au simple de lecture.
+0875 - L'imagination est la folle du logis.
+0876 - L'imagination qui fait naître les illusions est comme les rosiers qui produisent des roses dans toutes les saisons.
+0877 - L'imbécile épouse la bête.
+0878 - L'impertinent est un fat outré.
+0879 - L'importance sans mérite obtient des égards sans estime.
+0880 - L'importun va souper chez sa maîtresse le soir même qu'elle a la fièvre.
+0881 - L'impossible a plus de force que le serment.
+0882 - L'impromptu est la pierre de touche de l'esprit.
+0883 - L'impudent est celui qui supporte le mépris, pourvu qu'il fasse ses affaires.
+0884 - L'impératrice est une femme.
+0885 - L'inattention fait échouer le navire.
+0886 - L'incapacité sert d'excuse pour éviter le travail.
+0887 - L'incrédulité est quelquefois le vice d'un sot, et la crédulité le défaut d'un homme d'esprit.
+0888 - L'incurie entraîne bien des fautes.
+0889 - L'indifférence est le sommeil de l'âme.
+0890 - L'indigent de peu est content et l'avare toujours mal content.
+0891 - L'indignation fait jaillir la stance.
+0892 - L'indolence est le sommeil des esprits.
+0893 - L'indulgence est la parure des vertus.
+0894 - L'indulgence est une partie de la justice.
+0895 - L'industrie surpasse la force.
+0896 - L'indécent n'est pas le nu, mais le troussé.
+0897 - L'infidélité est comme la mort, elle n'admet pas de nuances.
+0898 - L'infortune est la sage-femme du génie. 
+0899 - L'ingratitude la plus odieuse, mais la plus commune et la plus ancienne, est celle des enfants envers leurs parents.
+0900 - L'inimitié est une colère qui guette une occasion de vengeance.
+0901 - L'injustice est une impiété.
+0902 - L'innocence est toujours accompagnée du rayonnement qui lui est propre.
+0903 - L'innocence à rougir n'est point accoutumée.
+0904 - L'innocent trouve le moyen d'être éloquent, même s'il est lent à parler.
+0905 - L'inquiétude amène la vieillesse avant le temps.
+0906 - L'insensé laisse voir aussitôt sa colère, mais l'homme prudent sait dissimuler un outrage.
+0907 - L'insensé qui retombe dans sa folie est comme le chien qui retourne à son vomissement.
+0908 - L'instigateur est plus coupable que le délinquant. 
+0909 - L'instinct, c'est tout sentiment et tout acte qui prévient la réflexion.
+0910 - L'instruction accroît la valeur innée.
+0911 - L'instruction pour les femmes, c'est le luxe. Le nécessaire, c'est la séduction.
+0912 - L'instruire et l'enseigner, grand art a métier.
+0913 - L'intelligence et l'âge ne viennent pas ensemble.
+0914 - L'intelligence, c'est comme la confiture, moins on en a, plus on l'étale.
+0915 - L'intention fait la culpabilité et le délit.
+0916 - L'intérêt des hommes a fait de la Fortune une déesse.
+0917 - L'intérêt est plus aveugle que l'amour.
+0918 - L'intérêt n'a point de temples, mais il est adoré.
+0919 - L'intérêt n'est la clef que des actions vulgaires.
+0920 - L'intérêt personnel est le poison de tout sentiment vrai.
+0921 - L'invention est l'unique preuve du génie.
+0922 - L'ironie est la bravoure des faibles et la lâcheté des forts.
+0923 - L'ivresse est une folie volontaire.
+0924 - L'ivrogne et le fainéant se ruinent promptement, la mauvaise ménagère en fait autant.
+0925 - L'ivrognerie n'a jamais fait aucune maison et en a défait plus d'une.
+0926 - L'ivrognerie tue plus de gens que la guerre.
+0927 - L'objet de la guerre, c'est la paix.
+0928 - L'objet principal de la politique est de créer l'amitié entre les membres de la cité.
+0929 - L'obscur par le plus obscur. 
+0930 - L'obscurité donne la paix aux hommes simples.
+0931 - L'obstination et ardeur d'opinion est la plus sûre preuve de bêtise.
+0932 - L'obstination tient moins à la volonté qu'au peu de capacité.
+0933 - L'obéissance est un métier bien rude.
+0934 - L'occasion du gain est brève.
+0935 - L'occasion est chauve. 
+0936 - L'occasion fait le larron. 
+0937 - L'occasion n'a qu'une mèche de cheveux. 
+0938 - L'offense d'un qui fut ton ami, est plus grave que d'un ennemi.
+0939 - L'offense est plus facilement tolérée par les oreilles que par les yeux.
+0940 - L'office du bon maître est de connaître la nature de ses disciples.
+0941 - L'office du bon pasteur est tondre et non écorcher son troupeau.
+0942 - L'office du bon prince est favoriser et défendre l'homme de bien et punir le flagitieux.
+0943 - L'office du bon roi ou recteur est de porter soin de son peuple.
+0944 - L'office du petit est révérer le grand et du grand comporter l'imbécillité du petit.
+0945 - L'office fait l'homme.
+0946 - L'oie, l'abeille et le veau. 
+0947 - L'oiseau doit beaucoup à son plumage.
+0948 - L'oiseau par ses plumes est jugé beau.
+0949 - L'oiseleur, pour trop regarder les merles, se jette dans un puits.
+0950 - L'oisiveté est l'ennemie de l'âme.
+0951 - L'oisiveté est la mère de tous les vices.
+0952 - L'oisiveté est le naufrage de la chasteté.
+0953 - L'oison mène l'oie paître et le jeune précède le maître.
+0954 - L'olivier se brise, le roseau plie.
+0955 - L'ombre d'un grand nom demeure.
+0956 - L'ombre la plus mauvaise pour la maison d'un paysan, c'est un château.
+0957 - L'on a beau prêcher à l'âne avant qu'il devienne docteur.
+0958 - L'on connaît avec le temps les bons payeurs et marchands.
+0959 - L'on connaît les parents et les amis à noces et à mort en maints pays.
+0960 - L'on dit par bourgs, villes et villages, vin et femmes attrapent les plus sages.
+0961 - L'on doit ajouter plus de foi à l'oeil qu'à l'oreille.
+0962 - L'on doit donner conseil aux prospères et remède aux pauvres et indigents.
+0963 - L'on doit également considérer la vie, d'icelui qui médit comme de qui il médit.
+0964 - L'on endure tout mais que le trop aise. 
+0965 - L'on est plus sociable et d'un meilleur commerce par le coeur que par l'esprit.
+0966 - L'on estime le fait et le dit d'iceux qu'ont argent et crédit. 
+0967 - L'on n'achète pas sûrement ce qu'appartient à plusieurs gens.
+0968 - L'on n'est sage tant que l'on n'a follé.
+0969 - L'on n'estime la voix ni le dit, de qui n'a vertu ni crédit.
+0970 - L'on ne doit jamais aller à noces sans y être convié.
+0971 - L'on ne doit pas le monde aimer, car on y trouve par trop d'amer famine y a, en gain froidure, chaleur pestilence et ordure.
+0972 - L'on ne doit pas mettre la charrue devant les boeufs.
+0973 - L'on ne doit semer toute sa semence en un champ.
+0974 - L'on ne doit tant donner à Saint Pierre, que Saint Paul demeure derrière.
+0975 - L'on ne peut cacher anguilles en sac.
+0976 - L'on ne peut courir ensemble et corner.
+0977 - L'on ne peut faire d'une colombe un épervier.
+0978 - L'on ne peut fêter avant commencer.
+0979 - L'on ne peut homme nu dépouiller.
+0980 - L'on ne peut humer et souffler tout ensemble.
+0981 - L'on ne peut servir ensemble Dieu et le diable.
+0982 - L'on ne peut voler sans ailes.
+0983 - L'on ne peut écorcher une pierre.
+0984 - L'on ne s'amende pas de vieillir.
+0985 - L'on ne saurait faire en dix ans ce qu'on fait en trente.
+0986 - L'on ne tient pas toujours ce qu'on promet.
+0987 - L'on peut bien de tout user et abuser, comme d'un vent éteindre et allumer.
+0988 - L'on peut bien imposer silence au sentiment, mais non lui marquer des bornes.
+0989 - L'on peut de tout user et abuser et d'un même souffle éteindre et allumer.
+0990 - L'on prouve que l'on a du caractère quand on parvient à vaincre le sien.
+0991 - L'on trouve toujours aux douceurs d'héritier, des consolations qu'on ne peut rejeter.
+0992 - L'opinion d'un sage vaut mieux que la croyance ou l'assurance de cent autres qui ne le sont point.
+0993 - L'opinion est la reine du monde, parce que la sottise est la reine des sots. 
+0994 - L'opinion est la reine du monde.
+0995 - L'opinion vraie est le bien de la pensée.
+0996 - L'opulence a sa misère, elle est lâche et tient à la vie.
+0997 - L'or du soleil en janvier Est or que l'on ne doit envier.
+0998 - L'or est le sang des États.
+0999 - L'or est un tyran invisible.
+1000 - L'or et la beauté ont peur des larrons.
+1001 - L'or jaune on le divise, l'amour on ne le partage pas.
+1002 - L'or périt et l'argent meurt l'ami du monde.
+1003 - L'or s'épure au feu, l'homme s'éprouve au creuset du malheur.
+1004 - L'or à celui qui est lié n'est rien prisé.
+1005 - L'or, la femme et la toile, ne les prends qu'à la lumière du jour.
+1006 - L'or, la femme et les étoffes, ne les choisis qu'en plein jour.
+1007 - L'or, la gale et l'amour ne peuvent pas se cacher toujours.
+1008 - L'or, même à la laideur, donne un teint de beauté.
+1009 - L'ordre amène le pain, le désordre la faim.
+1010 - L'ordre est un des éléments du beau avec la grandeur.
+1011 - L'ordure est du porc la nourriture et de mainte créature la pourriture.
+1012 - L'oreille est le chemin du coeur.
+1013 - L'oreille est le chemin du coeur... et le coeur l'est du reste.
+1014 - L'oreiller fait ce qu'il lui plaît de l'homme et de la femme.
+1015 - L'oreiller porte conseil.
+1016 - L'orgueil ayant pris le vol vers le ciel alla fondre aux enfers.
+1017 - L'orgueil est l'apanage des sots.
+1018 - L'orgueil est le dédain de tout ce qui n'est pas soi.
+1019 - L'orgueil est une bête chère à nourrir.
+1020 - L'orgueil fait sauter bien des gens.
+1021 - L'orgueil mondain, Dieu le hait et rabat.
+1022 - L'orgueil ne réussit jamais mieux que quand il se couvre de modestie.
+1023 - L'orgueil ne veut pas devoir, et l'amour-propre ne veut pas payer.
+1024 - L'orgueil précède la ruine et la hauteur précède la chute.
+1025 - L'orgueil s'installe au large dans une tête vide.
+1026 - L'orgueil tord le cou.
+1027 - L'orgueilleux ne connaît ni son faible ni le fort des autres, jusqu'à ce qu'il les sente ou expérimente.
+1028 - L'orgueilleux regarde les autres avec des yeux chassieux et soi-même sans yeux, en aveugle.
+1029 - L'ormeau a le branchage fort beau, mais il ne porte point de fruit.
+1030 - L'outrage ne vient pas de qui t'injurie, mais de ton jugement qui te fait croire que l'on t'outrage.
+1031 - L'ouvrage de plusieurs est plus grand, et plus grand est le profit.
+1032 - L'ouvrage qu'on fait le dimanche, le diable le prend le lundi.
+1033 - L'ouvrier est digne de son loyer.
+1034 - L'un a les faits et l'autre les plaids.
+1035 - L'un ami pour l'autre veille.
+1036 - L'un fait lever les oiseaux de dedans le buisson et un autre les a pris.
+1037 - L'un meurt d'une même fièvre et l'autre en réchappe.
+1038 - L'un meurt dont l'autre vit.
+1039 - L'un n'empêche pas l'autre.
+1040 - L'un sert à nous faire le mal et l'autre à nous y endurcir.
+1041 - L'un sème, l'autre récolte.
+1042 - L'un tire à hue et l'autre à dia. 
+1043 - L'une main lave l'autre et les deux lavent le visage.
+1044 - L'union fait la force. 
+1045 - L'univers est une espèce de livre dont on n'a lu que la première page quand on n'a vu que son pays.
+1046 - L'usage est fait pour le mépris du sage.
+1047 - L'usage est le tyran des langues. 
+1048 - L'usage fait briller le métal.
+1049 - L'usage nous fait voir une différence énorme entre la dévotion et la bonté.
+1050 - L'usage nous fait voir une distinction énorme entre la dévotion et la conscience.
+1051 - L'usage seulement fait la possession.
+1052 - L'utilité de la vertu est si manifeste que les méchants la pratiquent par intérêt.
+1053 - L'oeil du maître engraisse le cheval.
+1054 - L'oeil du maître réal engraisse le cheval. 
+1055 - L'oeil du sage est du soleil l'image.
+1056 - L'oeil fait le guet.
+1057 - L'oeil l'amour attire.
+1058 - L'oeil malade, la lumière le fait souffrir.
+1059 - L'oeil qui ne te voit pas ne te pleurera pas.
+1060 - L'oeuvre l'ouvrier découvre.
+1061 - L'État est le navire qui porte notre fortune.
+1062 - L'âge d'or était l'âge où l'or ne régnait pas.
+1063 - L'âge est la plus grande des maladies, il ne laisse personne.
+1064 - L'âge n'est que pour les chevaux. 
+1065 - L'âge ne pardonne rien.
+1066 - L'âge présent ne vaut pas celui des aïeux.
+1067 - L'âge rend indulgent sur le caractère, et difficile sur l'esprit.
+1068 - L'âge rend l'homme sage.
+1069 - L'âme d'un amant vit dans le corps de l'amante.
+1070 - L'âme d'un roi et celle d'un savetier sont jetées au même moule.
+1071 - L'âme est le seul oiseau qui soutienne sa cage. 
+1072 - L'âme et le corps souvent sont discords. 
+1073 - L'âme perverse perd celui qui la possède.
+1074 - L'âme vile est enflée d'orgueil dans la prospérité et abattue dans l'adversité.
+1075 - L'âne de tous est mangé des loups.
+1076 - L'âne est né à la charge et l'homme à bien opérer.
+1077 - L'âne mal tondu, au bout de huit jours s'égalise.
+1078 - L'âne piqué ne repique.
+1079 - L'âne porte le vin et boit l'eau.
+1080 - L'âne porte tout ce qu'on lui met sur le bât.
+1081 - L'âne procède en âne.
+1082 - L'âne se couvre de la peau du lion.
+1083 - L'âne se reconnaît aux oreilles et le fou au parler.
+1084 - L'éclat ne saute pas loin du tronc.
+1085 - L'école est une piscine de vie.
+1086 - L'écoutant fait le médisant.
+1087 - L'écouteur est pire qu'un voleur.
+1088 - L'écouvillon reproche au fourgon.
+1089 - L'écouvillon se moque du râble.
+1090 - L'écriture ne ment point.
+1091 - L'écu a les forces d'Hercule.
+1092 - L'écu est le laquais de l'honneur.
+1093 - L'écu est un fruit qui est toujours mûr.
+1094 - L'écu fait d'hiver l'été.
+1095 - L'écu fait d'hiver le printemps.
+1096 - L'écu léger, est au médecin congé. 
+1097 - L'éducation a des racines amères, mais ses fruits sont doux.
+1098 - L'éducation développe les facultés, mais ne les crée pas.
+1099 - L'égalité n'a d'autre existence que celle de son nom.
+1100 - L'égalité, c'est l'utopie des indignes.
+1101 - L'égoïsme est semblable au vent du désert, qui dessèche tout.
+1102 - L'éloge des absents se fait sans flatterie.
+1103 - L'éloquence a autant de force dans le gouvernement des hommes que le fer dans la bataille.
+1104 - L'éloquence est la lumière qui fait briller l'intelligence.
+1105 - L'élégance est un résultat de la justesse et de l'agrément.
+1106 - L'élévation est au mérite ce que la parure est aux belles personnes.
+1107 - L'émeraude ne perd pas de son prix faute de louange.
+1108 - L'émulation est l'aliment du génie, l'envie est le poison du coeur.
+1109 - L'épervier prend toujours la meilleure poule.
+1110 - L'épée coûte plus à entretenir qu'un cheval.
+1111 - L'épée incite à la violence.
+1112 - L'épée use le fourreau. 
+1113 - L'équité considère ce qu'il convient de faire plutôt que ce qu'il faut faire. 
+1114 - L'équité est une justice en dehors de ce que la loi ordonne.
+1115 - L'étable est par trop tard fermé, quand le cheval est échappé.
+1116 - L'étable est trop tard fermé quand le cheval s'en est allé.
+1117 - L'étalon ne sent pas les coups de pieds de la jument.
+1118 - L'état fait beaucoup, l'esprit fait davantage.
+1119 - L'étoupe près du feu s'enflamme.
+1120 - L'étranger désire toujours s'en retourner en son pays.
+1121 - L'étrangère est un puits étroit.
+1122 - L'étude est le garde-fou de la jeunesse.
+1123 - L'été qui s'enfuit est un ami qui part.
+1124 - L'été sème, l'hiver mange.
+1125 - L'évènement est le maître des sots.
+1126 - L'évènement juge les actes.
+1127 - La Chandeleur froide marque un bon hiver. La Chandeleur chaude menace d'un hiver après Pâques. 
+1128 - La Fortune est aveugle.
+1129 - La Fortune est de verre. Au moment où elle brille le plus, elle se brise.
+1130 - La Fortune ne favorise pas toujours les plus dignes.
+1131 - La Fortune ne sourit aux méchants que pour mieux les perdre.
+1132 - La France c'est l'Auvergne, avec quelque chose autour.
+1133 - La Providence a mis du poil au menton des hommes pour que l'on puisse de loin les distinguer des femmes.
+1134 - La Providence n'est que le nom de baptême du hasard.
+1135 - La balle cherche le joueur. 
+1136 - La balle vient au jour, au bon joueur. 
+1137 - La barbe ne fait pas le philosophe.
+1138 - La beauté amorce l'homme et la larve la truite.
+1139 - La beauté d'une femme est quand elle a la tête bien faite.
+1140 - La beauté d'une fille, ne la marie pas.
+1141 - La beauté de la femme vient de ses témoins.
+1142 - La beauté de la taille est la seule beauté de l'homme.
+1143 - La beauté du ciel est dans les étoiles, la beauté des femmes est dans leur chevelure.
+1144 - La beauté du corps, découronnée de celle de l'âme, n'est un ornement que pour les animaux.
+1145 - La beauté dure ce qu'elle dure.
+1146 - La beauté est le miroir des fous.
+1147 - La beauté est un appui préférable à toutes les lettres de recommandation.
+1148 - La beauté est une courte tyrannie.
+1149 - La beauté est une fleur éphémère.
+1150 - La beauté est une tromperie muette.
+1151 - La beauté et la chasteté sont toujours en querelle.
+1152 - La beauté et la folie vont souvent de compagnie.
+1153 - La beauté n'est que la promesse du bonheur.
+1154 - La beauté ne donne rien à manger.
+1155 - La beauté ne sale pas la marmite.
+1156 - La beauté ne se mange ni ne se boit.
+1157 - La beauté ne se mange pas au plat.
+1158 - La beauté ne se mange pas à la cuillerée. 
+1159 - La beauté ne vient pas d'un beau corps, mais de belles actions.
+1160 - La beauté plaît aux yeux, la douceur charme l'âme.
+1161 - La beauté rend la vertu aimable.
+1162 - La beauté sans grâce est un hameçon sans appât.
+1163 - La beauté sans la grâce attire, mais elle ne sait pas retenir. C'est un appât sans hameçon.
+1164 - La beauté sert de tambourin.
+1165 - La beauté, les agréments, tout passe et le vice reste.
+1166 - La beauté, on ne peut pas la manger.
+1167 - La beauté, peux-tu la manger?
+1168 - La belle est comme la fleur, naît, fleurit, meurt et ne revient plus.
+1169 - La belle est d'ordinaire fainéante.
+1170 - La belle plume fait le bel oiseau. 
+1171 - La belle-mère est bonne, mais meilleure si la terre la couvre.
+1172 - La belle-mère ne se souvient pas quand elle était belle-fille.
+1173 - La belette et la jolie femme ne remplissent pas le grenier.
+1174 - La belette ne remplit pas le grenier.
+1175 - La besace du pauvre n'est jamais enviée. 
+1176 - La blanche chênure doit être vénérable et vénérée. 
+1177 - La blouse ne fait pas le paysan.
+1178 - La bon amour ne va jamais sans crainte.
+1179 - La bonne année en peu de temps s'en va, la petite se garde.
+1180 - La bonne bête s'échauffe en mangeant.
+1181 - La bonne cogitation, de l'âme est vraie réfection.
+1182 - La bonne doctrine, à l'esprit est médecine.
+1183 - La bonne et sainte doctrine, au fol sert de vraie médecine.
+1184 - La bonne femme fait le bon mari.
+1185 - La bonne foi n'est pas ce qui abonde en notre siècle.
+1186 - La bonne fortune a deux soeurs, l'abondance de biens et la multitude d'amis, mais la mauvaise en a beaucoup plus, c'est à savoir .
+1187 - La bonne fortune, comme elle est aveugle elle-même, rend aveugles tous ceux qui la suivent.
+1188 - La bonne grâce est au corps ce que le bon sens est à l'esprit.
+1189 - La bonne mangeoire fait la bonne bête.
+1190 - La bonne marchandise trouve facilement acquéreur.
+1191 - La bonne mère ne dit pas, veux-tu ?
+1192 - La bonne nourriture fait la belle créature.
+1193 - La bonne parole mortifie grande discorde.
+1194 - La bonne plaisanterie consiste à ne vouloir point être plaisant.Ainsi celui qui émeut ne songe point à nous émouvoir.
+1195 - La bonne renommée vaut mieux que les grandes richesses.
+1196 - La bonne renommée vaut mieux que de grandes richesses, et l'estime a plus de prix que l'argent et que l'or.
+1197 - La bonne semence requiert un terroir fertile.
+1198 - La bonne vie anoblit l'homme en tout âge. 
+1199 - La bonne vie dure toujours, la mauvaise vie aura un terme.
+1200 - La bonne volonté trouve le moyen et l'opportunité.
+1201 - La bonne volonté vaut mieux que ce qu'on donne.
+1202 - La bonne éducation fait le bon sang.
+1203 - La bonté de Dieu est insupérable. 
+1204 - La bonté et miséricorde dont l'enfant aura usé envers ses parents ne sera jamais oubliée.
+1205 - La bonté vaut mieux que la beauté.
+1206 - La borne sied très bien entre les champs de deux frères.
+1207 - La bouche débouche bien souvent, ce que le coeur juge et sent.
+1208 - La bouche en peut plus que les bras.
+1209 - La bouche parle selon l'abondance du coeur.
+1210 - La bourse cherche le fagot.
+1211 - La bourse d'un amoureux est attachée avec des tiges de poireau. 
+1212 - La bourse d'un fou et le cul d'un chien, on les voit quand on veut.
+1213 - La bourse d'un mendiant n'est jamais pleine.
+1214 - La bourse de l'avare est insatiable.
+1215 - La bourse fournie fait la femme étourdie.
+1216 - La bourse ouvre la bouche.
+1217 - La bourse porte beauté.
+1218 - La bourse sortirait plutôt d'enfer que du logis de l'avocat.
+1219 - La bourse vide fait rider le visage.
+1220 - La bouteille, la colère et puis la bourse.
+1221 - La branche ne tombe pas loin du tronc.
+1222 - La bravoure ne cède pas devant le malheur.
+1223 - La bravoure procède du sang, le courage vient de la pensée.
+1224 - La brebis est après la chèvre en quête de laine.
+1225 - La brebis noire fait des agneaux blancs.
+1226 - La brebis qu'on laisse à la gueule du loup y passe bientôt.
+1227 - La brebis qui bêle perd sa goulée. 
+1228 - La brebis qui crie le plus a le moins de lait.
+1229 - La bride et le bâton, font le cheval bon.
+1230 - La bête travaille plus que les bras.
+1231 - La bûchille ne saute pas loin du tronc.  
+1232 - La calomnie est comme le charbon, si elle ne peut pas brûler elle vous fait noir.
+1233 - La caque sent toujours le hareng. 
+1234 - La caverne et la potence sont faits pour les misérables.
+1235 - La censure épargne les corbeaux et s'abat sur les colombes.
+1236 - La chair est plus proche que la chemise.
+1237 - La chair qui croît, il faut qu'elle bouge.
+1238 - La chaleur du vin fait sur l'esprit le même effet que le feu produit sur l'encens.
+1239 - La chambrière doit être aveugle pour sa maîtresse.
+1240 - La chance est pour les chanceux.
+1241 - La chandelle qui autrui éclaire et allume, soi-même s'ard, détruit et consume.
+1242 - La chandelle qui va devant éclaire mieux que celle qui va derrière. 
+1243 - La chapelle Saint Ivre fait de beaux miracles. 
+1244 - La charge dompte la bête.
+1245 - La charité couvre toutes les fautes.
+1246 - La charité ne pèche pas.
+1247 - La charité qui ne coûte rien, le ciel l'ignore.
+1248 - La charité équivaut à l'ensemble de tous les préceptes.
+1249 - La charrette dégrade le chemin, la femme gâte l'homme et l'eau le chemin.
+1250 - La charrette gâte le chemin, la femme l'homme et l'eau le vin.
+1251 - La charrue va devant les boeufs. 
+1252 - La chasse donne la chasse.
+1253 - La chasse endurcit le coeur aussi bien que le corps.
+1254 - La chasteté est le lys des vertus.
+1255 - La chasteté fait la beauté. 
+1256 - La chatte va tant de fois au fromage blanc qu'elle s'y fait prendre.
+1257 - La chemise est plus proche de la peau que la robe.
+1258 - La chemise est plus près de la peau que la robe.
+1259 - La chemise est plus près du corps que la veste.
+1260 - La chemise est plus près du cul que des chausses.
+1261 - La chemise est plus près que la robe.
+1262 - La chemise est plus près que le manchon.
+1263 - La chemise est plus près que le pourpoint.
+1264 - La chemise est sur la peau.
+1265 - La chemise me touche, mais la chair m'est plus proche, car elle se tient à moi.
+1266 - La chemise me touche, mais la chair tient à moi.
+1267 - La chemise nous tient de plus près que notre manteau.
+1268 - La cherté donne goût à la viande.
+1269 - La chose guère vue est chère tenue.
+1270 - La chose périt pour le compte du maître. 
+1271 - La chèvre a sauté en la vigne, aussi y sautera la fille.
+1272 - La chèvre broute où c'est qu'elle est attachée.
+1273 - La chèvre est la vache du pauvre.
+1274 - La chèvre qui a repris les boucs.
+1275 - La chèvre, quand elle bêle, perd une morce.
+1276 - La cible de l'avocat est de faire d'or amas.
+1277 - La cinquième roue au chariot ne fait qu'empêcher.
+1278 - La cinquième roue d'un charret fait le plus de bruit.
+1279 - La cinquième roue d'une charrette fait le plus de bruit
+1280 - La cinquième roue de la charrette gêne plus qu'elle n'aide.
+1281 - La cire molle est la plus traitable.
+1282 - La cithare est docile à de molles pressions, mais elle répond d'une façon discordante à qui l'interroge avec violence.
+1283 - La clarté est la bonne foi des philosophes.
+1284 - La clarté sert au cheminant et la parole à l'écoutant.
+1285 - La cloche du mariage rompt les bras aux femmes et leur allonge la langue.
+1286 - La cloche du sot est vite sonnée.
+1287 - La cloche nous attend pour nous mettre dans le berceau et nous mettre dans la terre.
+1288 - La clémence vaut mieux que la justice.
+1289 - La coiffe vaut mieux que le chapeau.
+1290 - La coiffe à madame est toujours la plus belle.
+1291 - La colère des dieux est lente mais terrible.
+1292 - La colère du roi est comme le rugissement d'un lion et sa faveur est comme la pluie du printemps.
+1293 - La colère est une courte folie.
+1294 - La colère qui continue est une mer en folie.
+1295 - La compassion se prépare à elle-même de grands secours.
+1296 - La complaisance de l'épouse produit bientôt la haine de la courtisane.
+1297 - La comédie corrige les moeurs en riant.
+1298 - La comédie réveille les sens, la musique les jette à la renverse.
+1299 - La concorde augmente les petites fortunes, la discorde ruine les plus grandes.
+1300 - La confiance de plaire est souvent un moyen de déplaire infailliblement.
+1301 - La confiance fournit plus à la conversation que l'esprit.
+1302 - La conscience vaut mille témoins.
+1303 - La constance n'est point la vertu d'un mortel, et pour être constant, il faut être immortel.
+1304 - La continuelle gouttière rompt la pierre. 
+1305 - La contrée est malheureuse et méchante, en laquelle le coq se tait et la poule chante.
+1306 - La conversation est l'image de l'esprit.
+1307 - La conversation est un jeu où il ne faut pas mettre un louis contre un écu.
+1308 - La conviction est la conscience de l'esprit.
+1309 - La coquetterie, c'est la véritable poésie des femmes.
+1310 - La corde d'une mandore ou d'un violon, se rompt en la tirant trop.
+1311 - La corruption des meilleurs est la pire.
+1312 - La couche nuptiale est l'asile des soucis, c'est le lit où l'on dort le moins.
+1313 - La cour est une forêt de tous animaux et prairie de toutes herbes.
+1314 - La cour rend des arrêts, et non pas des services.
+1315 - La course n'appartient pas aux agiles ni la bataille aux vaillants.
+1316 - La couteau n'apaise l'hérésie.
+1317 - La coutume ancienne a force de loi. 
+1318 - La coutume contraint la nature.
+1319 - La coutume est la meilleure interprète de la loi 
+1320 - La coutume est la reine du monde, chez les dieux comme chez les mortels.
+1321 - La coutume est plus sûre que la loi.
+1322 - La crainte d'un défaut fait tomber dans un pire.
+1323 - La crainte de Dieu est le commencement de la sagesse.
+1324 - La crainte de la guerre est encore pire que la guerre elle-même.
+1325 - La crainte fit les dieux, l'audace a fait les rois.
+1326 - La crasse dépare gens et bêtes.
+1327 - La critique est aisée, et l'art est difficile.
+1328 - La croix est l'escalier des cieux.
+1329 - La croix est plantée partout.
+1330 - La croyance aux préjugés passe dans le monde pour bon sens.
+1331 - La cruche va tant à l'eau qu'elle se rompt.
+1332 - La crèche vide, les chevaux se battent.
+1333 - La créature humaine, de bonne affaire ne doit cesser de bien faire.
+1334 - La cuisine trop grasse amaigrit le maître et fait dépérir sa maison.
+1335 - La cuisinière est tombée dans la marmite.
+1336 - La cuisinière est tombée sur les cendres.
+1337 - La culture de l'esprit est un autre soleil pour les gens instruits.
+1338 - La culture, c'est ce qui reste quand on a tout oublié. 
+1339 - La cupidité se tourne contre celui qui s'y livre.
+1340 - La curiosité réduit l'homme à la mendicité.
+1341 - La curiosité est un vilain défaut. 
+1342 - La curiosité naît de la jalousie.
+1343 - La célébrité, c'est l'avantage d'être connu de ceux qui ne vous connaissent pas.
+1344 - La côte d'Adam a plus d'aloès que de miel.
+1345 - La démesure en fleurissant produit l'épi de la folie, et la récolte est une moisson de larmes.
+1346 - La dernière goutte est celle qui fait déborder le vase.
+1347 - La difficulté de réussir ne fait qu'ajouter à la nécessité d'entreprendre.
+1348 - La dignité est ton bien ainsi que la probité. Qui peut te les ravir ?
+1349 - La diplomatie est la clef de toutes discussions.
+1350 - La dignité est une majesté qui résulte d'une raison droite et sérieuse.
+1351 - La discipline et bonne accoutumance est de très grande efficace et puissance. 
+1352 - La discussion réveille l'objection et tout finit par le doute.
+1353 - La dissimulation est un effort de la raison, bien loin d'être un vice de la nature.
+1354 - La diète guérit davantage que la saignée. 
+1355 - La diète n'a jamais tué.
+1356 - La douceur apprivoise les brutes.
+1357 - La douceur de caractère donne la sûreté, mais enlève l'indépendance.
+1358 - La douleur celée n'a point de guérison.
+1359 - La douleur de femme morte dure jusqu'à la porte.
+1360 - La douleur de l'âme pèse plus que la souffrance du corps.
+1361 - La douleur est aussi nécessaire que la mort.
+1362 - La douleur est le remède à la douleur.
+1363 - La douleur qui se tait n'est est que plus funeste.
+1364 - La dure mort, atterre faible et fort. 
+1365 - La délicatesse est un don de nature, et non une acquisition de l'art.
+1366 - La délicatesse est à l'esprit ce que la bonne grâce est au corps.
+1367 - La démence exaltée se tourne contre elle-même.
+1368 - La démocratie, c'est le gouvernement du peuple, par le peuple, pour le peuple.
+1369 - La dépendance est née de la société.
+1370 - La dépense coûte plus que la dot.
+1371 - La fable est la soeur aînée de l'histoire.
+1372 - La faiblesse est le seul défaut que l'on ne saurait corriger.
+1373 - La faiblesse est plus opposée à la vertu que le vice.
+1374 - La faim a marié la soif.
+1375 - La faim chasse le loup du bois.
+1376 - La faim est le premier service d'un bon dîner.
+1377 - La faim est mauvaise.
+1378 - La faim est pressante.
+1379 - La faim est un bon conseiller.
+1380 - La faim fait sortir le loup du bois. 
+1381 - La faim fait tout faire.
+1382 - La faim fait trouver le pain tendre.
+1383 - La faim n'est pas aussi mauvaise que la soif.
+1384 - La faim rend les gens actifs.
+1385 - La faim rend tout agréable, excepté elle-même.
+1386 - La faim se contente de pain.
+1387 - La faim sert de pitance.
+1388 - La familiarité découvre maints secrets.
+1389 - La familiarité engendre le mépris.
+1390 - La fantaisie est semblable et contraire au sentiment.
+1391 - La fantaisie à femme souvent change.
+1392 - La farine du diable ne fait pas de bon pain.
+1393 - La fausse modestie est le dernier raffinement de la vanité.
+1394 - La fausse modestie est le plus décent de tous les mensonges.
+1395 - La faute de la vache, c'est le veau qui la paye.
+1396 - La faux paît le pré, l'argent oprant l'orge.
+1397 - La faux paît les prés.
+1398 - La faveur a cela de commun avec l'amour, que si elle n'augmente pas, elle décroît.
+1399 - La faveur des princes n'exclut pas le mérite, et ne le suppose pas aussi.
+1400 - La faveur met l'homme au-dessus de ses égaux, et sa chute au-dessous.
+1401 - La façon de donner vaut mieux que ce qu'on donne.
+1402 - La femme a la nature versatile de la mer.
+1403 - La femme a le bec de pie et le dard fourchu du serpent.
+1404 - La femme a plus de langue que de tête.
+1405 - La femme a plus peur d'être mal nourrie que mal fourbie.
+1406 - La femme a semence de cornes.
+1407 - La femme appartient à qui la paye.
+1408 - La femme au profit, l'homme à l'honneur.
+1409 - La femme avec qui tu te marieras, choisis-la de ta condition.
+1410 - La femme avisée, quand il pleut fait la lessive.
+1411 - La femme belle n'est pas chanteuse.
+1412 - La femme bien mariée est celle qui n'a ni belle-mère ni belle-soeur.
+1413 - La femme bien élevée vit chez elle.
+1414 - La femme bonne et fidèle est un trésor sans pareil.
+1415 - La femme bonne et loyale est un trésor sans égal.
+1416 - La femme c'est comme la barque, il est à craindre qu'elle ne chavire.
+1417 - La femme c'est le diable de jour, le Bon Dieu la nuit.
+1418 - La femme c'est un ange la nuit, un démon le jour.
+1419 - La femme chaste est celle qui n'a pas été sollicitée.
+1420 - La femme comme la noix, celle qui se tait est la bonne.
+1421 - La femme coquette est comme l'ombre, suis-la elle te fuit, fuis-la elle te suit.
+1422 - La femme coquette est l'agrément des autres et le mal de qui la possède.
+1423 - La femme d'un bon mari le porte écrit sur sa figure.
+1424 - La femme du marin est en puissance de mari le matin, veuve le soir.
+1425 - La femme du marinier va bien souvent mariée le matin et veuve le soir.
+1426 - La femme en fait sortir par la fenêtre plus que l'homme n'en fait entrer par la porte.
+1427 - La femme est chose variable et changeante.
+1428 - La femme est comme la barque, il est à craindre qu'elle ne vienne à faillir.
+1429 - La femme est comme la châtaigne gâtée, belle au-dehors, amère au-dedans.
+1430 - La femme est comme la châtaigne, belle au-dehors et dedans le ver.
+1431 - La femme est comme la châtaigne, belle dehors et dedans le ver.
+1432 - La femme est comme la châtaigne, brillante en-dehors mais en dedans le défaut.
+1433 - La femme est de feu, l'homme d'étoupe, le diable passe et souffle.
+1434 - La femme est la clef du ménage.
+1435 - La femme est la porte de l'enfer.
+1436 - La femme est le Bon Dieu de la maison.
+1437 - La femme est moins portée que l'homme aux nobles actions, et beaucoup plus aux actions honteuses.
+1438 - La femme est purifiée tout de suite du contact de son mari, de celui d'un autre jamais.
+1439 - La femme est tout à tour la joie et le fléau de la vie des hommes.
+1440 - La femme est un animal à cheveux longs et à idées courtes.
+1441 - La femme est un certain animal difficile à connaître.
+1442 - La femme est à l'homme un mal agréable.
+1443 - La femme est à l'homme un orage domestique.
+1444 - La femme estime toujours son voisin être de violette.
+1445 - La femme et la poêle à frire ne doivent pas bouger de la maison.
+1446 - La femme et la toile mal se choisissent à la chandelle.
+1447 - La femme et la toile ne se choisissent pas à la chandelle.
+1448 - La femme et la toile ne se choisissent à la chandelle.
+1449 - La femme et la toile ne se doivent pas choisir à la chandelle.
+1450 - La femme et la toile se choisissent mal à la chandelle.
+1451 - La femme et le navire, il est à craindre qu'ils ne chavirent.
+1452 - La femme et le riz se nourrissent d'eau.
+1453 - La femme et le riz, d'eau se nourrissent.
+1454 - La femme et le riz, en eau fleurissent.
+1455 - La femme fait oublier ses défauts et peut aller partout la tête haute, si elle est honnête de corps. 
+1456 - La femme fait un ménage ou défait.
+1457 - La femme forte surveille les sentiers de sa maison, et elle ne mange pas le pain de l'oisiveté.
+1458 - La femme jolie jamais ne vous enrichira.
+1459 - La femme la plus louée est celle dont on ne parle pas.
+1460 - La femme la plus vertueuse a en elle quelque chose qui n'est pas chaste.
+1461 - La femme laide, l'or la rend jolie.
+1462 - La femme mange comme deux, a de l'esprit comme quatre, de la malice comme six, de la passion comme huit.
+1463 - La femme ne doit pas apporter de tête en ménage
+1464 - La femme peut enrouler l'homme autour de son doigt.
+1465 - La femme pleure d'un oeil et rit de l'autre.
+1466 - La femme pleure tôt ou tard.
+1467 - La femme pour se faire belle se fait laide.
+1468 - La femme prudente et sage est l'ornement du ménage.
+1469 - La femme qui a de la grâce obtient la gloire.
+1470 - La femme qui a le meilleur parfum est celle qui n'est pas parfumée.
+1471 - La femme qui a un mauvais mari le porte écrit sur le visage.
+1472 - La femme qui allaite ne tombe pas grosse.
+1473 - La femme qui blâme son mari, à l'essai demande autre voisin.
+1474 - La femme qui conte tout à l'homme, pleure plus qu'elle ne rit.
+1475 - La femme qui dit tout à son mari, pleure plus qu'elle ne rit.
+1476 - La femme qui fait un métier d'homme appartient au troisième sexe.
+1477 - La femme qui se tait vaut mieux que celle qui parle.
+1478 - La femme qui sort beaucoup à la rue tient sa maison comme un fumier.
+1479 - La femme rit quand elle peut et pleure quand elle veut.
+1480 - La femme règne et ne gouverne pas.
+1481 - La femme sage bâtit la maison, la femme insensée la renverse.
+1482 - La femme sage bâtit sa maison et la femme insensée la renverse de ses propres mains.
+1483 - La femme sage est l'ornement du ménage.
+1484 - La femme sait le lieu malin où le diable cache sa ferraille.
+1485 - La femme sans bijoux est comme un moulin sans meule.
+1486 - La femme sans boucles d'oreilles semble un âne sans muselière.
+1487 - La femme se plie et l'homme se brise.
+1488 - La femme se prend à la vue et non au goûter.
+1489 - La femme serait un ragoût suave si le diable n'y mettait ni sel ni poivre.
+1490 - La femme souffre plus que l'homme du mal d'amour, mais elle sait mieux le dissimuler.
+1491 - La femme sur son dos est aussi forte qu'un chêne debout.
+1492 - La femme toute seule n'est rien.
+1493 - La femme trouve plus facile d'agir mal que bien.
+1494 - La femme varie.
+1495 - La femme veut être servie à la grande mesure.
+1496 - La femme, l'argent et le vin, ont leur bien et leur venin.
+1497 - La femme, ou nonne ou mariée.
+1498 - La femme, si elle est belle, te fait faire sentinelle.
+1499 - La fermeté est l'exercice du courage de l'esprit.
+1500 - La feuille de l'arbre, la langue de la femme, la queue de la chèvre, remuent toujours.
+1501 - La feuille tombe sur la terre, la beauté déchoit aussi.
+1502 - La feuille tombe à terre, ainsi tombe la beauté.
+1503 - La fiancée n'est pas mariée.
+1504 - La fidélité se trouve au chenil.

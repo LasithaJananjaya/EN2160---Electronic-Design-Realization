@@ -1,0 +1,14 @@
+WAV2MP3.exe by F6DQM
+==================================
+This freeware converts WAV files to MP3 files.
+It converts WAV files which format is 11025kHz, 22050kHz or 44100 kHz, mono or stereo, 16 bits, produced by CW_PLAYER, MywaveRecorder or any other software in this particuliar format. It does not support 8 bits samples.
+Please remember that CW_PLAYER does not create WAV files with 44100 kHz sampling rate (only 11025 and 22050 kHz).
+It requires lame_enc.dll which is included in the CW_PLAYER and MyWaveRecorder packages. This DLL must be in the same directory as WAV2MP3.exe.
+Input the name of the WAV file to convert in the "original" field or click the browse button to choose the WAV file to be converted.
+The new MP3 file will by default have the same name as the WAV file but with the .mp3 extension. It will also be created in the same directory as the original WAV file. You may change manually this name and this directory.
+If the original format is not supported by WAV2MP3.exe, an error should be raised.
+When conversion is completed, verify and listen to the new MP3 file with the Play button or with your favourite Media Player. The compression factor should be about 5 to 1. The sound should be very similar to the original. If not (for example too fast) this means that the original WAV file has not been created in a supported format. Please, re-create it in the required format.
+Best 73s
+Gabriel F6DQM
+http://f6dqm.free.fr
+==================== 

@@ -1,0 +1,916 @@
+ ===========================================
+              CW_PLAYER
+ ===========================================
+       Escrito por G. Rivat F6DQM
+          http://f6dqm.free.fr
+ ===========================================
+
+Este programa freeware genera los caracteres del código Morse, el código Q,
+las abreviaciones, series de caracteres aleatorios y archivos de texto. 
+Pone a prueba su conocimiento por medio de un Quiz y lo ayuda a tener una 
+buena manipulación monitoreando su señal de CW. Manipulando sin transmitir 
+y verificando su transmisión en pantalla hace luego que su transmision la 
+pueda relizar con menos nerviciosismo y mas confianza.
+Genera archivos de sonido Wave (*.wav) de caracteres morse los cuales pueden 
+ser reproducidos por cualquier programa de multimedios.
+
+Usted puede crear caracteres locales.
+Existen 20 lecciones para el aprendizaje del código Morse. Usted puede
+ modificar estas lecciones a su conveniencia.
+
+CW_Player necesita una placa de sonido y Win95 o superior.
+
+Ademas del archivo de Ayuda, cuando el mouse apunta a los controles o 
+las opciones se muestran carteles con una breve descripcion.
+If you can't open the HLP file under Vista please look at this link :
+http://www.microsoft.com/downloads/details.aspx?FamilyId=6EBCFAD9-D3F5-4365-8070-334CD175D4BB&displaylang=en  
+
+Se pueden usar las caracteristicas de Windows como Copiar (Control-C) y 
+Pegar (Control-V) series aleatoreas seleccionadas y reproducirlas copiando 
+las mismas en el Cuadro de Texto o grabarlar en un archivo usando la opción 
+Pegar en su editor favorito. (El Cuadro de Texto solo acepta un registro, 
+solo una linea de un archivo ASCII puede ser pegada en este Cuadro)
+
+Este programa ha sido ideado para ser descargado por los navegadores de la 
+Web desde los sitios de radio aficionados.
+Su proposito es el de iniciar a los no radio aficionados y a los radio 
+aficionados ya licenciados sin código, en el código Morse y ayudarlos a 
+entrar en las bandas de HF.
+
+Por ello, si usted administra un sitio Web para radio aficionados, no dude en
+ofrecer este programa a sus visitantes. 
+
+Ademas, este programa tambien puede ser utilizado para el entrenamiento de 
+código Morse, por instructores de CW o para entremamiento en el aire 
+conectando una de las salidas de su placa de sonido a la entrada de audio de 
+su tranceptor de BLU o FM.
+
+VERY IMPORTANT : 
+While running this program under VISTA, WIN7, 8, 10 from a sub-directory under the directory Program Files, 
+you will have to start this program as administrator anyway for getting full access to all functions of it, especially the recording of text files, image files, sound files. 
+If you don’t do that, the produced files won’t be accessible because of the UserAccountControl (UAC) of Windows.
+If you don’t want to run the program as admin, you have to install it in a sub-directory which is NOT under C:\Program Files,
+but anyw<here else, for example C:\MyPrograms\. There, the function of the UAC takes no effect.
+
+73, Gabriel F6DQM
+http://f6dqm.free.fr
+email via web site or f6dqm(at)free(dot)fr
+===========================
+VERSIÓN 5.0.6
+=============
+- Guardar la posición de la ventana de ajuste del filtro de audio
+- Se agregó el menú "Mantente arriba"
+- Correcciones en la versión Delphi10
+
+VERSIÓN 5.0.5
+=============
+- Opción para reemplazar los caracteres especiales por sus equivalentes ANSI cuando existan.
+- Introducir un filtro de banda de paso de audio en el proceso de decodificación de audio del Monitoreo.
+
+VERSIÓN 5.0.4
+===========
+- Para agregar el botón que convierte UFT8 a ANSI en la ventana Archivo
+- Para agregar la opción que crea archivos de texto a partir de los titulares de las noticias de la agencia de prensa AFP
+
+Versión 5.0.3
+=============
+- Creación de ventanas de diálogo locales para poder ampliarlas y gestionar la fuente.
+- Advertencia sobre el uso del mouse como manipulador Morse
+
+VERSIÓN 5.0.2:
+============
+- Para guardar los nombres de los últimos directorios abiertos por CW_PLAYER al elegir un archivo de texto o archivo de vocabulario.
+
+VERSIÓN 5.0.1
+=============
+- Ajuste fino del espaciado entre palabras.
+- Se agregó una advertencia en la ventana de archivo con respecto a la codificación de archivos de texto
+- En la versión DX (Delphi10), codificación ANSI de las grabaciones de texto.
+- Cambio de fuente solo para Agrandar del 100%.
+
+VERSIÓN 4.9.9
+=============
+- Compatibilidad con Windows 10/11 de la gestión de puertos paralelos.
+
+VERSIÓN 4.9.8
+=============
+- Para agregar un botón de minúsculas/mayúsculas en la ventana "Zoom".
+
+VERSIÓN 4.9.7
+=============
+- Opción para reproducir una serie de caracteres en modo aleatorio
+
+VERSIÓN 4.9.6
+
+=============
+
+- Corrección en la creación del texto baliza
+
+VERSIÓN 4.9.5
+=============
+- Para reducir el parpadeo de la visualización del texto del archivo
+
+VERSIÓN 4.9.4
+=============
+- Opciones Varias / MONITOR: Filtrado de clics (relativo a la placa de sonido)
+
+VERSIÓN 4.9.3
+
+=============
+
+- Para corregir una anomalía en la versión anterior
+
+VERSIÓN 4.9.2
+=============
+- Para crear la baliza
+
+VERSIÓN 4.9.1
+
+=============
+
+- Para agregar el carácter " en la lista de signos.
+
+- Para agregar el carácter especial "Entendido".
+
+- En modo MONITOR, agregar una opción para reemplazar el [XX] de los caracteres especiales por un texto claro.
+
+- En modo MONITOR, agregar una opción para reemplazar un carácter local por su comentario si ha sido definido por el usuario.
+- Acceso directo a herramientas para la gestión de caracteres locales y especiales haciendo clic derecho en las páginas correspondientes del alfabeto.
+
+- Varias mejoras y correcciones.
+
+VERSIÓN 4.9.0
+=============
+- En el menú de Opciones, posibilidad de ocultar el reporte en modo QUIZ durante el juego
+- En el reporte detallado del modo QUIZ, visualización de la velocidad de respuesta del operador
+
+VERSIÓN 4.8.9
+=============
+- Menú para ampliar las ventanas de CW_Player para usuarios con discapacidad visual o para usuarios de pantallas de muy alta definición. Este menú está inhibido si el usuario ya está usando la ampliación nativa de Windows (DPI mayor que 96).
+- Botón para cambiar directamente el tipo de letra en la ventana Aleatoria sin pasar por los menús.
+
+VERSIÓN 4.8.8
+=============
+- Para guardar los resultados de QUIZ en un archivo de texto.
+
+VERSIÓN 4.8.7
+=============
+- Para corregir un error al recuperar la opción de TX PTT / COM.
+
+VERSIÓN 4.8.6
+=============
+- Opción para agregar espacios iniciales delante de los carcateres. Esto es para ayudar a la codificación sincronizada.
+
+VERSIÓN 4.8.5
+=============
+- Para corregir una anomalía que puede ocurrir después de la creación de lecciones con una gran cantidad de caracteres.
+
+VERSIÓN 4.8.4
+=============
+- Introducción de los menús Copiar y Pegar en el menú Herramientas
+
+VERSIÓN 4.8.3
+=============
+- Para corregir una anomalía al grabar un texto en mp3 en un directorio diferente del directorio de CW_PLAYER.
+- Para guardar las últimas opciones del panel "Grabar como Wave".
+- Para agregar un espacio al comienzo del texto que se va a convertir en Wave. Esto es para evitar el truncamiento de la primera letra por el convertidor de mp3.
+
+VERSIÓN 4.8.2
+=============
+- En el modo ARCHIVO, cuando un archivo se ha detenido y está esperando que se reanude, un clic en el texto modificará la posición donde se reiniciará la reproducción.
+- Opción en el menú VARIOS para aplicar esta modificación inmediatamente después de cargar el archivo. Tenga en cuenta que en este caso, se hace imposible modificar el texto después de cargarlo.
+
+VERSIÓN 4.8.0
+=============
+- Para actualizar WAV2MP3 y lame_enc.dll
+
+VERSIÓN 4.7.8
+=============
+- Para corregir un error en la visualización del archivo al cambiar la fuente.
+
+VERSIÓN 4.7.7
+=========
+- Opción en QUIZ : Ecualizar la aparición de los caracteres.
+- Implementar el reporte detallado en modo QUIZ
+- Para actualizar la ayuda española (por Juan Pablo EA4CIV)
+
+VERSION 4.7.6
+=============
+- Algunas pequeñas mejoras.
+
+VERSIÓN 4.7.5
+=============
+- QUIZ - Tiempo para responder : Pasos de 100 ms en el intervalo de 0-1 segundos.
+- QUIZ - Boton de ayuda
+- Algunas pequeñas mejoras.
+
+VERSIÓN 4.7.4
+=========
+- Opción de agregar un espacio al final de cada línea de un archivo de texto
+- El número de líneas de archivos de texto está limitado a 10000.
+- Correcciones y mejoras en la ventana DEMO.
+
+VERSIÓN 4.7.3
+============
+- Botón para abrir el control de volumen del sistema.
+
+VERSIÓN 4.7.2
+=============
+- Para reemplazar ioctrl.dll por ntport.dll
+
+VERSIÓN 4.7.1
+=============
+- Tratamiento extendido de las direcciones del puerto LPT
+
+VERSIÓN 4.7.0
+=============
+- para actualizar ioctl.dll (cancelado en la Versión 4.7.1)VERSIÓN 4.7.0
+- para arreglar el ejecutable de instalación para la arquitectura de 64 bits
+
+VERSIÓN 4.6.9
+=============
+- Para crear diferentes puntos de acceso a los temas del archivo de ayuda relacionados con las ventanas del programa que realmente se muestran.
+
+VERSIÓN 4.6.8
+============
+- En el modo Aleatorio, para cambiar la lección con un simple clic en el texto que muestra el número de la lección actual.
+- Mejorar el tratamiento de la configuración de la lección.
+
+VERSIÓN 4.6.7
+=============
+- Actualizar los archivos de ayuda
+
+VERSIÓN 4.6.6
+=============
+- Para agregar un conjunto de lecciones de acuerdo con el método KOCH (en el menú Herramientas / Procesando lecciones)
+
+VERSIÓN 4.6.5
+=============
+- Para agregar el menú Estadística para el juego Morse-Jong
+- Las flechas verticales del teclado permiten la selección continua de las 60 lecciones con conmutación automática del
+Páginas
+- Para corregir anomalías relacionadas con la estabilidad de visualización de la ventana de Morse-Jong cuando se selecciona Modo Aleatorio o Archivo
+
+VERSIÓN 4.6.4
+=============
+- para agregar métodos abreviados de teclado (ALT + UP y ALT + DOWN) para cambiar la página en la lista de lecciones.
+
+VERSION 4.6.3
+=============
+- Pequeña corrección
+
+VERSION 4.6.2
+=============
+- Menú para cambiar el color de fondo del juego Morse-Jong
+
+VERSION 4.6.1
+=============
+- Modificaciones menores
+
+VERSION 4.6.0
+=============
+- To introduce some 3D effect in the design of the Morse-Jong tiles.
+
+VERSION 4.5.9
+=============
+- Introducción de Morse-Jong juego para relajarse después del esfuerzo!
+
+VERSION 4.5.8
+=============
+- El espaciado estándar entre las palabras que figuran a 7 puntos (regulación de la UIT) y la actualización del cálculo de la velocidad real basado en el número de espaciamiento seleccionado.
+
+VERSION 4.5.7
+=============
+- Helyére www.f6dqm.fr által f6dqm.free.fr
+
+VERSION 4.5.6
+=============
+- Para corregir un error al manipular con los botones del ratón
+- Para actualizar la ayuda española (por Juan Pablo EA4CIV)
+
+VERSION 4.5.5
+=============
+- To add LPT driver for 64-bits architecture
+- New release of ioctrl.ll library 
+
+VERSION 4.5.4
+=============
+- Elección entre DSR, CTS y CD para conectar los contactos de puntos y rayas del manipulador en el puerto serie.
+- Elección entre DTR y/o RTS para alimentar el manipulador (+ 12V) si es necesario.
+- Para establecer DTR y/o estrategia en tiempo real de alto nivel con un botón "on" en el panel PORT, paralelo al botón "ptt" de la ventana de Monitoring.
+
+VERSION 4.5.1 a 4.5.3
+======================
+- Correcciones menores y versiones de prueba
+
+VERSION 4.5.0
+=============
+- Introducción de la manipulación yámbico
+
+VERSION 4.4.9
+=============
+- Retardo variable entre 0 y 5 segundos antes de jugar en el modo Aleatorio
+
+VERSION 4.4.8
+============
+- To fix a bug in QSB speed restoring.
+
+VERSION 4.4.7
+============
+- To fix bugs
+
+VESRION 4.4.5
+============
+- Guardar y restaurar el número de lecciones
+- Haga doble clic para entrar en la lección. Haga clic derecho para crear o modificar la lección seleccionada.
+- Otras correcciones y modificaciones menores.
+
+VERSION 4.4.4
+============
+- Los niveles de ruido divididos por 2
+- El estado de los botones QSB, QRN y QRH se guarda
+- Tres velocidades QSB están disponibles.
+
+VERSION 4.4.3
+============
+- Menu/Opciones/Varias MONITOR : Duración ilimitada de la raya con tecla simple o CTRL.
+- En el modo Monitor, con tecla simple o CTRL, para reemplazar signos erróneos por los caracterees ? y ! diciéndole al alumno cómo mejorar su manipulación.
+
+VERSION 4.4.2
+===========
+- En el modo Monitor, para filtrar los clics de audio al usar la tecla simple.
+- En el modo Monitor, opción para un factor de calibración al usar la tecla doble.
+
+VERSION 4.4.1
+============
+- Para corregir o mejorar los textos españoles (EA4CIV).
+
+VERSION 4.4.0
+============
+- Para modificar el proceso de lectura de la última versión disponible y para mostrar la información en la barra de menú.
+
+VERSION 4.3.9
+============
+- Para activar o desactivar el jingle en la final de la serie Quiz y la serie Aleatoria (menú Opciones / Varias).
+- Para activar o desactivar la tecla Intro para terminar la serie Quiz o la serie Aleatoria ( menú Opciones / Varias).
+
+VERSION 4.3.7
+===========
+- Jingle al final de la serie en el modo de Prueba
+- Posibilidad de desactivar el jingle en concurso y los modos de Aleatoria con el menú Opciones / Varias
+- Correcciones con el panel de espaciamiento y el sub-menús QUIZ
+
+VERSION 4.3.5
+===========
+- Para reiniciar un archivo desde el principio haciendo clic derecho sobre el botón "Continuar Archivo"
+- Condiciones para inhibir los menús que cambian personajes para jugar cuando el modo de concurso o el modo aleatorio está ejecutando.
+- Para remplacer VA por SK en la lista de caracteres especiales
+- Para traducir los botones de diálogo.
+
+VERSION 4.3.4
+===========
+- Para cambiar y para crear textos, sobre todo los ingleses.
+- Capacidad de ocultar el emoticono en concurso haciendo clic en este emoticono
+- Para volver a organizar el panel Archivo y para ampliar la ventana de texto de archivos
+- Para desactivar un clic del ratón en la ventana del texto de archivo.
+- Capacidad para acercar o para alejar el tamaño de fuente en la ventana de DEMO.
+
+VERSION 4.3.3
+===========
+- Número de espacios entre las palabras de 1 a 20. Este ajuste se encuentra en el mismo panel que el número de espacios entre caracteres.
+
+VERSIÓN 4.3.2
+============
+- En la ventana de información, añadir un botón para comprobar si el usuario utiliza la última versión.
+
+VERSIÓN 4.3.0
+===========
+- Para tener en cuenta una particularidad de la base de registro en algunas versiones de Windows 7
+
+VERSION 4.2.9
+=============
+- Opción : Buscar una nueva versión cuando se inicia el software.
+
+VERSIÓN 4.2.8
+============
+- Actualizar los atajos de teclado
+- Actualizar los archivos de ayuda
+- Actualizar los textos Portugeese
+
+VERSION 4.2.7
+=============
+- Para reemplazar el archivo .dat de un archivo .ini
+- Mejorar el control de la definición de atajos
+- Para advertir al usuario cuando se crea un carácter local o un atajo directo de un carácter
+   que ya cuenta con un código Morse por defecto (Esto no se aplicará a los caracteres estándar que
+   no puede ser modificado).
+
+VERSIÓN 4.2.5
+=============
+- Reemplazar los archivos de ayuda .hlp en los archivos de ayuda .chm
+- Añadir los códigos Morse de algunos caracteres raramente utilizados por radioaficionados (&, $, _)
+- En caso de supresión de un carácter local, restaurar el código morse original de ese carácter
+  si se definió en la lista original (no se aplica a los caracteres estándar).
+
+VERSION 4.2.4
+=============
+- Para corregir errores de menor importancia
+- Posibilidad de insertar un texto en la memoria aleatoria y grabarlo como un archivo Wav
+
+VERSION 4.2.2
+=============
+- Opción para abrir el WAV to MP3 Converter (WAV2MP3.exe) después de la creación de un archivo WAV.
+
+VERSION 4.2.1
+=============
+- El espacio entre palabras hasta 8 veces el valor normal.
+
+VERSION 4.2.0
+=============
+- Velocidad máxima de hasta 70 palabras por minuto
+- Pequeñas mejoras
+- Proporcionar un software de utilidad para convertir archivos WAV a archivos MP3 (WAV2MP3.exe).
+
+VERSION 4.1.8
+=============
+- En el modo aleatorio, la opción de introducir un retardo de espera de 5 segundos antes de jugar.
+- En el modo aleatorio, la tecla Intro se activa el botón de Reproducción o el botón de Stop cuando juego está en progreso.
+
+VERSION 4.1.7
+=============
+- Para añadir húngaro gracias a Attila, HA5JA.
+
+VERSION 4.1.5
+=============
+- Para corregir una anomalía en la pantalla de número de la lección, cuando 2 lecciónes se definen con la misma cadena de caracteres
+
+VERSION 4.1.4
+===========
+Si un error ocurre abriendo la placa de sonido el modo Monitor, CW_Player inutiliza el decodificador de audio, pero dejar al usuario usa la llave de Morse o la tecla CTRL para entrenar el Morse.
+En las versiones anteriores, CW_Player abortado en tal caso.
+
+VERSION 4.1.3
+===========
+- En la página Monitoring para los niños, para agregar una opción entre una representación gráfica o una representación acústica de los caracteres
+
+VERSION 4.1.2
+===========
+- Opción QUIZ : Retardo para el primer carácter
+
+VERSION 4.1.1
+===========
+- Disponibilidad del reciente versión aparece en el menú Información
+- Opción para controlar de forma automática esta disponibilidad al abrir el programa
+- Corrección de la imagen del alfabeto en la ventana Monitoring, opción del chico
+- Botón en esta ventana para cambiar rápidamente a la opción del chico
+
+VERSION 4.1.0
+===========
+- En Monitoreo, opción para controlar el texto para los niños. Las imágenes animadas y el morse aphabet ayudan a los niños a la llave Morse. Su keying es controlado contra la ventana de Texto. 
+- En Monitoreo, opción para hacer el ERROR de alfabeto morse (HH) activo. 
+
+VERSION 4.0.6a
+============
+- Para corregir una anomalía en el modo de QUIZ, cuando el tiempo para responder se acorta.
+
+VERSION 4.0.6
+===========
+- Para agregar accesos directos en QRI (tono), QRN (ruido), QSB (desvanecimiento) y QRH (deriva)
+
+VERSION 4.0.4
+===========
+- ZOOM en el menù Opciones
+
+VERSION 4.0.3c
+============
+- To fix a bug in Quiz mode
+
+VERSION 4.0.3b
+============
+- Add ptt button in Monitoring
+
+VERSION 4.0.3
+===========
+- Menú de Puerto / KEYER port : joystick, ratón o COM (CTS+DSR)
+- Seguimiento de decodificar estos tres puertos
+
+VERSION 4.0.1
+===========
+- opción para cambiar la fuente de la pantalla.
+
+VERSION 4.0
+============
+- Corregir un error relacionado con el puerto COM guardado
+- Opción para ocultar los consejos (pero no MSG y reales de velocidad)
+- Guardar la última posición de la ventana principal
+- Opción de crear la deriva de frecuencia QRH) en modo aleatorio y el modo del archivo
+- Creación de la hoja de entrada en modo aleatorio y el modo del archivo
+- Actualizar los textos portugués
+- Opción de crear Morse con la tecla CTRL del teclado.
+- Para mejorar la decodificación de audio y directa
+- En modo QUIZ, opción para acortar la tiempo cuando se da una respuesta
+- En modo QUIZ, menu para monstrar errores y esperar antes de reanudar
+- En modo QUIZ, menu para escuchar de nuevo el caracter erroneo ultima
+- En la ventana de Monitoreo, para agregar la pantalla el código Morse en vivo
+
+VERSION 3.3.5
+============
+- To fix an anomaly when monitoring single key signals.
+
+VERSION 3.3.4
+=============
+- Opción en el modo QUIZ : Velocidad variable y tiempo variable 
+
+VERSION 3.3.0
+=============
+- Option Examen France (in french language only)
+- Word and text files proposed for the Vocabulary option
+
+VERSION 3.2.7
+=============
+- Option Vocabulary
+
+VERSION 3.2.6
+=============
+- Option Lowercase for the Random window
+
+VERSION 3.2.5a
+==============
+- Add the Clear button in the Monitoring window
+
+VERSION 3.2.5
+=============
+- Replacement of the Joystick component
+
+VERSION 3.2.3a,b,c
+==================
+- to fix bugs
+
+================================================================
+                         Old releases
+================================================================
+
+Version 1.5 :
+=============
+- más códigos Q
+
+- elija entre idioma Ingles y Frances.
+
+El idioma se puede elegir por línea de comandos, ingresando los siguientes 
+parámetros : /e para Ingles, /f para Frances. Si no se ingresa parametro, 
+CW_Player inicia en Ingles.
+Por ejemplo, para iniciar en Frances, ejecute c:\cw_player.exe /f ,suponiendo 
+que el archivo ejecutable se llama cw_player.
+CUIDADO que en Win95, cuando se utiliza el comando Ejecutar o se crea un 
+acceso directo, la línea de comando se muestra entre comillas.
+Entonces, el parametro debe ser ingresado luego de cerradas las comillas :
+      "C:\CW_Player.EXE" /f
+
+Version 1.6 :
+=============
+- velocidad mínima de 10 ppm
+
+- corrección de un error de sistema que se producia en una situación muy 
+particular.
+
+
+Version 1.7 :
+=============
+- posibilidad de abrir y reproducir cualquier archivo ASCII del sistema.
+
+- Inhibición de todas las opciones mientras se esté ejecutando un 
+archivo, un texto o una serie al azar. Se debe precionar el botón de paro 
+para recuperar opciones y controles.	
+
+- provee señales de comando de PTT a su TRX via un puerto COM. En el archivo 
+PC_TX.BMP se muestra un circuito de ejemplo. El esquema presupone que el TRX 
+tiene un voltaje positivo en el terminal de control del PTT cuando esta en el 
+modo RX. En viejos TRX de valvulas, hay un voltaje negativo durante el modo 
+RX en el terminal KEY, en ese caso el esquema debe modificarse para este caso.
+
+- elilimición de clicks que aparecieron en la version 1.6.
+
+
+Version 1.71
+============
+- velocidad mínima de 5 ppm.
+
+Version 1.72
+============
+- espaciado variable entre caracteres (simple, doble, triple), seleccionable 
+desde el menu de opciones.
+
+- listado de las abreviaciones más usadas en CW.
+
+Version 1.8
+============
+- Velocidad de 5 a 50 ppm (para operadores de alta velocidad solamente)
+
+- Configuración de la relación raya punto : 3/1 (normal), 4/1 o 5/1, 
+seleccionable en el menu Opciones
+
+- Posibilidad de reproducir el texto en forma diferida, o sea que no se 
+produce el sonido de audio cuando se ingresa el texto. Esta opción esta 
+disponible en el menu Opciones/Texto.
+
+- Posibilidad de reproducir el texto en forma continua. Esta opción esta 
+disponible en el menu Opciones/Texto.
+
+- Agregado de los archivos de Ayuda: CWPenglish.hlp y CWPfrench.hlp.
+Estos dos archivos de Ayuda deben estar ubicados en el mismo directorio que 
+CW_Player.exe para el correcto funcionamiento de CW_Player.
+
+- Tratamiento del error al abrir un archivo que no existe.
+
+- Agregado de la opción de definición de la velocidad en el arranque del 
+programa con el parametro /=x en la línea de comando. x es el valor de la 
+velocidad.
+Ejemplo: CW_Player /=10   arranca CW_Player a 10 ppm.
+
+- Agregado del modo Quiz para que pueda probar sus conocimientos.
+
+- Agregado de demora entre el momento que se envia el comando PTT hasta que 
+se reproduce el primer caracter.
+
+- Cuando se oprime PARAR, se suelta el comando PTT luego de que finaliza el 
+caracter que esta siendo transmitido.
+
+Version 1.8.1
+=============
+- Agregado de teclas de acceso rápido para todas las opciones y controles.
+Estas funciones fueren solicitadas por OMs ciegos.
+
+- Posibilidad de reproducir en forma continua archivos y texto.
+
+- Actualizaciones relacionadas a especificaciones de WinNT y Win2000.
+
+- El archivo PC-XT.bmp contiene un simple circuito para manipular un 
+tranceptor con un tono de 800Hz con la salida de audio de la placa de sonido.
+
+
+Version 1.8.2
+=============
+- La cantidad de caracteres que se pueden elegir en el modo Aleatorio y en el 
+modo Quiz es de 50. Esto permite una mayor combinación de caracteres. Tambien 
+permite ingresar caracteres repetidos, de este modo ellos seran reproducidos 
+más frecuentemente. Como ejemplo se puede ingresar 26 letras y con aquellas 
+que tenemos mas dudas, las ingresamos tres veces. Asi los caracteres que 
+tenemos mas dudas se reproduciran tres veces mas que los otros.
+
+- Guarda la ultima configuración de "caracteres seleccionados", los cuales 
+son cargados nuevamente cuando se inicia el programa. Esta configuración se 
+guarda en el archivo CWPLAYER.DAT.
+
+- Posibilidad de crear sus propios caracteres locales, tales como vocales 
+acentuadas. Muchos idiomas tienen este tipo de caracteres locales o 
+especiales para los cuales el código Morse convencional no tiene posibildad 
+de representarlos.
+Esta opción tambien nos permite crear caracteres especiales como SK (fin de 
+la transmisión)o AS (esperar).
+Estos caracteres locales seran reproducidos en todos los modos del programa.
+Cuando se configuran, las caracteristicas de los mismos son guardadas en el 
+archivo de configuración CWPLAYER.DAT.
+
+Version 1.9.0
+=============
+- Agregado del menu Herramientas con las siguientes opciones:
+   * Limpiar MemoriaAleatoria
+   * Guardar MemoriaAleatoria : Guarda el contenido de la ventana 
+     MemoriaAleatoria en un archivo de texto, el que puede ser reproducido en 
+     cualquier momento seleccionando Archivo, y con botón Reproducir Archivo.
+   * Caracteres Locales: opción para crear sus propios caracteres locales 
+     (ver version 1.8.2). Los caracteres locales ahora no se distingue entre 
+     minúsculas y mayúsculas.
+   * Lecciones Locales : opción para modificar el contenido de las lecciones 
+     originales que vienen en el CWPlayer.
+     Las lecciones locales son guardadas en el archivo de configuración 
+     CWPLAYER.DAT, y se cargan cuando el se arranca el programa.
+   * Salir : es para salir del programa, como el botón salir (exit) de la 
+     pantalla principal, pero sin pedir confirmación.
+
+- Agregado de la opción "Omitir texto" en el menu Opciones/Texto. Esta opción 
+  permite seleccionar dos caracteres, y el texto contenido entre ellos no 
+  sera reproducido.
+
+- En el menu "Caracteres seleccionados" ahora pueden seleccionarse 20 
+  lecciones básicas o como antes ingresar 50 caracteres. Cuando se sale del 
+  programa se guarda la sesión de la lección de modo que cuando se vuelve a 
+  ejecautar se reestablece la misma. 
+
+- Se corrigio un error del sistema que se podia producir a velocidades de 
+reproducción muy bajas.
+
+- Variadas mejoras a ser descubiertas por usted.
+
+ Aunque esta nueva version deberia ser compatible con el archivo CWPLAYER.DAT 
+ de versiones mas viejas, se recomienda eliminar o reemplazar la version 
+ vieja este archivo por el archivo que viene con esta version del programa 
+ para la primera vez que se ejecute el programa. Usted tendra que redefinir 
+ sus caracteres locales pero no es un gran trabajo para hacer. 
+
+VERSION 2.0
+===========
+- Agregado de la opción de Monitoreo la cual realiza el decodificado de las 
+señales de Morse ingresadas por el usuario como audio por le entra de 
+Microfono o de Línea de Entrada de la placa de audio. Esta función fue ideada 
+para controlar y mejorar la práctica de la manipulación.
+
+- Agregado de la opción de insertar grupos de 5 "V" al comienzo de la serie 
+aleatoria. Esta función fue ideada para que la persona que se esta entrenando 
+pueda saber cuando comienza el primer caracter aleatorio.
+
+- Solución de varios errores detectados por los usuarios.
+
+VERSION 2.1
+===========
+- Agregado de una nueva herramienta que permite grabar un texto como un 
+archivo de sonido wave (*.wav) que luego puede reproducirse por cualquier 
+programa de reproducción de multimedios. Esto permite crear facilmente textos 
+de balizas, identificación en CW, etc.
+
+VERSION 2.2 & 2.2a
+==================
+- Agregado de mensajes de error en el caso de funcionamientos anormales del 
+programa.
+
+- Se resolvieron problemas que ocurrian con algunas placas de sonido raras 
+(Incompatibles o incompatibilidad del funcionamiento en lo que respecta a la 
+velocidad del procesador)
+ Muchos agradecimientos a Sebastian, Daniel y Mukesh (India) por la ayuda 
+prestada por ellos para resolver estos problemas.
+
+VERSION 2.3
+============
+- Agregado del idioma Alemán.
+  Tenga en cuenta que el archivo de Ayuda, CWPdeutsch.hlp es una copia del 
+archivo en ingles. Se neceita un traductor.
+
+- Agregado de la opción de generación de palabras de largo aleatorio cuando 
+se reproduce caracteres en modo Aleatorio.
+
+- Agregado de la opción de poder guardar en un archivo wave el contenido de 
+la MemoriaAleatoria.
+
+- Guarda y reestablece los parametros de uso (idioma, velocidad, nivel, las 
+ultimas opciones, etc).
+
+VERSION 2.3.1
+=============
+- Corrrección de un posible error cuando se crea el archivo CWPlayer.dat.
+
+VERSION 2.4
+===========
+- Ampliación del espaciado y computo de la velocidad actual.
+
+VERSION 2.5
+===========
+- Version de prueba.
+
+VERSION 2.6
+===========
+- Opción en el modo Aleatorio de utilizar un número limitado de caracteres.
+
+- Posibilidad de ocultar la respuesta en los modos Aleatorio y Archivo.
+
+- Posibilidad de generar en modo Aleatorio palabras no mezcladas.
+
+- Posibilidad de generar series aleatorias rapidas, sin reproducción de 
+sonido de modo de crear lecciones en forma rápida.
+
+- Cambio del tipo de letra en las pantallas Archivo y Aleatorio para una 
+mejor lectura.
+
+VERSION 2.7
+===========
+- Agregado de idioma Italiano, gracias a Paolo IW2DGS y Andrea IW4EGQ.
+- Agregado de la opción "Grabar Monitoreo como un archivo de texto"
+
+VERSION 2.7.1
+=============
+- Modificaciones menores.
+
+NOTA IMPORTANTE : Algunos protectores de pantalla requieren recursos muy 
+altos de la CPU. Cuando estos se ejecutan pueden afectar en gran medida la 
+calidad del sonido de los caracteres. Se recomienda deshabilitar estos 
+protectores cuando se ejecuta CWPlayer en modo Aleatorio por largos periodos 
+de tiempo.
+
+VERSION 2.7.2
+=============
+- Agregado de elegir la longitud de la palabra en modo aleatorio de 2 a 8 
+caracteres.
+
+- Posibilidad de reducir a 0 el tiempo de respuesta en el modo Quiz 
+(actual=400ms)
+
+VERSION 2.8
+===========
+- Opción de pausar y reanuadar la reproducción de Texto.
+
+- Grabación de los parámetros de la ventana de Monitoreo.
+
+- Letras no proporcionales en la ventana de Monitoreo.
+ 
+- Posibilidad de agregar Ruido Blanco y QSB a las señales de Morse cuando se 
+reproducen archivos o aleatorios.
+
+- Agregado de la opción de Omisión de Texto en modo Aleatorio.
+
+- Agregado de la opción "Indicativos" para generar indicativos en el modo 
+Aleatorio.
+
+- Otras correcciones y modificaciones menores.
+
+VERSION 2.8.1
+=============
+- Agregado del idioma Portugues
+
+VERSION 2.8.2
+=============
+- Agregado del caracter especial @.
+
+VERSION 2.8.3
+=============
+- Posibilidad de ajustar el tono de CW de 600Hz a 1000Hz.
+
+VERSION 2.8.3a
+==============
+- Conservación del valor de tiempo para responder en el modo Quiz.
+
+VERSION 2.8.4
+=============
+- Soporte para 60 lecciones.
+- Solución de un error que podia ocurrir en WinXP.
+ 
+VERSION 2.8.5
+=============
+- Agregado de valores intermedios para el tiempo para responder en el modo 
+Quiz.
+
+VERSION 3.0
+===========
+- Manipulación del TX con el puerto COM
+- Contador de caracteres en el modo Quiz
+- Atajos para textos
+- Goma para el texto
+- Mensajes locales
+- Agregado del idioma Español.(Muchas gracias LU8HPY, Fer)
+
+VERSION 3.0.1
+=============
+- Corrrección de error
+
+VERSION 3.0.2
+=============
+- posibilidad para reproducir caracteres ninguno-esta'ndares en modo al Aleatorio
+
+VERSION 3.0.3
+=============
+- TX keying from the parallel port. This function requires IOCtrl.dll in the Windows/system32 directory and the file zntport.sys in the Windows/system32/drivers directory
+- Miscellanous improvements 
+- Add the character "*" in as an international morse character .
+
+VERSION 3.1.1
+=============
+- Posibilidad de ajustar el espaciamento entre palabras.
+
+VERSION 3.1.2
+=============
+- Posibilidad de ajustar el tono de CW de 100Hz a 1500Hz.
+
+VERSION 3.1.4
+=============
+- Restricciones del instructor
+- Modo DEMO
+
+VERSION 3.1.5
+=============
+- Version de prueba.
+
+VERSION 3.1.6
+=============
+- Corrrección de error
+
+VERSION 3.1.7
+=============
+- Para eligir la placa de sonido
+
+VERSION 3.2.0
+=============
+- Añadir una opción para esconder automáticamente los textos de los ficheros y Aleatorio
+
+VERSION 3.2.1
+=============
+- Añadir las extensiones por defecto de los ficheros txt y wav
+- Corregir un error de fijación de la zona de texto
+
+VERSION 3.2.2
+=============
+- aprendizaje de la manipulación vía el puerto joystick
+
+VERSION 3.2.3
+=============
+- To choose all serial ports available
+
+
+

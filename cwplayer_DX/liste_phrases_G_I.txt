@@ -1,0 +1,2118 @@
+0001 - Gagner par écus et réhasarder par liards.
+0002 - Gain du cordonnier entre par l'huis et ist par le fumier. 
+0003 - Gain facile, folle dépense.
+0004 - Gain illégitime vaut perte.
+0005 - Gains ne sont pas rentes.
+0006 - Gale et amour se voient toujours.
+0007 - Gar le bec qui ne reste au sec.
+0008 - Garde avec extrême diligence, ce dont ne sais la décadence.
+0009 - Garde le bec.
+0010 - Garde seulement une pie, elle te crèvera les yeux.
+0011 - Garde ton porte-monnaie pendant que tu vis.
+0012 - Garde toujours dans la main un sou pour aujourd'hui et deux pour demain.
+0013 - Garde-moi de l'eau douce, car je me garderai bien de la courante moi-même.
+0014 - Garde-toi d'un pauvre enrichi et d'un riche appauvri.
+0015 - Garde-toi d'une femme qui boit et d'une jument débridée.
+0016 - Garde-toi d'une femme savante comme d'une méchante mule.
+0017 - Garde-toi de courant d'air, de bouillon réchauffé et de moine défroqué.
+0018 - Garde-toi de l'eau coite. 
+0019 - Garde-toi de penser, dire ou faire, chose à Dieu et à toi contraire.
+0020 - Garde-toi du cru et d'aller à pied nu.
+0021 - Garde-toi très bien d'avoir affaire au cautéleux et angulaire.
+0022 - Garder une poire pour la soif 
+0023 - Gardez les filles comme le lait sur le feu.
+0024 - Gardez vos poules, j'ai lâché mes coqs.
+0025 - Gardez vos poules, nos coqs sont lâchés.
+0026 - Gardez-vous de l'enfant mal ceint.
+0027 - Gars de paille vaut fille d'or.
+0028 - Garçon bien nourri et mal vêtu, fille mal nourrie et bien vêtue.
+0029 - Garçon chaton marie chardon.
+0030 - Garçon de paille vaut fille d'or.
+0031 - Garçon doit être mal vêtu, bien nourri, bien battu.
+0032 - Garçon, si tu veux vivre sûr, n'épouse pas une fille au-dessus de toi.
+0033 - Gaspiller le pain, c'est gaspiller le bien de Dieu.
+0034 - Gay qui braille, que de la volaille.
+0035 - Geler en travaillant et suer en mangeant.
+0036 - Gendre et bru sont gens d'autrui.
+0037 - Gens chauds ont beaucoup de maux.
+0038 - Gens d'états doivent fuir les blasonneurs et toujours être accompagnés d'amis fidèles et sages.
+0039 - Gens de bien aiment la lumière.
+0040 - Gens de bien aiment le jour et les méchants la nuit.
+0041 - Gens de bien aiment le jour et les méchants quièrent ténèbres.
+0042 - Gens de bien ont toujours bien.
+0043 - Gens de bien portent toujours honneur.
+0044 - Gens de bien se montrent toujours où ils sont.
+0045 - Gens de bien sont toujours gracieux.
+0046 - Gens qui craignent sont toujours en souci.
+0047 - Gens révérends sont toujours par devant.
+0048 - Gens saouls ne sont pas grand mangeurs.
+0049 - Gent grand, gent fainéant.
+0050 - Gent grand, gent vain. Gent petit, gent courageux.
+0051 - Gent petit, gent courageux.
+0052 - Gentilles repentailles qui se font fiançailles.
+0053 - Gloire vaine fleurit et ne porte grain ni profit.
+0054 - Gloire, jugement et vengeance, réserve Dieu en sa puissance.
+0055 - Glouton ne fût jamais sans peine.
+0056 - Gober des mouches 
+0057 - Gourmandise tue plus de gens qu'épée en guerre tranchante.
+0058 - Goutte bien tracassée est à demi pansée. 
+0059 - Goutte sur goutte fait la motte.
+0060 - Goutte sur goutte se fait la motte.
+0061 - Goutte à goutte croît la motte.
+0062 - Goutte à goutte l'eau creuse la pierre
+0063 - Goutte à goutte la mer s'égoutte.
+0064 - Goutte à goutte on emplit la cuve.
+0065 - Gouverne-toi bien en jeunesse, si roi veux être en ta vieillesse.
+0066 - Gouvernement de jeunesse, labour de taureau, pain chaud, bois vert, d'une bonne maison en font une pauvre.
+0067 - Gracieuse plaît, non belle.
+0068 - Grain à grain croît le pain.
+0069 - Grain ne profite d'avoir les arts ès lèvres et les oeuvres aux talons.
+0070 - Grain par grain, croît le pain.
+0071 - Grain siégleux, pain fructueux.
+0072 - Graine de paille ne vaut jamais graine de bois de lit.
+0073 - Graisser la patte à quelqu'un 
+0074 - Graisser ses bottes 
+0075 - Graissez les bottes d'un vilain, il dira que vous les lui brûlez.
+0076 - Grand abandon fait grand larron.
+0077 - Grand aise est fort à endurer.
+0078 - Grand amour cause grand douleur.
+0079 - Grand besoin a de fol, qui de soi-même le fait.
+0080 - Grand bien ne vient pas en peu d'heure.
+0081 - Grand blagueur, petit faiseur.
+0082 - Grand bois, grandes eaux, grand chemin, sont pour la propriété trois mauvais voisins.
+0083 - Grand cas par un petit s'avère et se châtie par le sévère.
+0084 - Grand char mène, grand char verse.
+0085 - Grand cri abat chastel.
+0086 - Grand folie est de craindre aucunement, ce qu'éviter on ne peut nullement.
+0087 - Grand fumeur, grand buveur.
+0088 - Grand honneur et dignité, engendrent magnanimité.
+0089 - Grand jaseur, grand menteur.
+0090 - Grand navire veut grande eau et gros moine gras veau.
+0091 - Grand nez, joli visage.
+0092 - Grand prometteur, petit donneur.
+0093 - Grand péché ne peut demeurer caché.
+0094 - Grand rumeur petite toison, dit celui qui tond le cochon.
+0095 - Grand vanteur, petit faiseur.
+0096 - Grande boîte à guérison sont temps, amour et raison.
+0097 - Grande chère et petit testament.
+0098 - Grande chère, petit testament.
+0099 - Grande cuisine sur les chenets, prélude de grande misère au foyer.
+0100 - Grande cuisine, petit héritage.
+0101 - Grande disputation, de vérité perdition.
+0102 - Grande est l'éloquence qui agrée à celui qui oit à regret.
+0103 - Grande et grosse me fasse Dieu, blanche et rose je me ferai.
+0104 - Grande familiarité engendre contemnement d'amitié.
+0105 - Grande fièvre, grande soif.
+0106 - Grande folie est de craindre aucunement, ce qu'éviter on ne peut nullement.
+0107 - Grande fécondité ne parvient à maturité.
+0108 - Grande joie vient bien souvent après deuil.
+0109 - Grande nef, grand souci.
+0110 - Grande rumeur petite toison, dit celui qui tond le cochon.
+0111 - Grande science est folie, si bon sens ne la guide.
+0112 - Grande ville, rien dedans.
+0113 - Grands oiseaux de coutume, sont privés de leur plume.
+0114 - Grands personnages ont par usage, faute d'enfants ou ne sont guère sages.
+0115 - Grasse cuisine, maigre testament.
+0116 - Grasse poule et maigre coq.
+0117 - Grasse terre, mauvais chemin.
+0118 - Gratte-moi, je te gratterai.
+0119 - Gratter quelqu'un où il lui démange. 
+0120 - Grattez le Russe et vous trouverez le Tartare.
+0121 - Gref est le poids et pesanteur de l'ord péché au grand pécheur.
+0122 - Gros babilleur, petit travailleur.
+0123 - Gros d'argent, peu d'escient.
+0124 - Gros larron fait le petit pendre.
+0125 - Gros mangeur, mauvais donneur.
+0126 - Gros oiseau, gros nid.
+0127 - Grosse courtine devant l'étable emplit ni racard ni grange.
+0128 - Grosse tête, peu de sens. 
+0129 - Grosse vache, veau chétif.
+0130 - Grosses gens, bonnes gens.
+0131 - Grêler sur le persil. 
+0132 - Guerre bonne ne peut être la guerre, qui plusieurs terrasse et atterre.
+0133 - Guerre est marchandise.
+0134 - Guéris un mal et n'en fais pas deux.
+0135 - Gueux comme un peintre, comme un rat d'église. 
+0136 - Habile des dents, capable de rien.
+0137 - Habile à la table, habile à l'ouvrage. 
+0138 - Habit de béat, a souvent ongles de chat.
+0139 - Habit de velours, ventre de son. 
+0140 - Habit rapiécé fait encore sa durée.
+0141 - Habits d'or et ventre de son.
+0142 - Haine de prince signifie mort d'homme.
+0143 - Haine du populaire, supplice grave et aigre.
+0144 - Happe qui peut, non qui veut.
+0145 - Hardi amant n'est point honteux.
+0146 - Hardi de la langue, couard à la lance.
+0147 - Hardi demandeur, mauvais payeur.
+0148 - Hardi le gagne, hardi le dépense. 
+0149 - Hardi à l'écuelle, couard au travail. 
+0150 - Hardiment heurte à la porte, qui bonnes nouvelles apporte.
+0151 - Hardiment parle qui a la tête saine. 
+0152 - Harnais ne vaut rien qui ne le défend.
+0153 - Harnais ne vaut rien s'il n'est défendu.
+0154 - Hâte-toi à loisir, si veux tant mieux choisir.
+0155 - Hâtez-vous lentement. 
+0156 - Hâtif besoin fait vieille trotter.
+0157 - Hâtiveté engendre repentance.
+0158 - Herbe connue soit bienvenue.
+0159 - Heure de nuit porte ennui.
+0160 - Heure de plaids est l'heure de la ruse du renard.
+0161 - Heureuse la souris qui a plus qu'un trou.
+0162 - Heureux au jeu, malheureux en amour. 
+0163 - Heureux est celui qui rien ne doit à autrui.
+0164 - Heureux est qui ès cieux fait sa fête.
+0165 - Heureux qui fait bien.
+0166 - Hier vacher, aujourd'hui chevalier. 
+0167 - Hippocrate dit oui, mais Galien dit non.
+0168 - Homicide, mensonge et larcin, s'avèrent indubitablement en la fin.
+0169 - Homme aime quand il veut, et femme quand elle peut.
+0170 - Homme angulaire est à vérité contraire.
+0171 - Homme assailli demi vaincu et déconfit.
+0172 - Homme chanteur, femme pleureuse.
+0173 - Homme chiche n'est jamais riche.
+0174 - Homme craintif de faible courage, bien le démontre par son visage.
+0175 - Homme d'argent, homme de rien.
+0176 - Homme de paille vaut femme d'or. 
+0177 - Homme de vin, homme de rien.
+0178 - Homme endormi, corps enseveli.
+0179 - Homme fin se lève matin. 
+0180 - Homme ivre et pervers, va de travers.
+0181 - Homme ivre n'est pas à soi.
+0182 - Homme ivre, gare aux coups.
+0183 - Homme ivre, triste chose.
+0184 - Homme jeune, envy prisée.
+0185 - Homme joyeux, femme triste.
+0186 - Homme mal marié, mieux le vaudrait noyé.
+0187 - Homme marié, tirez-en la moitié.
+0188 - Homme marié, âne estropié.
+0189 - Homme matineux, gai, sain et laborieux.
+0190 - Homme matineux, sain et besogneux.
+0191 - Homme matineux, sain et solliciteux.
+0192 - Homme mort ne fait pas guerre.
+0193 - Homme mort ne fait pas la guerre.
+0194 - Homme mort ne vaut pas âne vivant.
+0195 - Homme pervers aux bons est contraire et aux innocents donne d'affaire.
+0196 - Homme plaideur et de vrai dire mécru, quand il dit vrai, à bien grand peine est cru.
+0197 - Homme plaideur, homme menteur.
+0198 - Homme pute n'est pas à soi.
+0199 - Homme qui file, femme qui fait des sermons, s'ils ne sont sots sont des fripons.
+0200 - Homme qui porte lance et femme qui porte écusson, ne se doit moquer de son compagnon.
+0201 - Homme rusé, tard abusé.
+0202 - Homme sans femme est un cheval sans bride et la femme sans homme est un bateau sans gouvernail.
+0203 - Homme sans femme, corps sans âme.
+0204 - Homme sans vertu, arbre de fruit nu.
+0205 - Homme sans vertu, argent ni ami, corps enseveli.
+0206 - Homme seul est viande à loups.
+0207 - Homme solitaire et seulet, ange ou brute est.
+0208 - Homme solitaire, ange, brute ou Lucifer.
+0209 - Homme trop bien nourri est toujours en retard.
+0210 - Homme vieil et pauvre qui a mal vécu, de jeune femme sera battu.
+0211 - Homme à deux visages n'agrée en villes ni villages.
+0212 - Hommes pervers donnent plusieurs affaires aux gens de bien.
+0213 - Honneur fleurit sur la fosse.
+0214 - Honneurs changent leurs moeurs, hui en fleurs, demain en vers.
+0215 - Honneurs changent moeurs, raison n'est qui en honneur ne remue.
+0216 - Honni soit qui mal y pense. 
+0217 - Honnête pauvreté est clairsemée.
+0218 - Honore les bons, châtie vilains, tiens cois tes doigts aussi tes mains.
+0219 - Honore les grands, ne méprise les petits.
+0220 - Honte n'est utile ni décente, à âme pauvre et indigente.
+0221 - Honte à mal faire est bien louable et à bien faire vitupérable.
+0222 - Horloge entretenir, jeune damme à gré servir, vieille maison réparer, c'est toujours à recommencer.
+0223 - Hors d'une laide souche, il y part une belle pousse.
+0224 - Hors règle et compas, je ne sais ni degré ni pas.
+0225 - Hôte qui de soi-même est convié, est bientôt saoul et contenté.
+0226 - Hôtelleries, rues sur un grand chemin le rendent court et facile à tenir.
+0227 - Ici pour conseiller, là pour payer.
+0228 - Ignorance est ennemie à gens sages.
+0229 - Ignorance est mère de tous les maux.
+0230 - Ignorance ne quiert point prudence.
+0231 - Ignorer est motif et occasion, de tout étrif, débat et question.
+0232 - Il a beau danser à qui fortune sonne.
+0233 - Il a beau dormir tard, qui a le bruit de se lever matin.
+0234 - Il a beau mentir celui qui vient de loin.
+0235 - Il a beau mentir qui vient de loin.
+0236 - Il a beau prêcher le jeûne qui est rassasié. 
+0237 - Il a beau se lever matin qui a le renom de dormir la grasse matinée.
+0238 - Il a beau se lever tard, qui a bruit de se lever matin.
+0239 - Il a beau vanter sa noblesse quand son déshonneur le blesse.
+0240 - Il a bien appris, qui a pris à craindre Dieu.
+0241 - Il a bien d'autres chiens à fouetter. 
+0242 - Il a bien gagné son pain, celui qui fait taire la médisance.
+0243 - Il a bien hanté, il a bien couru les foires. 
+0244 - Il a bon courage, mais les jambes lui faillent.
+0245 - Il a chié dans ma bouillie et cela va puer longtemps.
+0246 - Il a craché en l'air et cela lui est retombé sur le nez. 
+0247 - Il a détaupé un trou pour boucher l'autre.
+0248 - Il a flairé rose et bouton, et il est tombé sur un étron.
+0249 - Il a trop tardé sauf-conduit, qui après le coup le reçoit.
+0250 - Il a trouvé le pain cher, il a chargé du vin.
+0251 - Il a un oeil au bois, l'autre à la ville.
+0252 - Il adviendra beaucoup de choses entre ci et là.
+0253 - Il advient en une heure ce qui n'advient pas en cent.
+0254 - Il advient en une heure ce qui n'arrive pas en une année. Latin 
+0255 - Il advient souvent en un jour ce qui n'advient en cent ans.
+0256 - Il advient souvent que luxurieux meurt méchamment.
+0257 - Il aime mieux quatre boeufs au feu qu'un à la charrue.
+0258 - Il appartient au juge d'interpréter la loi, non de la faire. 
+0259 - Il appartient qu'aux âmes privilégiées de raisonner toujours juste.
+0260 - Il arrive souvent que l'on nous estime à proportion que nous nous estimons nous-même.
+0261 - Il arrive toujours un coup, qui ne ressemble pas les autres.
+0262 - Il aura bien peu de pâte, qui ne lui fera un levain.
+0263 - Il boit assez qui a deuil.
+0264 - Il compte deux fois, qui compte sans son hôte.
+0265 - Il convient apprendre avant d'enseigner.
+0266 - Il convient chercher une chose où elle est.
+0267 - Il convient connaître la portée et capacité du tendre engin.
+0268 - Il convient laisser clabauder les clabauds, jaser et grumeler les gros lourdauds.
+0269 - Il convient pendre la pierre à la ligne.
+0270 - Il convient peser les hommes au grand poids du meunier et non au subtil trébuchet de l'orfèvre.
+0271 - Il convient préalablement purger le tendre esprit de tout vice, avant de l'imbuir de doctrine et vertu.
+0272 - Il convient remédier en temps aux inconvénients.
+0273 - Il convient traiter l'esprit des jouvenceaux à l'instar de l'agriculteur ses arbrisseaux.
+0274 - Il courrait au derrière d'un crabe habillé en femme.
+0275 - Il croit que le soleil ne brille que pour lui.
+0276 - Il croit voler sans ailes.
+0277 - Il demeure beaucoup de ce que fol pense.
+0278 - Il doit toujours y avoir plus de médecins que d'apothicaires.
+0279 - Il en a eu tout du long de l'aune. 
+0280 - Il en a pour un déjeuner. 
+0281 - Il en est d'un homme léger comme d'un vase vide, il se laisse facilement prendre par les oreilles.
+0282 - Il en est d'une femme comme d'un baril, plus elle est occupée plus elle vaut.
+0283 - Il en est de la raillerie comme du sel, l'usage doit en être modéré.
+0284 - Il en est des générations des hommes ainsi que des feuilles sur les arbres.
+0285 - Il en est des lois comme des vêtements, qui sont tous de convention.
+0286 - Il en est du véritable amour comme de l'apparition des esprits. 
+0287 - Il en faut autant qu'il faut de pelotes de neige à chauffer un four. 
+0288 - Il en faut peu pour faire grogner la femme, la roue et la poulie.
+0289 - Il en juge comme un aveugle des couleurs.
+0290 - Il en sait autant qu'un cochon, qui ne sait compter que jusqu'à un.
+0291 - Il en vaut mieux gagner qu'en point avoir.
+0292 - Il en vient plus qu'il ne s'en va.
+0293 - Il en y a qu'ils ont plus de louange à laisser courir que les autres à guérir.
+0294 - Il engraisse de mélancolie. 
+0295 - Il entend bien chat sans qu'on dise minon. 
+0296 - Il entend le numéro. 
+0297 - Il est un temps de veiller et un temps de reposer.
+0298 - Il est aisé d'ajouter aux inventions.
+0299 - Il est aisé d'aller à pied quand on tient son cheval par la bride.
+0300 - Il est allé sur son nez, il est revenu sur ses pieds.
+0301 - Il est assez beau qui a tous ses membres.
+0302 - Il est assez éloquent celui qui dit la vérité.
+0303 - Il est aussi facile d'approprier une femme que le vent.
+0304 - Il est aussi innocent que l'agneau qui vient de naître. 
+0305 - Il est aussi mauvais d'avoir de l'argent que de n'en avoir pas.
+0306 - Il est autant de fols acheteurs que de fols vendeurs.
+0307 - Il est avantageux de s'accommoder quand on a raison, et de plaider quand on a tort.
+0308 - Il est avare à qui Dieu ne suffit.
+0309 - Il est avec le Ciel des accommodements.
+0310 - Il est avis au renard que chacun mange poules comme lui.
+0311 - Il est avis à vieille vache qu'elle ne fut jamais génisse.
+0312 - Il est beau veau qui veau coupe.
+0313 - Il est besoin que le peuple ignore beaucoup de choses vraies et en croie beaucoup de fausses.
+0314 - Il est bien bon larron, qui dérobe un larron.
+0315 - Il est bien aise de payer l'écot quand il ne coûte que le dire à Dieu.
+0316 - Il est bien aisé sur autrui, qui est plus aisé que chez lui.
+0317 - Il est bien allié qui a une bonne femme.
+0318 - Il est bien avancé, qui a bien commencé.
+0319 - Il est bien difficile de faire beaucoup de travaux en un coup et de les faire bien.
+0320 - Il est bien difficile, en géographie comme en morale, de connaître le monde sans sortir de chez soi.
+0321 - Il est bien digne de gésir sur la paille, qui le sien à paillarde et putain baille.
+0322 - Il est bien entendu que chacun portera son bissac dans la Vallée de Josaphat.
+0323 - Il est bien fol qui cuide toujours vivre.
+0324 - Il est bien fol qui veut les oies ferrer.
+0325 - Il est bien fol qui à fol sens demande.
+0326 - Il est bien force d'être brave quand on ne saurait faire autrement.
+0327 - Il est bien heureux qui est maître, il est valet quand il veut.
+0328 - Il est bien malheureux qui n'a que promettre à son vu.
+0329 - Il est bien pauvre qu'il n'a que promettre.
+0330 - Il est bien pauvre qui ne voit goutte.
+0331 - Il est bien plus beau de savoir quelque chose de tout que de savoir tout d'une chose.
+0332 - Il est bien près du temps des cerises, le temps des cyprès.
+0333 - Il est bien tard d'épargner sur le tonneau quand le vin est à la lie.
+0334 - Il est bien tout prêche qui n'a cure de bien faire.
+0335 - Il est bien âne de nature, qui ne peut lire son écriture.
+0336 - Il est bienheureux qui ne prend égard à mauvaise langue, poignant comme un dard.
+0337 - Il est bienheureux qui ne se mêle que de son affaire et querelle.
+0338 - Il est bienheureux qui se mêle de ses affaires.
+0339 - Il est bienséant au chef d'exceller ses sujets en vertu et piété.
+0340 - Il est bienséant à un seigneur d'exceller ses sujets en bonté et vertu.
+0341 - Il est bienvenu celui qui apporte.
+0342 - Il est bon d'avoir des amis partout.
+0343 - Il est bon d'être charitable. Mais envers qui ? C'est là le point.
+0344 - Il est bon d'être ferme par tempérament et flexible par réflexion.
+0345 - Il est bon de consoler le malade quand on a la santé.
+0346 - Il est bon de parler, et meilleur de se taire.
+0347 - Il est bon de se garder une poire pour la soif.
+0348 - Il est bon maître, qui jamais ne faille.
+0349 - Il est bon qu'un vaisseau ait deux ancres.
+0350 - Il est caut larron qui dérobe à un larron.
+0351 - Il est comme les pots d'eau bénite, près de la porte, loin du choeur.
+0352 - Il est commun à tous d'errer et diabolique persévérer.
+0353 - Il est dans la nature humaine de haïr ceux que l'on a lésés.
+0354 - Il est de faux dévots ainsi que de faux braves.
+0355 - Il est de la confrérie Saint Hubert, il n'enrage pas pour mentir.
+0356 - Il est des anguilles de Melun, il crie avant qu'on l'écorche.
+0357 - Il est des morts qu'il faut qu'on tue. 
+0358 - Il est des paroles qui montent comme la flamme et d'autres qui tombent comme la pluie.
+0359 - Il est descendu aux enfers beaucoup d'hommes auxquels les femmes avaient mis les armes à la main.
+0360 - Il est devenu d'évêque meunier. 
+0361 - Il est difficile de contenter tous.
+0362 - Il est difficile de contenter tout le monde et puis sa femme.
+0363 - Il est difficile de discuter avec le ventre, car il n'a pas d'oreilles.
+0364 - Il est difficile de découvrir les parents d'un pauvre.
+0365 - Il est difficile de déguiser sa nature.
+0366 - Il est difficile de faire beaucoup de travail en peu de temps et de le bien faire.
+0367 - Il est difficile de sauver une ville dans laquelle un poisson se vend plus cher qu'un boeuf.
+0368 - Il est difficile de trouver le bonheur en nous et impossible de le trouver ailleurs.
+0369 - Il est difficile de vivre heureux avec de mauvaises moeurs.
+0370 - Il est dur aux femmes d'être loin du mari.
+0371 - Il est encore plus facile de juger de l'esprit d'un homme par ses questions que par ses réponses.
+0372 - Il est exempt de bien faire. 
+0373 - Il est facile d'avoir le nom et l'effet non.
+0374 - Il est facile d'avoir le nom, la chose à grande peine peut-on.
+0375 - Il est facile de nager quand on vous tient le menton.
+0376 - Il est gai comme une colombe hors de sa maison, et triste comme un corbeau dans sa maison.
+0377 - Il est glorieux comme un pet qui chante quand il est né. 
+0378 - Il est honteux d'être loué par qui ne mérite pas de louagnes.
+0379 - Il est honteux d'être sans honte.
+0380 - Il est impossible de faire d'un âne un cheval.
+0381 - Il est impossible de passer tout un jour dans la joie à celui qui le passe avec une femme.
+0382 - Il est impossible que ce qui est fait ne soit pas fait.
+0383 - Il est inné dans l'homme de piétiner ce qui est à terre.
+0384 - Il est jamais eu sorti de la farine d'un sac de charbon.
+0385 - Il est jamais eu tombé des pommes d'un pommier sauvage.
+0386 - Il est joli parce que gracieux.
+0387 - Il est mal d'éteindre le vieil paillis épreint.
+0388 - Il est malaisé de joindre le dur avec le dur.
+0389 - Il est maudit en l'Évangile, qui a le choix et prend le pire.
+0390 - Il est maître, qui se sait aider de sa maîtrise.
+0391 - Il est meilleur être cheval que boeuf, loup que brebis.
+0392 - Il est mieux d'être à côté d'un qui chie que d'un qui fend du bois.
+0393 - Il est mieux de dire aux enfants "tiens-toi tranquille" que "lève-toi".
+0394 - Il est mieux de prêter que d'emprunter.
+0395 - Il est mieux de voir un enfant sauter qu'assis.
+0396 - Il est mon oncle qui le ventre me comble.
+0397 - Il est naturel d'admirer ce qui est nouveau plutôt que ce qui est grand.
+0398 - Il est noble qui noblesse ne blesse et n'oublie et vilain qui commet ignoblesse et vilénie.
+0399 - Il est nouveau maire, il veut tout savoir, il enquiert de tout.
+0400 - Il est pauvre qui Dieu hait.
+0401 - Il est pauvre à qui il faut acheter les quatre éléments.
+0402 - Il est permis d'avoir quelque défiance de la femme la plus accomplie.
+0403 - Il est permis à celui qui vient de loin de mentir.
+0404 - Il est plus aisé d'accuser un sexe que d'excuser l'autre.
+0405 - Il est plus aisé d'être sage pour les autres que pour soi-même.
+0406 - Il est plus aisé de paraître digne des grandes places que de les remplir.
+0407 - Il est plus aisé de quitter ce qu'on tient que de reprendre ce qu'on a quitté.
+0408 - Il est plus aisé de sauter par-dessus un chêne que sûr de parler des grands.
+0409 - Il est plus aisé à bâtir deux cheminées qu'à les entretenir.
+0410 - Il est plus aisé à entrer en carême qu'en sortir.
+0411 - Il est plus aisé à se sauver qu'à se bien marier.
+0412 - Il est plus commode de faire son devoir que de le connaître.
+0413 - Il est plus d'ouvriers que d'outils.
+0414 - Il est plus d'ouvriers que de maîtres.
+0415 - Il est plus dangereux de tomber en amour que du haut d'une falaise.
+0416 - Il est plus de gaines que de couteaux.
+0417 - Il est plus de jours que de semaines.
+0418 - Il est plus difficile de dissimuler les sentiments que l'on a que de feindre ceux que l'on n'a pas.
+0419 - Il est plus difficile de donner que de prendre.
+0420 - Il est plus facile d'acheter que de payer.
+0421 - Il est plus facile au fils de demander au père qu'au père de demander au fils.
+0422 - Il est plus facile conseiller que faire.
+0423 - Il est plus facile d'arrêter l'eau que les langues de femme pendant le travail.
+0424 - Il est plus facile d'emprunter que de tourner après.
+0425 - Il est plus facile de commencer que de finir.
+0426 - Il est plus facile de critiquer que d'imiter.
+0427 - Il est plus facile de démolir que de bâtir.
+0428 - Il est plus facile de faire entrer sept diables dans une femme que d'en faire sortir un seul.
+0429 - Il est plus facile de faire parler les femmes que de les faire taire.
+0430 - Il est plus facile de farie d'un bon un méchant que d'un méchant un bon.
+0431 - Il est plus facile de garder un huitième de sac de puces qu'une jeune fille.
+0432 - Il est plus facile de garder un plein van de puces au soleil qu'une fille.
+0433 - Il est plus facile de garder un van de puces que des jeunes filles.
+0434 - Il est plus facile de médeciner que de curer.
+0435 - Il est plus facile de se contenir que de se retirer d'une querelle.
+0436 - Il est plus facile de se marier que d'élever maison.
+0437 - Il est plus facile de trouver la Fortune que de la retenir.
+0438 - Il est plus facile descendre qu'ascendre.
+0439 - Il est plus facile descendre que monter.
+0440 - Il est plus facile dire que faire.
+0441 - Il est plus facile démolir que bâtir.
+0442 - Il est plus facile dépenser que gagner.
+0443 - Il est plus facile ferrir que guérir.
+0444 - Il est plus facile lâcher que retenir.
+0445 - Il est plus facile menacer que tuer.
+0446 - Il est plus facile médiciner que curer.
+0447 - Il est plus facile panser ou médiciner que curer.
+0448 - Il est plus facile parler que taire.
+0449 - Il est plus facile penser que d'être.
+0450 - Il est plus facile prendre que rendre.
+0451 - Il est plus facile promettre que donner.
+0452 - Il est plus facile présumer que savoir.
+0453 - Il est plus facile souhaiter qu'enrichir.
+0454 - Il est plus facile tomber que se relever.
+0455 - Il est plus facile vouloir que voler.
+0456 - Il est plus facile à un chameau de passer par le trou d'une aiguille qu'à un riche d'entrer dans le royaume de Dieu.
+0457 - Il est plus honteux de se défier de ses amis que d'en être trompé.
+0458 - Il est plus malheureux de commettre une injustice que de la souffrir.
+0459 - Il est plus naturel au prince donner loyer aux bons que de châtier les mauvais.
+0460 - Il est plus sûr que le vice rend malheureux, qu'il ne l'est que la vertu donne le bonheur.
+0461 - Il est près de la terre et loin du ciel.
+0462 - Il est quelquefois utile d'oublier ce que l'on sait.
+0463 - Il est rare de voir la sagesse alliée à la beauté.
+0464 - Il est riche celui que Dieu aime.
+0465 - Il est riche qui Dieu aime.
+0466 - Il est sage qui sait tout.
+0467 - Il est sain qui est son maître.
+0468 - Il est souvent peu raisonnable d'avoir trop tôt ou trop complètement raison. 
+0469 - Il est souvent plus grand d'avouer ses fautes que de n'en pas commettre.
+0470 - Il est temps de besogner, temps de chômer.
+0471 - Il est temps de bâtir, temps de démolir.
+0472 - Il est temps de donner, temps de garder.
+0473 - Il est temps de gémir et temps de rire.
+0474 - Il est temps de haïr et temps d'aimer.
+0475 - Il est temps de parler et temps de taire.
+0476 - Il est temps de planter et temps d'arracher.
+0477 - Il est temps de semer, temps de moissonner.
+0478 - Il est temps de souffler et temps de humer.
+0479 - Il est temps de tailler, temps de coudre.
+0480 - Il est temps de tuer, temps de saler.
+0481 - Il est temps de veiller et temps de reposer.
+0482 - Il est toujours assez tôt de payer ou de mourir.
+0483 - Il est toujours assez tôt de se faire du souci.
+0484 - Il est toujours bon de savoir quelque chose, si ce n'est pas pour le gain, c'est pour l'honneur.
+0485 - Il est toujours fête après besogne faite.
+0486 - Il est toujours fête pour celui qui bien fait.
+0487 - Il est toujours plus tard que tu ne crois.
+0488 - Il est toujours saison de bien faire.
+0489 - Il est toujours temps de bien faire.
+0490 - Il est trois bêtes intraitables le hibou, le serpent et le peuple.
+0491 - Il est trois despotes la loi, l'usage, la nécessité.
+0492 - Il est trop tard de conseil prendre, quand en bataille il faut descendre.
+0493 - Il est trop tard de dire garde après le coup donné.
+0494 - Il est trop tard de fermer l'écurie quand les chevaux sont déjà dehors.
+0495 - Il est trop tard de fermer la porte quand le loup est entré.
+0496 - Il est trop tard de fermer le cul quand le pet est sorti.
+0497 - Il est trop tard de fermer les barrières quand les poulains sont passés.
+0498 - Il est trop tard de mettre du sel quand la viande sent déjà mauvais.
+0499 - Il est trop tard pour fermer l'écurie quand le cheval s'est sauvé.
+0500 - Il est tôt déçu, qui mal ne pense.
+0501 - Il est tôt déçu, qui mal pense.
+0502 - Il est un temps pour bâtir et un temps pour démolir.
+0503 - Il est une loi qui ordonne à l'homme de chérir sa femme et à la femme de faire ce que désire l'époux.
+0504 - Il est vite arrivé qui grève.
+0505 - Il fait beau où on voit clair.
+0506 - Il fait beaucoup, celui qui fait bien ce qu'il fait.
+0507 - Il fait bien laisser le jeu quand il est beau.
+0508 - Il fait bien mal, aimer et n'être pas aimé.
+0509 - Il fait bien mauvais au bois, quand les loups se mangent l'un l'autre.
+0510 - Il fait bon avoir des biens, on en sauve toujours quelque pièce.
+0511 - Il fait bon avoir plusieurs cordes en son arc.
+0512 - Il fait bon battre un glorieux, il ne s'en vante pas.
+0513 - Il fait bon pêcher en eau trouble.
+0514 - Il fait bon reculer pour mieux saillir.
+0515 - Il fait bon redouter fortune et craindre faut les inconvénients.
+0516 - Il fait bon servir à bon maître.
+0517 - Il fait bon vivre et ne rien savoir.
+0518 - Il fait bon vivre et rien savoir, on apprend toujours quelque chose.
+0519 - Il fait bonne journée, qui se délivre d'un fol.
+0520 - Il fait d'autrui cuir large courroie.
+0521 - Il fait de belles cures, il vaudrait mieux qu'il fasse des prieurés.
+0522 - Il fait le simple, mais c'est un fin renard.
+0523 - Il fait mal avoir nom de loup, tout le monde vous tape dessus.
+0524 - Il fait mal clocher devant boiteux.
+0525 - Il fait mauvais lutter en un précipice, car il y a danger de choir et de se casser la tête.
+0526 - Il fait mauvais se mettre à la discrétion des bastonnades.
+0527 - Il fait meilleur être à côté d'un chieur, que d'un casseur de pierres.
+0528 - Il fait toujours bon temps pour quelqu'un.
+0529 - Il fait un mariage d'épervier, la femelle vaut mieux que le mâle.
+0530 - Il fait un mariage de Saint-Sauveur, la putain épouse le voleur.
+0531 - Il faudrait devenir vieux avant de devenir jeune.
+0532 - Il faudrait être en bien des endroits à la fois.
+0533 - Il faudrait être en deux trois morceaux.
+0534 - Il faudrait être vieux avant d'être jeune.
+0535 - Il faut aborder la vie avec un esprit sain ou se pendre.
+0536 - Il faut aimer les gens, non pour soi, mais pour eux.
+0537 - Il faut aller rondement, garde-toi de l'homme angulaire.
+0538 - Il faut aller à la danse et tous mourir sans doubtance.
+0539 - Il faut aller à la guerre sous bride.
+0540 - Il faut aller à maître pour apprendre à faire le poing à sa poche.
+0541 - Il faut anoblir son esprit et faire son âme reine.
+0542 - Il faut appeler méchant celui qui n'est bon que pour soi.
+0543 - Il faut appeler pétrin un pétrin.
+0544 - Il faut apprendre de la vie à souffrir la vie.
+0545 - Il faut apprendre puis le rendre.
+0546 - Il faut apprendre qui veut savoir.
+0547 - Il faut apprendre à obéir pour savoir commander.
+0548 - Il faut argent pour commencer le jeu.
+0549 - Il faut attendre à cueillir la poire qu'elle soit mure. 
+0550 - Il faut aussi donner sa part à Messire le diable.
+0551 - Il faut autant avoir souci de son âme que de sa panse.
+0552 - Il faut autant de temps à se refaire qu'on a été malade.
+0553 - Il faut avaler les pilules sans les mâcher. 
+0554 - Il faut avoir beaucoup étudié pour savoir peu.
+0555 - Il faut avoir bien faim pour manger des pommes de terre crues.
+0556 - Il faut avoir de la merde au cul pour chier.
+0557 - Il faut avoir deux cordes à son arc.
+0558 - Il faut avoir mangé un double décalitre de sel ensemble pour se connaître.
+0559 - Il faut avoir mauvaise bête par douceur.
+0560 - Il faut avoir partout raison.
+0561 - Il faut avoir plus d'un tour dans son sac. 
+0562 - Il faut avoir plus d'une corde à son arc. 
+0563 - Il faut avoir une bonne clef pour entrer en paradis.
+0564 - Il faut baiser le chien sur la gueule jusqu'à ce qu'on peut le museler.
+0565 - Il faut battre le fer ce pendant qu'il est chaud.
+0566 - Il faut battre le fer du temps qu'il est chaud.
+0567 - Il faut battre le fer pendant qu'il est chaud. 
+0568 - Il faut battre le fer quand il est chaud.
+0569 - Il faut battre le fer tandis qu'il est chaud.
+0570 - Il faut beaucoup de mérite pour sentir vivement celui des autres.
+0571 - Il faut bien commencer pour bien finir.
+0572 - Il faut bien commencer si on veut bien finir.
+0573 - Il faut bien des beautés pour faire un bon dîner.
+0574 - Il faut bien des péchés pour faire une bonne confession.
+0575 - Il faut bien mourir de quelque chose.
+0576 - Il faut bien penser à la mort, aujourd'hui vif demain mort.
+0577 - Il faut bâtir avec les pierres de son pays.
+0578 - Il faut casser le noyau pour avoir l'amande.
+0579 - Il faut casser le noyau pour en avoir l'amande. 
+0580 - Il faut ce qu'il faut pour falloir ce qu'il aurait fallu.
+0581 - Il faut ce qu'il faut.
+0582 - Il faut choisir d'aimer les femmes ou de les connaître.
+0583 - Il faut commencer avant achever.
+0584 - Il faut comparer la pourpre à la pourpre.
+0585 - Il faut compter l'argent deux fois et l'or trois fois.
+0586 - Il faut connaître avant aimer.
+0587 - Il faut connaître avant d'aimer.
+0588 - Il faut connaître premier que de juger.
+0589 - Il faut courir aux maladies des yeux comme au feu.
+0590 - Il faut couvrir le feu de la maison avec les cendres de la maison.
+0591 - Il faut craindre ce qui peut ôter la vie et la santé.
+0592 - Il faut craindre les gros vents et les grosses gens.
+0593 - Il faut craindre sa femme et le tonnerre.
+0594 - Il faut croire conseil d'un homme qui fait bien ses besognes.
+0595 - Il faut de l'argent pour marier filles.
+0596 - Il faut de la raison partout.
+0597 - Il faut de plus grandes vertus pour soutenir la bonne fortune que la mauvaise.
+0598 - Il faut de tout pour faire un monde.
+0599 - Il faut de vieux os pour faire de bon bouillon.
+0600 - Il faut des centimes jaunes pour faire des francs.
+0601 - Il faut devenir vieux de bonne heure pour rester vieux longtemps.
+0602 - Il faut donner les droits ou les torts à celui qui les a.
+0603 - Il faut donner quelque chose au hasard.
+0604 - Il faut donner un oeuf pour gagner un boeuf.
+0605 - Il faut découdre et non déchirer l'amitié.
+0606 - Il faut dépenser qui veut gagner.
+0607 - Il faut en rabattre de moitié. 
+0608 - Il faut endormir le fanatisme afin de pouvoir le déraciner.
+0609 - Il faut endurer pour durer.
+0610 - Il faut endurer qui veut vaincre et durer.
+0611 - Il faut enter une greffe d'un vieil arbre sur un jeune sauvageon.
+0612 - Il faut entretenir la vigueur du corps pour conserver celle de l'esprit.
+0613 - Il faut essayer de soumettre les circonstances et non s'y soumettre.
+0614 - Il faut estimer ce que l'homme fait non par ce qu'il peut faire.
+0615 - Il faut estimer un homme de bien plus qu'un parent.
+0616 - Il faut faire Mardi Gras avec sa femme et Pâques avec son curé.
+0617 - Il faut faire coucher la colère à la porte.
+0618 - Il faut faire de l'ordre avec du désordre.
+0619 - Il faut faire de nécessité vertu.
+0620 - Il faut faire l'âne si on veut avoir du son.
+0621 - Il faut faire la lessive à la buanderie.
+0622 - Il faut faire le feu à Noël avec de grosses souches et à Pâques avec des branches.
+0623 - Il faut faire pour apprendre.
+0624 - Il faut faire son purgatoire en ce monde ou dans l'autre.
+0625 - Il faut faire trois fois le travail pour le bien faire.
+0626 - Il faut faire vie qui dure.
+0627 - Il faut flatter les crétins pour les faire travailler.
+0628 - Il faut fleurir pour porter fruit.
+0629 - Il faut gagner Dieu à force de le prier et pourvoir à la nécessité à force de travailler.
+0630 - Il faut garder la poire pour la soif.
+0631 - Il faut garder les porcs gras, les jeunes porcs coûtent trop à engraisser.
+0632 - Il faut garder une pomme pour la soif.
+0633 - Il faut gouverner la fortune comme la santé. 
+0634 - Il faut gratter les gens où il leur démange.
+0635 - Il faut honorer les saints comme on les connaît.
+0636 - Il faut honorer nos maîtres plus que nos parents, car si nos parents nous ont donné la vie, nos maîtres nous ont donné le moyen de bien vivre.
+0637 - Il faut hurler avec les loups, si l'on veut courir avec eux. 
+0638 - Il faut hurler avec les loups.
+0639 - Il faut importuner les princes de demandes comme Dieu de prières..
+0640 - Il faut interpréter le mur, non pas la voix.
+0641 - Il faut jamais jurer de rien.
+0642 - Il faut laisser courir l'eau par le bas.
+0643 - Il faut laisser courir le vent par-dessus les tuiles. 
+0644 - Il faut laisser dormir les morts.
+0645 - Il faut laisser le moutier où il est. 
+0646 - Il faut laisser le temps au tan. 
+0647 - Il faut laisser les gens parler et les chiens aboyer.
+0648 - Il faut laisser les princes en leur opinion.
+0649 - Il faut laisser mûrir les poires pour les cueillir.
+0650 - Il faut laisser suer ceux qui ont chaud et trembler ceux qui ont froid.
+0651 - Il faut laver son linge sale en famille. 
+0652 - Il faut le désordre pour ramener l'ordre.
+0653 - Il faut le voir pour le croire. 
+0654 - Il faut lier le sac avant qu'il ne soit plein.
+0655 - Il faut lier à son doigt l'herbe qu'on connaît.
+0656 - Il faut louer la mer et se tenir en terre.
+0657 - Il faut lui mâcher tous ses morceaux. 
+0658 - Il faut manger les petits pois avec les riches et les cerises avec les pauvres. 
+0659 - Il faut manger moins de fromage que de pain.
+0660 - Il faut manger pour vivre, et non pas vivre pour manger.
+0661 - Il faut manger trois coupes de cendres pour aller au paradis.
+0662 - Il faut marier le bétail du pays.
+0663 - Il faut marier le loup pour l'arrêter.
+0664 - Il faut marier le loup pour l'assagir.
+0665 - Il faut marier le loup pour le dompter.
+0666 - Il faut mener les gens comme on les connaît.
+0667 - Il faut mourir pour qu'on dise du bien et se marier pour qu'on dise du mal.
+0668 - Il faut mourir pour se faire regretter, il faut se marier pour se faire mépriser.
+0669 - Il faut mourir pour être loué et se marier pour être décrié.
+0670 - Il faut mourir qui veut vivre.
+0671 - Il faut mourir.
+0672 - Il faut n'avoir commerce qu'avec les femmes qui vous en sauront gré.
+0673 - Il faut naître pour être joli, se marier pour être riche et mourir pour être bon.
+0674 - Il faut naître pour être joli, se marier pour être riche et mourir pour être honnête.
+0675 - Il faut observer la convenance dans le détail et l'ordre dans l'ensemble.
+0676 - Il faut opter des deux tre dupe ou fripon.
+0677 - Il faut oublier les vieilles dettes et puis laisser les jeunes devenir vieilles.
+0678 - Il faut partout un commencement.
+0679 - Il faut partout une mesure.
+0680 - Il faut pas attaquer le nid de guêpes.
+0681 - Il faut pas croire que poussin en sait plus que poule.
+0682 - Il faut pas demander aux hommes ce qu'on peut pas leur donner.
+0683 - Il faut pas donner garder le lard au chat.
+0684 - Il faut pas donner garder les brebis au loup.
+0685 - Il faut pas enseigner à chier à ceux qui ont la diarrhée.
+0686 - Il faut pas faire l'épi plus gros que la mortaise.
+0687 - Il faut pas prendre après ce que disent les fous.
+0688 - Il faut pas rire d'un bossu, de peur de se faire rire soi-même.
+0689 - Il faut pas s'amuser avec les chiens et avec les crétins.
+0690 - Il faut pas se jeter dans la crèche avant qu'entrer à l'écurie.
+0691 - Il faut pas se mettre bas aux pieds ce qu'on a aux mains.
+0692 - Il faut passer par là ou par la fenêtre. 
+0693 - Il faut payer qui veut acheter.
+0694 - Il faut pendre la lessive du temps que le soleil luit.
+0695 - Il faut penser avec les honnêtes gens, mais parler avec le vulgaire.
+0696 - Il faut penser sept fois avant de se mettre en colère et soixante-dix sept fois sept avant de se marier.
+0697 - Il faut perdre un vairon pour pêcher un saumon.
+0698 - Il faut placer le clocher au milieu de la paroisse. 
+0699 - Il faut planter un arbre au profit d'un autre âge.
+0700 - Il faut plus craindre les eaux que le vin.
+0701 - Il faut plus d'esprit pour faire l'amour que pour conduire des armées.
+0702 - Il faut plus d'un coup pour mettre bas un chêne.
+0703 - Il faut plus d'une hirondelle pour amener le printemps.
+0704 - Il faut plus de drogues aux trop saouls qu'aux meurs-de-faim.
+0705 - Il faut plus dérober que gagner pour être riche à plaidoyer.
+0706 - Il faut plus que de l'esprit pour être auteur.
+0707 - Il faut pouvoir bien sûr, mais il faut aussi vouloir.
+0708 - Il faut premier à Dieu servir et du corps puis se souvenir.
+0709 - Il faut prendre en gré le temps quand il vient, folle est la quérimonie qui est contre le temps.
+0710 - Il faut prendre en gré le temps quand il vient.
+0711 - Il faut prendre la poule sans crier.
+0712 - Il faut prendre la vie du beau côté.
+0713 - Il faut prendre la vie du beau sens.
+0714 - Il faut prendre le blé comme qu'il croît et puis le temps comme qu'il vient.
+0715 - Il faut prendre le cerf avant de le dépouiller.
+0716 - Il faut prendre le pot-au-feu selon son état et revenu et qui guère n'a dépenser peu.
+0717 - Il faut prendre le saut avant le lièvre.
+0718 - Il faut prendre le taureau par les cornes. Quand on veut quelque chose
+0719 - il faut vraiment s'y mettre.
+0720 - Il faut prendre le temps comme il vient. 
+0721 - Il faut prendre le temps comme il vient et les hommes comme on les trouve.
+0722 - Il faut prendre le temps comme il vient, les femmes comme elles sont et l'argent pour ce qu'il vaut.
+0723 - Il faut prendre une maison faite et une femme à faire.
+0724 - Il faut presque être trop bon pour l'être assez.
+0725 - Il faut préférer un dommage à un gain malhonnête, car le premier ne cause qu'un chagrin, alors que le second en apporte une infinité.
+0726 - Il faut puiser tant que la corde est au puits.
+0727 - Il faut qu'il ait été changé en nourrice. 
+0728 - Il faut qu'on en fasse, si ce n'est chez soi c'est en allant boire.
+0729 - Il faut qu'on en fasse, si ce n'est pas à la crèche c'est en allant boire.
+0730 - Il faut qu'un fou mette de la graisse dans la soupe et qu'un sage y mette du sel.
+0731 - Il faut qu'un homme soit bien vieil pour haïr un maquereau.
+0732 - Il faut qu'un menteur ait de la mémoire 
+0733 - Il faut qu'une main lave l'autre.
+0734 - Il faut qu'une porte soit ouverte ou fermée 
+0735 - Il faut que celui qui se moque des jambes tordues ait les siennes droites.
+0736 - Il faut que chair qui croît bouge.
+0737 - Il faut que force reste à justice. Il ne faut utiliser la force que pour une cause juste.
+0738 - Il faut que jeunesse se passe et que vieillesse se casse.
+0739 - Il faut que jeunesse se passe. La jeunesse est difficile mais elle est un moment de la vie comme un autre.
+0740 - Il faut que la maladie prenne son cours.
+0741 - Il faut que la poule aide le coq à gratter.
+0742 - Il faut que la poule aide à gratter au coq.
+0743 - Il faut que la tête soit bien pourrie, pour que la queue sente si mauvais.
+0744 - Il faut que la ville soit fournie, qu'il en y ait des fols et des sages.
+0745 - Il faut que le coeur se brise ou se bronze.
+0746 - Il faut que le désordre ramène l'ordre.
+0747 - Il faut que le mâle soit fin si la femelle ne l'affine.
+0748 - Il faut que le pauvre homme fasse joug au riche.
+0749 - Il faut que le sage porte le fol sur ses épaules.
+0750 - Il faut que les enfants le soient longtemps.
+0751 - Il faut que les femmes se plaignent de leur jardin, pour que ce soit une bonne année.
+0752 - Il faut que les filles descendent et que les vaches montent.
+0753 - Il faut que vertu fasse tête à la noblesse.
+0754 - Il faut quelquefois brûler une chandelle au diable.
+0755 - Il faut racheter l'argent prêté.
+0756 - Il faut recevoir le bien avec son mal.
+0757 - Il faut recevoir les calomnies avec plus de calme que les cailloux.
+0758 - Il faut reculer pour mieux sauter.
+0759 - Il faut remplir son tonneau de joie pour n'y laisser place à mélancolie.
+0760 - Il faut rendre le bien pour le mal.
+0761 - Il faut rien qu'être pauvre pour être exploité.
+0762 - Il faut rire avant que d'être heureux, de peur de mourir avant d'avoir ri.
+0763 - Il faut s'agripper au tronc devant de s'agripper aux branches.
+0764 - Il faut s'enquérir qui est mieux savant, non qui est plus savant.
+0765 - Il faut s'habiller du drap du pays.
+0766 - Il faut s'étendre selon sa couverture.
+0767 - Il faut sauver les peuples malgré eux.
+0768 - Il faut savoir avant penser.
+0769 - Il faut savoir changer son arbalète d'épaule.
+0770 - Il faut savoir devant qu'avoir.
+0771 - Il faut savoir détendre la corde avant qu'elle se rompe.
+0772 - Il faut savoir détendre la corde avant qu'elle se rompe.
+0773 - Il faut savoir maîtriser sa langue, son sexe et son coeur.
+0774 - Il faut savoir obéir avant que de commander.
+0775 - Il faut savoir raison garder.
+0776 - Il faut savoir tenir sa misère joyeuse.
+0777 - Il faut se conduire avec ses amis comme on voudrait les voir se conduire avec soi.
+0778 - Il faut se contenter de ce qu'on a.
+0779 - Il faut se défier des garçons peignés et filles frisées.
+0780 - Il faut se marier pour se faire critiquer.
+0781 - Il faut se marier pour se faire à blâmer, il faut mourir pour se faire à louer.
+0782 - Il faut se marier pour se faire à décrier, il faut mourir pour se faire à fleurir.
+0783 - Il faut se marier pour être méprisé et mourir pour être loué.
+0784 - Il faut se mesurer qui veut durer.
+0785 - Il faut se méfier d'un taureau qui beugle.
+0786 - Il faut se méfier des eaux dormantes.
+0787 - Il faut se méfier du devant d'une femme, du derrière d'une mule et d'un curé de tous côtés.
+0788 - Il faut se méfier du devant d'une femme, du derrière d'une mule et d'un soldat de tous les côtés.
+0789 - Il faut se taire ou dire des paroles de bon augure.
+0790 - Il faut semer qui veut moissonner.
+0791 - Il faut sept ans pour rattraper la première année de mariage.
+0792 - Il faut servir Dieu avant sa panse.
+0793 - Il faut seulement manger par faim et boire par soif.
+0794 - Il faut si bien marier ses enfants qu'ils n'ayent que faire de leurs pères.
+0795 - Il faut souffrir le chaud et le froid.
+0796 - Il faut souffrir pour un mieux.
+0797 - Il faut souffrir pour être belle.
+0798 - Il faut suivre la mode ou être extravagant.
+0799 - Il faut surveiller nos ennemis, car ils voient les premiers nos défauts.
+0800 - Il faut tendre la main à ses amis sans fermer les doigts.
+0801 - Il faut tendre voile selon le vent.
+0802 - Il faut tenir les enfants sur la crainte.
+0803 - Il faut tenir à une résolution parce qu'elle est bonne, et non parce qu'on la prise.
+0804 - Il faut tirer le ridicule avec grâce et d'une manière qui plaise et qui instruise.
+0805 - Il faut tondre ses brebis et non pas les écorcher. Ou 
+0806 - Il faut toujours avoir quelque chose à manger avec son pain.
+0807 - Il faut toujours donner un coup à la douve et l'autre au cercle 
+0808 - Il faut toujours faire aller l'eau sur son moulin.
+0809 - Il faut toujours faire coucher la colère à l'huis.
+0810 - Il faut toujours garder une pomme pour la soif.
+0811 - Il faut toujours laisser couler l'eau par le bas.
+0812 - Il faut toujours manger avant de boire.
+0813 - Il faut toujours manger un plat après la soupe.
+0814 - Il faut toujours mettre de l'eau dans son vin.
+0815 - Il faut toujours se méfier du cul d'un mulet, du devant d'une femme, de la rancune d'un prêtre.
+0816 - Il faut tourner sa langue sept fois dans sa bouche avant de parler. 
+0817 - Il faut toute la vie pour apprendre à vivre.
+0818 - Il faut travailler en jeunesse, pour reposer en vieillesse.
+0819 - Il faut travailler qui veut manger.
+0820 - Il faut travailler qui veut reposer.
+0821 - Il faut travailler tant que la peau du cul dure.
+0822 - Il faut trois sacs à un plaideur n sac de papiers, un sac d'argent et un sac de patience.
+0823 - Il faut trois vieilles femmes pour faire une jeune fille.
+0824 - Il faut tromper les enfants avec les osselets et les hommes avec les serments.
+0825 - Il faut tuer le taureau avant la vache.
+0826 - Il faut un commencement à tout.
+0827 - Il faut un coup de fouet pour stimuler un cheval, il faut un verre de vin pour stimuler un homme.
+0828 - Il faut un fol et un sage, pour trancher un fromage.
+0829 - Il faut une fois mourir.
+0830 - Il faut une mesure à tout.
+0831 - Il faut vivre avec ceux qui vivent.
+0832 - Il faut vivre et laisser vivre.
+0833 - Il faut vivre et non pas seulement exister.
+0834 - Il faut voir et ouïr en cour et y être aveugle et sourd.
+0835 - Il faut à la femme la plus honnête un grain de coquetterie, comme à la fraise un grain de poivre.
+0836 - Il faut à la fois reculer pour mieux saillir.
+0837 - Il faut à tout un commencement.
+0838 - Il faut éclairer l'histoire par les lois et les lois par l'histoire.
+0839 - Il faut écouter beaucoup et parler peu pour bien agir au gouvernement d'un État.
+0840 - Il faut écrire comme on parle.
+0841 - Il faut épargner en jeunesse pour se soutenir en vieillesse.
+0842 - Il faut éprouver l'ami aux petites occasions et l'employer aux grandes.
+0843 - Il faut éteindre la démesure plus qu'un incendie.
+0844 - Il faut être bien monté ou aller à pied.
+0845 - Il faut être chair ou bien os.
+0846 - Il faut être deux pour se quereller.
+0847 - Il faut être enclume ou marteau.
+0848 - Il faut être fol en amour.
+0849 - Il faut être gris pour faire des âneries.
+0850 - Il faut être juste avant d'être généreux, comme on a des chemises avant d'avoir des dentelles.
+0851 - Il faut être marchand ou larron. 
+0852 - Il faut être sévère, ou du moins le paraître.
+0853 - Il faut être à la maison partout.
+0854 - Il faut ôter le trot et en faire une haquenée.
+0855 - Il faut, autant qu'on peut, obliger tout le monde.
+0856 - Il faut, quand on agit, se conformer aux règles, et quand on juge, avoir égard aux exceptions.
+0857 - Il faut, quand on gouverne, voir les hommes tels qu'ils sont, et les choses telles qu'elles doivent être.
+0858 - Il foloye beau qui foloye par conseil.
+0859 - Il gagne assez qui putain perd.
+0860 - Il importe autant pour un soldat d'ignorer certaines choses que d'en savoir d'autres.
+0861 - Il la faudrait acheter pour ce qu'elle vaut et la vendre pour ce qu'elle se croit.
+0862 - Il languit qui ne repose.
+0863 - Il lui en pend autant au nez. Se dit de quelqu'un qui peut être exposé au même inconvénient.
+0864 - Il lui pense rompre le cul et il se rompt la tête.
+0865 - Il meurt plus d'enfants de trop manger que de mourir de faim.
+0866 - Il n'a loisir qu'il ne le prend.
+0867 - Il n'a pas bruit pour néant.
+0868 - Il n'a pas fait qui commence.
+0869 - Il n'a pas le bec gelé. 
+0870 - Il n'a pas soif qui d'eau ne boit.
+0871 - Il n'appartient pas à un vilain de renier Dieu.
+0872 - Il n'appartient qu'aux grands hommes d'avoir de grands défauts.
+0873 - Il n'appartient qu'à un sot d'être trompé plusieurs fois, le sage ne le peut être qu'une fois.
+0874 - Il n'arrive jamais d'aussi grand malheur que d'autres n'en vaillent de mieux.
+0875 - Il n'aura jamais bon marché qui ne le demande.
+0876 - Il n'aura jamais bon valet qui ne le nourrit.
+0877 - Il n'aura pas bonne part de ses noces qui n'y est.
+0878 - Il n'en chaut de savoir comment les fruits et poissons s'appellent, mais qu'ils soient bons.
+0879 - Il n'en chaut de le voir si on le tient.
+0880 - Il n'en chaut quelle âge ait la bête, si elle porte bien.
+0881 - Il n'en chaut savoir comme les fruits et poissons s'appellent, mais qu'ils soient bons.
+0882 - Il n'en jetterait pas sa part aux chiens. 
+0883 - Il n'en n'arrive pas une sans deux.
+0884 - Il n'engendre pas la mélancolie. 
+0885 - Il n'entend pas de cette oreille-là. 
+0886 - Il n'est aboi ni chasse que de vieux chien.
+0887 - Il n'est aboi que de vieux chien.
+0888 - Il n'est amis aujourd'hui que de table.
+0889 - Il n'est anglet sans coin.
+0890 - Il n'est argent perdu que par faute d'argent.
+0891 - Il n'est au monde animal traître au prix de l'homme.
+0892 - Il n'est au monde si grand dommage, que seigneur à fol courage.
+0893 - Il n'est avoir que de preud'homme.
+0894 - Il n'est banquet que d'homme chiche.
+0895 - Il n'est besogne que d'ouvriers.
+0896 - Il n'est bien ou joie si hautaine qu'on prise n'est qu'on l'acquiert à peine.
+0897 - Il n'est bois si vert qui ne s'allume.
+0898 - Il n'est bon acquit que de don.
+0899 - Il n'est bon charretier qui ne verse.
+0900 - Il n'est bon maître qui jamais ne faille.
+0901 - Il n'est bon pour soi, ne pour autrui.
+0902 - Il n'est chance qui ne retourne.
+0903 - Il n'est chariot qui ne verse.
+0904 - Il n'est chasse que de vieux chiens.
+0905 - Il n'est chasse que de vieux chiens.
+0906 - Il n'est cheval qui n'ait méhaing.
+0907 - Il n'est cheval qui n'ait son méhain.
+0908 - Il n'est chose qu'on ne fasse.
+0909 - Il n'est chose si vile qu'elle ne soit utile.
+0910 - Il n'est chose si vile qui ne soit utile.
+0911 - Il n'est chose tant soit-elle vile, qui ne duise et ne soit utile.
+0912 - Il n'est condiment que d'appétit.
+0913 - Il n'est d'orgueil que de pauvre enrichi.
+0914 - Il n'est danger que de vilain.
+0915 - Il n'est danger que de vilain.
+0916 - Il n'est de bien faire et taire, et à Dieu complaire.
+0917 - Il n'est dette si tôt perdue que dette trop attendue.
+0918 - Il n'est digne du doux, qui n'a goûté l'amer.
+0919 - Il n'est débiteur qui veut.
+0920 - Il n'est déjeuner que d'écoliers, dîner que d'avocats, souper que de marchands, regoubillonner que de chambrières.
+0921 - Il n'est entreprise que d'homme hardi.
+0922 - Il n'est envie que de moine.
+0923 - Il n'est fagot qui ne trouve son lieu.
+0924 - Il n'est femme, cheval ni vache, qui n'ait toujours quelque tache.
+0925 - Il n'est feu que de gros bois.
+0926 - Il n'est forteresse qu'un âne chargé d'or ne puisse approcher.
+0927 - Il n'est guère de loyaux amis.
+0928 - Il n'est géhenne au monde que de vin.
+0929 - Il n'est géhenne que de vin.
+0930 - Il n'est hardi qui s'effraie d'un refus.
+0931 - Il n'est homme qui ne prend somme.
+0932 - Il n'est homme qui ne prenne somme.
+0933 - Il n'est honneur ni recueil que de dames.
+0934 - Il n'est jamais feu sans fumée.
+0935 - Il n'est jamais jour si on ne voit le soleil.
+0936 - Il n'est jamais tard à bien faire.
+0937 - Il n'est jamais trop tard pour bien faire. 
+0938 - Il n'est jouer qu'à joueurs.
+0939 - Il n'est lumière que du matin, ni manger qu'à bonne faim.
+0940 - Il n'est mal dont bien ne vienne.
+0941 - Il n'est manger qu'à bonne faim.
+0942 - Il n'est mariage que de personnes.
+0943 - Il n'est marié que mort ne démarie.
+0944 - Il n'est martyre que d'amours.
+0945 - Il n'est maître qu'un bon métier.
+0946 - Il n'est messager que soi-même.
+0947 - Il n'est miracle que de vieux saints.
+0948 - Il n'est mis loin du cul qui à la queue se tient.
+0949 - Il n'est mois qui ne revienne.
+0950 - Il n'est nager qu'en grande eau.
+0951 - Il n'est noblesse que de vertu.
+0952 - Il n'est nul mauvais amis.
+0953 - Il n'est nul petit ami.
+0954 - Il n'est nul petit ennemi.
+0955 - Il n'est nulle belle prison.
+0956 - Il n'est nulles laides amours ni belles prisons. 
+0957 - Il n'est nuls petits amis.
+0958 - Il n'est nuls petits ennemis.
+0959 - Il n'est nuls petits ennemis.
+0960 - Il n'est orgueil que de pauvre enrichi.
+0961 - Il n'est orgueil que de sot revêtu.
+0962 - Il n'est ouvrage que d'ouvrier.
+0963 - Il n'est ouvrage que de maître.
+0964 - Il n'est pas rassuré qui trop haut est monté.
+0965 - Il n'est pas aimé qui est courroucé.
+0966 - Il n'est pas aisé qui des chausses de sa femme fait chaperon.
+0967 - Il n'est pas aisé qui est courroucé.
+0968 - Il n'est pas aisé qui se courrouce.
+0969 - Il n'est pas assuré à qui ne méchoit oncques. 
+0970 - Il n'est pas bien caché à qui le cul apert.
+0971 - Il n'est pas bien qu'un homme tienne à lui seul les rênes de deux femmes.
+0972 - Il n'est pas bon d'être malheureux, mais il est bon de l'avoir été.
+0973 - Il n'est pas bon maçon qui pierres refuse.
+0974 - Il n'est pas bon que l'homme soit seul.
+0975 - Il n'est pas bon que l'homme soit seul.
+0976 - Il n'est pas bon écolier, qui trotte et saute volontiers.
+0977 - Il n'est pas certain que tout soit incertain.
+0978 - Il n'est pas content qui se plaint.
+0979 - Il n'est pas couvert qui a le cul découvert.
+0980 - Il n'est pas de beauté où règne le désordre.
+0981 - Il n'est pas de cheval qui avec le temps ne devienne rosse.
+0982 - Il n'est pas de famille qui n'ait ses tares.
+0983 - Il n'est pas de fumée sans feu ni d'amour sans quelque semblant.
+0984 - Il n'est pas de satiété dans l'étude.
+0985 - Il n'est pas de vice que les femmes et les guenons ignorent.
+0986 - Il n'est pas digne d'être mercier qui ne sait faire sa loge.
+0987 - Il n'est pas digne de délacer les cordons de ses souliers. 
+0988 - Il n'est pas facile de connaître les bonnes femmes et les bons melons.
+0989 - Il n'est pas fils d'homme qui ne prend somme.
+0990 - Il n'est pas fils d'homme qui ne prenne somme.
+0991 - Il n'est pas hardi qui ne s'aventure.
+0992 - Il n'est pas heureux qui veut.
+0993 - Il n'est pas homme qui n'a somme.
+0994 - Il n'est pas marchand qui toujours gagne.
+0995 - Il n'est pas marchand qui toujours gagne.
+0996 - Il n'est pas maçon qui pierres refuse.
+0997 - Il n'est pas maître qui n'ose commander.
+0998 - Il n'est pas ne diable qui se fait noir.
+0999 - Il n'est pas nécessaire d'espérer pour entreprendre, ni de réussir pour persévérer. 
+1000 - Il n'est pas pauvre qui n'a guère de bien, mais celui seul qui n'est content de rien.
+1001 - Il n'est pas permis de s'emporter contre la vérité.
+1002 - Il n'est pas permis à tout le monde d'aller à Corinthe. 
+1003 - Il n'est pas possible de vivre heureux sans être sage, honnête et juste, ni sage, honnête et juste sans être heureux.
+1004 - Il n'est pas quitte qui doit de reste.
+1005 - Il n'est pas rassuré à qui ne méchoit oncques.
+1006 - Il n'est pas riche qui est chiche.
+1007 - Il n'est pas sage qui n'a peur d'un fol.
+1008 - Il n'est pas sage qui n'a peur d'un fou.
+1009 - Il n'est pas sain de veiller longtemps, se lever matin vaut mieux.
+1010 - Il n'est pas saoul qui n'a rien mangé.
+1011 - Il n'est pas seigneur de son pays, qui de ses sujets est haï.
+1012 - Il n'est pas si diable qu'il est noir. 
+1013 - Il n'est pas si petit buisson qui ne porte ombre.
+1014 - Il n'est pas sire en son pays, qui de ses sujets est haï.
+1015 - Il n'est pas temps de fermer l'étable quand le cheval est perdu.
+1016 - Il n'est pas temps de fermer les étables quand les chevaux sont pris.
+1017 - Il n'est pas toujours fête.
+1018 - Il n'est pas toujours saison de brebis tondre.
+1019 - Il n'est pas toujours saison de tondre brebis et mouton.
+1020 - Il n'est pas toujours temps de brebis tondre.
+1021 - Il n'est pas à soi qui est ivre.
+1022 - Il n'est pas échappé qui traîne son lien.
+1023 - Il n'est pauvreté que d'ignorance et maladie.
+1024 - Il n'est permis d'affirmer qu'en géométrie.
+1025 - Il n'est personne qui n'aime la médiocrité dorée.
+1026 - Il n'est pire aveugle que celui qui ne veut pas voir. 
+1027 - Il n'est pire eau que l'eau celle qui dort.
+1028 - Il n'est pire ennemi que ses proches.
+1029 - Il n'est pire sourd que celui qui ne veut pas entendre. 
+1030 - Il n'est plaisir que d'avoir jouissance.
+1031 - Il n'est plus nécessaire d'étudier les hommes que les livres.
+1032 - Il n'est plus sot que celui qui pense être fin.
+1033 - Il n'est plus temps de fermer les écuries quand les poulains sont dehors.
+1034 - Il n'est plus temps de secouer le joug que l'on s'est imposé.
+1035 - Il n'est point d'armes plus puissantes que la vertu.
+1036 - Il n'est point d'herbe contre la mort.
+1037 - Il n'est point de faveur, alors qu'on en est digne.
+1038 - Il n'est point de garant de forfait ni de folie.
+1039 - Il n'est point de haines implacables, sauf en amour.
+1040 - Il n'est point de petit chez soi.
+1041 - Il n'est point de pire sourd que celui qui feint le lourd.
+1042 - Il n'est point de terre plus douce que la patrie.
+1043 - Il n'est pour voir que l'oeil du maître.
+1044 - Il n'est péché ou mal tant soit celé qu'en fin ne soit connu et révélé.
+1045 - Il n'est pêcher qu'en eau trouble.
+1046 - Il n'est que boire à la vraie source.
+1047 - Il n'est que bon que les hommes voient de temps à autre comme il fait bon sans femme.
+1048 - Il n'est que d'aller le grand chemin.
+1049 - Il n'est que d'avoir affaire à gens de bien.
+1050 - Il n'est que d'avoir d'esprit bonne ouverture.
+1051 - Il n'est que d'avoir jouissance.
+1052 - Il n'est que d'être assis à son aise.
+1053 - Il n'est que d'être bien couché.
+1054 - Il n'est que d'être là où on fait le pot bouillir.
+1055 - Il n'est que d'être à son blé moudre. 
+1056 - Il n'est que de hanter les preux et bons.
+1057 - Il n'est que de nager en grande eau.
+1058 - Il n'est que de plier et dresser une plante quand elle est tendre et pliable.
+1059 - Il n'est que de prendre son refuge à Christ.
+1060 - Il n'est que de remédier au mal en temps opportun.
+1061 - Il n'est que de suivre la cohorte des bons et vertueux.
+1062 - Il n'est que de suivre le grand chemin.
+1063 - Il n'est que de vivre.
+1064 - Il n'est que les premières amours.
+1065 - Il n'est que pêcher en eau trouble.
+1066 - Il n'est que pêcher en grand vivier.
+1067 - Il n'est que voir belle dame.
+1068 - Il n'est qui puisse la mort fuir.
+1069 - Il n'est qui puisse mourir fuir.
+1070 - Il n'est richesse que de gain.
+1071 - Il n'est richesse que de science et santé.
+1072 - Il n'est rien d'inutile aux personnes de sens.
+1073 - Il n'est rien de plus terrible que la mer pour dompter un homme.
+1074 - Il n'est rien de rester tard, pourvu qu'il ne faille pas retourner.
+1075 - Il n'est rien de si absent que la présence d'esprit.
+1076 - Il n'est rien de tel que le balai neuf pour balayer la crasse.
+1077 - Il n'est rien impossible à l'homme.
+1078 - Il n'est rien plus agréable que de trouver son pareil.
+1079 - Il n'est rien plus certain que la mort, ni rien plus incertain que son jour.
+1080 - Il n'est rien plus léger que pensée de femme.
+1081 - Il n'est rien qu'amour n'emporte.
+1082 - Il n'est rien que gens ne fassent.
+1083 - Il n'est rien que les gens ne fassent.
+1084 - Il n'est rien qui ne prenne fin par succession de temps.
+1085 - Il n'est règle qui ne faille.
+1086 - Il n'est réplique si piquante que le mépris silencieux.
+1087 - Il n'est sale marmite qui ne trouve son couvercle.
+1088 - Il n'est sauce que d'appétit.
+1089 - Il n'est savate qui ne trouve sa pareille, à moins qu'on ne l'ait brûlée.
+1090 - Il n'est secours que de vrai ami.
+1091 - Il n'est secret que de rien dire.
+1092 - Il n'est si beau acquit que le don.
+1093 - Il n'est si beaux services comme de larron.
+1094 - Il n'est si bel acquêt que le don.
+1095 - Il n'est si belle rose qui ne devienne gratte-cul.
+1096 - Il n'est si bien ferré qui ne glisse.
+1097 - Il n'est si bon char qui ne verse parfois.
+1098 - Il n'est si bon charretier qui ne verse.
+1099 - Il n'est si bon hermite qu'on ne fasse partir de son hermitage.
+1100 - Il n'est si bon marinier qui ne pérille.
+1101 - Il n'est si bon marinier qui ne périsse.
+1102 - Il n'est si bon parent qu'un bon ami.
+1103 - Il n'est si bon que femme n'assotte.
+1104 - Il n'est si bon qui aussi bon ne soit.
+1105 - Il n'est si bon qui bon ne soit.
+1106 - Il n'est si bon qui n'ait son compagnon.
+1107 - Il n'est si chétif fagot qui ne trouve son lien.
+1108 - Il n'est si ferré qui ne glisse.
+1109 - Il n'est si fin qui n'ait un tour de peigne.
+1110 - Il n'est si fort lien que de femme.
+1111 - Il n'est si fort que le commencement.
+1112 - Il n'est si fort qui ne trouve son maître.
+1113 - Il n'est si fort qui puisse fuir la mort.
+1114 - Il n'est si grand mépris que de pauvre orgueilleux.
+1115 - Il n'est si grand péril qu'en change d'apothicaire.
+1116 - Il n'est si juste que femme ne diffame.
+1117 - Il n'est si long jour que la nuit ne suive.
+1118 - Il n'est si mauvais livre dont on ne puisse tirer quelque chose de bon.
+1119 - Il n'est si mauvais sourd que celui qui ne veut pas ouïr.
+1120 - Il n'est si méchant qui ne trouve sa méchante.
+1121 - Il n'est si petit buisson qui ne porte son ombre. 
+1122 - Il n'est si petit qui ne puisse nuire.
+1123 - Il n'est si petite chapelle qui n'ait sa dédicace. 
+1124 - Il n'est si petite chapelle qui n'ait son saint. 
+1125 - Il n'est si riche qui n'ait affaire d'amis.
+1126 - Il n'est si riche qui quelquefois ne doive.
+1127 - Il n'est si sage qui ne faille aucunes fois.
+1128 - Il n'est si sage qui ne fasse des sottises.
+1129 - Il n'est si sûr qui ne glisse.
+1130 - Il n'est si vrai dire qu'en moquant.
+1131 - Il n'est si étrange mensonge que la femme ne croie, s'il est à sa louange.
+1132 - Il n'est tant de gerbes qu'en moisson.
+1133 - Il n'est tel pain que de froment ni tel vin que de sarment.
+1134 - Il n'est tel que d'avoir sa fille pourvue pour trouver des marieurs. 
+1135 - Il n'est temps de regimber quand on s'est laissé entraver.
+1136 - Il n'est trésor que de sagesse et santé.
+1137 - Il n'est trésor que de science.
+1138 - Il n'est trésor que de vivre à son aise.
+1139 - Il n'est trésor que santé et avoir argent à planté.
+1140 - Il n'est viande que d'appétit 
+1141 - Il n'est viande si nette qu'un oeuf mollet.
+1142 - Il n'est vie que d'être aise.
+1143 - Il n'est vie que d'être bien aise.
+1144 - Il n'est vilain qui ne fait la vilénie.
+1145 - Il n'est vilain qui ne fasse vilénie.
+1146 - Il n'est oeuvre que d'ouvriers.
+1147 - Il n'est… si poltron, sur la terre, qui ne puisse trouver plus poltron que lui.
+1148 - Il n'importe d'où vient l'oiseau, s'il chante bien.
+1149 - Il n'importe l'âge de la vache, si elle est portante.
+1150 - Il n'importe lequel, disait celui qui prenait le plus gros morceau.
+1151 - Il n'y a animal moins domptable que la femme irraisonnable.
+1152 - Il n'y a arbre qui n'ait quelques branches sèches.
+1153 - Il n'y a au-dessous du fat que celui qui l'admire.
+1154 - Il n'y a aucune mauvaise chaussure qui ne trouve sa pareille.
+1155 - Il n'y a avoir qui vaille savoir.
+1156 - Il n'y a beau maître qui ne se trompe.
+1157 - Il n'y a bête tant soit fière, qui ne se délecte de sa pareille.
+1158 - Il n'y a bêtise qu'un fou n'y crie.
+1159 - Il n'y a celui qui n'aime mieux son profit que celui de son voisin.
+1160 - Il n'y a chance que pour la canaille.
+1161 - Il n'y a chance qui ne rechance.
+1162 - Il n'y a chance qui ne vire.
+1163 - Il n'y a char qui ne verse.
+1164 - Il n'y a chose moins recouvrable que le temps.
+1165 - Il n'y a chose qui plus décontente, que de vivre entre mal gent.
+1166 - Il n'y a chose tant ardue, qu'en bien cherchant ne soit connue.
+1167 - Il n'y a chose tant soit celée, que le temps ne rende avérée.
+1168 - Il n'y a chose tant soit vile qu'elle ne profite à cil celui qui en sait la valeur.
+1169 - Il n'y a d'ami, d'épouse, de père ou de frère que dans la patrie. L'exilé partout est seul.
+1170 - Il n'y a d'impossible que ce qui implique contradiction.
+1171 - Il n'y a danger que du trop.
+1172 - Il n'y a de damnés que les obstinés. 
+1173 - Il n'y a de la chance que pour la crapule.
+1174 - Il n'y a de mariage qu'une seule fois ni de paradis qu'en un seul endroit.
+1175 - Il n'y a de nouveau que ce qui a vieilli.
+1176 - Il n'y a de nouveau que ce qui est oublié.
+1177 - Il n'y a de plaisir agréable que celui qui se renouvelle en variant.
+1178 - Il n'y a de science que du général.
+1179 - Il n'y a de vraiment bons que les gens bien portants.
+1180 - Il n'y a diligence qui satisfasse, à cil que hâtiveté presse et chasse.
+1181 - Il n'y a douleur qui ne se passe par succession de temps.
+1182 - Il n'y a en amour que les honteux qui perdent.
+1183 - Il n'y a en ville ni village, arts ni métiers où n'y ait plus de méchants que de bons ouvriers.
+1184 - Il n'y a engin tant bon qu'il soit qui n'ait besoin de doctrine.
+1185 - Il n'y a ennemi plus vénéfique que le familier et domestique.
+1186 - Il n'y a ennemi plus vénéfique, que le familier et domestique.
+1187 - Il n'y a femme sans amour, samedi sans soleil, dimanche sans plaisir ni vieillard sans douleur.
+1188 - Il n'y a femme, bête, cheval ni vache, qui n'ait toujours quelque tache.
+1189 - Il n'y a femme, cheval ni vache, qui n'ait toujours quelque tache.
+1190 - Il n'y a femme, cheval ni vache, qui n'eut quelque tache.
+1191 - Il n'y a fer, acier ou diamants, qui vaillent contre le temps.
+1192 - Il n'y a grain ni guère d'intérêt d'être enseveli en liqueurs aromatiques ou en un fumier.
+1193 - Il n'y a grand riche ni celui qui n'ait besoin du petit.
+1194 - Il n'y a guère au monde un plus bel excès que celui de la reconnaissance.
+1195 - Il n'y a guère d'homme assez habile pour connaître tout le mal qu'il fait.
+1196 - Il n'y a guère qu'une naissance honnête, ou qu'une bonne éducation qui rende les hommes capables de secret.
+1197 - Il n'y a géhenne que de femme et de vin.
+1198 - Il n'y a homme de mère né, qui sache ce qui lui pend au nez.
+1199 - Il n'y a homme tant soit-il sage, qui du futur soit présage.
+1200 - Il n'y a honneur ni dignité, qui vaille salut, sagesse et santé.
+1201 - Il n'y a jamais de va-nu-pieds qu'il n'y ait une va-nu-pieds.
+1202 - Il n'y a jamais manque de place pour la vertu.
+1203 - Il n'y a meilleur parent que l'ami fidèle et prudent.
+1204 - Il n'y a meilleur parent que l'ami fidéle et prudent.
+1205 - Il n'y a meilleure plante fruitière que la femme vertueuse.
+1206 - Il n'y a neige ni glace que le soleil ne fonde.
+1207 - Il n'y a neige ni glace que le soleil ne fonde.
+1208 - Il n'y a ni bêtes ni gens 
+1209 - Il n'y a ni laid pot qui ne trouve son couvercle.
+1210 - Il n'y a ni samedi sans soleil ni jeune fille sans amour.
+1211 - Il n'y a nul petit ennemi.
+1212 - Il n'y a pas d'oison qui ne trouve son enclos.
+1213 - Il n'y a pas de belle fille sans lentille, pas de beau garçon sans bouton.
+1214 - Il n'y a pas de belle fille sans tache de rousseur, pas de beau garçon sans bouton.
+1215 - Il n'y a pas de belle rose qui ne porte gratte-cul.
+1216 - Il n'y a pas de belles prisons ni de laides amours.
+1217 - Il n'y a pas de bonne fête sans lendemain.
+1218 - Il n'y a pas de brouillard sans eau.
+1219 - Il n'y a pas de cheval que leur mettent pas la bride.
+1220 - Il n'y a pas de chiens sans puces ni de mules sans vices ni de femmes sans malice.
+1221 - Il n'y a pas de couronnes sans épines.
+1222 - Il n'y a pas de curieux qui ne soit malveillant.
+1223 - Il n'y a pas de fataliste absolu, même à Constantinople.
+1224 - Il n'y a pas de femme plus mal chaussée que la femme du cordonnier.
+1225 - Il n'y a pas de force sans adresse.
+1226 - Il n'y a pas de fraude à tromper un trompeur. 
+1227 - Il n'y a pas de fruit qui n'ait été âpre avant d'être mûr.
+1228 - Il n'y a pas de fumée sans feu. 
+1229 - Il n'y a pas de grenouille qui ne trouve son crapaud.
+1230 - Il n'y a pas de guerre sans paix.
+1231 - Il n'y a pas de guerre sans paix.
+1232 - Il n'y a pas de jeune fille sans amour ni de femme enceinte sans douleur.
+1233 - Il n'y a pas de laides amours. 
+1234 - Il n'y a pas de maison dont le sol ne se salisse.
+1235 - Il n'y a pas de maison sans croix.
+1236 - Il n'y a pas de mal sans bien.
+1237 - Il n'y a pas de mariage sans fleurs ni de mort sans pleurs.
+1238 - Il n'y a pas de mauvais sabot qui ne trouve de quoi faire la paire.
+1239 - Il n'y a pas de mauvaise chaussure qui ne trouve sa pareille.
+1240 - Il n'y a pas de meilleur médecin que soi-même.
+1241 - Il n'y a pas de meilleur remède que celui qui réussit.
+1242 - Il n'y a pas de mortel qui soit sage à toute heure.
+1243 - Il n'y a pas de moyen pour polir le hérisson.
+1244 - Il n'y a pas de médecin pour la peur.
+1245 - Il n'y a pas de noces sans deuil ni de samedi sans soleil.
+1246 - Il n'y a pas de noces sans lendemain.
+1247 - Il n'y a pas de petites économies. 
+1248 - Il n'y a pas de pied qui ne trouve son sabot.
+1249 - Il n'y a pas de pire mal que celui de ne pouvoir pas durer dans l'aise ou dans la prospérité.
+1250 - Il n'y a pas de plus grande allégresse pour un fils que la gloire d'un père, et pour un père que les exploits d'un fils.
+1251 - Il n'y a pas de plus pesant fardeau qu'une fille qui apporte une grosse dot.
+1252 - Il n'y a pas de quinze ans laids.
+1253 - Il n'y a pas de richesse préférable à la santé du corps.
+1254 - Il n'y a pas de route royale vers la géométrie.
+1255 - Il n'y a pas de sabot sous le lit qui ne trouve son pareil.
+1256 - Il n'y a pas de samedi sans soleil comme il n'y a pas de fille sans amour.
+1257 - Il n'y a pas de samedi sans soleil ni de belle fille sans amour ni de vieille femme sans douleur.
+1258 - Il n'y a pas de samedi sans soleil ni de femme sans conseil.
+1259 - Il n'y a pas de sarcloir qui ne trouve son manche.
+1260 - Il n'y a pas de sot métier. 
+1261 - Il n'y a pas de source de profits aussi sûre que l'économie.
+1262 - Il n'y a pas de vendredi sans deuil ni de samedi sans soleil.
+1263 - Il n'y a pas loin de la porcherie à la civière.
+1264 - Il n'y a pas là de quoi fouetter un chat.
+1265 - Il n'y a pas petit pot qui ne trouve son couvercle.
+1266 - Il n'y a pas plus de belles filles sans amourettes que de beaux monticules sans merde de chien.
+1267 - Il n'y a pas plus de samedis sans soleil que de filles sans amoureux.
+1268 - Il n'y a pas plus de samedis sans soleil que de vieille femme sans conseils.
+1269 - Il n'y a pas plus de samedis sans soleil que vieille femme sans conseils.
+1270 - Il n'y a pas plus sourd que celui qui ne veut pas entendre.
+1271 - Il n'y a pas sur la terre d'homme juste qui fasse le bien sans jamais pécher.
+1272 - Il n'y a pas une dette qui ne se paie.
+1273 - Il n'y a pas une fille sans amant.
+1274 - Il n'y a pas une fille sans amour.
+1275 - Il n'y a pas une méthode unique pour étudier les choses.
+1276 - Il n'y a pas une rose sans un églantier.
+1277 - Il n'y a personne de plus sourd que celui qui ne veut pas croire.
+1278 - Il n'y a personne de plus sourd que celui qui ne veut pas entendre.
+1279 - Il n'y a pire débat que plusieurs mains à un plat.
+1280 - Il n'y a pire débat que plusieurs mains à un plat.
+1281 - Il n'y a pire ennemi qu'un familier ami.
+1282 - Il n'y a pire mal qu'une mauvaise femme, mais rien n'est comparable à une femme bonne.
+1283 - Il n'y a pièce sur le corps, qui ne soit bute de la mort.
+1284 - Il n'y a plus d'assurance au temps non plus qu'à une femme.
+1285 - Il n'y a plus d'attente où il n'y a plus d'espérance.
+1286 - Il n'y a plus d'enfants. 
+1287 - Il n'y a plus d'huile dans la lampe. 
+1288 - Il n'y a plus que le nid, les oiseaux s'en sont envolés 
+1289 - Il n'y a plus sourd que celui qui ne veut ouïr.
+1290 - Il n'y a point d'accidents si malheureux dont les habiles gens ne tirent quelque avantage.
+1291 - Il n'y a point d'eau plus dangereuse que celle qui dort.
+1292 - Il n'y a point de belle chair près des os. 
+1293 - Il n'y a point de bonheur sans courage, ni de vertu sans combat.
+1294 - Il n'y a point de bonne recette pour les gourmands, les ivrognes et les fainéants.
+1295 - Il n'y a point de corneille qui ne trouve ses enfants beaux.
+1296 - Il n'y a point de dette sitôt payée que le mépris.
+1297 - Il n'y a point de fumée sans feu.
+1298 - Il n'y a point de gens qui aient plus souvent tort que ceux qui ne peuvent souffrir d'en avoir.
+1299 - Il n'y a point de génie sans un grain de folie.
+1300 - Il n'y a point de joie meilleure que la joie du coeur.
+1301 - Il n'y a point de laides amours pour celui qui aime.
+1302 - Il n'y a point de laides amours, ni de belles prisons.
+1303 - Il n'y a point de maître d'armes mélancolique.
+1304 - Il n'y a point de montagne sans vallée. 
+1305 - Il n'y a point de montée qui n'ait sa dévallée.
+1306 - Il n'y a point de pelle qui ne trouve son fourgon.
+1307 - Il n'y a point de pied contrefait qui ne trouve sabot à sa convenance.
+1308 - Il n'y a point de pire eau que l'eau qui dort. 
+1309 - Il n'y a point de plaisir où il y a perte.
+1310 - Il n'y a point de plus sage abbé que celui qui a été moine.
+1311 - Il n'y a point de pot qui ne trouve son couvercle.
+1312 - Il n'y a point de si chétif fagot qui ne trouve son lien.
+1313 - Il n'y a point de si empêché que celui qui tient la queue de la poêle.
+1314 - Il n'y a point de traité entre le lion et l'homme, et le loup et l'agneau ne vivent pas en concorde.
+1315 - Il n'y a point de vice qui n'ait une fausse ressemblance avec quelque vertu, et qui ne s'en aide.
+1316 - Il n'y a point de vices que les femmes et les ivrognes ignorent.
+1317 - Il n'y a point de vie sans peine.
+1318 - Il n'y a point de vieux chaudron qui ne trouve sa crémaillère.
+1319 - Il n'y a qu'heur en ce monde et malheur.
+1320 - Il n'y a qu'heur et malheur en ce monde. 
+1321 - Il n'y a qu'un bon mariage et c'est le premier.
+1322 - Il n'y a qu'un chien laid pour bien aboyer.
+1323 - Il n'y a qu'un mot qui serve. 
+1324 - Il n'y a qu'un pas du fanatisme à la barbarie.
+1325 - Il n'y a qu'une brave femme, tous croient l'avoir.
+1326 - Il n'y a qu'une goutte d'eau entre propre et sale.
+1327 - Il n'y a qu'une mauvaise heure au jour.
+1328 - Il n'y a qu'une sorte d'amour, mais il y en a mille différentes copies.
+1329 - Il n'y a qu'à être en Espagne pour n'avoir plus envie d'y bâtir des châteaux.
+1330 - Il n'y a que celui qui en a, qui mette du poivre sur les choux de son potage.
+1331 - Il n'y a que ceux qui ne font rien, qui ne se trompent point. 
+1332 - Il n'y a que ceux qui ont appris à commander qui sachent obéir.
+1333 - Il n'y a que ceux qui sont dans les batailles qui les gagnent.
+1334 - Il n'y a que deux braves femmes au monde, l'une est perdue, l'autre on ne peut pas la trouver.
+1335 - Il n'y a que la foi qui sauve.
+1336 - Il n'y a que la force de l'État qui fasse la liberté de ses membres.
+1337 - Il n'y a que la main d'un ami qui arrache l'épine du coeur.
+1338 - Il n'y a que la vérité qui blesse. 
+1339 - Il n'y a que le coeur qui aille aussi vite que les hirondelles.
+1340 - Il n'y a que le méchant qui soit seul.
+1341 - Il n'y a que le premier pas qui coûte 
+1342 - Il n'y a que les bonnes bêtes qui se saoulent.
+1343 - Il n'y a que les honteux qui perdent 
+1344 - Il n'y a que les personnes qui ont de la fermeté qui puissent avoir une véritable douceur.
+1345 - Il n'y a que les rois et les cocus qui aient le droit de faire grâce.
+1346 - Il n'y a reine sans sa voisine.
+1347 - Il n'y a rien d'honnête qui ne soit utile.
+1348 - Il n'y a rien d'absolu dans la morale, et en morale.
+1349 - Il n'y a rien d'aussi mauvais qu'un petit chien.
+1350 - Il n'y a rien d'aussi patient que le travail, il attend toujours qu'on le fasse.
+1351 - Il n'y a rien d'aussi vite oublié que la mort.
+1352 - Il n'y a rien d'étrange dans le monde que le vice.
+1353 - Il n'y a rien de meilleur pour l'homme que d'être toujours allègre bien faisant pendant sa vie.
+1354 - Il n'y a rien de moindre qu'un enfant gâté.
+1355 - Il n'y a rien de plus difficile à conduire qu'une femme, puis des rouelles de charrue.
+1356 - Il n'y a rien de plus difficile à tenir que le trop aise.
+1357 - Il n'y a rien de plus difficile à écorcher que la queue.
+1358 - Il n'y a rien de plus doux à entendre que le discours d'un père qui loue son fils.
+1359 - Il n'y a rien de plus malheureux que d'être trompé et battu.
+1360 - Il n'y a rien de plus tôt gagné que de la bouche économisé.
+1361 - Il n'y a rien de plus éloquent que l'argent comptant.
+1362 - Il n'y a rien de sale que ce qui n'est pas à sa place.
+1363 - Il n'y a rien de si beau que ce qu'on a.
+1364 - Il n'y a rien de si beau que ce qu'on n'a pas.
+1365 - Il n'y a rien de si infortuné qu'un homme qui n'a jamais souffert.
+1366 - Il n'y a rien de si rapide qu'un sentiment d'antipathie.
+1367 - Il n'y a rien de tel que ce dont on a l'habitude.
+1368 - Il n'y a rien de tel que ce qu'on a coutume.
+1369 - Il n'y a rien plus difficile à tenir que le trop aisé.
+1370 - Il n'y a rien que ce qu'on n'a pas qui nous pourrait contenter.
+1371 - Il n'y a rien que les hommes aiment mieux à conserver et qu'ils ménagent moins que leur propre vie.
+1372 - Il n'y a rien qui aille aussi vite que le temps.
+1373 - Il n'y a rien qui n'ait son envers.
+1374 - Il n'y a rien qui se repaît mieux que le temps.
+1375 - Il n'y a rien sur la terre qui en temps et en lieu ne se serre.
+1376 - Il n'y a rien sûr que de mourir.
+1377 - Il n'y a rien à avoir pitié d'un canard boiteux.
+1378 - Il n'y a roi qui n'ait prince issu de paysan ou rôturier, ni rustique qui ne vienne de roi.
+1379 - Il n'y a si beau cheval qui ne devienne rosse, il n'y a si belle fille qui ne vienne une brasse-bouse.
+1380 - Il n'y a si beau cheval qui ne devienne rosse.
+1381 - Il n'y a si bel état que de vivre de ses rentes.
+1382 - Il n'y a si belle chaussure qu'elle ne devienne savate.
+1383 - Il n'y a si bon charretier qui ne verse quelquefois. 
+1384 - Il n'y a si bon qui ne perdit patience.
+1385 - Il n'y a si difficile que le commencement.
+1386 - Il n'y a si dur fruit et acerbe qui ne se mûrisse.
+1387 - Il n'y a si fin renard qui ne trouve plus finard.
+1388 - Il n'y a si fort que la mort ne renverse.
+1389 - Il n'y a si fort qui ne trouve son maître.
+1390 - Il n'y a si fort à écorcher que la queue.
+1391 - Il n'y a si grand ni si sage, qui du petit n'ait bien dommage.
+1392 - Il n'y a si grand qu'il n'ait besoin du petit.
+1393 - Il n'y a si grand qui n'ait métier du petit. 
+1394 - Il n'y a si grande faute que de laisser son chemin.
+1395 - Il n'y a si grande maison que le vent n'y tire.
+1396 - Il n'y a si long jour qui ne vienne à la nuit.
+1397 - Il n'y a si méchant pot qui ne trouve son couvercle.
+1398 - Il n'y a si petit animalon qui ne devienne lion pour défendre son bastion.
+1399 - Il n'y a si petit buisson qui ne porte son ombre.
+1400 - Il n'y a si petit métier qui ne nourrisse son maître.
+1401 - Il n'y a si petit pot qu'il ne trouve sa poche.
+1402 - Il n'y a si petit saint à qui il ne faille sa chandelle.
+1403 - Il n'y a si petite demoiselle qui ne veuille être priée.
+1404 - Il n'y a si petite mouche qui n'ait sa petite croix.
+1405 - Il n'y a si riche qui n'ait besoin d'amis.
+1406 - Il n'y a si sage qui à la fois ne rage n'enrage.
+1407 - Il n'y a si vaillant qui ne trouve son maître.
+1408 - Il n'y a si vieille jument qui ne trouve son cavalier.
+1409 - Il n'y a si vile qui ne soit utile.
+1410 - Il n'y a tant bon cheval qui ne bronche.
+1411 - Il n'y a tel que les fous pour prédire l'avenir.
+1412 - Il n'y a tels ennemis que les amis.
+1413 - Il n'y a veneur qui ne prenne plaisir à corner sa prise.
+1414 - Il n'y arrive jamais de malheur que quelqu'un n'en vaille de mieux.
+1415 - Il n'y aura jamais assez de paille et assez de foin pour fermer la bouche aux médisants.
+1416 - Il n'y avait en tout que deux femmes supportables, la première s'est pendue, la seconde est au diable.
+1417 - Il n'y eut jamais belles prisons ni légères amours.
+1418 - Il n'y eut jamais peau de lion à bon marché.
+1419 - Il n'y pas de hauts sans bas.
+1420 - Il n'y pas de mariages sans pourparlers.
+1421 - Il ne change point de pays qui voit toujours le soleil.
+1422 - Il ne chante qu'une chanson, il n'aura qu'un denier.
+1423 - Il ne choisit pas qui emprunte.
+1424 - Il ne convient pas d'être fournier à celui qui a la tête faite de beurre.
+1425 - Il ne croît pas d'herbe sur les chemins battus.
+1426 - Il ne dort pas plus qu'un jaloux 
+1427 - Il ne fait pas bon manger des prunes avec son seigneur.
+1428 - Il ne fait pas bon mettre la main entre l'écorce et le bois.
+1429 - Il ne fait pas bon tomber dans une maison comme un chien sur un jeu de boules.
+1430 - Il ne fait pas ce qu'il veut qui fait des chausses de sa femme chaperon.
+1431 - Il ne fait pas ce qui veut qui son pain sale.
+1432 - Il ne fait que boucher un trou et en ouvrir un autre.
+1433 - Il ne fait rien qui commence et ne finit.
+1434 - Il ne fait rien qui n'achève bien.
+1435 - Il ne fait sûr en mer, ni au milieu ni à la rive.
+1436 - Il ne faut pas plus craindre la mort que l'enfer.
+1437 - Il ne faut arriver ni trop tôt ni trop tard.
+1438 - Il ne faut avoir de l'esprit que par mégarde et sans y songer.
+1439 - Il ne faut avoir langue à table que pour manger.
+1440 - Il ne faut croire à un moine qu'un oeuf et deux à un abbé.
+1441 - Il ne faut dire ses cachettes ni à côté d'un mur ni dans une côte.
+1442 - Il ne faut emprunter qu'à la dernière.
+1443 - Il ne faut jamais acheter la cage sans avoir l'oiseau.
+1444 - Il ne faut jamais aimer le soir qu'on ne puisse désaimer le matin.
+1445 - Il ne faut jamais avoir hâte que pour prendre les puces.
+1446 - Il ne faut jamais avoir les yeux plus grands que le ventre.
+1447 - Il ne faut jamais cracher en amont de peur qu'il ne vous en retombe dessus.
+1448 - Il ne faut jamais cracher plus haut que son nez, de peur que cela ne vous retombe dessus.
+1449 - Il ne faut jamais hasarder la plaisanterie qu'avec des gens polis, ou qui ont de l'esprit.
+1450 - Il ne faut jamais juger ni gager de ce qui est en la cervelle d'autrui.
+1451 - Il ne faut jamais plaindre les noces.
+1452 - Il ne faut jamais plaindre sans mal.
+1453 - Il ne faut jamais se faire de souci à l'avance.
+1454 - Il ne faut jamais tourner le dos à la tourte.
+1455 - Il ne faut jamais vendre la peau de l'ours, qu'on ne l'ait mis à terre. 
+1456 - Il ne faut jurer de rien. 
+1457 - Il ne faut mettre de l'eau dans le gaz. 
+1458 - Il ne faut pas affronter l'âne jusqu'à la bride.
+1459 - Il ne faut pas agacer les fous.
+1460 - Il ne faut pas agiter ce qui est tranquille. 
+1461 - Il ne faut pas aimer le chevrette plus que la bête.
+1462 - Il ne faut pas aller au bois qui craint les feuilles.
+1463 - Il ne faut pas aller au-devant du temps.
+1464 - Il ne faut pas aller à la guerre qui craint les horions.
+1465 - Il ne faut pas aller à mûres sans havet.
+1466 - Il ne faut pas avoir les yeux plus gros que la tête.
+1467 - Il ne faut pas avoir égard à un seul témoin, fut-il Caton lui-même.
+1468 - Il ne faut pas briser le pont quand on a passé l'eau.
+1469 - Il ne faut pas brusquer pour bien avancer, inutile de traire avant de manier.
+1470 - Il ne faut pas cajoler sa femme ni la quereller en présence d'étrangers. 
+1471 - Il ne faut pas changer son cheval borgne contre un aveugle.
+1472 - Il ne faut pas changer son cheval borgne contre un aveugle ni son couteau contre une lame.
+1473 - Il ne faut pas changer son couteau contre une lame.
+1474 - Il ne faut pas changer un cheval borgne contre un aveugle.
+1475 - Il ne faut pas chercher des amis uniquement au forum et au sénat.
+1476 - Il ne faut pas chercher les poux parmi la paille.
+1477 - Il ne faut pas chômer les fêtes avant qu'elles soient venues.
+1478 - Il ne faut pas clocher devant les boiteux.
+1479 - Il ne faut pas clocher devant les boiteux.
+1480 - Il ne faut pas compter sur l'appétit d'un vieux ni sur un franc beau jour d'hiver.
+1481 - Il ne faut pas confondre vitesse et précipitation. 
+1482 - Il ne faut pas considérer l'âge en un homme que sa vertu.
+1483 - Il ne faut pas contrarier les fous.
+1484 - Il ne faut pas courir deux lièvres à la fois. 
+1485 - Il ne faut pas crever ses tripes pour couvrir sa tête.
+1486 - Il ne faut pas croire tout ce qu'on voit.
+1487 - Il ne faut pas deux coqs sur un même fumier.
+1488 - Il ne faut pas dire "Fontaine je ne boirai pas de ton eau". 
+1489 - Il ne faut pas dire tout ce que l'on sait ni manger tout ce que l'on pourrait manger.
+1490 - Il ne faut pas dire, fontaine je ne boirai jamais de toi. 
+1491 - Il ne faut pas donner et puis reprocher.
+1492 - Il ne faut pas défier un fou.
+1493 - Il ne faut pas déranger le loup dans sa tannière.
+1494 - Il ne faut pas déshabiller Pierre pour habiller Paul. 
+1495 - Il ne faut pas enlever la veste avant d'avoir chaud.
+1496 - Il ne faut pas enseigner le poisson à nager.
+1497 - Il ne faut pas essayer de pénétrer dans le sanctuaire des gens puissants.
+1498 - Il ne faut pas excuser un enfant qui agit mal.
+1499 - Il ne faut pas faire vie qui druge mais vie qui dure.
+1500 - Il ne faut pas irriter les frelons. 
+1501 - Il ne faut pas jeter de l'huile sur le feu. 
+1502 - Il ne faut pas jeter le manche après la cognée.
+1503 - Il ne faut pas joindre la faim à la soif.
+1504 - Il ne faut pas jouer au boeuf.
+1505 - Il ne faut pas juger d'un homme par ce qu'il ignore, mais par ce qu'il sait.
+1506 - Il ne faut pas juger de l'arbre par l'écorce. 
+1507 - Il ne faut pas juger de la liqueur d'après le vase. 
+1508 - Il ne faut pas laisser Paris pour trouver des chirurgiens en Vosges.
+1509 - Il ne faut pas lier les ânes avec les chevaux.
+1510 - Il ne faut pas manger du coeur.
+1511 - Il ne faut pas marier la fille d'un cabaretier ni acheter le cheval d'un meunier.
+1512 - Il ne faut pas marier la vache et puis le veau.
+1513 - Il ne faut pas mesurer chacun à la même aune.
+1514 - Il ne faut pas mettre dans une cave un ivrogne qui a renoncé au vin.
+1515 - Il ne faut pas mettre la charrue avant les boeufs.
+1516 - Il ne faut pas mettre la lampe allumée sous le boisseau. 
+1517 - Il ne faut pas mettre la main entre le marteau et l'enclume.
+1518 - Il ne faut pas mettre le doigt entre l'arbre et l'écorce. 
+1519 - Il ne faut pas mettre le doigt entre la porte et le gond.
+1520 - Il ne faut pas mettre le doigt entre le gond et la paumelle.
+1521 - Il ne faut pas mettre les étoupes auprès du feu.
+1522 - Il ne faut pas mettre tous les oeufs dans le même panier.
+1523 - Il ne faut pas mettre tous ses oeufs dans la même corbeille.
+1524 - Il ne faut pas mettre tout son argent dans un seul chiffon de toilette.
+1525 - Il ne faut pas mélanger torchons et serviettes. 
+1526 - Il ne faut pas ourdir plus qu'on peut tramer.
+1527 - Il ne faut pas parler de corde dans la maison d'un pendu. 
+1528 - Il ne faut pas parler latin devant des cordelier.
+1529 - Il ne faut pas penser voler plus haut que le ciel.
+1530 - Il ne faut pas pitoyer un canard qui est boiteux. 
+1531 - Il ne faut pas plus de femmes dans une maison que de crémaillère.
+1532 - Il ne faut pas plus de femmes à un souper qu'il n'y a de crémaillère à une cheminée.
+1533 - Il ne faut pas plus de tonneaux que de maîtres dans une maison.
+1534 - Il ne faut pas péter plus haut qu'on a le cul.
+1535 - Il ne faut pas que la souris se moque du chat ni la fille de l'amour.
+1536 - Il ne faut pas que les poules chantent plus haut que les coqs.
+1537 - Il ne faut pas regarder l'herbe à la rosée et les filles à la chandelle.
+1538 - Il ne faut pas remuer la cendre des morts.
+1539 - Il ne faut pas reprocher aux gens leur vieillesse, puisque tous nous désirons y parvenir.
+1540 - Il ne faut pas rester entre deux airs.
+1541 - Il ne faut pas retourner certaines vertus, leur envers est plus laid que bien des vices.
+1542 - Il ne faut pas ruer le manche après la cognée.
+1543 - Il ne faut pas réveiller le chat qui dort.
+1544 - Il ne faut pas s'asseoir entre deux escabeaux.
+1545 - Il ne faut pas s'irriter contre les évènements.
+1546 - Il ne faut pas s'étendre plus long que sa couverture.
+1547 - Il ne faut pas sauter du pré au chemin.
+1548 - Il ne faut pas se dépouiller avant de se coucher.
+1549 - Il ne faut pas se dévêtir avant d'aller au lit.
+1550 - Il ne faut pas se dévêtir avant d'aller dormir.
+1551 - Il ne faut pas se faire du mauvais sang avant qu'il en soit temps.
+1552 - Il ne faut pas se fier à un homme qui entend deux messes. 
+1553 - Il ne faut pas se fourrer entre la crème et le pot.
+1554 - Il ne faut pas se laisser mener par le bout du nez.
+1555 - Il ne faut pas se mettre des pierres au foie.
+1556 - Il ne faut pas se moquer des chiens avant d'être sorti du village.
+1557 - Il ne faut pas se moquer des mal chaussés.
+1558 - Il ne faut pas se plaindre d'une jambe saine.
+1559 - Il ne faut pas se salir avec la merde.
+1560 - Il ne faut pas semer les poux en une vieille pelisse.
+1561 - Il ne faut pas siffler dans la côte ou bien le loup s'amène.
+1562 - Il ne faut pas souffler le feu qui ne brûle pas.
+1563 - Il ne faut pas tant baiser son ami à la bouche que le coeur lui en fasse mal.
+1564 - Il ne faut pas tant regarder ce que l'on mange qu'avec qui l'on mange.
+1565 - Il ne faut pas tisonner le feu avec un couteau.
+1566 - Il ne faut pas tomber dans une maison comme une hirondelle dans une cheminée.
+1567 - Il ne faut pas toucher aux idoles, la dorure nous en reste aux doigts.
+1568 - Il ne faut pas toujours croire ce que l'on voit.
+1569 - Il ne faut pas toujours se plaindre avec du mal.
+1570 - Il ne faut pas tuer tout ce qui est gras.
+1571 - Il ne faut pas vendre la peau de l'ours avant de l'avoir tué. 
+1572 - Il ne faut pas être plus royaliste que le roi.
+1573 - Il ne faut pas être trop vif pour vivre.
+1574 - Il ne faut passer que de pays en autre pour être gentilhomme.
+1575 - Il ne faut point avoir noise ni débat avec mauvaises gens.
+1576 - Il ne faut point croire de choses impossibles.
+1577 - Il ne faut point de mémoire pour connaître les bons vins.
+1578 - Il ne faut point parler d'autrui qui ne veut payer ses dettes.
+1579 - Il ne faut point permettre que la poule chante le coq.
+1580 - Il ne faut point prendre conseil d'un homme qui fait mal ses besognes.
+1581 - Il ne faut point prendre de serviteur ni de servante qui soient ou riches ou trop chétifs.
+1582 - Il ne faut point se fier ni à l'air serein ni a une femme qui pleure.
+1583 - Il ne faut point éveiller le chat qui dort. 
+1584 - Il ne faut publier ni les faveurs des femmes ni celles des rois.
+1585 - Il ne faut qu'un coup de pied pour renverser une fourmilière.
+1586 - Il ne faut qu'un coup pour tuer un putois.
+1587 - Il ne faut qu'un fol pour faire choir un quartier de pierre dans un puits, mais il faut dix sages pour l'en tirer.
+1588 - Il ne faut qu'une brebis galeuse pour contaminer tout le troupeau.
+1589 - Il ne faut que tourner le dos à Dieu pour devenir riches.
+1590 - Il ne faut rien acheter dans un sac.
+1591 - Il ne faut rien croire de ce qu'on voit et puis rien que la moitié de ce qu'on entend.
+1592 - Il ne faut rien mettre au cerveau pour tenir la place de ce qu'on doit mettre.
+1593 - Il ne faut s'enquérir d'où est l'homme, d'où est le vin, d'où est le dire, mais qu'il soit bon.
+1594 - Il ne faut se moquer des chiens que quand on est hors du village.
+1595 - Il ne faut toucher ses yeux qu'avec son coude.
+1596 - Il ne faut toucher à son ennemi que pour lui abattre la tête.
+1597 - Il ne faut toujours pas crier avant d'être battu.
+1598 - Il ne faut trembler que l'on ne voie sa tête à ses pieds.
+1599 - Il ne faut à la cour ni trop voir ni trop dire.
+1600 - Il ne faut être ni enclume ni marteau.
+1601 - Il ne paraît pas que la nature ait fait les hommes pour l'indépendance.
+1602 - Il ne parle pas au roi qui veut.
+1603 - Il ne part du sac que ce qui y est.
+1604 - Il ne peut issir du sac que ce qu'il y a. 
+1605 - Il ne peut sortir d'un sac à charbon que ce qu'il y a dedans.
+1606 - Il ne pleut pas sur le chemin autant que dans la cour. 
+1607 - Il ne pleut que sur la vendange.
+1608 - Il ne profite pas une figue, de moult donner à un prodigue.
+1609 - Il ne s'agit pas de lire beaucoup, mais de lire utilement.
+1610 - Il ne s'épouvante point du bruit.
+1611 - Il ne sait rien qui hors ne va.
+1612 - Il ne sait rien qui ne va par villes.
+1613 - Il ne saurais boire et souffler le feu.
+1614 - Il ne saurait partir du sac que ce qui est.
+1615 - Il ne saurait servir à deux autels.
+1616 - Il ne se fait aucun profit qu'au dommage d'autrui.
+1617 - Il ne se faut tuer en son métier mais y vivre.
+1618 - Il ne se fourvoie point qui à bon hôtel va.
+1619 - Il ne se hausse ni ne se baisse. 
+1620 - Il ne se tord pas qui va le plain chemin. 
+1621 - Il ne se tord pas qui à bon hôtel va. 
+1622 - Il ne se trouve point d'aussi grande distance de bête à bête que d'homme à homme.
+1623 - Il ne serait nuls médisants, s'il n'était des écoutants.
+1624 - Il ne sert rien d'affirmer avec serment à celui qui n'est pas bien aise d'entendre la vérité.
+1625 - Il ne sert rien de se tant dépêcher, il faut faire le travail d'adroit.
+1626 - Il ne sert à rien d'agiter une mare d'eau sale.
+1627 - Il ne sert à rien d'être jeune sans être belle, ni belle sans être jeune.
+1628 - Il ne suffit pas d'avoir de l'esprit, il faut encore en avoir assez pour éviter d'en avoir de trop.
+1629 - Il ne suffit pas d'avoir les mains propres, il faut avoir l'esprit pur.
+1630 - Il ne suffit pas de faire le bien, il faut encore le bien faire.
+1631 - Il ne te faut pas aller au bois, si tu as peur des dards.
+1632 - Il ne va ni à messe ni à prêche. 
+1633 - Il ne va pas tout à honte qui de demi-voie retourne.
+1634 - Il ne voudrait rien de l'autrui, mais il voudrait que tout fut à lui.
+1635 - Il nourrit des pigeons qui veut, il les tue qui peut.
+1636 - Il nous faut du nouveau, n'en fût-il plus au monde.
+1637 - Il paraît bon pour n'avoir pas le moyen de faire le mauvais.
+1638 - Il parle comme un aveugle des couleurs. 
+1639 - Il perd le sens qui perd le sien.
+1640 - Il peut bien espérer au cieux qui désespère en terre.
+1641 - Il peut bien peu, qui ne peut nuire.
+1642 - Il plaide beau qui plaide sans partie.
+1643 - Il plaide bien qui plaide sans partie. 
+1644 - Il plaidoie beau qui plaidoie sans partie.
+1645 - Il pleut à tous vents. 
+1646 - Il procède d'un coeur vile et très ord, de prendre femme pour son trésor.
+1647 - Il promet le ciel pour héritage, mais il donnera l'enfer pour partage.
+1648 - Il promet merveilles, mais il ne tient rien.
+1649 - Il rentre par la cheminée, ce qui sort de la cuisine.
+1650 - Il ressemble aux anguilles de Melun, il crie avant qu'on l'écorche. 
+1651 - Il ressemble le baillis, il prend derrière et devant.
+1652 - Il ressemble le lieutenant, il prend du tort et du droit.
+1653 - Il rit assez qui rit le dernier.
+1654 - Il réunit tous les suffrages, celui qui a su mêler l'utile à l'agréable.
+1655 - Il s'a beau taire de l'écot qui ne paie rien.
+1656 - Il s'a beau taire de l'écot qui rien n'en paye.
+1657 - Il s'a beau taire de l'écot, celui qui est franc.
+1658 - Il s'en défend comme d'un meurtre 
+1659 - Il sait trop de chasse qui a été veneur.
+1660 - Il se châtie bien qui se châtie par autrui.
+1661 - Il se faut entraider 
+1662 - Il se faut garder de fols et de leurs faits.
+1663 - Il se faut garder de la cloche comme du canon.
+1664 - Il se faut garder du devant d'un boeuf, du derrière d'un âne et d'un moine de tous côtés.
+1665 - Il se faut lever avant courir.
+1666 - Il se faut prêter à autrui et ne se donner qu'à soi-même.
+1667 - Il se faut savoir contenter de ce qu'on a.
+1668 - Il se fâche d'une chose de quoi il n'a que faire.
+1669 - Il se marierait avec le cul de la lune pour engendrer le beau temps.
+1670 - Il se moque de la misère, l'abondance ne lui peut rien.
+1671 - Il se mord à la queue.
+1672 - Il se noierait dans son crachat 
+1673 - Il se peut seoir sans contredit, qui se met où son hôte lui commande.
+1674 - Il se trouve autant de différence de nous à nous-même, que de nous à autrui.
+1675 - Il se trouve toujours quelqu'un pour jeter des pierres à l'arbre lourd de fruits. 
+1676 - Il se trouvent plus d'accidents de chirurgie que de médecine.
+1677 - Il se trouvent plus de capitaines à table qu'au camp.
+1678 - Il se vante de battre sa femme, celui qui n'en a pas.
+1679 - Il semble à un larron que chacun lui est compagnon.
+1680 - Il semble à un larron que chacun lui ressemble.
+1681 - Il serait assez riche, celui qui saurait l'avenir.
+1682 - Il sied au progrès de respecter ce qu'il remplace.
+1683 - Il sied plus mal à un ministre de dire des sottises que d'en faire.
+1684 - Il suffit d'inspirer le regret d'un tort, sans toujours exiger son aveu.
+1685 - Il suffit de l'emporter sur son ennemi, c'est trop de le perdre.
+1686 - Il te faut bien fanner si tu veux bien aryer.
+1687 - Il te semble que chacun est semblable à toi.
+1688 - Il va en son vivant en enfer, qui par avarice à deux autels sert.
+1689 - Il va plus au marché de peaux d'agneaux que de vieilles brebis.
+1690 - Il va à Castro pour fuir le travail, néanmoins là aussi la viande ne lui viendra pas d'elle-même à la bouche.
+1691 - Il va à la boucherie plus de veaux que de boeufs.
+1692 - Il vaudrait mieux savoir que d'avoir.
+1693 - Il vaut encore mieux court cul que tout nu.
+1694 - Il vaut encore mieux qu'il fasse mauvais temps que pas de temps du tout.
+1695 - Il vaut mieux savoir un métier que dix à peu près.
+1696 - Il vaut mieux acheter qu'emprunter.
+1697 - Il vaut mieux avaler que cracher.
+1698 - Il vaut mieux avoir affaire au boulanger qu'au curé ou au médecin.
+1699 - Il vaut mieux avoir affaire avec un sourd qu'avec un étourdi.
+1700 - Il vaut mieux avoir des ailes que des cornes.
+1701 - Il vaut mieux avoir en paix un oeuf qu'en guerre un boeuf.
+1702 - Il vaut mieux avoir envie que pitié.
+1703 - Il vaut mieux avoir flux de bourse que de ventre.
+1704 - Il vaut mieux avoir l'air que la chanson.
+1705 - Il vaut mieux avoir que compter d'avoir.
+1706 - Il vaut mieux avoir que voir.
+1707 - Il vaut mieux avoir un mari qui aime l'écu que les liens.
+1708 - Il vaut mieux boire le cafe tiède que trop chaud.
+1709 - Il vaut mieux boire à la fontaine qu'au tonneau.
+1710 - Il vaut mieux bourse vide que tête vide.
+1711 - Il vaut mieux changer de plat que d'assiette.
+1712 - Il vaut mieux chanter avec un laid que pleurer avec un joli.
+1713 - Il vaut mieux chanter loin de chez soi que pleurer chez soi.
+1714 - Il vaut mieux chanter près d'une laide que pleurer près d'une belle.
+1715 - Il vaut mieux cheminer et puis s'asseoir que de courir et puis de s'éreinter.
+1716 - Il vaut mieux coucher avec sa chambrière que de plaider.
+1717 - Il vaut mieux courir après qu'avant.
+1718 - Il vaut mieux courir avant qu'après.
+1719 - Il vaut mieux court cul que tout nu.
+1720 - Il vaut mieux céder que procéder.
+1721 - Il vaut mieux d'allumer la lampe plutôt que de jurer contre la nuit.
+1722 - Il vaut mieux d'avoir que de devoir.
+1723 - Il vaut mieux deux soutiens que rien qu'un.
+1724 - Il vaut mieux dire "laide allons souper" que "belle qu'avons nous à souper".
+1725 - Il vaut mieux dire "laide mettons-nous à table" que "belle allons-nous coucher".
+1726 - Il vaut mieux dix de blesses qu'un de tué.
+1727 - Il vaut mieux donner la laine que la brebis.
+1728 - Il vaut mieux donner que recevoir.
+1729 - Il vaut mieux du pain dans l'armoire qu'un bel homme dans la rue.
+1730 - Il vaut mieux du pain dans la panetière qu'un beau garçon dans la rue.
+1731 - Il vaut mieux du pain sec avec amour que poulets avec des cris.
+1732 - Il vaut mieux déjeuner sans messe que sans vin.
+1733 - Il vaut mieux endurer que de se fâcher.
+1734 - Il vaut mieux entendre un boeuf parler qu'une fille siffler.
+1735 - Il vaut mieux exceller en une chose que d'être médiocre en plusieurs.
+1736 - Il vaut mieux faire envie que pitié 
+1737 - Il vaut mieux faire que de dire.
+1738 - Il vaut mieux faire vie qui dure que vie qui rompt.
+1739 - Il vaut mieux fermer sa bouche que de mal parler.
+1740 - Il vaut mieux folie que mélancolie.
+1741 - Il vaut mieux glaner dix ans que de ne moissonner qu'une fois. 
+1742 - Il vaut mieux glaner dix ans que n'en moissonner qu'un.
+1743 - Il vaut mieux habit trop large que déchiré.
+1744 - Il vaut mieux habiter à Vérone près de Bologne qu'à Péronne près de Boulogne. 
+1745 - Il vaut mieux hasarder de sauver un coupable que de condamner un innocent.
+1746 - Il vaut mieux irriter un chien qu'une vieille femme.
+1747 - Il vaut mieux l'avoir été en herbe, et ne l'être point en gerbe.
+1748 - Il vaut mieux laisser son enfant morveux que de lui arracher le nez. 
+1749 - Il vaut mieux le bois que l'écorce.
+1750 - Il vaut mieux le milieu que les bords.
+1751 - Il vaut mieux le passereau dans la casserole que le ramier en haut de l'épicéa.
+1752 - Il vaut mieux manger du pain de son que de n'en manger pas du tout.
+1753 - Il vaut mieux marier un dégourdi que cent couillons.
+1754 - Il vaut mieux mettre aux jambes qu'au ventre.
+1755 - Il vaut mieux monter sur un clocher que sur une brèche.
+1756 - Il vaut mieux mourir que mal vivre.
+1757 - Il vaut mieux mourir selon les règles que de réchapper contre les règles.
+1758 - Il vaut mieux nourriture abandonnée que panse crevée.
+1759 - Il vaut mieux pain sans nappe que nappe sans pain.
+1760 - Il vaut mieux pardonner aux autres qu'à soi-même.
+1761 - Il vaut mieux partir que compter et compter que partir.
+1762 - Il vaut mieux payer le boucher que le médecin.
+1763 - Il vaut mieux payer le boulanger que le médecin.
+1764 - Il vaut mieux pays gâté que pays perdu.
+1765 - Il vaut mieux perdre la borle que le singe.
+1766 - Il vaut mieux perdre la fenêtre que toute la maison.
+1767 - Il vaut mieux peu de bien et ne devoir rien que d'avoir beaucoup de bien et être accablé de dettes.
+1768 - Il vaut mieux peu et bon que beaucoup et mauvais.
+1769 - Il vaut mieux plaire et être au gré d'un homme de bien que de plusieurs mauvais.
+1770 - Il vaut mieux ployer plier que rompre.
+1771 - Il vaut mieux plus tard que jamais.
+1772 - Il vaut mieux porter envie que pitié.
+1773 - Il vaut mieux prier Dieu que ses saints.
+1774 - Il vaut mieux prévenir que guérir. 
+1775 - Il vaut mieux prêter sur gages que sur rien.
+1776 - Il vaut mieux prêter à un ami que d'emprunter à un ennemi.
+1777 - Il vaut mieux péter en compagnie que crever tout seul.
+1778 - Il vaut mieux péter et trotter que crever.
+1779 - Il vaut mieux que tes enfants te demandent, que d'avoir toi-même à regarder vers les mains de tes enfants.
+1780 - Il vaut mieux recevoir un coup de merlin qu'un coup de langue.
+1781 - Il vaut mieux rien faire que mal faire.
+1782 - Il vaut mieux rien prendre que mal prendre.
+1783 - Il vaut mieux rire auprès d'un vieux que de pleurer auprès d'un jeune.
+1784 - Il vaut mieux rire auprès d'un vieux que pleurer auprès d'un jeune.
+1785 - Il vaut mieux s'adresser au Bon Dieu qu'aux saints.
+1786 - Il vaut mieux s'adresser à Dieu qu'à ses saints. 
+1787 - Il vaut mieux s'arranger que de procéder.
+1788 - Il vaut mieux savoir un métier que dix à peu près.
+1789 - Il vaut mieux se brûler à la maison qu'à l'église.
+1790 - Il vaut mieux se fier à un cheval sans bride qu'à un discours sans ordre.
+1791 - Il vaut mieux se marier que brouter sur les autres.
+1792 - Il vaut mieux se marier que de brûler.
+1793 - Il vaut mieux se taire que de trop bavarder.
+1794 - Il vaut mieux se taire que mal parler.
+1795 - Il vaut mieux se tenir au tronc qu'à la branche.
+1796 - Il vaut mieux sentir du vin que le boire.
+1797 - Il vaut mieux soigner la peau que la chemise.
+1798 - Il vaut mieux sortir de la rive que du milieu.
+1799 - Il vaut mieux suer que trembler.
+1800 - Il vaut mieux suivre Diogène en philosophant qu'Aristippe.
+1801 - Il vaut mieux tard que jamais.
+1802 - Il vaut mieux tard que mal, et cela en tout genre.
+1803 - Il vaut mieux tendre la main que le cou.
+1804 - Il vaut mieux tenir que courir. 
+1805 - Il vaut mieux tenir que quérir.
+1806 - Il vaut mieux tomber ès mains d'un médecin heureux que d'un médecin savant.
+1807 - Il vaut mieux tout manger que tout dire.
+1808 - Il vaut mieux tête faite que tête à faire.
+1809 - Il vaut mieux un bon ami qu'un mauvais parent.
+1810 - Il vaut mieux un bon ami que cent parents.
+1811 - Il vaut mieux un bon mois qu'une mauvaise année.
+1812 - Il vaut mieux un bon reste qu'une mauvaise entamure.
+1813 - Il vaut mieux un boquet qu'un roquet.
+1814 - Il vaut mieux un chapeau que deux coiffes.
+1815 - Il vaut mieux un chien bien portant qu'un homme malade.
+1816 - Il vaut mieux un coup de poing qu'un coup de langue.
+1817 - Il vaut mieux un morceau de pain sec avec appétit que chapons et poules avec dégoût.
+1818 - Il vaut mieux un oiseau dans la main que six sur la cime.
+1819 - Il vaut mieux un pet hors du cul qu'un oeil hors de la tête.
+1820 - Il vaut mieux un petit dégourdi qu'un grand tout ébaudi.
+1821 - Il vaut mieux un petit feu qui echauffe qu'un gros qui brûle.
+1822 - Il vaut mieux un peu attendre que trop se dépécher.
+1823 - Il vaut mieux un peu de folie que de mélancolie.
+1824 - Il vaut mieux un rat vivant qu'un chien crevé.
+1825 - Il vaut mieux un trou au coude qu'un pli au ventre.
+1826 - Il vaut mieux un vieil homme qu'un jeune qui vous assomme.
+1827 - Il vaut mieux un voisin proche qu'un proche parent.
+1828 - Il vaut mieux un oeuf avec paix qu'un veau avec guerre ou dissension.
+1829 - Il vaut mieux un âne vivant qu'un docteur mort.
+1830 - Il vaut mieux une brebis à l'étable qu'à la chambre haute.
+1831 - Il vaut mieux user des sabots que des draps de lit.
+1832 - Il vaut mieux user des souliers que des draps.
+1833 - Il vaut mieux venir au benedicite qu'aux grâces.
+1834 - Il vaut mieux visiter l'enfer de son vivant qu'une fois mort.
+1835 - Il vaut mieux vivre en sûreté pauvrement qu'en grand hasard et péril richement.
+1836 - Il vaut mieux voir le diable que la mort.
+1837 - Il vaut mieux voir les faîtes que les pignons.
+1838 - Il vaut mieux voler en amour qu'en mariage.
+1839 - Il vaut mieux être au sermon qu'en la loge.
+1840 - Il vaut mieux être banqueroutier que de n'être rien.
+1841 - Il vaut mieux être borgne qu'aveugle.
+1842 - Il vaut mieux être cocu que trépassé.
+1843 - Il vaut mieux être de par soi que mal attelé.
+1844 - Il vaut mieux être docte que docteur.
+1845 - Il vaut mieux être homme de prière que de brévière.
+1846 - Il vaut mieux être jeune en paradis que d'être vieil fol au monde.
+1847 - Il vaut mieux être juge de vingt-cinq médecins que de sept échevins.
+1848 - Il vaut mieux être juge des médecins que du prévôt des maréchaux.
+1849 - Il vaut mieux être jument à Talissieux que femme à Béon.
+1850 - Il vaut mieux être l'aiguillon que le boeuf.
+1851 - Il vaut mieux être le premier de sa race que le dernier. 
+1852 - Il vaut mieux être léger de bourse que d'esprit.
+1853 - Il vaut mieux être mal mariée que vieille critiquée.
+1854 - Il vaut mieux être mauvais que sot.
+1855 - Il vaut mieux être oiseau de bois ou bocage que de cage.
+1856 - Il vaut mieux être pauvre du sien que riche de celui des autres.
+1857 - Il vaut mieux être premier d'un empire que d'un empereur.
+1858 - Il vaut mieux être sain que savant.
+1859 - Il vaut mieux être seul que mal accompagné.
+1860 - Il vaut mieux être souris que grenoille.
+1861 - Il vaut rien d'être trop bon.
+1862 - Il veut clairer rose et bouton, et puis tomber dans son étron. 
+1863 - Il veut le beurre, l'argent du beurre, et le sourire de la crémière par-dessus le marché. 
+1864 - Il viendra un temps ou le renard aura besoin de sa queue. 
+1865 - Il viendra un temps où les chiens auront besoin de leur queue. 
+1866 - Il voit bien un poux sur la tête d'autrui et non pas les écrouelles de son vol.
+1867 - Il voit une paille dans l'oeil du voisin. 
+1868 - Il y a 2 beaux jours pour l'homme, lorsqu'il prend femme et qu'il l'enterre.
+1869 - Il y a aussi des renards à deux jambes.
+1870 - Il y a autant de chiens à deux pattes que de ceux à quatre.
+1871 - Il y a autant de douleurs dans l'amour que de coquillages sur la rive.
+1872 - Il y a autant de faiblesse à fuir la mode qu'à l'affecter.
+1873 - Il y a autant de morts d'agneaux que de brebis.
+1874 - Il y a autant de samedis sans soleil que de jeunes femmes sans amour.
+1875 - Il y a beau champ pour faire glane. 
+1876 - Il y a beaucoup de gens qui sont plus bêtes que les bêtes.
+1877 - Il y a beaucoup de personnes qui entendent le sermon de la même manière qu'elles entendent vêpres.
+1878 - Il y a beaucoup de porteurs de férules, mais peu d'inspirés.
+1879 - Il y a beaucoup moins d'ingrats que l'on ne croît car il y a bien moins de généreux que l'on ne pense.
+1880 - Il y a bien de la différence entre chercher la plaisanterie et être plaisant.
+1881 - Il y a bien des bêtes à l'ombre quand le soleil est couché.
+1882 - Il y a bien des ânes à l'ombre quand le soleil est caché.
+1883 - Il y a bien plus de constance à user la chaîne qui nous tient qu'à la rompre.
+1884 - Il y a bien un droit du plus sage, mais non pas un droit du plus fort.
+1885 - Il y a ceux qui s'enhardissent à rien qui se trompent pas.
+1886 - Il y a dans la jalousie plus d'amour-propre que d'amour.
+1887 - Il y a dans la politesse charme et profit.
+1888 - Il y a dans la sobriété de la propreté et de l'élégance.
+1889 - Il y a dans le cerveau des femmes une case de moins, et dans leur coeur une fibre de plus que chez les hommes.
+1890 - Il y a dans les yeux de l'esprit, de l'âme et du corps.
+1891 - Il y a de bons mariages, mais il n'y en a point de délicieux.
+1892 - Il y a de la grâce à bien cueillir les roses.
+1893 - Il y a de sages sots et sots sages, par toutes villes, bourgades et villages.
+1894 - Il y a de tout assez, que de bonnes âmes.
+1895 - Il y a de tout assez, sauf de ce qui manque.
+1896 - Il y a des blessures qui ne guérissent pas.
+1897 - Il y a des chevilles pour boucher tous les trous.
+1898 - Il y a des coups où il faut savoir ne pas comprendre. 
+1899 - Il y a des couvercles pour tous les pots.
+1900 - Il y a des fois plus à battre qu'à vanner.
+1901 - Il y a des gens que faut rien leur conter que ce qu'on veut que se resache.
+1902 - Il y a des gens que le Bon Dieu prend pas la peine de les punir.
+1903 - Il y a des gens qui mentent simplement pour mentir.
+1904 - Il y a des gens qui n'ont de la morale qu'en pièce, et c'est une étoffe dont ils ne se font jamais d'habit.
+1905 - Il y a des gens qui parlent un moment avant d'avoir pensé.
+1906 - Il y a des gens qui se noieraient dans un crachat.
+1907 - Il y a des honnêtes gens partout. 
+1908 - Il y a des héros en mal comme en bien.
+1909 - Il y a des larmes pour le bonheur, il n'y en a pas pour les grands malheurs.
+1910 - Il y a des lieux que l'on admire, il y en a d'autres qui touchent et où l'on aimerait vivre.
+1911 - Il y a des lumières que l'on éteint en les plaçant sur le chandelier.
+1912 - Il y a des occasions où il vaut mieux perdre que gagner.
+1913 - Il y a des personnes si légères et si frivoles qu'elles sont aussi éloignées d'avoir de véritables défauts que des qualités solides.
+1914 - Il y a des redites pour l'oreille et pour l'esprit, il n'y en a point pour le coeur.
+1915 - Il y a des reproches qui louent, et des louanges qui médisent.
+1916 - Il y a des sottises bien habillées, comme il y a des sots très bien vêtus.
+1917 - Il y a des souliers pour tous les pieds.
+1918 - Il y a des temps où l’on ne doit dépenser le mépris qu’avec économie, à cause du grand nombre de nécessiteux.
+1919 - Il y a des vices et des vertus de circonstances.
+1920 - Il y a deux beaux jours pour l'homme, lorsqu'il prend femme et qu'il l'enterrre.
+1921 - Il y a deux manières de plaire : Amuser et intéresser.
+1922 - Il y a deux maux en amour, la guerre et la paix.
+1923 - Il y a deux sortes d'esprit : l'esprit de géométrie et l'esprit de finesse.
+1924 - Il y a du bon et du mauvais partout.
+1925 - Il y a du bon plus que de mauvais.
+1926 - Il y a du mérite sans élévation, mais il n'y a point d'élévation sans quelque mérite.
+1927 - Il y a du pain partout. 
+1928 - Il y a du plaisir à rencontre les yeux de celui à qui l'on vient de donner.
+1929 - Il y a du remède pour tout que pour la mort.
+1930 - Il y a du temps pour tout.
+1931 - Il y a encore longtemps d'ici-là.
+1932 - Il y a entre la jalousie et l'émulation le même éloignement qu'entre le vice et la vertu.
+1933 - Il y a eu Pâques avant le dimanche des Rameaux.
+1934 - Il y a fagots et fagots.
+1935 - Il y a folie à tout âge.
+1936 - Il y a gens et gens.
+1937 - Il y a l'or et les perles, mais les lèvres sages sont un vase précieux.
+1938 - Il y a la même différence entre les savants et les ignorants qu'entre les vivants et les morts.
+1939 - Il y a loin de la coupe aux lèvres. 
+1940 - Il y a moins de mal souvent à perdre sa vigne qu'à la plaider.
+1941 - Il y a moyen partout.
+1942 - Il y a partout de la tricherie qu'aux cartes.
+1943 - Il y a partout des braves gens.
+1944 - Il y a partout des oui et des non.
+1945 - Il y a partout du remède qu'à la mort.
+1946 - Il y a partout quelque chose, sauf chez nous qui nous battons sept fois avant déjeuner.
+1947 - Il y a partout quelque chose, sauf où il n'y a personne.
+1948 - Il y a pas d'ânesse qui ne trouve son âne.
+1949 - Il y a pas de bon maître qui ne se trompe pas.
+1950 - Il y a pas de bon maître sans défaut.
+1951 - Il y a pas de fumée sans feu.
+1952 - Il y a pas de meilleure école que la misère.
+1953 - Il y a pas de moindres maîtresses que les vieilles servantes.
+1954 - Il y a pas de plus gros sourd que celui qui ne veut pas entendre.
+1955 - Il y a pas de porte sans seuil.
+1956 - Il y a pas de roses sans un églantier.
+1957 - Il y a pas de roses sans épines.
+1958 - Il y a pas de saints qui vaillent le Bon Dieu.
+1959 - Il y a pas de vilain métier, il y a bien de vilaines gens.
+1960 - Il y a pas qu'on se voie aboyé que de chien blessé.
+1961 - Il y a pas rien que les gros boeufs qui labourent la terre.
+1962 - Il y a pas rien que les renards qui mangent les poules.
+1963 - Il y a pas un malheur sans un bonheur.
+1964 - Il y a pas un meunier qui ait pas mangé de farine volée, il y a pas une chaire qui ait pas entendu des mensonges.
+1965 - Il y a pas une perte sans un profit.
+1966 - Il y a pas une porte sans un seuil.
+1967 - Il y a peu d'honnêtes femmes qui ne soient lasses de leur métier.
+1968 - Il y a peu de femmes dont le mérite dure plus que la beauté.
+1969 - Il y a peu de maris que patience et amour de femme ne puissent gagner à la longue.
+1970 - Il y a peu de raison dans les armes.
+1971 - Il y a peu de vices qui empêchent un homme d'avoir beaucoup d'amis, autant que peuvent le faire de trop grandes qualités.
+1972 - Il y a plus d'acheteurs que de connaisseurs.
+1973 - Il y a plus d'honnêtes femmes qu'on ne croit, mais pas tant qu'on le dit.
+1974 - Il y a plus d'outils que d'ouvriers.
+1975 - Il y a plus d'épines que de roses.
+1976 - Il y a plus de bonheur à donner qu'à recevoir.
+1977 - Il y a plus de chances de rencontrer un bon souverain par l'hérédité que par l'élection.
+1978 - Il y a plus de chevaux que de colliers.
+1979 - Il y a plus de disciples que d'apôtres en France.
+1980 - Il y a plus de femmes putains que d'hommes ruffians.
+1981 - Il y a plus de fous acheteurs que de fous vendeurs.
+1982 - Il y a plus de fous que d'ânes cornus.
+1983 - Il y a plus de fous que de sages, et dans le sage même, il y a plus de folie que de sagesse.
+1984 - Il y a plus de gens pour adorer le soleil levant que le soleil couchant.
+1985 - Il y a plus de gloire à tuer les guerres avec la parole qu'à tuer les hommes avec le fer.
+1986 - Il y a plus de grandes fortunes que de grands talents.
+1987 - Il y a plus de jeunes peaux à la tannerie que de vieilles.
+1988 - Il y a plus de jours ouvrables que de dimanches.
+1989 - Il y a plus de mariés que de contents à Pâques.
+1990 - Il y a plus de médecins que de malades.
+1991 - Il y a plus de paille que de grain.
+1992 - Il y a plus de paroles dans un setier de vin que dans un tonneau d'eau.
+1993 - Il y a plus de peaux que de cuirs dans la fosse du tanneur.
+1994 - Il y a plus de peine à garder l'argent qu'à l'acquérir.
+1995 - Il y a plus de raison dans un tonnelet de vin que sur un char de blé.
+1996 - Il y a plus de singes que de saints.
+1997 - Il y a plus de vents que de corbeilles.
+1998 - Il y a plus de vieux ivrognes que de vieux médecins.
+1999 - Il y a plus de voleurs que de gibets.
+2000 - Il y a plus que les chiens qui aboient.
+2001 - Il y a plus que les chiens qui jappent.
+2002 - Il y a plus à battre qu'à vanner.
+2003 - Il y a plus à crinser qu'à vanner.
+2004 - Il y a quelque anguille sous roche. 
+2005 - Il y a quelque chose de plus fort que l'intérêt, c'est le dévouement
+2006 - Il y a quelque fer qui loche. 
+2007 - Il y a quelques rencontres dans la vie où la vérité et la simplicité sont le meilleur manège du monde.
+2008 - Il y a qui dit, il y a qui entend.
+2009 - Il y a qui fait, il y a qui voit.
+2010 - Il y a raine et reine.
+2011 - Il y a remède à tout qu'à la mort.
+2012 - Il y a remède à tout que contre la mort.
+2013 - Il y a remède à tout, sauf à la mort.
+2014 - Il y a rien d'aussi pénible que de vivre avec des gens mal élevés.
+2015 - Il y a rien d'impossible.
+2016 - Il y a rien de feu sans fumée.
+2017 - Il y a rien de moindre qu'un mauvais bigot.
+2018 - Il y a rien de pire aveugle que celui qui ne veut pas voir.
+2019 - Il y a rien de roses sans épines.
+2020 - Il y a société entre le crocodile et le roitelet.
+2021 - Il y a sous le ciel un temps pour tout.
+2022 - Il y a souvent bien des fions qui blessent plus que des punaises.
+2023 - Il y a tant de monsieurs aujourd'hui qu'ils n'en valent pas des sires.
+2024 - Il y a tant de si et de cas ès lois que tout n'est qu'un fatras.
+2025 - Il y a toujours en fond de vérité dans la plaisanterie. 
+2026 - Il y a toujours moyen de s'entendre.
+2027 - Il y a toujours quelque chose quand les chiens aboient.
+2028 - Il y a trois choses que le diable ne peut comprendre, la soif des forgerons, la faim des chaudronniers et la malice des femmes.
+2029 - Il y a trois moyens de croire la raison, la coutume, l'inspiration.
+2030 - Il y a trois personnes malignes, femme, singe et diable.
+2031 - Il y a trois sortes de personnes qui ont la liberté de tout dire, les enfants, les fous et les ivrognes.
+2032 - Il y a un art de savoir et un art d'enseigner.
+2033 - Il y a un certain espace entre la pote et la coupe.
+2034 - Il y a un certain plaisir parent de la tristesse.
+2035 - Il y a un diable partout.
+2036 - Il y a un dieu dans l'homme de bien. Il y a un enfer pour les curieux.
+2037 - Il y a un manche pour tous les balais.
+2038 - Il y a un remède à tout, si ce n'est à la mort.
+2039 - Il y a un temps d'aller au prêtre et un temps d'aller à la vogue.
+2040 - Il y a un temps d'être de bonne et un temps d'être grincheux.
+2041 - Il y a un temps de casser les noix et un temps de faire l'huile.
+2042 - Il y a un temps de ceci et un temps de cela.
+2043 - Il y a un temps de coudre et un temps de découdre.
+2044 - Il y a un temps de faire à moudre et un temps de faire au four.
+2045 - Il y a un temps de guerre et un temps de paix.
+2046 - Il y a un temps de lire l'almanac et un temps de lire la bible.
+2047 - Il y a un temps de pleurer et un temps de rire.
+2048 - Il y a un temps de s'aimer et un temps de se détester.
+2049 - Il y a un temps de se taire et un temps de parler.
+2050 - Il y a un temps de semer et un temps de récolter.
+2051 - Il y a un temps de travailler et un temps de se reposer.
+2052 - Il y a un temps de venir au monde et un temps d'en sortir.
+2053 - Il y a un temps pour aimer et un temps pour haïr.
+2054 - Il y a un temps pour la guerre, et un temps pour la paix.
+2055 - Il y a un temps pour ne rien dire, il y a un temps pour parler, mais il n'y a pas un temps pour tout dire. 
+2056 - Il y a un temps pour pleurer et un temps pour rire.
+2057 - Il y a un temps pour se taire et un temps pour parler.
+2058 - Il y a un temps pour tout, un temps pour embrasser et un temps pour s'abstenir d'embrassements.
+2059 - Il y a un temps pour tout.
+2060 - Il y a une certaine sorte d'amour dont l'excès empêche la jalousie.
+2061 - Il y a une espèce de honte d'être heureux à la vue de certaines misères.
+2062 - Il y a une fin à tout.
+2063 - Il y a une mesure à tout.
+2064 - Il y a une sorte de médiocrité d'esprit naturelle à la richesse, tandis que la pauvreté et la sagesse sont proches parentes.
+2065 - Il y a à boire et à manger.
+2066 - Il y a à la foire plus d'un âne qui s'appelle Martin. 
+2067 - Il y a écrit sous la queue du chien que jamais gendre ne fera prou.
+2068 - Il y a écrit sous la queue du loup que jamais bru ne fera rien.
+2069 - Il y aura des vices, tant qu'il y aura des hommes.
+2070 - Il y demeure toujours une pierre sous toi que tu ne saurais ôter.
+2071 - Il y en a beaucoup de mariés qui, s'ils avaient le repentir aux talons, courraient diablement vite.
+2072 - Il y en a beaucoup de mariés qui, s'ils avaient le repentir aux talons, ils iraient diablement vite.
+2073 - Il y en a beaucoup qui sont venus au monde fatigués.
+2074 - Il y en a d'autres que les chiens qui aboient.
+2075 - Il y en a de si malheureux que les vers s'engendrent insques dans leur salière.
+2076 - Il y en a plus de mariés que de contents.
+2077 - Il y en a pour tous et pour toutes.
+2078 - Il y en a qui disent que le mariage c'est le couvent de l'attrape.
+2079 - Il y faut y aller finement.
+2080 - Il écorche bien la bête qui le pied tient.
+2081 - Il écorche un poux pour en avoir la peau.
+2082 - Il ôte à Saint Pierre pour bailler à Saint Paul.
+2083 - Ils font l'amour comme les chats à coups de poing.
+2084 - Ils mettent tout ce qu'ils veulent sur le papier.
+2085 - Ils n'auront pas chaud, car ils ont vendu leur bois jusqu'au tremble. 
+2086 - Ils nous font secouer les prunes et ce sont eux qui les mangent.
+2087 - Ils ont chacun leur croix, les uns plus grosse, les autres plus petite, mais le Bon Dieu a porté la plus grosse.
+2088 - Ils ont chacun leur croix.
+2089 - Ils ont récolté avant les vendanges.
+2090 - Ils ont tous leur croix.
+2091 - Ils se ressemblent comme deux gouttes d'eau une ressemblance parfaite.
+2092 - Ils sont bien tous de la même matière, mais non tous de la même manière.
+2093 - Ils vont tant haut, tant que pour finir ils plantent le nez dans la merde.
+2094 - Ils vont tant haut, tant que pour finir ils tombent le nez dans la flaque.
+2095 - Impossible est de complaire à tous.
+2096 - Impossible est de tout venir à chef.
+2097 - Impossible n'est pas français.
+2098 - Improbité et vice porte son même supplice.
+2099 - Incapable de parler, impuissant à se taire.
+2100 - Incontinent qu'ils sont mariés les oreilles leur pendent d'un pied.
+2101 - Indigence engendre rioté. 
+2102 - Indigence ôte toute réjouissance.
+2103 - Ingratitude fait tôt oublier.
+2104 - Iniquité engendre adversité.
+2105 - Innocence porte sa défense.
+2106 - Instruire un sot, c'est recoller un pot cassé.
+2107 - Instruis l'enfant selon la voie qu'il doit suivre, et quand il sera vieux il ne s'en détournera point.
+2108 - Ire sans force divine ou humaine est vaine.
+2109 - Israël sera un sujet de sarcasme et de raillerie parmi les peuples.
+2110 - Ivre et idiot vont ensemble.
+2111 - Ivres et forcenés disent toute leur pensée.
+2112 - Ivrogne rien ne cèle.
+2113 - Ivrognerie cause maint accident mauvais.
+2114 - Ivrognerie engendre forcènerie.
+2115 - Ivrognerie est une zizanie et de sobriété vraie ennemie.
+2116 - Ivrognerie fait maint homme méprendre.
+2117 - Ivrognerie prive l'innocent de sa vie.
+2118 - Ivrognes, goinfres et gourmands ne vivent pas en bonne santé et ne meurent pas vieux.

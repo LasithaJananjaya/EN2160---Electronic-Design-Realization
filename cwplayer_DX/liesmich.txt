@@ -1,0 +1,852 @@
+=====================================  
+             CW_PLAYER
+===================================== 
+     Entwickelt von G. RIVAT F6DQM
+       http://f6dqm.free.fr
+=====================================
+
+Diese kostenlose Software erzeugt standardisierte Morse-Zeichen, Q-Codes,
+gewöhnliche Morse-Abkürzungen, zufallsbedingte Zeichenfolge, spielt ASCII-Dateien,
+prüft Ihre Kenntnisse und Ihren Umgang mit der Morse-Sprache. Sie werden zuerst
+den Umgang mit der Morse-Sprache trainieren und dabei dies am Bildschirm
+überprüfen können. Weiter geht es mit Ihrem ersten QSO CW mit weniger Stress und
+mehr Sicherheit.
+Diese Software erzeugt auch Morse-Ton-Dateien, die Sie mit jeder Multimedia
+Software abspielen können.
+
+Damit können Sie Ihre eigenen Zeichen erschaffen. Eine Reihe von 20 Lektionen,
+die Sie beliebig ändern können, steht auch zu Verfügung.
+
+Die Software benötigt eine Sound-Karte sowie mindestens Windows 95.
+
+Zusätzlich zur Online-Hilfe werden Hinweise angezeigt, wenn die Maus sich auf den
+Buttons befindet.
+
+Alle Windows Funktionen wie Kopieren (Strg C) und Einfügen (Strg V) können
+verwendet werden. Unter anderen kann eine zufallsbedingte Zeichenfolge ins
+Text-Fenster durch Kopieren-Einfügen eingebracht, gespielt oder in eine Text-Datei
+umgewandelt werden, um sie später wieder benutzen zu können.
+
+Diese Software wurde ursprünglich für die Internet-Surfer, die die Amateur-Funker
+Homepage besuchen, entwickelt. Das Ziel dieser Software ist die Einführung der
+Surfer in die Telegraphie, um Ihnen zu helfen, sich der Welt der Amateur-Funker
+anzuschließen. Nichtsdestotrotz wird sie auch den Amateur-Funkern, die den
+Morse-Code lernen wollen, nützlich sein.
+
+Falls Sie eine Homepage verwalten, können Sie gern diese Software Ihren Besuchern
+anbieten.
+
+Diese Software kann entweder für Ihr eigenes Training oder als Lernmittel für die
+Ausbildung in Amateur-Funker-Verein oder sogar on air benutzt werden. Dafür müssen
+Sie einen von beiden Ausgängen Ihrer Sound-Karte mit dem Eingang Ihres FM od.
+SSB Senders verbinden.
+
+WICHTIG:
+Wenn CW_Player unter WIN VISTA, WINDOWS 7 (32Bit) oder WINDOWS 8 (32Bit) verwendet 
+wird und in einem Verzeichnis C:\Programme\CW_Player\ installiert wurde, muss es 
+immer als Administrator gestartet werden, um vollen Zugriff auf alle Optionen zu haben, speziell das Speichern von Texten in Text- oder Wave- Dateien. 
+Auch ein Link auf dem Desktop oder sonst wo, muss als Administrator gestartet werden. 
+Anderen Falls sind die gespeicherten Dateien wegen des UserAccountControl (UAC) von 
+Windows nicht zu benutzen. 
+Wer das Programm nicht jedes Mal als Admin starten will, sollte ein anderes 
+Verzeichnis, z.B. C:\CW_Player\ zur Installation wählen. Hier greift die UAC nicht!
+
+73, Gabriel F6DQM
+http://f6dqm.free.fr
+email via web site or f6dqm(at)free(dot)fr
+------------------------------------------
+VERSION 5.0.6
+=============
+- Die Position des Audiofilter-Einstellungsfensters zu speichern
+- Menü "Oben bleiben" hinzugefügt
+- Korrekturen in der Delphi10-Version
+
+VERSION 5.0.5
+=============
+- Option zum Ersetzen der Sonderzeichen durch ihre ANSI-Äquivalente, falls vorhanden.
+- Einführung eines Audiopassbandfilters in dem Audiodecodierungsprozess des Monitorings.
+
+VERSION 5.0.4
+===========
+- Hinzufügen der Schaltfläche zum Konvertieren von UFT8 in ANSI im Dateifenster
+- Hinzufügen der Option, die Textdateien aus den Schlagzeilen der Nachrichtenagentur AFP erstellt
+
+Version 5.0.3
+=============
+- Erstellen von lokalen Dialogfenstern, um diese vergrößern und die Schriftart verwalten zu können
+- Warnung vor der Verwendung der Maus als Morsetaste
+
+VERSION 5.0.2
+============
+- Um die Namen der zuletzt von CW_PLAYER geöffneten Verzeichnisse zu speichern, wenn eine Textdatei oder Vokabeldatei ausgewählt wird.
+
+VERSION 5.0.1
+=============
+- Feineinstellung des Wortabstands.
+- Eine Warnung bezüglich der Kodierung von Textdateien wurde im Dateifenster hinzugefügt
+- In der DX-Version (Delphi10) ANSI-Kodierung von Textaufnahmen.
+- Schriftwechsel nur bei Vergrößerung um 100 %.
+
+VERSION 4.9.9
+=============
+- Kompatibilität mit Windows 10/11 des Parallelport-Managements.
+
+VERSION 4.9.8
+=============
+- Hinzufügen eine Klein-/Großbuchstaben-Schaltfläche im "Zoom"-Fenster.
+
+VERSION 4.9.7
+=============
+- Option, eine Reihe von Zeichen im Zufallsmodus wiederzugeben
+
+VERSION 4.9.6
+=============
+- Korrektur bei der Erstellung des Bake-Textes
+
+VERSION 4.9.5
+=============
+- Um das Flackern der Dateitextanzeige zu reduzieren
+
+VERSION 4.9.4
+=============
+- Option Verschiedenes / MONITORING : Click-Filterung (relativ zu Soundkarte)
+
+VERSION 4.9.3
+
+=============
+
+- Um eine Anomalie in der vorherigen Version zu beheben
+
+VERSION 4.9.2
+=============
+- Um die Bake zu erstellen
+
+VERSION 4.9.1
+
+============
+
+- Hinzufügen des Zeichens " in der Satzzeichenliste.
+
+- Hinzufügen des Sonderzeichens "Verstanden".
+
+- Fügen Sie im MONITORING-Modus eine Option hinzu, um die [XX] der Sonderzeichen durch einen Klartext zu ersetzen.
+
+- Fügen Sie im MONITORING-Modus eine Option hinzu, um ein lokales Zeichen durch seinen Kommentar zu ersetzen, wenn es vom Benutzer definiert wurde.
+- Direkter Zugriff auf Tools zum Bearbeiten von lokalen und Sonderzeichen durch Klicken mit der rechten Maustaste auf die entsprechenden Seiten des Alphabets
+
+- Verschiedene Vebesserungen und Korrekturen.
+
+VERSION 4.9.0
+=============
+- Im Menü Optionen, den Bericht während des Spiels im QUIZ-Modus verstecken
+- Im detaillierten QUIZ-Modusbericht, die Reaktionsgeschwindigkeit des Students anzeigen
+
+VERSION 4.8.9
+=============
+- Menü zum Vergrößern der CW_Player-Fenster für sehbehinderte Benutzer oder für Benutzer von hochauflösenden Bildschirmen. Dieses Menü ist gesperrt, wenn der Benutzer bereits die native Windows-Vergrößerung verwendet (DPI größer als 96).
+- Schaltfläche zum direkten Ändern der Schriftart im Zufallsfenster, ohne die Menüs zu durchlaufen.
+
+VERSION 4.8.8
+=============
+- Um die QUIZ-Ergebnisse in einer Textdatei zu speichern.
+
+VERSION 4.8.7
+=============
+- Um einen Fehler bei der Wiederherstellung der Auswahl von TX PTT / COM zu beheben.
+
+VERSION 4.8.6
+=============
+- Option zum Hinzufügen führender Abständen vor den Zeichen. Dies dient zur synchronisierten Keying.
+
+VERSION 4.8.5
+=============
+- Behebung einer Anomalie, die nach der Erstellung von Lektionen mit einer großen Anzahl von Buchstaben auftreten kann.
+
+VERSION 4.8.4
+=============
+- Einführung die Menüs Kopieren und Einfügen im Menü Extras
+
+VERSION 4.8.3
+=============
+- Behebung einer Anomalie beim Speichern eines Textes in MP3 in einem Verzeichnis, das sich vom Verzeichnis von CW_PLAYER unterscheidet.
+- Zum Speichern der letzten Auswahl des Fensters "Aufnahme als Wave-Datei".
+- Fügen Sie am Anfang des Textes ein Leerzeichen ein, das in eine Wave-Datei aufgenommen werden soll. Dies soll verhindern, dass der erste Buchstabe vom MP3-Konverter abgeschnitten wird.
+
+VERSION 4.8.2
+=============
+- Wenn im DATEI-Modus eine Datei angehalten wurde und auf die Fortsetzung wartet, ändert ein Klick in den Text die Position, an der die Wiedergabe neu gestartet wird.
+- Option im VERSCHIEDENES Menü, um diese Änderung sofort nach dem Laden der Datei anzuwenden. Beachten Sie, dass es in diesem Fall unmöglich wird, den Text nach dem Laden zu ändern.
+
+VERSION 4.8.0
+=============
+- Aktualisierung von WAV2MP3 und lame_enc.dll
+
+VERSION 4.7.8
+=============
+- Behebung eines Fehlers in der Dateianzeige beim Ändern der Schriftart.
+
+VERSION 4.7.7
+=========
+- Option im QUIZ : Gleichen Sie das Vorkommen der Zeichen aus.
+- Um den audführlichen Bericht im QUIZ-Modus zu implementieren.
+- Der spanischen Hilfe zu aktualisieren (von Juan Pablo EA4CIV)
+
+VERSION 4.7.6
+=============
+- Einige kleine Vebesserungen
+
+VERSION 4.7.5
+=========
+- QUIZ - Zeit zur Antwort: Abstände von 100 ms im Intervall 0-1 Sekunde.
+- QUIZ - Hilfe-Taste
+- Einige kleine Vebesserungen
+
+VERSION 4.7.4
+=========
+- Option zum Hinzufügen eines Leerzeichens am Ende jeder Zeile einer Textdatei
+- Die Anzahl der Zeilen von Textdateien ist auf 10000 begrenzt.
+- Korrekturen und Verbesserungen im DEMO-Fenster.
+
+VERSION 4.7.3
+=============
+- Taste zum Öffnen des Systemlautstärkeeinstellung.
+
+VERSION 4.7.2
+=============
+- Um ioctrl.dll durch ntport.dll zu ersetzen
+
+VERSION 4.7.1
+=============
+- Erweiterte Behandlung der LPT-Port-Adressen
+
+VERSION 4.7.0
+=============
+- um ioctl.dll zu aktualisieren (abgebrochen in Release 4.7.1)
+- um die Installationsdatei für 64-Bit-Architektur zu korrigieren
+
+VERSION 4.6.9
+=============
+- Um verschiedene Zugriffspunkte auf die Hilfedatei Themen zu den Fenstern des Programms zu erstellen, die tatsächlich angezeigt werden.
+
+VERSION 4.6.8
+============
+- Im Random-Modus, um die Lektion durch einen einfachen Klick auf den Text mit der aktuellen Unterrichtsnummer zu ändern.
+- Um die Behandlung der Unterrichtseinstellungen zu verbessern.
+
+VERSION 4.6.7
+============
+- Um die Hilfedateien zu aktualisieren
+
+VERSION 4.6.6
+============
+- Um einen Unterrichtsstand nach der KOCH-Methode hinzuzufügen (in dem Menü Extras / bearbeiten der Lektionen) 
+
+VERSION 4.6.5
+=============
+- Um das Menü Statistik für das Morse-Jong Spiel hinzuzufügen
+- Die vertikalen Pfeile der Tastatur erlauben die kontinuierliche Auswahl der 60 Lektionen mit automatischer Umschaltung der
+Seiten
+- Um Anomalien in der Display-Stabilität des Morse-Jong-Fensters zu beheben, wenn Random oder File-Modus gewählt wird
+
+VERSION 4.6.4
+=============
+- um Tastenkombinationen (ALT + UP und ALT + DOWN) hinzuzufügen, um die Seite in der Liste der Lektionen zu ändern.
+
+VERSION 4.6.3
+=============
+- Kleine Korrektur
+
+VERSION 4.6.2
+=============
+- Menü, um die Hintergrundfarbe des Morse-Jong-Spiels zu ändern
+
+VERSION 4.6.1
+=============
+- Kleinere Modifizierungen
+
+VERSION 4.6.0
+=============
+- To introduce some 3D effect in the design of the Morse-Jong tiles.
+
+VERSION 4.5.9
+=============
+- Einführung von Morse-Jong-Spiel nach der Anstrengung zu entspannen!
+
+VERSION 4.5.8
+=============
+- Standard Abstand zwischen den Wörtern auf 7 Punkte (Regelung ITU) und Aktualisieren der Berechnung der Ist-Geschwindigkeit auf der Grundlage der Anzahl der ausgewählten Abstand.
+
+VERSION 4.5.7
+=============
+- Zu ersetzen www.f6dqm.fr durch f6dqm.free.fr
+
+VERSION 4.5.6
+=============
+- Um einen Fehler mit den Maus-Keying zu korrigieren
+- Der spanischen Hilfe zu aktualisieren (von Juan Pablo EA4CIV)
+
+VERSION 4.5.5
+=============
+- To add LPT driver for 64-bits architecture
+- New release of ioctrl.ll library 
+
+VERSION 4.5.4
+=============
+- Wahl zwischen DSR, CTS und CD, um die Punkt-Strich-Kontakte des Keyer auf den seriellen Port zu verkabeln.
+- Wahl zwischen DTR und/oder RTS um die Spannung auf den Keyer (+ 12V) zu ansetzen (wenn benötig).
+- Um DTR und/oder RTS auf hohem Niveau mit einem "on" Taste in der PORT-Panel, parallel zur "ptt" Taste des Monitoringsfenster zu setzen.
+
+VERSION 4.5.1 bis 4.5.3
+======================
+- Kleinere Korrekturen und Testversionen
+
+VERSION 4.5.0
+=============
+- Einführung des jambischen Keying
+
+VERSION 4.4.9
+=============
+- Variable Verzögerung zwischen 0 und 5 Sekunden, bevor Spiel im Zufall-Modus
+
+VERSION 4.4.8
+============
+- To fix a bug in QSB speed restoring.
+
+VERSION 4.4.7
+============
+- To fix bugs
+
+VERSION 4.4.5
+============
+- Speichern und Wiederherstellen die Lektion-Nummern
+- Doppel-Klick um die Lektion einzugeben. Rechts-Klick, um die ausgewählte Lektion zu erstellen oder ändern.
+- Kleinere Modifizierungen
+
+VERSION 4.4.4
+============
+- Die Geräuschentwicklung durch 2 geteilt
+- Der Status der QSB, QRN und QRH Tasten gespeichert
+- Drei QSB Geschwindigkeiten stehen zur Verfügung.
+
+VERSION 4.4.3
+============
+- Menu/Optionen/Verscheidenes MONITORING : Unbegrenzte Strichdauer, wenn Handtaste oder STRG benutzt ist.
+- Im Monitoring, wenn Handtaste oder STRG benutzt ist, um falschen Zeichen durch die Zeichen ? oder ! zu ersetzen. Das ist um den Schuler zu erzählen, wie er seine Gebeweise verbessern soll.
+
+VERSION 4.4.2
+===========
+- Im Monitoring, um Audio-Klick filtern, ob Handtaste benutzt ist.
+- Im Monitoring, Option für einen Kalibrierungsfaktor, ob Doppeltaste benutzt ist.
+
+VERSION 4.4.1
+============
+- Zu korrigieren oder verbessern die spanischer Texte (EA4CIV).
+
+VERSION 4.4.0
+============
+- Um den Vorgang des Lesens der letzte verfügbare Version zu ändern und die Informationen in der Menüleiste anzuzeigen.
+
+VERSION 4.3.9
+============
+-  Den Jingle am Ende der Quiz- und der Zufall-Serie aktivieren oder deaktivieren (Menü Optionen / Verschiedenes).
+-  Die Eingabetaste um die Quiz- oder die Random-Serie zu stoppen aktivieren oder deaktivieren ( Menü Optionen / Verschiedenes)
+
+VERSION 4.3.7
+===========
+- Klingel am Ende der Reihe in Quiz-Modus
+- Die Möglichkeit, der Klingel in Quiz und Zufallsmodus mit Menü Optionen / Verschiedenes deaktivieren
+- Korrekturen mit dem Abstandsplatte und der QUIZ Untermenüs
+
+VERSION 4.3.5
+===========
+- Wenn Sie eine Datei von Anfang an, indem Sie rechts auf den Button "Weiter File" neu starten
+-, Um die Menüs, die Zeichen ändern, zu verboten, wenn das Quiz-Modus oder der Random-Modus läuft.
+- Üm VA zu SK in der Sonderzeichen-Liste zu wächseln
+- Die Dialogtasten, um zu übersetzen.
+
+VERSION 4.3.4
+===========
+- Änderungen und Schaffung von ein paar Texte
+- Die Möglichkeit, den Smiley in der Quiz-Fenster mit einem Klick zu verdecken.
+- Um den Datei-Panel zu  neu organisieren und die Textfenster Datei vergrößern
+- Zu deaktivieren einen Mausklick in das Fenster der Datei Text.
+- Fähigkeit, zu vergrößern oder zu verkleinern die Schriftgröße in der DEMO-Fenster.
+
+VERSION 4.3.3
+===========
+- Zahl der Abstände zwischen den Wörtern von 1 bis 20. Diese Einstellung ist in der gleichen Platte wie die Anzahl von Abstände zwischen den Zeichen.
+
+Version 4.3.2
+===========
+- Im Info-Fenster, eine Schaltfläche hinzufüngen um zu prüfen, ob der Benutzer die letzte Version verwendet.
+
+Version 4.3.0
+===========
+- Zur Berücksichtigung einer Besonderheit des Registers Basis in einigen Versionen von Windows7 nehmen
+
+VERSION 4.2.9
+===========
+- Option : Suchen nach einer neuen Version beim Starten der Software.
+
+VERSION 4.2.8
+============
+- Tastenkombinationen aktualisieren
+- Hilfe-Dateien aktualisieren
+- Portugeese Texte aktualisieren
+
+VERSION 4.2.7
+=============
+- Um die dat-datei Datei durch eine ini-Datei ersetzen.
+- Um der Kontrolle der Definition von Hotkeys zu verbessern.
+- Um den Benutzer zu warnen, wenn ein lokales Zeichen oder eine Hotkey von einem Buchstabe erstellt
+   wird, welcher Buchstabe eine Morse-Code schon hat. Dies gilt nicht für Standardzeichen, die
+   kann nicht geändert werden.
+
+VERSION 4.2.5
+=============
+- Um  die Hilfe-Dateien .hlp durch Hilfe-Dateien .chm zu ersetzen
+- Hinzufügen Morse-Codes von ein paar Zeichen nur selten von Amateure benutztet (&, $, _)
+- Im Falle der Löschung eines lokalen Charakter, die ursprüngliche Morse-Code des Zeichens
+  wieder herstellen wenn sie in der ursprünglichen Liste definiert war (gilt nicht für Standardzeichen). 
+
+VERSION 4.2.4
+=============
+- Um kleine Fehler zu korrigieren
+- Die Möglichkeit, einen Text in dem Zufall-Fenster einfügen und ihn als Wave-Datei speichern
+
+VERSION 4.2.2
+=============
+- Option, um die WAV zu MP3-Konverter (WAV2MP3.exe) nach der Schaffung einer WAV-Datei zu öffnen.
+
+VERSION 4.2.1
+=============
+- Abstand zwischen den Wörtern bis zu 8-fache der Standardwert.
+
+VERSION 4.2.0
+=============
+- Maximale Geschwindigkeit bis zu 70 Wörter pro Minute
+- Kleine Verbesserungen
+- Bereitstellung einer Utility-Software zu WAV-Dateien in MP3-Dateien konvertieren.
+
+VERSION 4.1.8
+=============
+- Bei der Zufallsmodus Option, um eine Warte-Zeit von 5 Sekunden vor Spielen einzuführen.
+- Im Random-Modus, die Enter-Taste aktiviert die Play-Taste oder die Stopp-Taste, wenn Spiel ist im Gange.
+
+VERSION 4.1.7
+=============
+- Ungarische Sprache hinzufüngen. Viel Dank Attila, HA5JA.
+
+VERSION 4.1.5
+=============
+- Eine Anomalie in der Anzeige der Lektion-Nummer zu beheben, wenn 2 Lektionnen mit der gleichen Zeichenfolge definiert sind.
+
+VERSION 4.1.4
+===========
+Wenn ein Fehler auftritt beim Öffnen der Soundkarte im Monitoring-Modus deaktiviert CW_Player die Audio-Decoder, aber lässt die Benutzer das Morse-Taste oder die STRG-Taste gedrücken, um Morse trainieren.
+In den früheren Versionen CW_Player abgebrochen in einem solchen Fall.
+
+VERSION 4.1.3
+===========
+- In der Monitoring-Seite für Kinder, fügen Sie eine Wahl zwischen einer grafischen Darstellung oder eine akustische Darstellung der Zeichen
+
+VERSION 4.1.2
+===========
+- Optionen QUIZ : Verzögerung um das erste Zeichnen zu spielen
+
+VERSION 4.1.1
+===========
+- Verfügbarkeit des jüngsten Version im Info-Menü angezeigt
+- Option zur automatische Suche dieser Verfügbarkeit beim Öffnen des Programms
+- Korrektur des Bildes des Alphabets in der Monitoring-Fenster, Kinder-Option
+- Eine Schaltfläche in diesem Fenster fügen, um die Kinder-Option schnell zu wechseln.
+
+VERSION 4.1.0
+===========
+- In MONITORING, Auswahl, den Text für die Kinder zu kontrollieren. Belebte Images und die Morsezeichen aphabet helfen den Kindern zum Morse-Schlüssel. Ihre Texteingabe wird gegen das Textfenster kontrolliert. 
+- in MONITORING, Auswahl, um FEHLER Kode (HH) zu aktivieren. 
+
+VERSION 4.0.6a
+============
+- Um eine Anomalie im Quiz-Modus beheben, wenn die Zeit zu beantworten, wird verkürzt.
+
+VERSION 4.0.6
+===========
+- Verknüpfungen auf QRI (Ton), QRN (Rauschen), QSB (Fading) und QRH hinzufügen (Drift)
+
+VERSION 4.0.4
+===========
+- ZOOM im Optionen-Menu
+
+VERSION 4.0.3c
+============
+- Korrektur eines Fehlers im Quiz modus
+
+VERSION 4.0.3b
+============
+- Einführung des Buttons "ptt" im Monitoring-Modus
+
+VERSION 4.0.3
+===========
+- Neu menu Port / KEYER PORT um den Ports JOYSTICK, MOUSE und COM (CTS+DSR) zu wählen
+- Monitoring-decoder auf diesen drei Ports
+
+VERSION 4.0.1
+===========
+- Option zum Ändern der Display-Schrift
+
+VERSION 4.0
+============
+- Korrektur eines Fehlers im Speicherung des COM-port nummer
+- Option, um die Hinweise zu verstecken (aber nicht MSG und reale Geschwindigkeit)
+- Die letzte Position des Hauptfensters zu speichern
+- Möglichkeit zur Frequenzabweichung im Random-Modus und Datei-Modus zu erstellen
+- Schaffung des Eintrag Blatt in Random-Modus und Datei-Modus
+- Portugiesischen Texten zu aktualisieren 
+- Option, um Morse zu spielen mit der STRG-Taste auf der Tastatur.
+- Audio und direkte Decodierung zu verbessern
+- Im QUIZ-Modus, Option um die Zeit zu verkürzen, wenn eine Antwort gegeben wird
+- Im QUIZ-Modus, Menu um die Fehler zu anzeigen und warten vor der Wiederaufnahme
+- Im QUIZ-Modus, Menu um das letzte fehlerhaftes Zeichen wieder zu spielen
+- Im Monitoring-Fenster, fügen Sie die Live-Morse-Code-Anzeige
+
+VERSION 3.3.5
+============
+- To fix an anomaly when monitoring single key signals.
+
+VERSION 3.3.4
+=============
+- Optionen WPM-Varianz und Zeit-Varianz im QUIZ
+
+VERSION 3.3.0
+=============
+- Option Examen France (in french language only)
+- Word and text files proposed for the Vocabulary option
+
+VERSION 3.2.7
+=============
+- Option Vocabulary
+
+VERSION 3.2.6
+=============
+- Option Lowercase for the Random window
+
+VERSION 3.2.5a
+==============
+- Add the Clear button in the Monitoring window
+
+VERSION 3.2.5
+=============
+- Replacement of the Joystick component
+
+VERSION 3.2.3a,b,c
+==================
+- to fix bugs
+
+================================================================
+                         Old releases
+================================================================
+
+Version 1.5
+===========
+- Mehr Q-Codes
+- Auswahl zwischen Englisch und Französisch
+- Die Auswahl der Sprache erfolgt durch die Einstellung /e für englisch oder
+ /f für französisch in der Befehlszeile.
+Ohne vorherige Auswahl startet CW_Player auf Englisch.
+Um auf Französisch zu starten, muss der Befehl C:\CW_Player.exe /f eingetippt
+werden.
+ACHTUNG: mit Win95 erscheint die Befehlsleiste in Anführungszeichen, wenn man
+"Ausführen" benutzt oder wenn man Makros erzeugt.
+In diesem Fall muss die Auswahl NACH den Anführungszeichen eingefügt werden:
+        "C:\CW_Player.exe" /f
+
+Version 1.6
+===========
+- langsamste Geschwindigkeit beträgt 10 Wörter/Min
+- Korrektur eines Systemfehlers, der in einem Fall auftrat
+
+Version 1.7
+===========
+- Möglichkeit des Abspielens einer ASCII-Datei
+- Auswahlsperre, wenn eine Datei, ein Text oder zufallsbedingte Serien gespielt
+ werden
+- Absetzen eines Befehls an den seriellen COM Anschluss Ihrer Wahl, um einer TX
+ auf Sendebetrieb zu schalten
+- Der COM Anschluss kann beim Starten des CW_Players ausgewählt werden. Der
+ Parameter /COMx muss dazu am Ende der Befehlszeile eingegeben werden.
+- Ein Konfigurations-Beispiel ist in dem PC_TX.BMP Datei dabei, gilt aber nur,
+ wenn die Ruhespannung des PTT Schalter Ihres TX positiv ist. Falls diese
+ negativ ist, wie es manchmal passiert mit älteren Röhren-TX, muss diese
+ Schaltung geändert werden.
+- Beseitigung der "clicks", die in Version 1.6 aufgetreten sind
+
+Version 1.71
+============
+- Minimale Geschwindigkeit auf 5 Wörter/Min. reduziert
+
+Version 1.72
+============
+- Auswahl des Zeichen-Abstandes möglich (einfach, zweifach oder dreifach)
+- Tabelle mit den in der Telegraphie am häufigsten benutzten Abkürzungen
+
+Version 1.8
+===========
+- Geschwindigkeit zwischen 5 und 50 Wörter/Min. möglich
+- Auswahl des Verhältnisses zwischen Strich und Punkt : Verhältnisse 3/2 (normal),
+ 4/1 und 5/1 können im Menü Extras ausgewählt werden
+- Möglichkeit, einen Text kontinuierlich zu wiederholen dank eine bestimmten
+ Einstellung im Menü Extras/Text
+- Möglichkeit, einen Text einzugeben ohne sofortiges Abspielen, d.h. der Text
+ kann mit einer im Menü Extras/Text ausgewählten Verzögerung gespielt werden
+- Zwei Hilfe-Dateien stehen zur Verfügung: CWPenglish.hlp und CWPfrench.hlp.
+ Zum guten Ablauf der Hilfe müssen diese Dateien in dem gleichen Verzeichnis wie
+ CW_Player.exe sein.
+- Fehler-Warnung beim Öffnen einer nicht existierenden Datei.
+- Möglichkeit, die Geschwindigkeit beim Starten auszuwählen. Der Parameter /=x,
+ wobei x die Geschwindigkeit (ganzer Wert zwischen 5 und 50) darstellt, muss
+ eingefügt werden, z.B.: CW_Player.exe /=10 startet den CW_Player mit einer
+ Geschwindigkeit von 10 Wörter/Min.
+- Einfügung des Quiz, um Ihre Kenntnisse zu überprüfen
+- Einführung einer verstellbaren Verzögerung zwischen dem PTT-Schalter und der
+ Sendung des ersten Zeichens im Menü COM
+- Beim Benutzen von STOP sollten die Zeichen bis zum Ende gespielt werden, bevor
+ der STOP-Button freigelassen wird
+
+Version 1.8.1
+=============
+- Einfügung von Tastatur-Abkürzungen für die verschiedenen befehle und Auswahlen.
+ Dies wurde nach Anfrage von blinden OM eingeführt
+- Möglichkeit eine Datei kontinuierlich zu wiederholen
+- Berücksichtigung von Besonderheiten in WinNT und Win2000
+- Die beigefügte PC-TX.BMP Datei enthält eine einfache Schaltung zum Bedienen mit
+ einem Sender im CW-Modus, wenn ein Ton von 800 Hz von einem von beiden Ausgängen
+ der Sound-Karte geliefert wird
+
+Version 1.8.2
+=============
+- Erweiterung der Auswahl von Zeichen im zufallsbedingten Modus oder im Quiz von
+ 20 zu 50. Dies ermöglicht eine einfachere Wiederholung eines gleichen Zeichens in
+ der Auswahl, so dass es häufiger gespielt wird. Z.B. in einer Liste, die die 26
+ Buchstaben des Alphabets enthält, können die Buchstaben, mit denen man am meisten
+ Probleme hat, bevorzugt werden. Diese Buchstaben werden dann häufiger gespielt.
+- Speicherung und Neu Starten der Software mit der letzten Konfiguration
+- Möglichkeit, Ihre eigenen lokalen Zeichen zu erschaffen. Dies ermöglicht Ihnen,
+ in eine besondere "lokale" Liste die charakteristischen Zeichen einer Sprache wie
+ ß oder ü auf deutsch, auf bestimmte Tasten zu legen. Spezifische Zeichen wie SK
+ (Arbeitsschluss) oder AS (beeinträchtigen) sowie andere Kombinationen können
+ gleicherweise abgekürzt werden.
+ Wenn sie erschafft wurden, werden diese "lokale" Zeichen in jedem Modus gespielt.
+ Sie werden in einer spezifischen CWPLAYER.DAT Datei gespeichert.
+
+Version 1.9.0
+=============
+- Einführung des Menüs Extras, das folgende Funktionen enthält:
+   * Fenster MemoRandom löschen
+   * Fenster MemoRandom speichern : alle zufallsbedingte Zeichen werden in ein
+ Text Datei gespeichert und können jederzeit durch die Datei Auswahl und den
+ "Datei Spielen" Button wiederholt werden
+   * Lokale Zeichen : Erschaffung von lokalen Zeichen (siehe Version 1.8.2).
+ Diese lokalen Zeichen sind ab jetzt unabhängig von der Gross/Kleinbuchstaben-
+ Einstellung der Tastatur
+   * Lokale Lektionen : Änderung der 20 vorgegebenen Lektionen, die angeboten sind
+ in CWPlayer. Die Lektionen werden in der CWPlayer.dat Datei gespeichert und
+ wiederhergestellt beim Starten der Software
+   * Verlassen : gleich wie der Button Verlassen, aber ohne Bestätigung 
+- Erschaffung des Extras "Versteckte Text" im Menü Extras/Text. Dies ermöglicht
+ die Erschaffung von zwei Zeichen, zwischen denen ein zu versteckender Text
+ (wird nicht gespielt) eingegeben werden kann (in einer Text-Datei)
+- Die Tabelle mit Auswahlzeichen bietet 20 Lektionen zusätzlich zu den 50 Zeichen
+ der vorherigen Wahl an. Die letzte ausgewählte Lektion wird beim Starten der
+ Software ausgewählt
+- Ein Systemfehler bei sehr langsamer Geschwindigkeit wurde behoben
+- Verschiedene Verbesserungen zum selbst Herausfinden
+
+Obwohl diese Version dafür geschaffen wurde, die CWPLAYER.DAT Datei von Ihrer
+ alten Version zu erkennen, ist es empfehlenswert, sie zu löschen oder sie durch
+ die entsprechende Datei der neuen Version zu ersetzen, bevor CW_Player gestartet
+ wird.
+Sie werden die lokalen Zeichen wieder eingeben müssen, aber dies ist nicht
+ besonders schwierig.
+
+Version 2.0
+===========
+- Einfügung der Funktion Monitoring, die den Benutzer ermöglicht, seine
+ Fähigkeiten durch Audio-Signale, die zur Sound-Karte geschickt werden,
+ zu kontrollieren und zu verbessern. CW_player entschlüsselt die vom Benutzer
+ gesendeten Morse-Signale 
+- Erschaffung einer Auswahl, die es dem Benutzer ermöglicht, eine Serie von 5"V"
+ am Anfang jeder zufallsbedingten Serie zu spielen, um eine bessere
+ Synchronisierung zu erreichen
+- Einige Fehler, die von Usern gemerkt wurden, wurden behoben
+
+Version 2.1
+===========
+- Erschaffung eines Extras, um Morse-Text im Format WAVE speichern zu können.
+ Diese Ton-Dateien (*.wav) können von jeder Multimedia-Software gespielt werden.
+ Sie werden es Ihnen ermöglichen, Ihre eigenen Kennung, Identifier, etc.
+ sehr leicht zu kreieren
+
+Version 2.2 & 2.2a
+==================
+- Einfügung von Fehlerberichten um eventuelle Anomalien besser zu verstehen
+- Änderungen, um die durch exotische Sound-Karten erzeugte Anomalien abzuschaffen
+ (Inkompatibilität des Sound-Blasters oder inkompatible Prozessorgeschwindigkeit)
+
+Vielen Dank an Sébastien, Daniel und Mukesh (Indien) für Ihre Hilfe
+
+Version 2.3
+===========
+- Einfügung von Deutsch in der Menü Sprache
+Beachten Sie, dass die Hilfe-Datei CWPdeutsch.hlp eine Kopie der englischen
+ Hilfe-Datei ist. Ich warte auf einen Übersetzer!
+- Möglichkeit, den Inhalt des MemoRandom Fensters als Wave-Datei zu speichern
+- Möglichkeit, Wörter mit zufallsbedingter Länge zu erzeugen
+
+Version 2.3.1
+=============
+-Einen möglichen Irrtum während der Schaffung der Datei 
+CwPlayer.dat korrigieren
+
+Version 2.4
+===========
+-Den Abstand vergrößern und die wirkliche mittlere Geschwindigkeit berechnen
+
+Version 2.5
+===========
+-Test-Ausgabe
+
+Version 2.6
+===========
+-Neue Optionen:
+* Die Zeichen des Memorandom-Fenster zu verbergen
+* Zufällige Zeichen im Memorandom-Fenster schnell zu schaffen
+* Denselben Zeichentyp in den Wörtern des Memorandom-Fenster zu behalten
+
+Version 2.7
+===========
+- Einfügung von Italienisch in der Menü Sprache dank Paolo IW2DGS und Andrea
+ IW4EGQ.
+- Fenster MemoRandom speichern als Text datei
+
+Version 2.7.1
+=============
+- Kleinere Modifizierungen
+
+VERSION 2.7.2
+=============
+- die Möglichkeit hinzufügen, die WortenLänge zu wählen 
+zwischen 2 und 8 Zeichen
+- Möglichkeit, die Reaktionszeit im Quiz bis 0 zu reduzieren (aktual= 400ms )
+
+VERSION 2.8
+===========
+- Den Text stoppen und weiterspielen
+- Die Monitoring-Fenster-Einstellugen speichern 
+- Kein-proportional font im der Monitoring-Fenster 
+- Möglikeit, zufallig Geräusch oder QSB hinzufügen wenn Random oder Datei spielen
+ - Möglichkeit, im Quiz Mode, die Benotung zu verdecken
+- Wort-option "Rufzeichen" hinzufügen
+- Kleinere Modifizierungen
+
+VERSION 2.8.1
+=============
+- Einfügung von Portugiesisch in der Menü Sprache
+
+VERSION 2.8.2
+=============
+- Einfügung das Sonderzeichen @
+
+VERSION 2.8.3
+=============
+- CW-Note Einstellung zwischen 600 und 1000 Hz
+
+VERSION 2.8.3a
+==============
+- Speichern die Reaktionzeit in Quiz
+
+VERSION 2.8.4
+=============
+- Erweiterung der Auswahl von Lektionen von  20 zu 60.
+- Ein Systemfehler mit WinXP wurde behoben
+
+VERSION 2.8.5
+=============
+- Neue Werte für die Reaktionzeit in Quiz.
+
+VERSION 3.0
+===========
+- TX key aus COM port
+- Zeichenzähler in Quiz
+- Text-Hotkeys
+- Text-Radiergummi
+- Lokale Mitteilungen
+- Einfügung von Spanisch in der Menü Sprache (vielen Dank LU8HPY, Fer)
+
+VERSION 3.0.1
+=============
+- Einige Fehler, die von Usern gemerkt wurden, wurden behoben
+
+VERSION 3.0.2
+=============
+- Möglichkeit, zum der Keinstandardzeichen im Zufallmodus zu spielen
+
+VERSION 3.0.3
+=============
+- TX key aus LPT port. Diese Funktion gebraucht IOCtrl.dll in dem Windows/system32 Verzeichnis und zntport.sys in dem Windows/system32/drivers Verzeichnis
+- Verschiedene Verbesserungen. 
+- Einfügung das Sonderzeichen "*".
+
+VERSION 3.1.1
+=============
+- Wörterabstand einstellung
+- Simulation der französische Prüfung
+
+VERSION 3.1.2
+=============
+- CW-Note Einstellung zwischen 100 und 1500 Hz
+
+VERSION 3.1.4
+=============
+- Instruktorseinschränkungen
+- Lupe der Datei-Fenster
+
+VERSION 3.1.6
+=============
+- Einige Fehler, die von Usern gemerkt wurden, wurden behoben
+
+VERSION 3.1.7
+=============
+- Die Sound-Karte ändern
+
+VERSION 3.2.0
+=============
+- Optionen um die datei-texten oder Zufallzeichen zu verbergen wenn spielend.
+
+VERSION 3.2.1
+=============
+- die Ausdehnungen abgerundet Namen der Text-Datei und Wave-Datei hinzufügen
+- einen Fehler Bekanntgabe durch Plakat der Textzone verbessern
+
+VERSION 3.2.2
+=============
+- In der Funktion Monitoring, einfügung die den Benutzer ermöglicht, seine
+ Fähigkeiten durch joystick-port, die zur PC geschickt werden,
+ zu kontrollieren und zu verbessern. CW_player entschlüsselt die vom Benutzer
+ gesendeten Morse-Signale 
+ 
+VERSION 3.2.3
+=============
+- To choose all serial ports available
+
+Wichtige Bemerkung: Manche Bildschirmschoner brauchen viel Rechner-Ressourcen.
+ Wenn sie laufen, können sie die Audio-Qualität der Zeichen stark beeinträchtigen
+ und sogar manchmal Systemfehler erzeugen.
+Es wird deswegen empfohlen, diese Art von Bildschirmschonern zu deaktivieren,
+ wenn Sie CW_Player im zufallsbedingten Modus für längere Zeit benutzen.
+
+Genießen Sie die Telegraphie und bringen Sie sie anderen näher
+
+G.RIVAT
+ http://www.f6dqm.fr
+ e-mail via Web-Site

@@ -1,0 +1,11 @@
+Wenn das Menü "Optionen / Verschiedenes / DATEI: AFP-Nachrichten herunterladen ..." aktiviert ist, wird der Text, der vor Ihnen angezeigt wird, durch eine kleine Textdatei ersetzt, die aus den neuesten Schlagzeilen von AFP - Agence France Presse erstellt wurde.
+Diese Option erfordert eine Internetverbindung.
+Es sind fünf Sprachen verfügbar, die den folgenden Textdateien zugeordnet sind:
+- AFP_News_EN.txt für Nachrichten in Englisch
+- AFP_News_FR.txt für Nachrichten auf Französisch
+- AFP_News_ES.txt für Nachrichten auf Spanisch
+- AFP_News_PT.txt für Nachrichten auf Portugiesisch
+- AFP_News_DE.txt für Nachrichten in deutscher Sprache.
+Beachten Sie, dass diese Dateien lokale Zeichen enthalten, die für jede Sprache spezifisch sind.
+Sie können ihnen über das Menü "Extras / Lokale Zeichen" einen bestimmten Morsecode zuweisen.
+ 

@@ -1,0 +1,8 @@
+zntportsetup.exe
+================
+Please run this utility program only if you intend to use the parallel (LPT) port and if my application does not automatically detect your LPT port.
+After running this utility, restart your computer.
+=============================================================
+SVP, exécutez cet utilitaire uniquement si vous devez utiliser le port parralèle (LPT) si l'application ne détecte pas automatiquement votre port parallèle.
+Après exécution de cet utilitaire, redémarrez votre ordinateur.
+==============================================================

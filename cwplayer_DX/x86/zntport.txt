@@ -1,0 +1,23 @@
+
+The driver zntport.sys is only mandatory when driving the LPT port under WinNT/XP/2000/7/10.
+The driver located in this sub-directory x86 is for 32bits architecture ONLY.
+The Install executable will copy zntport.sys in directory Windows/system32/drivers (name in lowercase is mandatory).
+If you use the zip package, please perform this copy by yourself.
+If no LPT port is detected by my software, please 
+  - Close the application 
+  - Run the "zntportsetup.exe" software  which is available in the same directory as the application
+  - Restart your computer.
+
+IMPORTANT : If your architecture is 64bits, please use the driver zntport.sys located in the x64 sub-directory.
+==============================================================================
+Le driver zntport.sys n'est utile que dans le cas d'utilisation d'interface LPT sous WinNT/XP/2000/7/10
+Le driver situé dans ce sous-répertoire x86 est pour les architectures 32bits SEULEMENT.
+Le programme d'installation copie zntport.sys dans le répertoire Windows/system32/drivers (nom en inuscules obligatoire).
+Si vous utilisez le zip, faites cette copie par vous-même.
+Si aucun port LPT n'est détecté par mon logiciel, 
+  - Fermer l'application
+  - Exécuter le programme "zntportsetup.exe" qui se trouve dans le même répertoire que l'application
+  - Redémarrer l'ordinateur.
+
+IMPORTANT : Si votre architecture est 64bits, utilisez le driver zntport.sys situé dans le sous-répertoire x64.
+===============================================================================

@@ -1,0 +1,11 @@
+When the menu "Options / Miscellaneous / FILE: Download AFP news ..." is checked, the text that is displayed in front of you will be replaced by a small text file created from the latest news headlines from AFP - Agence France Presse. 
+This option requires an internet connection. 
+Five languages are available associated with the following text files: 
+- AFP_News_EN.txt for news in English
+- AFP_News_FR.txt for news in French
+- AFP_News_ES.txt for news in Spanish
+- AFP_News_PT.txt for news in Portuguese
+- AFP_News_DE.txt for news in German.
+Note that these files contain local characters specific to each language. 
+You can associate a particular Morse code to them from the "Tools / Local characters" menu.
+ 

@@ -1,0 +1,811 @@
+ ===========================================
+              CW_PLAYER
+ ===========================================
+       Írta: G. Rivat F6DQM
+       http://f6dqm.free.fr
+ ===========================================
+
+Ez a szabadon felhasználható (Freeware) program, mely hagyományos morze-kódokat, Q-kódokat, rövidítéseket, véletlen karaktersorozatokat és szövegfájlokat generál.
+Ellenorzi a tudásodat egy kvíz tesztjével és segít Neked, hogy jól billentyuzzél a morze jeleid ellenorzésével. Billentyuzésed adás közbeni ellenorzésével a képernyon, elosegíti, hogy kevesebb stresszel és nagyobb biztonsággal vehessél részt a forgalmazásban.
+Megfelelo szoftverrel visszajátszható hangfájlokat (*.wav) készít a morzejelekrol.
+Saját magad készíthetsz helyi karaktereket.
+Egy 20 részes leckesorozaton át tanulhatod meg a morze jeleket. Tartalmukat saját kedved szerint alakíthatod is.
+
+A CW_Player hangkártyát és legalább WinXP-ös (vagy fejlettebb) operációs rendszert igényel.
+
+A Súgóból pár javaslat jelenik meg, ha az egér a kezeloszervek, vagy szövegmezok fölött áll.
+
+Ha Vista alatt nem tudod a súgót megnyitni, kérlek látogass el a
+http://www.microsoft.com/downloads/details.aspx?FamilyId=6EBCFAD9D3F5-4365-8070-334CD175D4BB&displaylang=en
+oldalra 
+
+A windows másolás (Ctrl+C) és beillesztés (Ctrl+V) parancsai használhatók a visszajátszásnál a véletlen sorozat egy részének kimásolásával és a szövegmezobe illesztésével. Illetve egy fájlba is másolhatod, amit a kedvenc szövegszerkesztoddel nyithatsz meg. (megjegyzem, a szöveg ablak csak egy rekordot fogad, ezért csak egy ASCII fájl másolható ebbe az ablakba.)
+
+Ez a program foként a rádióamator honlapokról töltheto le. Azzal a céllal, hogy segítse a kezdo távírászok és nem rádióamatorök morze tanulását és részükre a rövidhullámok megismerését.
+
+Tehát ne habozz ajánlani ezt a programot a látogatóidnak, ha rádióamator tartalmú honlapod van.
+
+Noha, ezt a programot saját morze tanulásodra használhatod, vagy a morze-oktatód is használhatja, de élo adásban is használható, ha a hangártyád kimenetét az SSB vagy FM adóvevot mikrofon bemenetére csatlakoztatod. 
+ 
+VERY IMPORTANT : 
+While running this program under VISTA, WIN7, 8, 10 from a sub-directory under the directory Program Files, 
+you will have to start this program as administrator anyway for getting full access to all functions of it, especially the recording of text files, image files, sound files. 
+If you don’t do that, the produced files won’t be accessible because of the UserAccountControl (UAC) of Windows.
+If you don’t want to run the program as admin, you have to install it in a sub-directory which is NOT under C:\Program Files,
+but anyw<here else, for example C:\MyPrograms\. There, the function of the UAC takes no effect.
+
+Élvezd és okozz másnak is örömet a morzéval.
+
+ G. RIVAT
+ http://f6dqm.free.fr
+ e-mail a honlapon
+
+Fordította: Joubert Attila HA5JA, 
+http://joubert.hu/index.php/radiotech/ismertet-anyagok/mnumorse
+
+================================================
+Kiadási elozmények (a legfrissebb kiadástól kezdodoen)
+================================================
+VERZIÓ 5.0.6
+============
+- Mentse el az audioszuro beállító ablak helyzetét
+- "Maradj fenn" menü hozzáadva
+- Javítások a Delphi10 verzióban
+
+VERZIÓ 5.0.5
+============
+- Lehetoség a speciális karakterek ANSI megfeleloire cseréjére, ha léteznek.
+- Audio áteresztosáv szuro bevezetése a Monitoring hangdekódolási folyamata.
+
+VERZIÓ 5.0.4
+===========
+- Az UFT8-at ANSI-re konvertáló gomb hozzáadása a Fájl ablakban
+- Az AFP sajtóügynökség híreibol szöveges fájlokat létrehozó opció hozzáadása
+
+5.0.3 VERZIÓ
+=============
+- Helyi párbeszédablak létrehozása a nagyítás és a betutípus kezelése érdekében
+- Figyelmeztetés az egér morzebillentyuként való használatára vonatkozóan
+
+5.0.2 VERZIÓ:
+============
+- A CW_PLAYER által utoljára megnyitott könyvtárak nevének mentéséhez szövegfájl vagy szótárfájl kiválasztásakor.
+
+5.0.1 VÁLTOZAT
+=============
+- A szavak közötti térköz finombeállítása.
+- Figyelmeztetés hozzáadva a Fájl ablakhoz a szöveges fájlok kódolásával kapcsolatban
+- A DX verzióban (Delphi10) szövegfelvételek ANSI kódolása.
+- Betutípusváltás csak a 100%-os nagyításhoz.
+
+4.9.9 VÁLTOZAT
+==============
+- A párhuzamos portkezelés kompatibilitása a Windows 10/11 rendszerrel.
+
+4.9.8 VÁLTOZAT
+==============
+- Kis-/nagybetus gomb hozzáadása a "Nagyítás" ablakhoz.
+
+4.9.7 VÁLTOZAT
+=============
+- Lehetoség véletlenszeru módban karakterek sorozatának visszajátszására
+
+4.9.6. VÁLTOZAT
+
+=============
+
+- Javítás a jeladó szövegének létrehozásában
+
+4.9.5. VÁLTOZAT
+
+===============
+- Hogy csökkentse a fájl szövegének megjelenését.
+
+4.9.4 VÁLTOZAT
+
+==============
+- Beallitas Különbözö / MONITORING: Kattintás szurés (hangkártya szerint)
+
+4.9.3 VÁLTOZAT
+
+=============
+- A korábbi kiadás anomáliájának kijavítása
+
+4.9.2 VÁLTOZAT
+=============
+- A jeladó létrehozása
+
+4.9.1. VÁLTOZAT
+
+===============
+
+- A " karakter hozzáadása az írásjelekhez.
+
+- Az "Értett" speciális karakter hozzáadása.
+
+- MONITORING üzemmódban opció hozzáadása annak érdekében, hogy a speciális karakterek [XX] -ét egyértelmu szöveggel helyettesítse.
+
+- MONITORING módban egy opció hozzáadása annak érdekében, hogy a helyi karaktert megjegyzéssel cserélje ki, ha a felhasználó meghatározta.
+- Közvetlen hozzáférés a helyi és speciális karakterek kezeléséhez szükséges eszközökhöz az egér jobb gombjával az ábécé megfelelo oldalain kattintva
+
+- Különbözo fejlesztések és javítások.
+
+4.9.0 VÁLTOZAT
+=============
+- Az Opciók menüben lehetoség van a jelentés QUIZ módban való elrejtésére a játék során
+- A részletes QUIZ mód jelentésben a kezelo reakciósebességének megjelenítése
+
+4.8.9. VÁLTOZAT
+=============
+- Menü a CW_Player ablakok nagyításához látássérült felhasználók vagy nagyon nagy felbontású képernyok felhasználói számára. Ez a menü le van tiltva, ha a felhasználó már natív Windows nagyítást használ (DPI nagyobb, mint 96).
+- Gomb a Betukészlet kis- és nagybetuk közvetlen megváltoztatásához a Véletlenszeru ablakban, anélkül, hogy a menükben járna
+
+4.8.8 VÁLTOZAT
+=============
+- A QUIZ eredmények szöveges fájlba mentése.
+
+4.8.7. VÁLTOZAT
+=============
+- Hiba kijavítása a TX PTT / COM választása helyreállításakor.
+
+4.8.6. VÁLTOZAT
+=============
+- Lehetséges, hogy vezeto karakterek hozzáadása a karakter elott. Ez segíti a szinkronizált kulcsosítást.
+
+4.8.5. VÁLTOZAT
+=============
+- Nagyszámú betuvel, számmal és jellel ellátott órák létrehozása után eloforduló rendellenességek kijavítása.
+
+4.8.4. VÁLTOZAT
+=============
+- Bevezetés a Másolás és Beillesztés menübe az Eszközök menüben
+
+4.8.3. VÁLTOZAT
+=============
+- Anomáliák kijavítása, amikor szöveget rögzít mp3-ba a CW_PLAYER könyvtárától eltéro könyvtárba.
+- A "Felvétel WAV-Fajlként" panel utolsó opcióinak mentése.
+- Szóköz hozzáadásához a szöveg elejére, amelyet hullámmá kell konvertálni. Ennek célja az elso betu csonkolásának elkerülése az mp3 konverter által.
+
+4.8.2 VÁLTOZAT
+=============
+- FÁJL módban, amikor egy fájlt leállítottak és folytatódásra várnak, a szöveg kattintása módosítja a lejátszás újraindulásának helyét.
+- A KÜLÖNBÖSÖ menü opciója, hogy ezt a módosítást azonnal alkalmazza a fájl betöltése után. Vegye figyelembe, hogy ebben az esetben lehetetlenné válik a szöveg módosítása a betöltés után.
+
+4.8.0 VÁLTOZAT
+=============
+- A WAV2MP3 és a lame_enc.dll frissítése
+
+VERSION 4.7.8
+=============
+- A fájlmegjelenítés hibájának kijavítása a karakter betukészletének megváltoztatásakor.
+
+VERSION 4.7.7
+=========
+- Opció a QUIZ: a karakterek elofordulásának kiegyenlítése.
+- A részletes jelentés végrehajtása kvíz módban.
+- Ahhoz, hogy frissítse a spanyol segítség (Juan Pablo EA4CIV)
+
+VERSION 4.7.6
+=========
+- Néhány kis javulás.
+
+VERSION 4.7.5
+=========
+- QUIZ - Késleltetett válasz : 100 ms-os lépések a 0-1 másodperces intervallumban.
+- QUIZ - Súgó gomb
+- Néhány kis javulás.
+
+VERSION 4.7.4
+=========
+- Lehetoség egy szövegfájl minden sorának végén szóközt hozzáadni
+- A szövegfájlok sorainak száma 10000 lehet.
+- Javítások és javítások a DEMO ablakban.
+
+VERSION 4.7.3
+============
+- A gomb megnyomásával nyithatja meg a rendszer hangeroszabályzóját.
+
+VERSION 4.7.2
+=============
+- Az ioctrl.dll helyett az ntport.dll
+
+VERSION 4.7.1
+=============
+- Az LPT port címének kiterjesztett kezelése
+
+VERSION 4.7.0
+=============
+- az ioctl.dll frissítése (a Release 4.7.1-ben törölve)VERSION 4.7.0
+- a 64 bites architektúra telepítéséhez futtatható
+
+VERSION 4.6.9
+=============
+- Különféle hozzáférési pontok létrehozása a program ablakaihoz tartozó súgófájl témákhoz, amelyek ténylegesen megjelennek.
+
+VESRION 4.6.8
+============
+- Véletlenszeru módban, a lecke módosításához egyszeruen kattintsunk az aktuális lecke számát bemutató szövegre.
+- A lecke beállításainak javítása.
+
+VERSION 4.6.7
+============
+- Frissíteni a súgófájlokat
+
+VERSION 4.6.6
+============
+- A KOCH módszer szerint egy óraszámot adhat hozzá (a menü Eszközök / Lecke beállításai).
+
+VERSION 4.6.5
+=============
+- A Morse-Jong játék Statisztiká hozzáadásához
+- A billentyuzet függoleges nyilai lehetové teszik a 60 lecke folyamatos kiválasztását az automata váltással oldalak
+- A Morse-Jong ablak megjelenítési stabilitására vonatkozó rendellenességek megszüntetése, ha a Véletlen vagy a Fájl módot választja
+
+VERSION 4.6.4
+=============
+- a billentyuparancsok hozzáadásához (ALT + UP és ALT + LE) a leckék listájának megváltoztatásához.
+
+VERSION 4.6.3
+=============
+- Kis korrekció
+
+VERSION 4.6.2
+=============
+- Menü a Morse-Jong játék színének megváltoztatásához
+
+VERSION 4.6.1
+=============
+- Minor modification
+
+VERSION 4.6.0
+=============
+- To introduce some 3D effect in the design of the Morse-Jong tiles.
+
+VERSION 4.5.9
+=============
+- Bevezetés a Morse-Jong játék levezetni az erofeszítést!
+
+VERSION 4.5.8
+=============
+- Normál szavak közötti távolságot állítani 7 pont (rendelet ITU) és frissítése a számítás a tényleges sebesség száma alapján a kiválasztott távolság.
+
+VERSION 4.5.7
+=============
+- Helyére www.f6dqm.fr által f6dqm.free.fr
+
+VERSION 4.5.6
+=============
+- Kijavítani a hibát, amikor beírja az egér gombjait
+- Ahhoz, hogy frissítse a spanyol segítség (Juan Pablo EA4CIV)
+
+VERSION 4.5.5
+=============
+- To add LPT driver for 64-bits architecture
+- New release of ioctrl.ll library 
+
+VERSION 4.5.4
+=============
+- Választás a DSR, CTS és CD csatlakozni a Dot és a kötojel kapcsolatok a keyer rá a COM port.
+- Választás a DTR és/vagy RTS hatalomra a keyer (+ 12V) (ha szükséges).
+- Set DTR és/vagy RTS szintjén hatékonyan az "on" gombra a PORT panel, párhuzamosan a "ptt" gomb a Monitoring ablak.
+
+VERSION 4.5.1 a 4.5.3
+======================
+- Kisebb javítások és tesztversion
+
+VERSION 4.5.0
+=============
+- Bevezetés a iambic billentyuzési
+
+VERSION 4.4.9
+=============
+- Változó közötti késleltetés 0 és 5 másodperccel játszik véletlenszeru lejátszás
+
+VERSION 4.4.8
+============
+- To fix a bug in QSB speed restoring.
+
+VERSION 4.4.7
+============
+- To fix bugs
+
+VERSION 4.4.5
+============
+- Menteni és visszaállítani a számok a leckék
+- Kattintson duplán adja meg a leckét. Kattintson a jobb egérgombbal létrehozni vagy módosítani a kijelölt leckét.
+- Other minor modifications and corrections
+
+VERSION 4.4.4
+============
+- A zajszint osztva 2
+- Az állapot a QSB, QRN és QRH gomb menti
+- Három QSB sebesség áll rendelkezésre.
+
+VERSION 4.4.3
+============
+- Menu/Beállítás/Különbözö Monitorozás : Korlátlan tá idotartamát, ha egy gombos a CTRL
+- A Monitorozas, ha egy gombos a CTR, cserélni téves jeleket a karakter ? és ! mondja a tanuló hogyan tud javítani a kulcsok.
+
+
+VERSION 4.4.2
+===========
+- A Monitorozas, hogy kiszurje audio kattintással, ha az üzemelteto használ egy gombos.
+- A Monitoroas során kalibrációs tényezo lehetoség, ha az üzemelteto használ dual gombot.
+
+VERSION 4.4.1
+============
+- Kijavításához, vagy hogy javítsa a spanyol nyelvu szöveg (EA4CIV).
+
+VERSION 4.4.0
+============
+- Hogy módosítsa a folyamat az olvasás az utolsó rendelkezésre álló kibocsátás és az információk megjelenítéséhez a menüsorban.- 
+
+VERSION 4.3.9
+============
+- Engedélyezése vagy tiltása a Jingle végén a Kvíz és a Véletlen sorozat (menük Beallitas / Különbözö).
+- Engedélyezése vagy tiltása az Enter gombot, hogy megállítsa a Kvíz, vagy a Véletlen sorozat (menük Beallitas / Különbözö).
+
+VERSION 4.3.7
+===========
+- Jingle végén a sorozat Kvíz módban
+- Lehetoség, hogy letiltja a Jingle Kvíz és Véletlen módok menüben Options / Miscelleneous
+- Korrekciók a térköz panel és a Kviz almenük
+
+VERSION 4.3.5
+===========
+- Újraindításához a fájl elejét kattintva közvetlenül a "Tovább File" gombra
+- Gátolja a menük, amelyek megváltoztatják karaktert játszani, amikor a teszt üzemmódban, vagy a Random módban fut.
+- A remplacer VA által SK a speciális karakterek listája
+- Hogy lefordítsák a párbeszéd gombok.
+
+VERSION 4.3.4
+===========
+- Módosítások és hozzanak létre egy pár szövegek
+- Lehetoség, hogy elrejtse a smiley a QUIZ ablakban klikk rajta.
+- Ha újra megszervezi a Fájlpanelek és bovítse a fájl szöveges ablakban
+- Letiltása egy kattintással az ablakban a fájl szöveget.
+- Képes nagyítani vagy kicsinyíteni a betuméretet a DEMO ablakban.
+
+VERSION 4.3.3
+===========
+- Száma szóköz a szavak között 1-tol 20 Ez a beállítás az azonos panel, mint a helyek száma a karakterek között.
+
+VERSION 4.3.2
+============
+Az Info ablakban, adjunk hozzá egy gombot, hogy ellenorizze, hogy a felhasználó az utolsó változat.
+
+VERSION 4.3.0
+===========
+- Figyelembe kell venni a sajátossága a nyilvántartás alap egyes verzióiban Windows7
+
+VERSION 4.2.9
+=============
+- Frissítés keresése a program indításakor.
+
+VERSION 4.2.8
+============
+- Frissíteni billentyuparancsok
+- Frissíteni súgófájlokban
+- Frissíteni portugeese szövegek
+
+VERSION 4.2.7
+=============
+- Cserélje .dat súgó fájlt a .ini súgó fájlt
+- Szabályozásának javítására meghatározásának hivatkozások
+- Ahhoz, hogy figyelmezteti a felhasználót, ha a helyi karakterek vagy a gyorsbillentyük jön létre egy karaktert
+   amely már alapértelmezett Morse-kód (Ez nem vonatkozik a szokásos karakterek
+   nem módosítható.)
+
+VERSION 4.2.5
+=============
+- Cserélje .hlp súgó fájlt a .chm súgó fájlt
+- Új Morse kódok néhány karaktert ritkán használják radioamateurs (&, $, _)
+- Törlés esetén a helyi jellegu, állítsa vissza az eredeti Morse-kódot, hogy a karakter,
+  ha azt meghatározott eredeti listán (nem vonatkozik a normál karakterek).
+
+VERSION 4.2.4
+=============
+- Rögzíti a kisebb hibákat
+- Ahhoz, hogy helyezzen be egy szöveget a véletlen memó, és felvétele Wav-ként
+
+VERSION 4.2.2
+=============
+- Lehetoség, hogy nyissa meg a WAV MP3 átalakító (WAV2MP3.exe) létrehozása után a WAV fájlt.
+
+VERSION 4.2.1
+=============
+- Szótávolságot akár 8-szor a normál érték.
+
+VERSION 4.2.0
+=============
+- Maximális sebesség akár 70 szó percenként
+- Kis fejlesztések
+- Egy olyan, segédprogramot átalakítani WAV fájlokat MP3 fájlokat.
+
+VERSION 4.1.8
+=============
+- A Vétleven módban lehetoség, hogy vezessenek be egy várakozó késleltetés 5 másodpercig, mielott játszani.
+- A Vétleven módban az Enter aktiválja a Indul gombot, vagy a Stop gombra, ha játszik a folyamatban.
+
+VERSION 4.0
+============
+- correct an error related to the saved serial port
+- option to mask the hints (but not MSG and real speed)
+- save the last position of the main window
+- option to create frequency drift in random mode and file mode
+- creation of the Entry sheet in random mode and file mode
+- update portugeese texts
+- option to key morse with the CTRL key of the keyboard.
+- upgrade audio and direct decoding
+- in QUIZ mode, option to shorten the delay when an answer is given
+- in QUIZ mode, menu to show errors immediately and before resuming
+- in QUIZ mode, menu to replay the erroneous characters
+- in Monitoring window, to add the live morse code display
+
+VERSION 3.3.5
+============
+- To fix an anomaly when monitoring single key signals.
+
+VERSION 3.3.4
+=============
+- Options for variable speed and variable delay in Quiz mode.
+
+VERSION 3.3.0
+=============
+- Option Examen France (in french language only)
+- Word and text files proposed for the Vocabulary option
+
+VERSION 3.2.7
+=============
+- Option Vocabulary
+
+VERSION 3.2.6
+=============
+- Option Lowercase for the Random window
+
+VERSION 3.2.5a
+==============
+- Add the Clear button in the Monitoring window
+
+VERSION 3.2.5
+=============
+- Replacement of the Joystick component
+
+VERSION 3.2.3a,b,c
+==================
+- to fix bugs
+
+VERSION 3.2.3
+=============
+- To choose all serial ports available
+
+VERSION 3.2.2
+=============
+- Add keying by the operator through the joystick port
+
+VERSION 3.2.1
+=============
+- Add default extensions for text or wave file names.
+- correct a bug in text focus
+
+VERSION 3.2.0
+=============
+- Add options to automatically hide file text and random characters when playing.
+
+VERSION 3.1.7
+=============
+- To choose the sound card
+
+VERSION 3.1.6
+=============
+- Fix errors
+
+VERSION 3.1.4
+=============
+- Add possibility to limit some functions if the instructor requires it.
+- to maximize the file window 
+
+VERSION 3.1.2
+=============
+- Add adjustable CW note between 100 and 1500 Hz
+
+VERSION 3.1.1
+=============
+- Add word spacing setting
+- Add french exam simulation. If you need a simulation of your local exam in terms of tone, speed ans spacing, please send a wav or mp3 record that reproduces the exact tone, speed ans spacing of your local exam.
+ 
+VERSION 3.0.3
+=============
+- TX keying from the parallel port. This function requires IOCtrl.dll in the Windows/system32 directory and the file zntport.sys in the Windows/system32/drivers directory
+- Miscellanous improvements 
+- Add the character "*" as an international morse character .
+Many thanks to Alan, F6ENO, for his help in testing this new release
+
+VERSION 3.0.2
+=============
+- Possibility to play non-standard characters in random and quiz modes
+
+VERSION 3.0.1
+=============
+- Fix some minor errors
+
+VERSION 3.0
+===========
+- TX keying from the serial port
+- Character counter in Quiz mode
+- Text shortcuts
+- Text rubber
+- Local messages
+- Spanish language (thanks to LU8HPY, Fer)
+
+VERSION 2.8.5
+=============
+- Add intermediate values of delay to answer in quiz mode
+
+VERSION 2.8.4
+=============
+- Number of lessons up to 60
+- Fix an error that might happen with WinXP 
+ 
+VERSION 2.8.3a
+==============
+- Save the delay to answer in quiz mode
+
+VERSION 2.8.3
+=============
+- Add adjustable CW note between 600 and 1000 Hz 
+
+VERSION 2.8.2
+=============
+- Add the special character @
+
+VERSION 2.8.1
+=============
+- Add Portuguese in language menu
+
+VERSION 2.8
+===========
+- Add possibility to pause and to resume the Text replay
+- Save the Monitoring window parameters 
+- Non proportionnal font in the Monitoring window 
+- Possibility to add blank Noise and QSB on the Morse signals when
+  playing Random or File
+- Possibility to mask the mark in Quiz mode
+- Add the word option named "Callsigns" to generate callsigns in Random
+  mode
+- Other minor modifications and corrections
+
+VERSION 2.7.2
+=============
+-Add the possibility to choose the word length in random mode from 2 to
+ 8 characters
+-Possibility to reduce the delay to answer in Quiz mode to 0 
+ (actually=400ms)
+
+VERSION 2.7.1
+=============
+-Minor modifications
+
+IMPORTANT NOTE : Some screensavers require very high CPU ressources.
+When running they could highly affect the sound quality of characters.
+It is highly recommanded to disable such screensavers when running 
+CWPlayer in random mode for long periods.
+ 
+VERSION 2.7
+===========
+-add italian language thanks to Paolo IW2DGS and Andrea IW4EGQ.
+-add menu "Save monitoring as Text file"
+
+VERSION 2.6
+===========
+-introduction of a limited number of characters when playing in random
+ mode
+-possibility to hide the solution in File or Random mode
+-possibility to generate non-mixed words in random mode 
+-possibility to generate quick random serials without sound for rapidly
+ creating lessons .
+-Change of font in File and Random window for a better reading.
+
+VERSION 2.5
+===========
+-test version
+
+VERSION 2.4
+===========
+-Enlarge spacing and compute actual mean speed.
+
+VERSION 2.3.1
+=============
+-Fix a possible error when creating the CWPlayer.dat file.
+
+VERSION 2.3
+============
+-Add german in the Menu/Language
+ Note that the Help file CWPdeutsch.hlp is just a copy of the english
+ help file. I need a translator !
+-Add an option to generate random length words when playing random 
+ characters
+-Add the possibility to save the memoRandom window into a Wave file
+-Save and restore the last parameters (language, speed, level, last 
+ choies etc).
+
+VERSION 2.2 & 2.2a
+==================
+-Add errors messages in case of abnormal behaviour of the program.
+-Fix problems that occured with some exotic sound cards (SoundBlaster
+ incompatibility or performance incompatibility with regards to the
+ processor speed)
+ Many thanks to Sebastian, Daniel and Mukesh (India) for their help in
+ solving these problems.
+
+VERSION 2.1
+===========
+-Implementation of a new tool that record a text as a Wave sound file
+ (*.wav) that can be replayed by any media player software. This 
+ allows the creation of text beacons, CW identificators etc with a great
+ facility;
+
+VERSION 2.0
+===========
+- Introduction of a Monitoring function that decodes the audio Morse
+  signals that the user will inject at the Mic or Line input of the
+  sound card. This is to control and improve the keying of the trainee. 
+
+- Option to introduce a group of 5 "V" at the beginning of each random
+  serie. This is to synchronize the trainee on the very first random
+  character.
+
+- Fix some errors detected by users.
+
+Version 1.9.0
+=============
+- Creation of a Tools menu with the folloing functions :
+  * Clear MemoRandom window
+  * Save MemoRandom window : The contents of the 
+    MemoRandom window is saved in a text file that
+    can be replayed at any time with the File choice
+    and Play File button.
+  * Local characters : to create your local characters 
+    (see version 1.8.2). The local characters are now 
+    non-case sensitive.
+  * Local lessons : to modify the contents of the basic 
+    lessons of CWPlayer.
+    The lesson definition is save in the CWPlayer.dat 
+    file and restored when rerunning the program. 
+  * Quit : same as the Quit button but without 
+    confirmation
+
+- Creation of the "Masked option" in the menu Options/Text. This option
+  allows you to create two specific characters between which text will
+  not be played.
+
+- In the "Chosen characters" menu, a choice of 20 basic lessons is
+  given to the user in addition to the previous 50 characters. When 
+  restarting the program, the last session lesson is chosen by CW_Player. 
+
+- Fix a system error that could happen at very low speed.
+
+- Miscellanous improvements to discover by yourself.
+
+ Though this new release should be compatible with your older
+ CWPLAYER.DAT file, it is recommanded to delete or to replace the old
+ data file with the joined one before running this new release for
+ the first time. You will have to redefine your local characters but
+ the job is not too hard !  
+
+Version 1.8.2
+=============
+- The number of choosen characters for random and quiz modes is extended
+ to 50. This allows greater character combinations. Characters may be
+ repeated several times, that way they will be played more often than
+ others.
+ For example, the list may include the 26 letters and some of the most
+ difficult to copy may be tripled. Then they will be played three times
+ more often than the others.
+
+- Back-up and restart of the program with the last "Choosen characters"
+ configuration. The back-up file is CWPLAYER.DAT.
+
+- Availability to create your own local characters such as stressed
+ vowels.
+ Many countries have got such local characters which specific morse
+ codes.
+ This also allows you to assign dedicated keys to specials characters
+ such as SK (end of work) or AS (wait).
+ These local characters will played in all modes. When existing, they
+ are saved in the back-up file CWPLAYER.DAT. 
+
+Version 1.8.1
+=============
+-Creation of keyboard shortcuts for all controls and choices. This was
+ requested by blind OMs.
+
+-Possibility to replay a file continuously such as the Text.
+
+-Up dating related to WinNT and Win2000 specificities.
+
+-The PC-TX.bmp file includes a simple circuit to key a transceiver from
+ the 800 Hz tone on the outputs of the sound card.
+
+Version 1.8
+============
+-Speed from 5 to 50 wpm (for high speed CW operators
+only)
+
+-Variable setting of the weight between dash and dot : 3/1 (normal), 4/1
+ or 5/1 to be chosen in the Options menu
+
+-possibility to inhibit sound when entering a text and play it later as 
+ an  option in the Options/Text menu,
+
+-possibility to replay a text continuously as an option in the 
+ Options/Text menu
+
+-Creation of Help files : CWPenglish.hlp and CWPfrench.hlp.
+ These two Help files must be in the same directory as CW_Player.exe for
+ a good functionning of CW_Player.
+
+-Treatment of error when opening a file which does not exist.
+
+-possibility to set speed at start up with the parameter /=x in the 
+ command line. x is the value of the speed.
+  example : CW_Player /=10   starts CW_Player at 10 wpm.
+
+-adding a Quiz to test your knowledge
+
+-adding an adjustable delay between the PTT command and the play of the
+ first caracter,
+
+-When depressing STOP, release the PTT command after the end of the
+ caracter in progress.
+
+Version 1.72
+============
+-Variable spacing between caracters (simple, double, triple) to be 
+ chosen in  the Options menu
+
+-list of the most used CW abreviations
+
+Version 1.71
+============
+- Minimum speed set to 5 wpm.
+
+Version 1.7 features :
+======================
+- possibility to open and play any ASCII file of  your system.
+ 
+- Inhibition of all choices whenever a file, a text or random series are
+ being executed. The STOP button has to be depressed to recover choices
+ and controls.
+
+- Supplying of PTT command signals to your TRX from a COM port.
+ A circuit example is drawn in file PC_TX.BMP. The scheme assumes that a
+ positive voltage is present on your TX PTT terminal when in RX mode.
+ In old valve TRX, negative voltage appears in RX mode on the KEY 
+ terminal.
+ The scheme has to be modified consequently.
+
+-Suppression of clicks which appeared in version 1.6.
+
+Version 1.6 features :
+======================
+- minimum speed at 10 words/mn
+
+- correction of a system error that appears in a very particuliar case. 
+
+Version 1.5 features :
+======================
+- more Q codes
+
+- choice between English and French Language.
+
+The language may be choosen in the command line by typing the following
+parameter : /e for English, /f for French. If no parameter, CW_Player 
+starts with English.
+For example, to start in French, type c:\cw_player.exe /f ,assuming the
+executable file is named cw_player.
+BE AWARE that under  Win95, when using the Execute command or creating a
+short, the command line is displayed between doub le quotes.
+Then, the parameter must be typed AFTER the last double quote :
+      "C:\CW_Player.EXE" /f
+
