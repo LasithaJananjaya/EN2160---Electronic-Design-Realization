@@ -1,2 +1,6 @@
 There are different microcontrollers available. ATMEGA 328P seems to be enough. Has 32kB program memory and 2kB SRAM.
 SMD version of 328p is costly.
+
+"The ATMega. The real benefit of using this microcontroller is that it's only $4 US,
+whereas many other micro-controllers are 10X that price. It can also be easily programmed in the universal programming language, C++.
+The ATMega is also equipped with a decent amount of memory for any project."
