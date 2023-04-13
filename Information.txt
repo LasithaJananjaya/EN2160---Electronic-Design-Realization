@@ -1,0 +1,2 @@
+There are different microcontrollers available. ATMEGA 328P seems to be enough. Has 32kB program memory and 2kB SRAM.
+SMD version of 328p is costly.
