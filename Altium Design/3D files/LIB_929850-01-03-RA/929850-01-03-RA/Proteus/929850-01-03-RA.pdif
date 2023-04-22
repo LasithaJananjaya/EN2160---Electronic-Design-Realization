@@ -1,0 +1,112 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "929850-01-03-RA"
+   (description "Conn Socket Strip SKT 3 POS 2.54mm Solder ST Thru-Hole")
+   (family "CON")
+   (package "RHDR3W76P0X254_1X3_762X254X826P")
+   (attribute "Datasheet Link" "https://multimedia.3m.com/mws/media/22500O/3mtm-boardmount-skt-100-100x-100strt-sldr-tails-ts0815.pdf")
+   (attribute "Geometry.Height" "8.26mm")
+   (attribute "Manufacturer_Name" "3M")
+   (attribute "Manufacturer_Part_Number" "929850-01-03-RA")
+   (attribute "Mouser Part Number" "517-929850-01-03-RA")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/3M-Electronic-Solutions-Division/929850-01-03-RA?qs=neFkstNq%252B6HSkhIqD4w5cg%3D%3D")
+   (attribute "Arrow Part Number" "929850-01-03-RA")
+   (attribute "Arrow Price/Stock" "https://www.arrow.com/en/products/929850-01-03-ra/3m?region=nac")
+   (gate
+    (symbol "929850-01-03-RA")
+    (pin "1" 1 PS)
+    (pin "2" 2 PS)
+    (pin "3" 3 PS)
+   )
+  )
+  (symbol "929850-01-03-RA"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 600 100) (pt 600 -300) (pt 200 -300) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "RHDR3W76P0X254_1X3_762X254X826P"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.05)
+     (path
+      (closed true)
+      (pt -1.52 -1.52)
+      (pt -1.52 1.555)
+      (pt 6.635 1.555)
+      (pt 6.635 -1.52)
+      (pt -1.52 -1.52))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1.27 -1.27)
+      (pt -1.27 1.27)
+      (pt 6.35 1.27)
+      (pt 6.35 -1.27)
+      (pt -1.27 -1.27))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 0 -1.27)
+      (pt 6.385 -1.27)
+      (pt 6.385 1.305)
+      (pt -1.27 1.305)
+      (pt -1.27 0))))
+   (leg 1 (pt 0 0) (padstack 1))
+   (leg 2 (pt 2.54 0) (padstack 0))
+   (leg 3 (pt 5.08 0) (padstack 0))
+   (padstack 0
+    (hole 1.25)
+    (plated true)
+    (pad (layer TCOP) (round 1.875))
+    (pad (layer INNER) (round 1.875))
+    (pad (layer BCOP) (round 1.875))
+   )
+   (padstack 1
+    (hole 1.25)
+    (plated true)
+    (pad (layer TCOP) (square 1.875))
+    (pad (layer INNER) (round 1.875))
+    (pad (layer BCOP) (square 1.875))
+   )
+   (model "929850-01-03-RA.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

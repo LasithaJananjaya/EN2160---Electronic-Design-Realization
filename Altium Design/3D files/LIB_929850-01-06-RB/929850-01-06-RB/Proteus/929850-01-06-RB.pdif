@@ -1,0 +1,130 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "929850-01-06-RB"
+   (description "Headers & Wire Housings 6P STRT BRD MNT SKT 1 ROW 30MICRO\" AU")
+   (family "CON")
+   (package "RHDR6W76P0X254_1X6_1524X254X826P")
+   (attribute "Datasheet Link" "https://www.mouser.fr/datasheet/2/1/ts0815-31700.pdf")
+   (attribute "Geometry.Height" "8.26mm")
+   (attribute "Manufacturer_Name" "3M")
+   (attribute "Manufacturer_Part_Number" "929850-01-06-RB")
+   (attribute "Mouser Part Number" "517-929850-01-06-RB")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/3M-Electronic-Solutions-Division/929850-01-06-RB?qs=s3by4FhMkp1OostaNDHGSw%3D%3D")
+   (attribute "Arrow Part Number" "")
+   (attribute "Arrow Price/Stock" "")
+   (gate
+    (symbol "929850-01-06-RB")
+    (pin "1" 1 PS)
+    (pin "2" 2 PS)
+    (pin "3" 3 PS)
+    (pin "4" 4 PS)
+    (pin "5" 5 PS)
+    (pin "6" 6 PS)
+   )
+  )
+  (symbol "929850-01-06-RB"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 600 100) (pt 600 -600) (pt 200 -600) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -300) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -400) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -500) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "RHDR6W76P0X254_1X6_1524X254X826P"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.05)
+     (path
+      (closed true)
+      (pt -1.52 -1.52)
+      (pt -1.52 1.555)
+      (pt 14.255 1.555)
+      (pt 14.255 -1.52)
+      (pt -1.52 -1.52))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1.27 -1.27)
+      (pt -1.27 1.27)
+      (pt 13.97 1.27)
+      (pt 13.97 -1.27)
+      (pt -1.27 -1.27))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 0 -1.27)
+      (pt 14.005 -1.27)
+      (pt 14.005 1.305)
+      (pt -1.27 1.305)
+      (pt -1.27 0))))
+   (leg 1 (pt 0 0) (padstack 1))
+   (leg 2 (pt 2.54 0) (padstack 0))
+   (leg 3 (pt 5.08 0) (padstack 0))
+   (leg 4 (pt 7.62 0) (padstack 0))
+   (leg 5 (pt 10.16 0) (padstack 0))
+   (leg 6 (pt 12.7 0) (padstack 0))
+   (padstack 0
+    (hole 1.25)
+    (plated true)
+    (pad (layer TCOP) (round 1.875))
+    (pad (layer INNER) (round 1.875))
+    (pad (layer BCOP) (round 1.875))
+   )
+   (padstack 1
+    (hole 1.25)
+    (plated true)
+    (pad (layer TCOP) (square 1.875))
+    (pad (layer INNER) (round 1.875))
+    (pad (layer BCOP) (square 1.875))
+   )
+   (model "929850-01-06-RB.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

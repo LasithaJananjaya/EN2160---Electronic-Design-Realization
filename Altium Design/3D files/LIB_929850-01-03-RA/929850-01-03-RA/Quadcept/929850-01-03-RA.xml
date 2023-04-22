@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--/1504145/1120058/2.50/3/4/Connector/-->
+<quadcept_library>
+  <setting unit="mil" />
+  <textstyle name="Default" height="47.244094488189" strokewidth="7.8740157480315" charwidth="47.244094488189" />
+  <textstyle name="Dimension" height="19.6850393700787" strokewidth="0" charwidth="19.6850393700787" />
+  <textstyle name="H127W0635TH00762" height="50" strokewidth="3" charwidth="25" />
+  <textstyle name="H15W15TH02" height="59.0551181102362" strokewidth="7.8740157480315" charwidth="59.0551181102362" />
+  <padstyle name="c187.5_h125" surface="False" plated="True" isvia="False" nopaste="True" nomask="True" complex="False" holesize="49.212598425196">
+    <padshape layer="TOP" shape="round" width="73.818897637794" height="73.818897637794" />
+    <padshape layer="TOP_SOLDER_MASK" shape="round" width="81.692913385826" height="81.692913385826" />
+    <padshape layer="INNER" shape="round" width="73.818897637794" height="73.818897637794" />
+    <padshape layer="BOTTOM" shape="round" width="73.818897637794" height="73.818897637794" />
+    <padshape layer="BOTTOM_SOLDER_MASK" shape="round" width="81.692913385826" height="81.692913385826" />
+  </padstyle>
+  <padstyle name="s187.5_h125" surface="False" plated="True" isvia="False" nopaste="True" nomask="True" complex="False" holesize="49.212598425196">
+    <padshape layer="TOP" shape="square" width="73.818897637794" height="73.818897637794" />
+    <padshape layer="TOP_SOLDER_MASK" shape="square" width="81.692913385826" height="81.692913385826" />
+    <padshape layer="INNER" shape="round" width="73.818897637794" height="73.818897637794" />
+    <padshape layer="BOTTOM" shape="square" width="73.818897637794" height="73.818897637794" />
+    <padshape layer="BOTTOM_SOLDER_MASK" shape="square" width="81.692913385826" height="81.692913385826" />
+  </padstyle>
+  <footprint name="RHDR3W76P0X254_1X3_762X254X826P" originx="0" originy="0" pickpointx="0" pickpointy="0">
+    <pcbpin number="1" name="1" style="s187.5_h125" originx="0" originy="0" rotation="90" />
+    <pcbpin number="2" name="2" style="c187.5_h125" originx="99.999999999999" originy="0" rotation="90" />
+    <pcbpin number="3" name="3" style="c187.5_h125" originx="200" originy="0" rotation="90" />
+    <line layer="TOP_PLACE_BOUND" originx="-59.842519685039" originy="-59.842519685039" endx="-59.842519685039" endy="61.220472440944" width="1.9685039370079" />
+    <line layer="TOP_PLACE_BOUND" originx="-59.842519685039" originy="61.220472440944" endx="261.22047244094" endy="61.220472440944" width="1.9685039370079" />
+    <line layer="TOP_PLACE_BOUND" originx="261.22047244094" originy="61.220472440944" endx="261.22047244094" endy="-59.842519685039" width="1.9685039370079" />
+    <line layer="TOP_PLACE_BOUND" originx="261.22047244094" originy="-59.842519685039" endx="-59.842519685039" endy="-59.842519685039" width="1.9685039370079" />
+    <line layer="TOP_ASSEMBLY" originx="-49.999999999999" originy="-49.999999999999" endx="-49.999999999999" endy="49.999999999999" width="3.9370078740157" />
+    <line layer="TOP_ASSEMBLY" originx="-49.999999999999" originy="49.999999999999" endx="250" endy="49.999999999999" width="3.9370078740157" />
+    <line layer="TOP_ASSEMBLY" originx="250" originy="49.999999999999" endx="250" endy="-49.999999999999" width="3.9370078740157" />
+    <line layer="TOP_ASSEMBLY" originx="250" originy="-49.999999999999" endx="-49.999999999999" endy="-49.999999999999" width="3.9370078740157" />
+    <line layer="TOP_SILKSCREEN" originx="0" originy="-49.999999999999" endx="251.3779527559" endy="-49.999999999999" width="7.8740157480314" />
+    <line layer="TOP_SILKSCREEN" originx="251.3779527559" originy="-49.999999999999" endx="251.3779527559" endy="51.377952755905" width="7.8740157480314" />
+    <line layer="TOP_SILKSCREEN" originx="251.3779527559" originy="51.377952755905" endx="-49.999999999999" endy="51.377952755905" width="7.8740157480314" />
+    <line layer="TOP_SILKSCREEN" originx="-49.999999999999" originy="51.377952755905" endx="-49.999999999999" endy="0" width="7.8740157480314" />
+  </footprint>
+  <symbol name="929850-01-03-RA" originx="0" originy="0">
+    <line originx="200" originy="100" endx="600" endy="100" width="0" />
+    <line originx="600" originy="-300" endx="600" endy="100" width="0" />
+    <line originx="600" originy="-300" endx="200" endy="-300" width="0" />
+    <line originx="200" originy="100" endx="200" endy="-300" width="0" />
+    <sympin number="1" originx="200" originy="0" rotation="180" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="230" originy="0" style="Default" rotation="0" justify="left" flipped="False" hidden="False" data="1" />
+      <text name="pindes" originx="140" originy="20" style="Default" rotation="0" justify="lowerright" flipped="False" hidden="False" data="1" />
+    </sympin>
+    <sympin number="2" originx="200" originy="-100" rotation="180" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="230" originy="-100" style="Default" rotation="0" justify="left" flipped="False" hidden="False" data="2" />
+      <text name="pindes" originx="140" originy="-80" style="Default" rotation="0" justify="lowerright" flipped="False" hidden="False" data="2" />
+    </sympin>
+    <sympin number="3" originx="200" originy="-200" rotation="180" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="230" originy="-200" style="Default" rotation="0" justify="left" flipped="False" hidden="False" data="3" />
+      <text name="pindes" originx="140" originy="-180" style="Default" rotation="0" justify="lowerright" flipped="False" hidden="False" data="3" />
+    </sympin>
+  </symbol>
+  <component name="929850-01-03-RA" designatorprefix="J" height="325.1968503937" footprint="RHDR3W76P0X254_1X3_762X254X826P">
+    <comppin designator="1" sympin="1" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="1" />
+    <comppin designator="2" sympin="2" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="2" />
+    <comppin designator="3" sympin="3" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="3" />
+    <attached_symbol gate="1" name="929850-01-03-RA" />
+    <pinmap designator="1" footprintpin="1" />
+    <pinmap designator="2" footprintpin="2" />
+    <pinmap designator="3" footprintpin="3" />
+    <text name="Datasheet" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="https://multimedia.3m.com/mws/media/22500O/3mtm-boardmount-skt-100-100x-100strt-sldr-tails-ts0815.pdf" />
+    <text name="Description" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="Conn Socket Strip SKT 3 POS 2.54mm Solder ST Thru-Hole" />
+    <text name="Manufacturer_Name" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="3M" />
+    <text name="Manufacturer_Part_Number" originx="650" originy="200" style="Default" rotation="0" justify="left" flipped="False" hidden="False" data="929850-01-03-RA" />
+    <text name="Mouser Part Number" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="517-929850-01-03-RA" />
+    <text name="Mouser Price/Stock" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="https://www.mouser.co.uk/ProductDetail/3M-Electronic-Solutions-Division/929850-01-03-RA?qs=neFkstNq%252B6HSkhIqD4w5cg%3D%3D" />
+    <text name="Arrow Part Number" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="929850-01-03-RA" />
+    <text name="Arrow Price/Stock" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="https://www.arrow.com/en/products/929850-01-03-ra/3m?region=nac" />
+  </component>
+</quadcept_library>

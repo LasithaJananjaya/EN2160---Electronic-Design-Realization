@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '929850_01_03_RA'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "3M", "929850-01-03-RA" (!) = "", "RHDR3W76P0X254_1X3_762X254X826P", "Header, Receptacle - Straight PTH Box", "517-929850-01-03-RA", "https://www.mouser.co.uk/ProductDetail/3M-Electronic-Solutions-Division/929850-01-03-RA?qs=neFkstNq%252B6HSkhIqD4w5cg%3D%3D", "929850-01-03-RA", "https://www.arrow.com/en/products/929850-01-03-ra/3m?region=nac", "Conn Socket Strip SKT 3 POS 2.54mm Solder ST Thru-Hole", "https://multimedia.3m.com/mws/media/22500O/3mtm-boardmount-skt-100-100x-100strt-sldr-tails-ts0815.pdf", "8.26 mm"
+END_PART
+
+END.

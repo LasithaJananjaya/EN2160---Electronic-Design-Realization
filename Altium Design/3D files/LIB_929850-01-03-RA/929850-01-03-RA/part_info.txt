@@ -1,0 +1,9 @@
+Manufacturer=3M
+PartNumber=929850-01-03-RA
+PartCategory=Connector
+PackageCategory=Header, Receptacle - Straight PTH Box
+PinCount=3
+Version=1.1
+Released=2021-03-31 11:05:27
+Downloaded=2023-04-22 17:04:39
+3D=Y

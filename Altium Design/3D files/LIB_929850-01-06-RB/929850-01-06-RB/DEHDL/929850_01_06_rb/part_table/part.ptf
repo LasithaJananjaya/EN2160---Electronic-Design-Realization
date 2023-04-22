@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '929850_01_06_RB'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "3M", "929850-01-06-RB" (!) = "", "RHDR6W76P0X254_1X6_1524X254X826P", "Header, Receptacle - Straight PTH Box", "517-929850-01-06-RB", "https://www.mouser.co.uk/ProductDetail/3M-Electronic-Solutions-Division/929850-01-06-RB?qs=s3by4FhMkp1OostaNDHGSw%3D%3D", "", "", "Headers & Wire Housings 6P STRT BRD MNT SKT 1 ROW 30MICRO" AU", "https://www.mouser.fr/datasheet/2/1/ts0815-31700.pdf", "8.26 mm"
+END_PART
+
+END.

@@ -1,0 +1,9 @@
+Manufacturer=3M
+PartNumber=929850-01-06-RB
+PartCategory=Connector
+PackageCategory=Header, Receptacle - Straight PTH Box
+PinCount=6
+Version=1.1
+Released=2021-03-11 12:33:03
+Downloaded=2023-04-22 16:53:56
+3D=Y

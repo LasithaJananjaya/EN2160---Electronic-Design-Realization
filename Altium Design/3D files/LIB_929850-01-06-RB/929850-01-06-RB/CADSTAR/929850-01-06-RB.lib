@@ -1,0 +1,18 @@
+.929850-01-06-RB :1 ;Headers & Wire Housings 6P STRT BRD MNT SKT 1 ROW 30MICRO" AU
+RHDR6W76P0X254_1X6_1524X254X826P
+*STM J
+*NGS
+*PLB 1="1" 2="2" 3="3" 4="4" 5="5" 6="6"
+*MXP 6
+*DFN 929850-01-06-RB
+~!Manufacturer_Name (3M)
+~!Manufacturer_Part_Number (929850-01-06-RB)
+~!Mouser Part Number (517-929850-01-06-RB)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/3M-Electronic-Solutions-Division/929850-01-06-RB?qs=s3by4FhMkp1OostaNDHGSw%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://www.mouser.fr/datasheet/2/1/ts0815-31700.pdf)
+~!Height (8.26mm)
+~!3D_Model (929850-01-06-RB)
+"929850-01-06-RB"
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 
