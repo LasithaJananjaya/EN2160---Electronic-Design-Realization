@@ -1,0 +1,554 @@
+<html>
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<style type="text/css">
+		h1, h2, h3, h4, h5, h6 {
+			font-family : segoe ui;
+			color : black;
+			background-color : #EDE7D9;
+			padding: 0.3em;
+		}
+
+		h1 {
+			font-size: 1.2em;
+		}		
+
+		h2 {
+			font-size: 1.2em;
+		}
+
+		body {
+			font-family : segoe ui;
+		}
+
+		td, th {
+			padding: 0.5em;
+			text-align : left;
+			width: 10em;
+		}
+		th {
+			background-color : #EEEEEE;
+
+		}
+		th.column1, td.column1 {
+			text-align: left;
+			width : auto;
+		}
+		table {
+			width : 100%;
+			font-size: 0.9em;
+		}
+
+		.DRC_summary_header {
+			padding-bottom : 0.1em;
+			border : 0px solid black;
+			width: 100%;
+			align: left;
+		}
+
+		.DRC_summary_header_col1,
+		.DRC_summary_header_col2, 
+		.DRC_summary_header_col3 {
+			color : black;
+			font-size:100%;
+			padding : 0em;
+			padding-top : 0.2em;
+			padding-bottom 0.2em;
+			border : 0px solid black;
+			vertical-align: top;
+			text-align: left;
+		}
+
+		.DRC_summary_header_col1 {
+			font-weight: bold;
+			width: 9em;
+		}
+
+		.DRC_summary_header_col2 {
+			width: 0.1em;
+		
+		}
+
+		.DRC_summary_header_col3 {
+			width : auto;
+		}
+
+		.header_holder {
+		    Width = 100%;
+		    border = 0px solid green;
+		    padding = 0;
+		}
+
+
+		.front_matter, .front_matter_column1, .front_matter_column2, .front_matter_column3
+		{
+			left : 0;
+			top : 0;
+			padding: 0em;
+			padding-top : 0.1em;
+			border : 0px solid black;
+			width : 100%;
+			vertical-align: top;
+			text-align: left;
+		}
+
+		.front_matter_column1 {
+			width : 8em;
+			font-weight: bold;
+		}
+
+		.front_matter_column2 {
+			width: 0.1em;
+		}
+
+		.front_matter_column3 {
+			width : auto;
+		}
+
+		.total_column1, .total_column {
+			font-weight : bold;
+		}
+		.total_column1 {
+			text-align : left;
+		}
+		.warning, .error {
+			color : red;
+			font-weight : bold;
+		}
+		tr.onmouseout_odd {
+			background-color : #white;
+		}
+		tr.onmouseout_even { 
+			background-color : #FAFAFA;
+		}
+		tr.onmouseover_odd, tr.onmouseover_even { 
+			background-color : #EEEEEE;
+		} 
+		a:link, a:visited, .q a:link,.q a:active,.q {
+			color: #21489e; 
+		}
+		a:link.callback, a:visited.callback { 
+			color: #21489e;
+		}
+		a:link.customize, a:visited.customize {
+			color: #C0C0C0;
+			position: absolute; 
+			right: 10px;
+		}	
+		p.contents_level1 {
+			font-weight : bold;
+			font-size : 110%;
+			margin : 0.5em;
+		}
+		p.contents_level2 {
+			position : relative;
+			left : 20px;
+			margin : 0.5em;
+		}
+	</style><script type="text/javascript">
+		function coordToMils(coord) {
+			var number = coord / 10000;
+			
+			if (number != number.toFixed(3))
+				number = number.toFixed(3);
+
+			return number + 'mil'
+		}
+
+		function coordToMM(coord) {
+			var number = 0.0254 * coord / 10000;
+			
+			if (number != number.toFixed(4))
+				number = number.toFixed(4);
+			
+			return number + 'mm'
+		}
+	
+		function convertCoord(coordNode, units) {
+			for (var i = 0; i < coordNode.childNodes.length; i++) {
+				coordNode.removeChild(coordNode.childNodes[i]);
+			}
+
+			var coord = coordNode.getAttribute('value');
+			if (coord != null) {
+				if (units == 'mm') {
+					textNode = document.createTextNode(coordToMM(coord));
+					coordNode.appendChild(textNode);
+				} else if (units == 'mil') {
+					textNode = document.createTextNode(coordToMils(coord));		
+					coordNode.appendChild(textNode);	
+				}
+			}
+		}
+	
+		function convertUnits(unitNode, units) {
+			for (var i = 0; i < unitNode.childNodes.length; i++) {
+				unitNode.removeChild(unitNode.childNodes[i]);		
+			}
+		
+			textNode = document.createTextNode(units); 
+			unitNode.appendChild(textNode);
+		}
+	
+		function changeUnits(radio_input, units) {
+			if (radio_input.checked) {
+			
+				var elements = document.getElementsByName('coordinate');
+				if (elements) {
+					for (var i = 0; i < elements.length; i++) {
+						convertCoord(elements[i], units);
+					}
+				}
+	
+				var elements = document.getElementsByName('units');
+				if (elements) {
+					for (var i = 0; i < elements.length; i++) {
+						convertUnits(elements[i], units);
+					}
+				}
+			}
+		}
+	</script><title>Design Rule Verification Report</title>
+</head>
+<body onload=""><img ALT="Altium" src="
+			file://C:\Users\Public\Documents\Altium\AD23\Templates\AD_logo.png
+		"><h1>Design Rule Verification Report</h1>
+<table class="header_holder">
+<td class="column1">
+<table class="front_matter">
+<tr class="front_matter">
+<td class="front_matter_column1">Date:</td>
+<td class="front_matter_column2"></td>
+<td class="front_matter_column3">4/23/2023</td>
+</tr>
+<tr class="front_matter">
+<td class="front_matter_column1">Time:</td>
+<td class="front_matter_column2"></td>
+<td class="front_matter_column3">4:26:40 AM</td>
+</tr>
+<tr class="front_matter">
+<td class="front_matter_column1">Elapsed Time:</td>
+<td class="front_matter_column2"></td>
+<td class="front_matter_column3">00:00:02</td>
+</tr>
+<tr class="front_matter">
+<td class="front_matter_column1">Filename:</td>
+<td class="front_matter_column2"></td>
+<td class="front_matter_column3"><a href="file:///C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc" class="file"><acronym title="C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc">C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc</acronym></a></td>
+</tr>
+</table>
+</td>
+<td class="column2">
+<table class="DRC_summary_header">
+<tr>
+<td class="DRC_summary_header_col1">Warnings:</td>
+<td class="DRC_summary_header_col2"></td>
+<td class="DRC_summary_header_col3">0</td></tr>
+<tr>
+<td class="DRC_summary_header_col1">Rule Violations:</td>
+<td class="DRC_summary_header_col2"></td>
+<td class="DRC_summary_header_col3" style="color : red">70</td></tr>
+</table>
+</td>
+</table><a name="IDOTM3HFWOTBPANKYMQ41BYJ3PTD04U2ARH3QSKLW3B1BAJYN4SNJ"><h2>Summary</h2></a><table>
+<tr>
+<th class="column1">Warnings</th>
+<th class="column2">Count</th>
+</tr>
+<tr>
+<td style="font-weight : bold; text-align : right" class="column1">Total</td>
+<td style="font-weight : bold" class="column2">0</td>
+</tr>
+</table><br><table>
+<tr>
+<th class="column1">Rule Violations</th>
+<th class="column2">Count</th>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="#IDZIB23J35BOEUO2BB5ZCEOMC2TPZJ5BPZ313AUCIK1KWKCEODZRE">Clearance Constraint (Gap=0.127mm) (All),(All)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="#ID2L30NSKZ3TFKI4B2YGOZHQYI3MSUTPJRDQHVNRGWXIBMSZFY2LWJ">Short-Circuit Constraint (Allowed=No) (All),(All)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="#ID1T2W13LQYJ4XFTFNSMQTDU1ZKONJQKANAO3WDIDQYJYFXOLSZG2F">Un-Routed Net Constraint ( (All) )</a></td>
+<td class="column2">68</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="#IDNRRQDFRWJRTZHMDS0KJQ3QX3ZDFRCWKF2M40BYOSL5T0LC0PYYCJ">Modified Polygon (Allow modified: No), (Allow shelved: No)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="#IDSXO4GWB4TL5QB1UUNSVBEJK11LYC0WDODZRRVGJISJ4BAOVNTPPB">Width Constraint (Min=0.127mm) (Max=25.4mm) (Preferred=0.127mm) (All)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="#IDGDGVYFDDRC02FPZXZT1GF1YUFOIPIW3XQLD3YINCLTRQVFPSM0Z">Power Plane Connect Rule(Direct Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (InPadClass('PowerPads'))</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="#ID3MDSI3O4XE2EI0YYNR2HH50VYCPCKCR5UHKCFBLSFHWNL1HTVQWH">Power Plane Connect Rule(Relief Connect )(Expansion=0.3mm) (Conductor Width=0.127mm) (Air Gap=0.127mm) (Entries=4) (All)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="#IDRAW2S25GE3ADMVNWGJMWGSHP0Y3DWTO0AULVEEWFDPQQYVHL1NP">Minimum Annular Ring (Minimum=0.076mm) (All)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="#IDJDCSSVCNNG0XCP1I551K3AD2CGDZFGDIRXUAP0M4ZJ2OS4BUL5QP">Hole Size Constraint (Min=0.3mm) (Max=6.3mm) (All)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="#IDYHM2IF0GKVSVCUB25GH12J12OOTKVNA504DGPSFU0FLHA0LZORIJ">Hole To Hole Clearance (Gap=0.25mm) (All),(All)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="#ID0PGSKOG05MMKIXB33AHUMBQEBQYG3MCHJQBLXOIDTIBCBXDP0IP">Minimum Solder Mask Sliver (Gap=0mm) (All),(All)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="#IDOXHPV0QTSZGGL5TDQ0ETBRQEYE3L50BGW0CHIXOST30Z544RLQZP">Silk To Solder Mask (Clearance=0.127mm) (IsPad),(All)</a></td>
+<td class="column2">2</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="#ID40D5M1JT5DTVCAGBLDB4UH4L5JKG2QI0VIYVDCZKQRKTCG5XZEI">Silk to Silk (Clearance=0mm) (All),(All)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="#IDFZ4O0YINQ1BKM4KF1DEOY3CL1GR53PGFPEBCKUEJA41RA44ATGYL">Net Antennae (Tolerance=0mm) (All)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="#IDA4ZJNQOFVE1LFQUKVJ5JUL3A2KZGKZUP3GD24JMXV4GH2XTC1T1M">Board Clearance Constraint (Gap=0mm) (All)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="#IDDNXIRSQ21DL3FT14M0FA3L5G0OKOBHBRCUQVA4G4JBABBJRQXHRF">Height Constraint (Min=0mm) (Max=1816.048mm) (Prefered=12.7mm) (All)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr>
+<td style="font-weight : bold; text-align : right" class="column1">Total</td>
+<td style="font-weight : bold" class="column2">70</td>
+</tr>
+</table><br><a name="ID1T2W13LQYJ4XFTFNSMQTDU1ZKONJQKANAO3WDIDQYJYFXOLSZG2F"><table>
+<tr>
+<th style="text-align : left" colspan="1" class="rule">Un-Routed Net Constraint ( (All) )</th>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=11053.504mil|Location2.X=11398.071mil|Location1.Y=2024.961mil|Location2.Y=2463.543mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=11053.504mil|Location2.X=11398.071mil|Location1.Y=2024.961mil|Location2.Y=2463.543mil|Absolute=True">Un-Routed Net Constraint: Net +5V Between Pad B1-1(-118.441mm,-347.891mm) on Top Layer [Unplated] And Pad C2-2(-111.014mm,-338.151mm) on Top Layer </acronym></a><br></td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=10846.732mil|Location2.X=11116.496mil|Location1.Y=2091.89mil|Location2.Y=2463.543mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=10846.732mil|Location2.X=11116.496mil|Location1.Y=2091.89mil|Location2.Y=2463.543mil|Absolute=True">Un-Routed Net Constraint: Net NetB1_2 Between Pad C4-2(-123.968mm,-338.151mm) on Top Layer And Pad B1-2(-118.441mm,-346.191mm) on Top Layer [Unplated] </acronym></a><br></td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=11053.504mil|Location2.X=11567.323mil|Location1.Y=1785.551mil|Location2.Y=2145.039mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=11053.504mil|Location2.X=11567.323mil|Location1.Y=1785.551mil|Location2.Y=2145.039mil|Absolute=True">Un-Routed Net Constraint: Net NetB1_2 Between Pad B1-2(-118.441mm,-346.191mm) on Top Layer [Unplated] And Pad U1-7(-107.265mm,-353.772mm) on Multi-Layer </acronym></a><br></td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=9581.732mil|Location2.X=9851.496mil|Location1.Y=2024.961mil|Location2.Y=2463.543mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=9581.732mil|Location2.X=9851.496mil|Location1.Y=2024.961mil|Location2.Y=2463.543mil|Absolute=True">Un-Routed Net Constraint: Net NetB2_1 Between Pad C7-2(-156.099mm,-338.151mm) on Top Layer And Pad B2-1(-150.572mm,-347.891mm) on Top Layer [Unplated] </acronym></a><br></td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=9788.504mil|Location2.X=11867.323mil|Location1.Y=1585.551mil|Location2.Y=2078.11mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=9788.504mil|Location2.X=11867.323mil|Location1.Y=1585.551mil|Location2.Y=2078.11mil|Absolute=True">Un-Routed Net Constraint: Net NetB2_1 Between Pad B2-1(-150.572mm,-347.891mm) on Top Layer [Unplated] And Pad U1-20(-99.645mm,-358.852mm) on Multi-Layer </acronym></a><br></td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=9788.504mil|Location2.X=10492.323mil|Location1.Y=2091.89mil|Location2.Y=2459.449mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=9788.504mil|Location2.X=10492.323mil|Location1.Y=2091.89mil|Location2.Y=2459.449mil|Absolute=True">Un-Routed Net Constraint: Net +5V Between Pad B2-2(-150.572mm,-346.191mm) on Top Layer [Unplated] And Pad J6-1(-134.57mm,-338.405mm) on Multi-Layer </acronym></a><br></td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=14016.929mil|Location2.X=15261.122mil|Location1.Y=2235.138mil|Location2.Y=2463.543mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=14016.929mil|Location2.X=15261.122mil|Location1.Y=2235.138mil|Location2.Y=2463.543mil|Absolute=True">Un-Routed Net Constraint: Net GND Between Pad C1-1(-43.445mm,-338.151mm) on Top Layer And Pad J2-4(-13.158mm,-342.437mm) on Multi-Layer </acronym></a><br></td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=13847.677mil|Location2.X=14058.268mil|Location1.Y=2290.551mil|Location2.Y=2463.543mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=13847.677mil|Location2.X=14058.268mil|Location1.Y=2290.551mil|Location2.Y=2463.543mil|Absolute=True">Un-Routed Net Constraint: Net GND Between Pad J4-2(-47.194mm,-340.945mm) on Multi-Layer And Pad C1-1(-43.445mm,-338.151mm) on Top Layer </acronym></a><br></td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=14091.732mil|Location2.X=15261.122mil|Location1.Y=2313.878mil|Location2.Y=2463.543mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=14091.732mil|Location2.X=15261.122mil|Location1.Y=2313.878mil|Location2.Y=2463.543mil|Absolute=True">Un-Routed Net Constraint: Net +5V Between Pad C1-2(-41.545mm,-338.151mm) on Top Layer And Pad J2-1(-13.158mm,-340.437mm) on Multi-Layer </acronym></a><br></td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=13726.732mil|Location2.X=14133.071mil|Location1.Y=2406.457mil|Location2.Y=2463.543mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=13726.732mil|Location2.X=14133.071mil|Location1.Y=2406.457mil|Location2.Y=2463.543mil|Absolute=True">Un-Routed Net Constraint: Net +5V Between Pad R4-2(-50.816mm,-338.151mm) on Top Layer And Pad C1-2(-41.545mm,-338.151mm) on Top Layer </acronym></a><br></td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=10771.929mil|Location2.X=11323.268mil|Location1.Y=2406.457mil|Location2.Y=2463.543mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=10771.929mil|Location2.X=11323.268mil|Location1.Y=2406.457mil|Location2.Y=2463.543mil|Absolute=True">Un-Routed Net Constraint: Net GND Between Pad C4-1(-125.868mm,-338.151mm) on Top Layer And Pad C2-1(-112.914mm,-338.151mm) on Top Layer </acronym></a><br></td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=11281.929mil|Location2.X=12432.323mil|Location1.Y=2380.551mil|Location2.Y=2463.543mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=11281.929mil|Location2.X=12432.323mil|Location1.Y=2380.551mil|Location2.Y=2463.543mil|Absolute=True">Un-Routed Net Constraint: Net GND Between Pad C2-1(-112.914mm,-338.151mm) on Top Layer And Pad J5-1(-85.294mm,-338.659mm) on Multi-Layer </acronym></a><br></td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=11281.929mil|Location2.X=11567.323mil|Location1.Y=1685.551mil|Location2.Y=2463.543mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=11281.929mil|Location2.X=11567.323mil|Location1.Y=1685.551mil|Location2.Y=2463.543mil|Absolute=True">Un-Routed Net Constraint: Net GND Between Pad C2-1(-112.914mm,-338.151mm) on Top Layer And Pad U1-8(-107.265mm,-356.312mm) on Multi-Layer </acronym></a><br></td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=10407.677mil|Location2.X=11398.071mil|Location1.Y=2390.551mil|Location2.Y=2463.543mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=10407.677mil|Location2.X=11398.071mil|Location1.Y=2390.551mil|Location2.Y=2463.543mil|Absolute=True">Un-Routed Net Constraint: Net +5V Between Pad J6-1(-134.57mm,-338.405mm) on Multi-Layer And Pad C2-2(-111.014mm,-338.151mm) on Top Layer </acronym></a><br></td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=11356.732mil|Location2.X=12068.071mil|Location1.Y=2406.457mil|Location2.Y=2463.543mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=11356.732mil|Location2.X=12068.071mil|Location1.Y=2406.457mil|Location2.Y=2463.543mil|Absolute=True">Un-Routed Net Constraint: Net +5V Between Pad C2-2(-111.014mm,-338.151mm) on Top Layer And Pad R8-2(-93.996mm,-338.151mm) on Top Layer </acronym></a><br></td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=10571.929mil|Location2.X=10813.268mil|Location1.Y=2406.457mil|Location2.Y=2463.543mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=10571.929mil|Location2.X=10813.268mil|Location1.Y=2406.457mil|Location2.Y=2463.543mil|Absolute=True">Un-Routed Net Constraint: Net GND Between Pad C3-1(-130.948mm,-338.151mm) on Top Layer And Pad C4-1(-125.868mm,-338.151mm) on Top Layer </acronym></a><br></td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=10016.929mil|Location2.X=10613.268mil|Location1.Y=2406.457mil|Location2.Y=2463.543mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=10016.929mil|Location2.X=10613.268mil|Location1.Y=2406.457mil|Location2.Y=2463.543mil|Absolute=True">Un-Routed Net Constraint: Net GND Between Pad C5-1(-145.045mm,-338.151mm) on Top Layer And Pad C3-1(-130.948mm,-338.151mm) on Top Layer </acronym></a><br></td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=10407.677mil|Location2.X=10613.268mil|Location1.Y=2190.551mil|Location2.Y=2463.543mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=10407.677mil|Location2.X=10613.268mil|Location1.Y=2190.551mil|Location2.Y=2463.543mil|Absolute=True">Un-Routed Net Constraint: Net GND Between Pad J6-3(-134.57mm,-343.485mm) on Multi-Layer And Pad C3-1(-130.948mm,-338.151mm) on Top Layer </acronym></a><br></td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=10646.732mil|Location2.X=10888.071mil|Location1.Y=2406.457mil|Location2.Y=2463.543mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=10646.732mil|Location2.X=10888.071mil|Location1.Y=2406.457mil|Location2.Y=2463.543mil|Absolute=True">Un-Routed Net Constraint: Net NetB1_2 Between Pad C3-2(-129.048mm,-338.151mm) on Top Layer And Pad C4-2(-123.968mm,-338.151mm) on Top Layer </acronym></a><br></td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=9506.929mil|Location2.X=10058.268mil|Location1.Y=2406.457mil|Location2.Y=2463.543mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=9506.929mil|Location2.X=10058.268mil|Location1.Y=2406.457mil|Location2.Y=2463.543mil|Absolute=True">Un-Routed Net Constraint: Net GND Between Pad C7-1(-157.999mm,-338.151mm) on Top Layer And Pad C5-1(-145.045mm,-338.151mm) on Top Layer </acronym></a><br></td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=10091.732mil|Location2.X=11867.323mil|Location1.Y=1685.551mil|Location2.Y=2463.543mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=10091.732mil|Location2.X=11867.323mil|Location1.Y=1685.551mil|Location2.Y=2463.543mil|Absolute=True">Un-Routed Net Constraint: Net NetC5_2 Between Pad C5-2(-143.145mm,-338.151mm) on Top Layer And Pad U1-21(-99.645mm,-356.312mm) on Multi-Layer </acronym></a><br></td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=9306.929mil|Location2.X=9548.268mil|Location1.Y=2406.457mil|Location2.Y=2463.543mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=9306.929mil|Location2.X=9548.268mil|Location1.Y=2406.457mil|Location2.Y=2463.543mil|Absolute=True">Un-Routed Net Constraint: Net GND Between Pad C6-1(-163.079mm,-338.151mm) on Top Layer And Pad C7-1(-157.999mm,-338.151mm) on Top Layer </acronym></a><br></td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=8946.378mil|Location2.X=9348.268mil|Location1.Y=2181.378mil|Location2.Y=2478.622mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=8946.378mil|Location2.X=9348.268mil|Location1.Y=2181.378mil|Location2.Y=2478.622mil|Absolute=True">Un-Routed Net Constraint: Net GND Between Pad MH4-1(-168.987mm,-340.818mm) on Multi-Layer And Pad C6-1(-163.079mm,-338.151mm) on Top Layer </acronym></a><br></td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=9381.732mil|Location2.X=9623.071mil|Location1.Y=2406.457mil|Location2.Y=2463.543mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=9381.732mil|Location2.X=9623.071mil|Location1.Y=2406.457mil|Location2.Y=2463.543mil|Absolute=True">Un-Routed Net Constraint: Net NetB2_1 Between Pad C6-2(-161.179mm,-338.151mm) on Top Layer And Pad C7-2(-156.099mm,-338.151mm) on Top Layer </acronym></a><br></td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=7596.732mil|Location2.X=7763.268mil|Location1.Y=2406.457mil|Location2.Y=2463.543mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=7596.732mil|Location2.X=7763.268mil|Location1.Y=2406.457mil|Location2.Y=2463.543mil|Absolute=True">Un-Routed Net Constraint: Net NetC8_1 Between Pad R9-2(-206.518mm,-338.151mm) on Top Layer And Pad C8-1(-203.338mm,-338.151mm) on Top Layer </acronym></a><br></td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=7721.929mil|Location2.X=11567.323mil|Location1.Y=1585.551mil|Location2.Y=2463.543mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=7721.929mil|Location2.X=11567.323mil|Location1.Y=1585.551mil|Location2.Y=2463.543mil|Absolute=True">Un-Routed Net Constraint: Net NetC8_1 Between Pad C8-1(-203.338mm,-338.151mm) on Top Layer And Pad U1-9(-107.265mm,-358.852mm) on Multi-Layer </acronym></a><br></td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=7141.732mil|Location2.X=7838.071mil|Location1.Y=2406.457mil|Location2.Y=2463.543mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=7141.732mil|Location2.X=7838.071mil|Location1.Y=2406.457mil|Location2.Y=2463.543mil|Absolute=True">Un-Routed Net Constraint: Net GND Between Pad C9-2(-218.075mm,-338.151mm) on Top Layer And Pad C8-2(-201.438mm,-338.151mm) on Top Layer </acronym></a><br></td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=7796.732mil|Location2.X=8198.622mil|Location1.Y=2181.378mil|Location2.Y=2478.622mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=7796.732mil|Location2.X=8198.622mil|Location1.Y=2181.378mil|Location2.Y=2478.622mil|Absolute=True">Un-Routed Net Constraint: Net GND Between Pad C8-2(-201.438mm,-338.151mm) on Top Layer And Pad MH1-1(-195.53mm,-340.818mm) on Multi-Layer </acronym></a><br></td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=7066.929mil|Location2.X=7563.268mil|Location1.Y=2406.457mil|Location2.Y=2463.543mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=7066.929mil|Location2.X=7563.268mil|Location1.Y=2406.457mil|Location2.Y=2463.543mil|Absolute=True">Un-Routed Net Constraint: Net NetC9_1 Between Pad C9-1(-219.975mm,-338.151mm) on Top Layer And Pad R9-1(-208.418mm,-338.151mm) on Top Layer </acronym></a><br></td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=13309.331mil|Location2.X=13932.323mil|Location1.Y=2263.937mil|Location2.Y=2359.449mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=13309.331mil|Location2.X=13932.323mil|Location1.Y=2263.937mil|Location2.Y=2359.449mil|Absolute=True">Un-Routed Net Constraint: Net GND Between Pad D1-N(-61.164mm,-341.717mm) on Multi-Layer And Pad J4-2(-47.194mm,-340.945mm) on Multi-Layer </acronym></a><br></td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=12347.677mil|Location2.X=13370.669mil|Location1.Y=2263.937mil|Location2.Y=2449.449mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=12347.677mil|Location2.X=13370.669mil|Location1.Y=2263.937mil|Location2.Y=2449.449mil|Absolute=True">Un-Routed Net Constraint: Net GND Between Pad J5-1(-85.294mm,-338.659mm) on Multi-Layer And Pad D1-N(-61.164mm,-341.717mm) on Multi-Layer </acronym></a><br></td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=12511.929mil|Location2.X=13370.669mil|Location1.Y=1964.724mil|Location2.Y=2463.543mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=12511.929mil|Location2.X=13370.669mil|Location1.Y=1964.724mil|Location2.Y=2463.543mil|Absolute=True">Un-Routed Net Constraint: Net NetD1_P Between Pad R6-1(-81.672mm,-338.151mm) on Top Layer And Pad D1-P(-61.164mm,-349.317mm) on Multi-Layer </acronym></a><br></td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=16358.504mil|Location2.X=16672.323mil|Location1.Y=2101.732mil|Location2.Y=2459.449mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=16358.504mil|Location2.X=16672.323mil|Location1.Y=2101.732mil|Location2.Y=2459.449mil|Absolute=True">Un-Routed Net Constraint: Net NetJ1_1 Between Pad R1-2(16.306mm,-346.091mm) on Top Layer [Unplated] And Pad J1-1(22.402mm,-338.405mm) on Multi-Layer </acronym></a><br></td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=16587.677mil|Location2.X=16672.323mil|Location1.Y=2090.551mil|Location2.Y=2359.449mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=16587.677mil|Location2.X=16672.323mil|Location1.Y=2090.551mil|Location2.Y=2359.449mil|Absolute=True">Un-Routed Net Constraint: Net GND Between Pad J1-4(22.402mm,-346.025mm) on Multi-Layer And Pad J1-2(22.402mm,-340.945mm) on Multi-Layer </acronym></a><br></td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=14618.504mil|Location2.X=16672.323mil|Location1.Y=2101.732mil|Location2.Y=2259.449mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=14618.504mil|Location2.X=16672.323mil|Location1.Y=2101.732mil|Location2.Y=2259.449mil|Absolute=True">Un-Routed Net Constraint: Net NetJ1_3 Between Pad R2-2(-27.89mm,-346.091mm) on Top Layer [Unplated] And Pad J1-3(22.402mm,-343.485mm) on Multi-Layer </acronym></a><br></td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=16587.677mil|Location2.X=16672.323mil|Location1.Y=1890.551mil|Location2.Y=2159.449mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=16587.677mil|Location2.X=16672.323mil|Location1.Y=1890.551mil|Location2.Y=2159.449mil|Absolute=True">Un-Routed Net Constraint: Net GND Between Pad J1-6(22.402mm,-351.105mm) on Multi-Layer And Pad J1-4(22.402mm,-346.025mm) on Multi-Layer </acronym></a><br></td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=15886.85mil|Location2.X=16672.323mil|Location1.Y=2090.551mil|Location2.Y=2225.315mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=15886.85mil|Location2.X=16672.323mil|Location1.Y=2090.551mil|Location2.Y=2225.315mil|Absolute=True">Un-Routed Net Constraint: Net GND Between Pad J3-1(4.876mm,-344.827mm) on Multi-Layer And Pad J1-4(22.402mm,-346.025mm) on Multi-Layer </acronym></a><br></td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=14303.504mil|Location2.X=16672.323mil|Location1.Y=1990.551mil|Location2.Y=2143.071mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=14303.504mil|Location2.X=16672.323mil|Location1.Y=1990.551mil|Location2.Y=2143.071mil|Absolute=True">Un-Routed Net Constraint: Net NetJ1_5 Between Pad R3-2(-35.891mm,-346.091mm) on Top Layer [Unplated] And Pad J1-5(22.402mm,-348.565mm) on Multi-Layer </acronym></a><br></td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=15198.878mil|Location2.X=16421.496mil|Location1.Y=2026.929mil|Location2.Y=2376.122mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=15198.878mil|Location2.X=16421.496mil|Location1.Y=2026.929mil|Location2.Y=2376.122mil|Absolute=True">Un-Routed Net Constraint: Net +5V Between Pad J2-1(-13.158mm,-340.437mm) on Multi-Layer And Pad R1-1(16.306mm,-347.991mm) on Top Layer [Unplated] </acronym></a><br></td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=15198.878mil|Location2.X=15993.15mil|Location1.Y=2119.016mil|Location2.Y=2297.382mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=15198.878mil|Location2.X=15993.15mil|Location1.Y=2119.016mil|Location2.Y=2297.382mil|Absolute=True">Un-Routed Net Constraint: Net GND Between Pad J2-4(-13.158mm,-342.437mm) on Multi-Layer And Pad J3-1(4.876mm,-344.827mm) on Multi-Layer </acronym></a><br></td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=11782.677mil|Location2.X=16190mil|Location1.Y=1985.551mil|Location2.Y=2422.165mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=11782.677mil|Location2.X=16190mil|Location1.Y=1985.551mil|Location2.Y=2422.165mil|Absolute=True">Un-Routed Net Constraint: Net A1 Between Pad U1-24(-99.645mm,-348.692mm) on Multi-Layer And Pad J3-2(9.876mm,-339.827mm) on Multi-Layer </acronym></a><br></td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=11782.677mil|Location2.X=15796.299mil|Location1.Y=2085.551mil|Location2.Y=2422.165mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=11782.677mil|Location2.X=15796.299mil|Location1.Y=2085.551mil|Location2.Y=2422.165mil|Absolute=True">Un-Routed Net Constraint: Net A2 Between Pad U1-25(-99.645mm,-346.152mm) on Multi-Layer And Pad J3-3(-0.124mm,-339.827mm) on Multi-Layer </acronym></a><br></td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=13651.929mil|Location2.X=13932.323mil|Location1.Y=2390.551mil|Location2.Y=2463.543mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=13651.929mil|Location2.X=13932.323mil|Location1.Y=2390.551mil|Location2.Y=2463.543mil|Absolute=True">Un-Routed Net Constraint: Net D2 Between Pad R4-1(-52.716mm,-338.151mm) on Top Layer And Pad J4-1(-47.194mm,-338.405mm) on Multi-Layer </acronym></a><br></td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=13847.677mil|Location2.X=13932.323mil|Location1.Y=2090.551mil|Location2.Y=2359.449mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=13847.677mil|Location2.X=13932.323mil|Location1.Y=2090.551mil|Location2.Y=2359.449mil|Absolute=True">Un-Routed Net Constraint: Net GND Between Pad J4-4(-47.194mm,-346.025mm) on Multi-Layer And Pad J4-2(-47.194mm,-340.945mm) on Multi-Layer </acronym></a><br></td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=12906.929mil|Location2.X=13932.323mil|Location1.Y=2190.551mil|Location2.Y=2463.543mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=12906.929mil|Location2.X=13932.323mil|Location1.Y=2190.551mil|Location2.Y=2463.543mil|Absolute=True">Un-Routed Net Constraint: Net D3 Between Pad R5-1(-71.639mm,-338.151mm) on Top Layer And Pad J4-3(-47.194mm,-343.485mm) on Multi-Layer </acronym></a><br></td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=13847.677mil|Location2.X=13932.323mil|Location1.Y=1890.551mil|Location2.Y=2159.449mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=13847.677mil|Location2.X=13932.323mil|Location1.Y=1890.551mil|Location2.Y=2159.449mil|Absolute=True">Un-Routed Net Constraint: Net GND Between Pad J4-6(-47.194mm,-351.105mm) on Multi-Layer And Pad J4-4(-47.194mm,-346.025mm) on Multi-Layer </acronym></a><br></td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=12711.929mil|Location2.X=13932.323mil|Location1.Y=1990.551mil|Location2.Y=2463.543mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=12711.929mil|Location2.X=13932.323mil|Location1.Y=1990.551mil|Location2.Y=2463.543mil|Absolute=True">Un-Routed Net Constraint: Net D4 Between Pad R7-1(-76.592mm,-338.151mm) on Top Layer And Pad J4-5(-47.194mm,-348.565mm) on Multi-Layer </acronym></a><br></td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=12347.677mil|Location2.X=12828.071mil|Location1.Y=2280.551mil|Location2.Y=2463.543mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=12347.677mil|Location2.X=12828.071mil|Location1.Y=2280.551mil|Location2.Y=2463.543mil|Absolute=True">Un-Routed Net Constraint: Net +5V Between Pad J5-2(-85.294mm,-341.199mm) on Multi-Layer And Pad R7-2(-74.692mm,-338.151mm) on Top Layer </acronym></a><br></td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=12026.732mil|Location2.X=12432.323mil|Location1.Y=2280.551mil|Location2.Y=2463.543mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=12026.732mil|Location2.X=12432.323mil|Location1.Y=2280.551mil|Location2.Y=2463.543mil|Absolute=True">Un-Routed Net Constraint: Net +5V Between Pad R8-2(-93.996mm,-338.151mm) on Top Layer And Pad J5-2(-85.294mm,-341.199mm) on Multi-Layer </acronym></a><br></td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=11782.677mil|Location2.X=12432.323mil|Location1.Y=2180.551mil|Location2.Y=2454.449mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=11782.677mil|Location2.X=12432.323mil|Location1.Y=2180.551mil|Location2.Y=2454.449mil|Absolute=True">Un-Routed Net Constraint: Net NetJ5_3 Between Pad U1-28(-99.645mm,-338.532mm) on Multi-Layer And Pad J5-3(-85.294mm,-343.739mm) on Multi-Layer </acronym></a><br></td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=11782.677mil|Location2.X=12432.323mil|Location1.Y=2080.551mil|Location2.Y=2354.449mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=11782.677mil|Location2.X=12432.323mil|Location1.Y=2080.551mil|Location2.Y=2354.449mil|Absolute=True">Un-Routed Net Constraint: Net NetJ5_4 Between Pad U1-27(-99.645mm,-341.072mm) on Multi-Layer And Pad J5-4(-85.294mm,-346.279mm) on Multi-Layer </acronym></a><br></td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=10407.677mil|Location2.X=11867.323mil|Location1.Y=1885.551mil|Location2.Y=2359.449mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=10407.677mil|Location2.X=11867.323mil|Location1.Y=1885.551mil|Location2.Y=2359.449mil|Absolute=True">Un-Routed Net Constraint: Net NetJ6_2 Between Pad J6-2(-134.57mm,-340.945mm) on Multi-Layer And Pad U1-23(-99.645mm,-351.232mm) on Multi-Layer </acronym></a><br></td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=7901.378mil|Location2.X=8548.622mil|Location1.Y=2181.378mil|Location2.Y=2478.622mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=7901.378mil|Location2.X=8548.622mil|Location1.Y=2181.378mil|Location2.Y=2478.622mil|Absolute=True">Un-Routed Net Constraint: Net GND Between Pad MH1-1(-195.53mm,-340.818mm) on Multi-Layer And Pad MH2-1(-186.64mm,-340.818mm) on Multi-Layer </acronym></a><br></td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=8251.378mil|Location2.X=8893.622mil|Location1.Y=2181.378mil|Location2.Y=2478.622mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=8251.378mil|Location2.X=8893.622mil|Location1.Y=2181.378mil|Location2.Y=2478.622mil|Absolute=True">Un-Routed Net Constraint: Net GND Between Pad MH2-1(-186.64mm,-340.818mm) on Multi-Layer And Pad MH3-1(-177.877mm,-340.818mm) on Multi-Layer </acronym></a><br></td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=8596.378mil|Location2.X=9243.622mil|Location1.Y=2181.378mil|Location2.Y=2478.622mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=8596.378mil|Location2.X=9243.622mil|Location1.Y=2181.378mil|Location2.Y=2478.622mil|Absolute=True">Un-Routed Net Constraint: Net GND Between Pad MH3-1(-177.877mm,-340.818mm) on Multi-Layer And Pad MH4-1(-168.987mm,-340.818mm) on Multi-Layer </acronym></a><br></td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=11482.677mil|Location2.X=14681.496mil|Location1.Y=1385.551mil|Location2.Y=2068.268mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=11482.677mil|Location2.X=14681.496mil|Location1.Y=1385.551mil|Location2.Y=2068.268mil|Absolute=True">Un-Routed Net Constraint: Net D5 Between Pad U1-11(-107.265mm,-363.932mm) on Multi-Layer And Pad R2-1(-27.89mm,-347.991mm) on Top Layer [Unplated] </acronym></a><br></td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=11482.677mil|Location2.X=14366.496mil|Location1.Y=1285.551mil|Location2.Y=2068.268mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=11482.677mil|Location2.X=14366.496mil|Location1.Y=1285.551mil|Location2.Y=2068.268mil|Absolute=True">Un-Routed Net Constraint: Net D6 Between Pad U1-12(-107.265mm,-366.472mm) on Multi-Layer And Pad R3-1(-35.891mm,-347.991mm) on Top Layer [Unplated] </acronym></a><br></td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=11482.677mil|Location2.X=13693.268mil|Location1.Y=2085.551mil|Location2.Y=2463.543mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=11482.677mil|Location2.X=13693.268mil|Location1.Y=2085.551mil|Location2.Y=2463.543mil|Absolute=True">Un-Routed Net Constraint: Net D2 Between Pad U1-4(-107.265mm,-346.152mm) on Multi-Layer And Pad R4-1(-52.716mm,-338.151mm) on Top Layer </acronym></a><br></td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=12981.732mil|Location2.X=13768.071mil|Location1.Y=2406.457mil|Location2.Y=2463.543mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=12981.732mil|Location2.X=13768.071mil|Location1.Y=2406.457mil|Location2.Y=2463.543mil|Absolute=True">Un-Routed Net Constraint: Net +5V Between Pad R5-2(-69.739mm,-338.151mm) on Top Layer And Pad R4-2(-50.816mm,-338.151mm) on Top Layer </acronym></a><br></td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=11482.677mil|Location2.X=12948.268mil|Location1.Y=1985.551mil|Location2.Y=2463.543mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=11482.677mil|Location2.X=12948.268mil|Location1.Y=1985.551mil|Location2.Y=2463.543mil|Absolute=True">Un-Routed Net Constraint: Net D3 Between Pad U1-5(-107.265mm,-348.692mm) on Multi-Layer And Pad R5-1(-71.639mm,-338.151mm) on Top Layer </acronym></a><br></td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=12786.732mil|Location2.X=13023.071mil|Location1.Y=2406.457mil|Location2.Y=2463.543mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=12786.732mil|Location2.X=13023.071mil|Location1.Y=2406.457mil|Location2.Y=2463.543mil|Absolute=True">Un-Routed Net Constraint: Net +5V Between Pad R7-2(-74.692mm,-338.151mm) on Top Layer And Pad R5-2(-69.739mm,-338.151mm) on Top Layer </acronym></a><br></td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=11782.677mil|Location2.X=12628.071mil|Location1.Y=1185.551mil|Location2.Y=2463.543mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=11782.677mil|Location2.X=12628.071mil|Location1.Y=1185.551mil|Location2.Y=2463.543mil|Absolute=True">Un-Routed Net Constraint: Net D10 Between Pad U1-16(-99.645mm,-369.012mm) on Multi-Layer And Pad R6-2(-79.772mm,-338.151mm) on Top Layer </acronym></a><br></td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=11482.677mil|Location2.X=12753.268mil|Location1.Y=1885.551mil|Location2.Y=2463.543mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=11482.677mil|Location2.X=12753.268mil|Location1.Y=1885.551mil|Location2.Y=2463.543mil|Absolute=True">Un-Routed Net Constraint: Net D4 Between Pad U1-6(-107.265mm,-351.232mm) on Multi-Layer And Pad R7-1(-76.592mm,-338.151mm) on Top Layer </acronym></a><br></td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=11482.677mil|Location2.X=11993.268mil|Location1.Y=2385.551mil|Location2.Y=2463.543mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=11482.677mil|Location2.X=11993.268mil|Location1.Y=2385.551mil|Location2.Y=2463.543mil|Absolute=True">Un-Routed Net Constraint: Net NetR8_1 Between Pad U1-1(-107.265mm,-338.532mm) on Multi-Layer And Pad R8-1(-95.896mm,-338.151mm) on Top Layer </acronym></a><br></td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=7310.709mil|Location2.X=7563.268mil|Location1.Y=1859.803mil|Location2.Y=2463.543mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=7310.709mil|Location2.X=7563.268mil|Location1.Y=1859.803mil|Location2.Y=2463.543mil|Absolute=True">Un-Routed Net Constraint: Net NetC9_1 Between Pad Y1-1(-213.183mm,-349.886mm) on Top Layer And Pad R9-1(-208.418mm,-338.151mm) on Top Layer </acronym></a><br></td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=7310.709mil|Location2.X=7638.071mil|Location1.Y=2233.819mil|Location2.Y=2463.543mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=7310.709mil|Location2.X=7638.071mil|Location1.Y=2233.819mil|Location2.Y=2463.543mil|Absolute=True">Un-Routed Net Constraint: Net NetC8_1 Between Pad Y1-2(-213.183mm,-340.386mm) on Top Layer And Pad R9-2(-206.518mm,-338.151mm) on Top Layer </acronym></a><br></td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=7310.709mil|Location2.X=11567.323mil|Location1.Y=1485.551mil|Location2.Y=2086.181mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=7310.709mil|Location2.X=11567.323mil|Location1.Y=1485.551mil|Location2.Y=2086.181mil|Absolute=True">Un-Routed Net Constraint: Net NetC9_1 Between Pad Y1-1(-213.183mm,-349.886mm) on Top Layer And Pad U1-10(-107.265mm,-361.392mm) on Multi-Layer </acronym></a><br></td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=11482.677mil|Location2.X=11867.323mil|Location1.Y=1685.551mil|Location2.Y=1854.449mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=11482.677mil|Location2.X=11867.323mil|Location1.Y=1685.551mil|Location2.Y=1854.449mil|Absolute=True">Un-Routed Net Constraint: Net GND Between Pad U1-8(-107.265mm,-356.312mm) on Multi-Layer And Pad U1-22(-99.645mm,-353.772mm) on Multi-Layer </acronym></a><br></td>
+</tr>
+</table></a><hr color="#EEEEEE"><a href="#top" style="font-size: 0.9em">Back to top</a><br><br><a name="IDOXHPV0QTSZGGL5TDQ0ETBRQEYE3L50BGW0CHIXOST30Z544RLQZP"><table>
+<tr>
+<th style="text-align : left" colspan="1" class="rule">Silk To Solder Mask (Clearance=0.127mm) (IsPad),(All)</th>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=15417.644mil|Location2.X=15423.894mil|Location1.Y=2226.198mil|Location2.Y=2232.448mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=15417.644mil|Location2.X=15423.894mil|Location1.Y=2226.198mil|Location2.Y=2232.448mil|Absolute=True">Silk To Solder Mask Clearance Constraint: (0.097mm &lt; 0.127mm) Between Pad J2-MH1(-8.388mm,-345.147mm) on Multi-Layer And Track (-8.308mm,-343.227mm)(-8.308mm,-339.427mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.097mm]</acronym></a><br></td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=14937.681mil|Location2.X=14943.931mil|Location1.Y=2226.198mil|Location2.Y=2232.448mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\lasit\Downloads\Notes\EN2160---Electronic-Design-Realization\Altium Design\MorseCodeED\MCED_pcb_1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=14937.681mil|Location2.X=14943.931mil|Location1.Y=2226.198mil|Location2.Y=2232.448mil|Absolute=True">Silk To Solder Mask Clearance Constraint: (0.097mm &lt; 0.127mm) Between Pad J2-MH2(-20.428mm,-345.147mm) on Multi-Layer And Track (-20.508mm,-343.227mm)(-20.508mm,-339.427mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.097mm]</acronym></a><br></td>
+</tr>
+</table></a><hr color="#EEEEEE"><a href="#top" style="font-size: 0.9em">Back to top</a><br><br></body>
+</html>
