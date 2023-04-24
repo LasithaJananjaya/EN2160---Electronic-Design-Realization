@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "MPZ2012S601AT000"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-05-04-05:37:44)
+    (mountForm default
+        (footprintRef "BEADC2012X105N")
+        (spec "System")
+    )
+)

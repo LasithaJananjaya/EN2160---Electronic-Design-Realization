@@ -1,0 +1,9 @@
+Manufacturer=TDK
+PartNumber=SD1209T5-A1
+PartCategory=Loudspeaker or Buzzer
+PackageCategory=Other
+PinCount=2
+Version=3.1
+Released=2018-07-20 15:10:11
+Downloaded=2023-04-22 22:36:38
+3D=Y

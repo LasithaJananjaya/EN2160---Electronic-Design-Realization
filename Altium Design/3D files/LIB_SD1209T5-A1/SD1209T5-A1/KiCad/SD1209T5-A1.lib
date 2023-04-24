@@ -1,0 +1,26 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model SD1209T5-A1
+#/784646/1120058/2.50/2/2/Loudspeaker or Buzzer
+DEF SD1209T5-A1 LS 0 30 Y Y 1 F N
+F0 "LS" 450 0 50 H V L CNN
+F1 "SD1209T5-A1" 450 -100 50 H V L CNN
+F2 "SD1209T5-A1" 450 -200 50 H I L CNN
+F3 "https://product.tdk.com/system/files/dam/doc/product/sw_piezo/sw_piezo/em-buzzer/catalog/electromagnetic_buzzer_sd_en.pdf" 450 -300 50 H I L CNN
+F4 "Electromagnetic Buzzers, Sound Pressure Level=80dB min, Freq.=2048Hz nom" 450 -400 50 H I L CNN "Description"
+F5 "" 450 -500 50 H I L CNN "Height"
+F6 "TDK" 450 -600 50 H I L CNN "Manufacturer_Name"
+F7 "SD1209T5-A1" 450 -700 50 H I L CNN "Manufacturer_Part_Number"
+F8 "810-SD1209T5-A1" 450 -800 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/TDK/SD1209T5-A1?qs=6QK9sRmt5TllZYgulSSkFw%3D%3D" 450 -900 50 H I L CNN "Mouser Price/Stock"
+F10 "SD1209T5-A1" 450 -1000 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/sd1209t5-a1/tdk?region=nac" 450 -1100 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X 2 2 0 0 200 R 50 50 0 0 P
+X   0 -100 200 R 50 50 0 0 P
+P 6 0 1 6 200 50 280 50 380 150 380 -250 280 -150 200 -150 N
+P 2 0 1 6 200 50 200 -150 N
+ENDDRAW
+ENDDEF
+#
+#End Library

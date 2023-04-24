@@ -1,0 +1,9 @@
+Manufacturer=TDK
+PartNumber=SD1614T5-B1
+PartCategory=Loudspeaker or Buzzer
+PackageCategory=Other
+PinCount=2
+Version=3.2
+Released=2021-10-18 11:11:08
+Downloaded=2023-04-22 22:34:16
+3D=Y

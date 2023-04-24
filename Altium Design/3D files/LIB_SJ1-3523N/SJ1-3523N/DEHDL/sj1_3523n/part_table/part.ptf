@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SJ1_3523N'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "CUI Devices", "SJ1-3523N" (!) = "", "SJ13523N", "Other", "490-SJ1-3523N", "https://www.mouser.co.uk/ProductDetail/CUI-Devices/SJ1-3523N?qs=WyjlAZoYn50aNl0vAhb3Tg%3D%3D", "SJ1-3523N", "https://www.arrow.com/en/products/sj1-3523n/cui-devices?region=nac", "Phone Connectors 3.5 MM AUDIO JACK", "https://componentsearchengine.com/Datasheets/1/SJ1-3523N.pdf", "5.5 mm"
+END_PART
+
+END.

@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "SJ13523N"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "SJ13523N")
+        (spec "default")
+    )
+)

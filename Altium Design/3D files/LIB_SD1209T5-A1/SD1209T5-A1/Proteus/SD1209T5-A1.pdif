@@ -1,0 +1,88 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "SD1209T5-A1"
+   (description "Electromagnetic Buzzers, Sound Pressure Level=80dB min, Freq.=2048Hz nom")
+   (family "ANA")
+   (package "SD1209T5-A1")
+   (attribute "Datasheet Link" "https://product.tdk.com/system/files/dam/doc/product/sw_piezo/sw_piezo/em-buzzer/catalog/electromagnetic_buzzer_sd_en.pdf")
+   (attribute "Manufacturer_Name" "TDK")
+   (attribute "Manufacturer_Part_Number" "SD1209T5-A1")
+   (attribute "Mouser Part Number" "810-SD1209T5-A1")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/TDK/SD1209T5-A1?qs=6QK9sRmt5TllZYgulSSkFw%3D%3D")
+   (attribute "Arrow Part Number" "SD1209T5-A1")
+   (attribute "Arrow Price/Stock" "https://www.arrow.com/en/products/sd1209t5-a1/tdk?region=nac")
+   (gate
+    (symbol "SD1209T5-A1")
+    (pin "2" 2 PS)
+    (pin ""  PS)
+   )
+  )
+  (symbol "SD1209T5-A1"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 50) (pt 280 50) (pt 380 150) (pt 380 -250) (pt 280 -150) (pt 200 -150))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 200 50) (pt 200 -150))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 210 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 210 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "SD1209T5-A1"
+   (units MM)
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (circle
+      (pt 6 0) (pt -6 0)
+     )
+    )
+   )
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (circle
+      (pt 6 0) (pt -6 0)
+     )
+    )
+   )
+   (leg 1 (pt -2.5 0) (padstack 0))
+   (leg 2 (pt 2.5 0) (padstack 0))
+   (padstack 0
+    (hole 0.91)
+    (plated true)
+    (pad (layer TCOP) (round 1.41))
+    (pad (layer INNER) (round 1.41))
+    (pad (layer BCOP) (round 1.41))
+   )
+   (model "SD1209T5-A1.stp"
+    (euler 90 0 0)
+    (offset 0 0 9)
+   )
+  )
+ )
+)

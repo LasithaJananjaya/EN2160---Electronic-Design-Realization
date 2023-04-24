@@ -1,0 +1,113 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "SD1614T5-B1"
+   (description "Electromagnetic Buzzers, Sound Pressure Level=85dB min, Freq.=2048Hz nom")
+   (family "ANA")
+   (package "SD1614T5B1")
+   (attribute "Datasheet Link" "https://componentsearchengine.com/Datasheets/1/SD1614T5-B1.pdf")
+   (attribute "Geometry.Height" "14mm")
+   (attribute "Mouser Part Number" "810-SD1614T5-B1")
+   (attribute "Mouser Price/Stock" "https://www.mouser.com/Search/Refine.aspx?Keyword=810-SD1614T5-B1")
+   (attribute "Manufacturer_Name" "TDK")
+   (attribute "Manufacturer_Part_Number" "SD1614T5-B1")
+   (gate
+    (symbol "SD1614T5-B1")
+    (pin "2" 2 PS)
+    (pin ""  PS)
+   )
+  )
+  (symbol "SD1614T5-B1"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 50) (pt 280 50) (pt 380 150) (pt 380 -250) (pt 280 -150) (pt 200 -150))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 200 50) (pt 200 -150))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 210 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 210 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "SD1614T5B1"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -6.5 9)
+      (pt 11.5 9)
+      (pt 11.5 -9)
+      (pt -6.5 -9)
+      (pt -6.5 9))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -5.5 0)
+      (arc (pt -5.500 0.000) (pt -5.500 -8.000) (pt 10.500 8.000) (start 180.0) (sweep -180.0))
+      (pt 10.5 0)
+      (arc (pt 10.500 0.000) (pt -5.500 -8.000) (pt 10.500 8.000) (start 180.0) (sweep .0))
+      (pt -5.5 0))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -6.2 0)
+      (arc (pt -6.200 0.000) (pt -6.200 -0.050) (pt -6.100 0.050) (start 180.0) (sweep 180.0))
+      (pt -6.1 0)
+      (arc (pt -6.100 0.000) (pt -6.200 -0.050) (pt -6.100 0.050) (start 180.0) (sweep .0))
+      (pt -6.2 0)
+      (arc (pt -6.200 0.000) (pt -6.200 -0.050) (pt -6.100 0.050) (start 180.0) (sweep 180.0))
+      (pt -6.1 0))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -5.5 0)
+      (arc (pt -5.500 0.000) (pt -5.500 -8.000) (pt 10.500 8.000) (start 180.0) (sweep -180.0))
+      (pt 10.5 0)
+      (arc (pt 10.500 0.000) (pt -5.500 -8.000) (pt 10.500 8.000) (start 180.0) (sweep .0))
+      (pt -5.5 0))))
+   (leg 1 (pt 0.000 0.000) (padstack 0))
+   (leg 2 (pt 5.000 0.000) (padstack 0))
+   (padstack 0
+    (hole 0.91)
+    (plated true)
+    (pad (layer TCOP) (round 1.416))
+    (pad (layer INNER) (round 1.416))
+    (pad (layer BCOP) (round 1.416))
+   )
+   (model "SD1614T5-B1.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

@@ -1,0 +1,18 @@
+.SD1209T5-A1 :1 ;Electromagnetic Buzzers, Sound Pressure Level=80dB min, Freq.=2048Hz nom
+SD1209T5-A1
+*STM LS
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN SD1209T5-A1
+~!Manufacturer_Name (TDK)
+~!Manufacturer_Part_Number (SD1209T5-A1)
+~!Mouser Part Number (810-SD1209T5-A1)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/TDK/SD1209T5-A1?qs=6QK9sRmt5TllZYgulSSkFw%3D%3D)
+~!Arrow Part Number (SD1209T5-A1)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/sd1209t5-a1/tdk?region=nac)
+~!Link Datasheet (https://product.tdk.com/system/files/dam/doc/product/sw_piezo/sw_piezo/em-buzzer/catalog/electromagnetic_buzzer_sd_en.pdf)
+~!Height (-)
+~!3D_Model (SD1209T5-A1)
+SD1209T5-A1
+1.1!U 2.1!U 

@@ -1,0 +1,81 @@
+SamacSys ECAD Model
+784646/1120058/2.50/2/2/Loudspeaker or Buzzer
+
+DESIGNSPARK_INTERMEDIATE_ASCII
+
+(asciiHeader
+	(fileUnits MM)
+)
+(library Library_1
+	(padStyleDef "c141_h91"
+		(holeDiam 0.91)
+		(padShape (layerNumRef 1) (padShapeType Ellipse)  (shapeWidth 1.41) (shapeHeight 1.41))
+		(padShape (layerNumRef 16) (padShapeType Ellipse)  (shapeWidth 1.41) (shapeHeight 1.41))
+	)
+	(textStyleDef "Default"
+		(font
+			(fontType Stroke)
+			(fontFace "Helvetica")
+			(fontHeight 50 mils)
+			(strokeWidth 5 mils)
+		)
+	)
+	(patternDef "SD1209T5-A1" (originalName "SD1209T5-A1")
+		(multiLayer
+			(pad (padNum 1) (padStyleRef c141_h91) (pt -2.5, 0) (rotation 90))
+			(pad (padNum 2) (padStyleRef c141_h91) (pt 2.5, 0) (rotation 90))
+		)
+		(layerContents (layerNumRef 18)
+			(attr "RefDes" "RefDes" (pt -0.343, 0.064) (textStyleRef "Default") (isVisible True))
+		)
+		(layerContents (layerNumRef 18)
+			(arc (pt 0, 0) (radius 6) (startAngle 0.0) (sweepAngle 0.0) (width 0.1))
+		)
+		(layerContents (layerNumRef 18)
+			(arc (pt 0, 0) (radius 6) (startAngle 180.0) (sweepAngle 180.0) (width 0.1))
+		)
+		(layerContents (layerNumRef 18)
+			(arc (pt 0, 0) (radius 6) (startAngle 0.0) (sweepAngle 0.0) (width 0.1))
+		)
+		(layerContents (layerNumRef 18)
+			(arc (pt 0, 0) (radius 6) (startAngle 180.0) (sweepAngle 180.0) (width 0.1))
+		)
+	)
+	(symbolDef "SD1209T5-A1" (originalName "SD1209T5-A1")
+
+		(pin (pinNum 1) (pt 0 mils 0 mils) (rotation 0) (pinLength 200 mils) (pinDisplay (dispPinName true)) (pinName (text (pt 210 mils -25 mils) (rotation 0]) (justify "Left") (textStyleRef "Default"))
+		))
+		(pin (pinNum 2) (pt 0 mils -100 mils) (rotation 0) (pinLength 200 mils) (pinDisplay (dispPinName true)) (pinName (text (pt 210 mils -125 mils) (rotation 0]) (justify "Left") (textStyleRef "Default"))
+		))
+		(line (pt 200 mils 50 mils) (pt 280 mils 50 mils) (width 6 mils))
+		(line (pt 280 mils 50 mils) (pt 380 mils 150 mils) (width 6 mils))
+		(line (pt 380 mils 150 mils) (pt 380 mils -250 mils) (width 6 mils))
+		(line (pt 380 mils -250 mils) (pt 280 mils -150 mils) (width 6 mils))
+		(line (pt 280 mils -150 mils) (pt 200 mils -150 mils) (width 6 mils))
+		(line (pt 200 mils 50 mils) (pt 200 mils -150 mils) (width 6 mils))
+		(attr "RefDes" "RefDes" (pt 450 mils 0 mils) (justify Left) (isVisible True) (textStyleRef "Default"))
+
+	)
+	(compDef "SD1209T5-A1" (originalName "SD1209T5-A1") (compHeader (numPins 2) (numParts 1) (refDesPrefix LS)
+		)
+		(compPin "1" (pinName "1") (partNum 1) (symPinNum 1) (gateEq 0) (pinEq 0) (pinType Bidirectional))
+		(compPin "2" (pinName "2") (partNum 1) (symPinNum 2) (gateEq 0) (pinEq 0) (pinType Bidirectional))
+		(attachedSymbol (partNum 1) (altType Normal) (symbolName "SD1209T5-A1"))
+		(attachedPattern (patternNum 1) (patternName "SD1209T5-A1")
+			(numPads 2)
+			(padPinMap
+				(padNum 1) (compPinRef "1")
+				(padNum 2) (compPinRef "2")
+			)
+		)
+		(attr "Manufacturer_Name" "TDK")
+		(attr "Manufacturer_Part_Number" "SD1209T5-A1")
+		(attr "Mouser Part Number" "810-SD1209T5-A1")
+		(attr "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/TDK/SD1209T5-A1?qs=6QK9sRmt5TllZYgulSSkFw%3D%3D")
+		(attr "Arrow Part Number" "SD1209T5-A1")
+		(attr "Arrow Price/Stock" "https://www.arrow.com/en/products/sd1209t5-a1/tdk?region=nac")
+		(attr "Description" "Electromagnetic Buzzers, Sound Pressure Level=80dB min, Freq.=2048Hz nom")
+		(attr "Datasheet Link" "https://product.tdk.com/system/files/dam/doc/product/sw_piezo/sw_piezo/em-buzzer/catalog/electromagnetic_buzzer_sd_en.pdf")
+	)
+
+)

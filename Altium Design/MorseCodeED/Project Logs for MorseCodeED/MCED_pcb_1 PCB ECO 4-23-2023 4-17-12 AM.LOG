@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=D1 Old Footprint=XDCR_KXG1201C New Footprint=Buzzer
+Added Member To Class: ClassName=MCED_schematic Member=Component C3 10 uF
+Added Member To Class: ClassName=MCED_schematic Member=Component J6 POT - 3 Pin Header
+Added Member To Class: ClassName=MCED_schematic Member=Component MH4 MH
+Added Member To Class: ClassName=MCED_schematic Member=Component R1 330ohm

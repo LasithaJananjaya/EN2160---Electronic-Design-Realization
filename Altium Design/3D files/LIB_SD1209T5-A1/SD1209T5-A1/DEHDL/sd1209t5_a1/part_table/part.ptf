@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SD1209T5_A1'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "TDK", "SD1209T5-A1" (!) = "", "SD1209T5-A1", "Other", "810-SD1209T5-A1", "https://www.mouser.co.uk/ProductDetail/TDK/SD1209T5-A1?qs=6QK9sRmt5TllZYgulSSkFw%3D%3D", "SD1209T5-A1", "https://www.arrow.com/en/products/sd1209t5-a1/tdk?region=nac", "Electromagnetic Buzzers, Sound Pressure Level=80dB min, Freq.=2048Hz nom", "https://product.tdk.com/system/files/dam/doc/product/sw_piezo/sw_piezo/em-buzzer/catalog/electromagnetic_buzzer_sd_en.pdf"
+END_PART
+
+END.

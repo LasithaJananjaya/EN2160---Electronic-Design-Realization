@@ -1,0 +1,18 @@
+.CRCW0805330RFKEAC :1 ;Thick Film Resistors - SMD 1/8Watt 330ohms 1% Commercial Use
+RESC2012X60N
+*STM R
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN CRCW0805330RFKEAC
+~!Manufacturer_Name (Vishay)
+~!Manufacturer_Part_Number (CRCW0805330RFKEAC)
+~!Mouser Part Number (71-CRCW0805330RFKEAC)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Vishay-Dale/CRCW0805330RFKEAC?qs=E3Y5ESvWgWP1MWN1ZM0eVg%3D%3D)
+~!Arrow Part Number (CRCW0805330RFKEAC)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/crcw0805330rfkeac/vishay?region=nac)
+~!Link Datasheet (https://mouser.componentsearchengine.com/Datasheets/1/CRCW0805330RFKEAC.pdf)
+~!Height (0.6mm)
+~!3D_Model (CRCW0805330RFKEAC)
+CRCW0805330RFKEAC
+1.1!U 2.1!U 

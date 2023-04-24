@@ -1,0 +1,16 @@
+.SD1614T5-B1 :1 ;Electromagnetic Buzzers, Sound Pressure Level=85dB min, Freq.=2048Hz nom
+SD1614T5B1
+*STM LS
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN SD1614T5-B1
+~!Mouser Part Number (810-SD1614T5-B1)
+~!Link Mouser Price/Stock (https://www.mouser.com/Search/Refine.aspx?Keyword=810-SD1614T5-B1)
+~!Manufacturer_Name (TDK)
+~!Manufacturer_Part_Number (SD1614T5-B1)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/1/SD1614T5-B1.pdf)
+~!Height (14mm)
+~!3D_Model (SD1614T5-B1)
+SD1614T5-B1
+1.1!U 2.1!U 

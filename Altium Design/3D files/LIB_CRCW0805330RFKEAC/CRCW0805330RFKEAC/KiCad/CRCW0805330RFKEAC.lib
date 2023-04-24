@@ -1,0 +1,25 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model CRCW0805330RFKEAC
+#/1101409/1120058/2.50/2/3/Resistor
+DEF CRCW0805330RFKEAC R 0 30 Y Y 1 F N
+F0 "R" 550 250 50 H V L CNN
+F1 "CRCW0805330RFKEAC" 550 150 50 H V L CNN
+F2 "RESC2012X60N" 550 50 50 H I L CNN
+F3 "https://mouser.componentsearchengine.com/Datasheets/1/CRCW0805330RFKEAC.pdf" 550 -50 50 H I L CNN
+F4 "Thick Film Resistors - SMD 1/8Watt 330ohms 1% Commercial Use" 550 -150 50 H I L CNN "Description"
+F5 "0.6" 550 -250 50 H I L CNN "Height"
+F6 "Vishay" 550 -350 50 H I L CNN "Manufacturer_Name"
+F7 "CRCW0805330RFKEAC" 550 -450 50 H I L CNN "Manufacturer_Part_Number"
+F8 "71-CRCW0805330RFKEAC" 550 -550 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Vishay-Dale/CRCW0805330RFKEAC?qs=E3Y5ESvWgWP1MWN1ZM0eVg%3D%3D" 550 -650 50 H I L CNN "Mouser Price/Stock"
+F10 "CRCW0805330RFKEAC" 550 -750 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/crcw0805330rfkeac/vishay?region=nac" 550 -850 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X ~ 1 0 0 200 R 50 50 0 0 P
+X ~ 2 700 0 200 L 50 50 0 0 P
+P 5 0 1 6 200 50 500 50 500 -50 200 -50 200 50 N
+ENDDRAW
+ENDDEF
+#
+#End Library

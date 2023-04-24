@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '61729_1011BLF'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Amphenol Communications Solutions", "61729-1011BLF" (!) = "", "617291011BLF", "Other", "649-61729-1011BLF", "https://www.mouser.co.uk/ProductDetail/Amphenol-FCI/61729-1011BLF?qs=zxzm42eeoPNCjU%2FpHflioA%3D%3D", "USB-B (USB TYPE-B) USB 2.0 Receptacle Connector 4 Position Through Hole, Right Angle", "https://www.amphenol-cs.com/media/wysiwyg/files/drawing/61729.pdf", "11.5 mm"
+END_PART
+
+END.

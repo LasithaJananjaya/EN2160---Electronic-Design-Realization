@@ -1,0 +1,17 @@
+.61729-1011BLF :1 ;USB-B (USB TYPE-B) USB 2.0 Receptacle Connector 4 Position Through Hole, Right Angle
+"617291011BLF"
+*STM J
+*NGS
+*PNM 1=1 2=2 3=3 4=4 5=MH1 6=MH2
+*PLB 1="1" 2="2" 3="3" 4="4" 5="MH1" 6="MH2"
+*MXP 6
+*DFN 61729-1011BLF
+~!Mouser Part Number (649-61729-1011BLF)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Amphenol-FCI/61729-1011BLF?qs=zxzm42eeoPNCjU%2FpHflioA%3D%3D)
+~!Manufacturer_Name (Amphenol Communications Solutions)
+~!Manufacturer_Part_Number (61729-1011BLF)
+~!Link Datasheet (https://www.amphenol-cs.com/media/wysiwyg/files/drawing/61729.pdf)
+~!Height (11.5mm)
+~!3D_Model (61729-1011BLF)
+"61729-1011BLF"
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 

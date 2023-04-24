@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "SD1614T5B1"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "SD1614T5B1")
+        (spec "default")
+    )
+)

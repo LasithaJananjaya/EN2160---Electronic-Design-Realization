@@ -1,0 +1,9 @@
+Manufacturer=Amphenol Communications Solutions
+PartNumber=61729-1011BLF
+PartCategory=Connector
+PackageCategory=Other
+PinCount=6
+Version=8.1
+Released=2018-11-26 12:02:08
+Downloaded=2023-04-22 19:52:16
+3D=Y

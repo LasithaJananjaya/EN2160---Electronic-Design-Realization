@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SD1614T5-B1
+D Electromagnetic Buzzers, Sound Pressure Level=85dB min, Freq.=2048Hz nom
+K
+F https://componentsearchengine.com/Datasheets/1/SD1614T5-B1.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,31 @@
+Change Component Designator: OldDesignator=B? NewDesignator=FB?
+Change Component Designator: OldDesignator=B? NewDesignator=FB?
+Change Net Name : Old Net Name=NetB?_1 New Net Name=NetC?_2
+Change Net Name : Old Net Name=NetB?_2 New Net Name=NetC?_2
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetJ?_3" already exists
+Added Member To Class: ClassName=MCED_schematic Member=Component C? 10 uF
+Added Member To Class: ClassName=MCED_schematic Member=Component C? 22pF
+Added Member To Class: ClassName=MCED_schematic Member=Component C? 22pF
+Added Member To Class: ClassName=MCED_schematic Member=Component C? 22pF
+Added Member To Class: ClassName=MCED_schematic Member=Component C? 100 nF
+Added Member To Class: ClassName=MCED_schematic Member=Component C? 22pF
+Added Member To Class: ClassName=MCED_schematic Member=Component C? 10 uF
+Added Member To Class: ClassName=MCED_schematic Member=Component C? 10 uF
+Added Member To Class: ClassName=MCED_schematic Member=Component FB? Ferrite Bead
+Added Member To Class: ClassName=MCED_schematic Member=Component J? 3.5 mm Audio Jack
+Added Member To Class: ClassName=MCED_schematic Member=Component J? POT - 3 Pin Header
+Added Member To Class: ClassName=MCED_schematic Member=Component J? USB connector
+Added Member To Class: ClassName=MCED_schematic Member=Component J? 4 Pin Header, 1 Row, Female, 2.54mm Pitch
+Added Member To Class: ClassName=MCED_schematic Member=Component J? PB - 6 Pin Header
+Added Member To Class: ClassName=MCED_schematic Member=Component MH? MH
+Added Member To Class: ClassName=MCED_schematic Member=Component MH? MH
+Added Member To Class: ClassName=MCED_schematic Member=Component MH? MH
+Added Member To Class: ClassName=MCED_schematic Member=Component R? 330ohm
+Added Member To Class: ClassName=MCED_schematic Member=Component R? 330ohm
+Added Member To Class: ClassName=MCED_schematic Member=Component R? 10 kOhm
+Added Member To Class: ClassName=MCED_schematic Member=Component R? 10 kOhm
+Added Member To Class: ClassName=MCED_schematic Member=Component R? 10 kOhm
+Added Member To Class: ClassName=MCED_schematic Member=Component R? 10 kOhm
+Added Member To Class: ClassName=MCED_schematic Member=Component R? 330ohm
+Added Member To Class: ClassName=MCED_schematic Member=Component R? 10 kOhm

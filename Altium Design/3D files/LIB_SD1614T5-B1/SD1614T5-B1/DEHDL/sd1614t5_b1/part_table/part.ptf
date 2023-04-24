@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SD1614T5_B1'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "TDK", "SD1614T5-B1" (!) = "", "SD1614T5B1", "Other", "810-SD1614T5-B1", "https://www.mouser.com/Search/Refine.aspx?Keyword=810-SD1614T5-B1", "Electromagnetic Buzzers, Sound Pressure Level=85dB min, Freq.=2048Hz nom", "https://componentsearchengine.com/Datasheets/1/SD1614T5-B1.pdf", "14 mm"
+END_PART
+
+END.

@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "BEADC2012X105N"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "BEADC2012X105N")
+        (spec "default")
+    )
+)

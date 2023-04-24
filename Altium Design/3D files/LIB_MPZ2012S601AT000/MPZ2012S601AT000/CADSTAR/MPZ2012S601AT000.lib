@@ -1,0 +1,18 @@
+.MPZ2012S601AT000 :1 ;Ferrite Beads 600ohms 2A 100mOhms 0805 Ferrite Chip
+BEADC2012X105N
+*STM FB
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN MPZ2012S601AT000
+~!Manufacturer_Name (TDK)
+~!Manufacturer_Part_Number (MPZ2012S601AT000)
+~!Mouser Part Number (810-MPZ2012S601AT000)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/TDK/MPZ2012S601AT000?qs=8Kz9Wu9QwqXtNFDW9LJXAQ%3D%3D)
+~!Arrow Part Number (MPZ2012S601AT000)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/mpz2012s601at000/tdk?region=nac)
+~!Link Datasheet (https://product.tdk.com/system/files/dam/doc/product/emc/emc/beads/catalog/beads_commercial_power_mpz2012_en.pdf)
+~!Height (1.05mm)
+~!3D_Model (MPZ2012S601AT000)
+MPZ2012S601AT000
+1.1!U 2.1!U 

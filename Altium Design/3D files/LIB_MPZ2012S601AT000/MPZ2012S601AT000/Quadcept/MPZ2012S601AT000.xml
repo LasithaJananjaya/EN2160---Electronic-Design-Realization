@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--/831328/1120058/2.50/2/2/Ferrite Bead/-->
+<quadcept_library>
+  <setting unit="mil" />
+  <textstyle name="Default" height="47.244094488189" strokewidth="7.8740157480315" charwidth="47.244094488189" />
+  <textstyle name="Dimension" height="19.6850393700787" strokewidth="0" charwidth="19.6850393700787" />
+  <textstyle name="H127W0635TH00762" height="50" strokewidth="3" charwidth="25" />
+  <textstyle name="H15W15TH02" height="59.0551181102362" strokewidth="7.8740157480315" charwidth="59.0551181102362" />
+  <padstyle name="r145_120" surface="True" plated="False" isvia="False" nopaste="False" nomask="True" complex="False" holesize="0">
+    <padshape layer="TOP" shape="rectangle" width="47.244094488188" height="57.086614173228" />
+    <padshape layer="TOP_SOLDER_MASK" shape="rectangle" width="55.11811023622" height="64.960629921259" />
+    <padshape layer="TOP_SOLDER_PASTE" shape="rectangle" width="47.244094488188" height="57.086614173228" />
+  </padstyle>
+  <footprint name="BEADC2012X105N" originx="0" originy="0" pickpointx="0" pickpointy="0">
+    <pcbpin number="1" name="1" style="r145_120" originx="-33.464566929133" originy="0" rotation="0" />
+    <pcbpin number="2" name="2" style="r145_120" originx="33.464566929133" originy="0" rotation="0" />
+    <line layer="TOP_PLACE_BOUND" originx="-66.929133858267" originy="39.370078740157" endx="66.929133858267" endy="39.370078740157" width="1.9685039370079" />
+    <line layer="TOP_PLACE_BOUND" originx="66.929133858267" originy="39.370078740157" endx="66.929133858267" endy="-39.370078740157" width="1.9685039370079" />
+    <line layer="TOP_PLACE_BOUND" originx="66.929133858267" originy="-39.370078740157" endx="-66.929133858267" endy="-39.370078740157" width="1.9685039370079" />
+    <line layer="TOP_PLACE_BOUND" originx="-66.929133858267" originy="-39.370078740157" endx="-66.929133858267" endy="39.370078740157" width="1.9685039370079" />
+    <line layer="TOP_ASSEMBLY" originx="-39.370078740157" originy="24.606299212598" endx="39.370078740157" endy="24.606299212598" width="3.9370078740157" />
+    <line layer="TOP_ASSEMBLY" originx="39.370078740157" originy="24.606299212598" endx="39.370078740157" endy="-24.606299212598" width="3.9370078740157" />
+    <line layer="TOP_ASSEMBLY" originx="39.370078740157" originy="-24.606299212598" endx="-39.370078740157" endy="-24.606299212598" width="3.9370078740157" />
+    <line layer="TOP_ASSEMBLY" originx="-39.370078740157" originy="-24.606299212598" endx="-39.370078740157" endy="24.606299212598" width="3.9370078740157" />
+    <line layer="TOP_SILKSCREEN" originx="0" originy="20.669291338582" endx="0" endy="-20.669291338582" width="7.8740157480314" />
+  </footprint>
+  <symbol name="MPZ2012S601AT000" originx="0" originy="0">
+    <line originx="200" originy="100" endx="600" endy="100" width="0" />
+    <line originx="600" originy="-200" endx="600" endy="100" width="0" />
+    <line originx="600" originy="-200" endx="200" endy="-200" width="0" />
+    <line originx="200" originy="100" endx="200" endy="-200" width="0" />
+    <sympin number="1" originx="200" originy="0" rotation="180" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="230" originy="0" style="Default" rotation="0" justify="left" flipped="False" hidden="False" data="1" />
+      <text name="pindes" originx="140" originy="20" style="Default" rotation="0" justify="lowerright" flipped="False" hidden="False" data="1" />
+    </sympin>
+    <sympin number="2" originx="200" originy="-100" rotation="180" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="230" originy="-100" style="Default" rotation="0" justify="left" flipped="False" hidden="False" data="2" />
+      <text name="pindes" originx="140" originy="-80" style="Default" rotation="0" justify="lowerright" flipped="False" hidden="False" data="2" />
+    </sympin>
+  </symbol>
+  <component name="MPZ2012S601AT000" designatorprefix="FB" height="41.338582677165" footprint="BEADC2012X105N">
+    <comppin designator="1" sympin="1" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="1" />
+    <comppin designator="2" sympin="2" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="2" />
+    <attached_symbol gate="1" name="MPZ2012S601AT000" />
+    <pinmap designator="1" footprintpin="1" />
+    <pinmap designator="2" footprintpin="2" />
+    <text name="Datasheet" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="https://product.tdk.com/system/files/dam/doc/product/emc/emc/beads/catalog/beads_commercial_power_mpz2012_en.pdf" />
+    <text name="Description" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="Ferrite Beads 600ohms 2A 100mOhms 0805 Ferrite Chip" />
+    <text name="Manufacturer_Name" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="TDK" />
+    <text name="Manufacturer_Part_Number" originx="650" originy="200" style="Default" rotation="0" justify="left" flipped="False" hidden="False" data="MPZ2012S601AT000" />
+    <text name="Mouser Part Number" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="810-MPZ2012S601AT000" />
+    <text name="Mouser Price/Stock" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="https://www.mouser.co.uk/ProductDetail/TDK/MPZ2012S601AT000?qs=8Kz9Wu9QwqXtNFDW9LJXAQ%3D%3D" />
+    <text name="Arrow Part Number" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="MPZ2012S601AT000" />
+    <text name="Arrow Price/Stock" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="https://www.arrow.com/en/products/mpz2012s601at000/tdk?region=nac" />
+  </component>
+</quadcept_library>

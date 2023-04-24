@@ -1,0 +1,9 @@
+Manufacturer=TDK
+PartNumber=MPZ2012S601AT000
+PartCategory=Ferrite Bead
+PackageCategory=Ferrite Bead Chip
+PinCount=2
+Version=5.1
+Released=2018-12-28 14:00:33
+Downloaded=2023-04-22 20:29:25
+3D=Y

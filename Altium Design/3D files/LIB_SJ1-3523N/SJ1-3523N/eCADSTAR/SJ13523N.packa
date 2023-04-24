@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "SJ1-3523N"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-04-06-09:16:24)
+    (mountForm default
+        (footprintRef "SJ13523N")
+        (spec "System")
+    )
+)

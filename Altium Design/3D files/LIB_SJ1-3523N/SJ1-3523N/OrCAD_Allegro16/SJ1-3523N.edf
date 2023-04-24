@@ -1,0 +1,130 @@
+
+(EDIF
+  (rename &SJ1_3523N "SJ1_3523N")
+  (EDIFVersion 2 0 0)
+  (EDIFLevel 0)
+  (keywordMap (keywordLevel 0))
+  (status
+    (written
+      (timestamp 2023 04 22 19 23 38)
+      (dataOrigin "11527621/1120058/2.50/5/4/Connector")
+      (program "SamacSys ECAD Model SJ1_3523N"
+        (version "1.2"))))
+  (library
+  (rename &SJ1_3523N "SJ1_3523N")
+    (EDIFLevel 0)
+    (technology
+      (numberDefinition (scale 1 (e 254 -6) (unit DISTANCE)))
+      (userData GRIDRESOLUTION (integer 50 50))
+      (figureGroup DEFAULT (pathWidth 10) (textHeight 100))
+      (figureGroup PROPERTY (pathWidth 10) (textHeight 90))
+      (figureGroup PINNUMBER (pathWidth 10) (textHeight 90))
+      (figureGroup PINNAME (pathWidth 10) (textHeight 90))
+      (figureGroup COMMENT (pathWidth 10) (textHeight 90))
+      (figureGroup PIN (pathWidth 10) (textHeight 90))
+      (figureGroup GRAPHIC (pathWidth 10) (textHeight 100))
+    )
+    (cell
+      (rename &SJ1_3523N "SJ1_3523N")
+      (cellType GENERIC)
+      (view
+        (rename NORMAL "Normal")
+        (viewType SCHEMATIC)
+        (interface
+          (designator "J")
+          (property (rename PACKAGENAME "PackageName") (string "SJ1_3523N"))
+          (property (rename ISHETEROGENEOUS "IsHeterogeneous") (string "False"))
+          (property (rename DEVICESINVIEW "DevicesInView") (string "1"))
+          (property (rename DEVICESINPACKAGE "DevicesInPackage") (string "1"))
+          (property (rename DEVICEDESIGNATOR "DeviceDesignator") (string "A"))
+          (property (rename DEVICENUMBERING "DeviceNumbering") (string "Alpha"))
+          (property (rename PCB_32_FOOTPRINT "PCB Footprint") (string "SJ13523N"))
+          (property (rename &Manufacturer_Name "Manufacturer_Name") (string "CUI Devices"))
+          (property (rename &Manufacturer_Part_Number "Manufacturer_Part_Number") (string "SJ1-3523N"))
+          (property (rename &Mouser_Part_Number "Mouser Part Number") (string "490-SJ1-3523N"))
+          (property (rename &Mouser_Price_Stock "Mouser Price/Stock") (string "https://www.mouser.co.uk/ProductDetail/CUI-Devices/SJ1-3523N?qs=WyjlAZoYn50aNl0vAhb3Tg%3D%3D"))
+          (property (rename &Arrow_Part_Number "Arrow Part Number") (string "SJ1-3523N"))
+          (property (rename &Arrow_Price_Stock "Arrow Price/Stock") (string "https://www.arrow.com/en/products/sj1-3523n/cui-devices?region=nac"))
+          (property (rename &Description "Description") (string "Phone Connectors 3.5 MM AUDIO JACK"))
+          (property (rename &Datasheet_Link "Datasheet Link") (string "https://componentsearchengine.com/Datasheets/1/SJ1-3523N.pdf"))
+          (property (rename &Height "Height") (string "5.5 mm"))
+          (property (rename &_60__32_VALUE_32__62_ "Value") (string "SJ1_3523N"))
+          (property (rename VALUE "Value") (string "Value"))
+          (property (rename &NC "NC") (string "MH1,MH2,MH3,MH4,MH5"))
+          (port
+            (rename &SLEEVE "SLEEVE")
+            (designator "1")
+            (property (rename ORDER "Order") (string "0") (owner "OrCAD"))
+          )
+          (port
+            (rename &TIP "TIP")
+            (designator "2")
+            (property (rename ORDER "Order") (string "1") (owner "OrCAD"))
+          )
+          (port
+            (rename &RING "RING")
+            (designator "3")
+            (property (rename ORDER "Order") (string "2") (owner "OrCAD"))
+          )
+          (port
+            (rename &NO_PIN "NO_PIN")
+            (designator "10")
+            (property (rename ORDER "Order") (string "3") (owner "OrCAD"))
+          )
+          (port
+            (rename &NO_PIN_ "NO_PIN_")
+            (designator "11")
+            (property (rename ORDER "Order") (string "4") (owner "OrCAD"))
+          )
+          (symbol
+            (portImplementation
+              (name &SLEEVE (display PINNAME))
+              (keywordDisplay DESIGNATOR (display PINNUMBER))
+              (figure PIN (path (pointList (pt -200 -100) (pt 0 -100))))
+              (connectLocation (figure GRAPHIC (dot (pt -200 -100))))
+            )
+            (portImplementation
+              (name &TIP (display PINNAME))
+              (keywordDisplay DESIGNATOR (display PINNUMBER))
+              (figure PIN (path (pointList (pt 1000 -400) (pt 1200 -400))))
+              (connectLocation (figure GRAPHIC (dot (pt 1200 -400))))
+            )
+            (portImplementation
+              (name &RING (display PINNAME))
+              (keywordDisplay DESIGNATOR (display PINNUMBER))
+              (figure PIN (path (pointList (pt 1000 -100) (pt 1200 -100))))
+              (connectLocation (figure GRAPHIC (dot (pt 1200 -100))))
+            )
+            (portImplementation
+              (name &NO_PIN (display PINNAME))
+              (keywordDisplay DESIGNATOR (display PINNUMBER))
+              (figure PIN (path (pointList (pt 1000 -300) (pt 1200 -300))))
+              (connectLocation (figure GRAPHIC (dot (pt 1200 -300))))
+            )
+            (portImplementation
+              (name &NO_PIN_ (display PINNAME))
+              (keywordDisplay DESIGNATOR (display PINNUMBER))
+              (figure PIN (path (pointList (pt 1000 -200) (pt 1200 -200))))
+              (connectLocation (figure GRAPHIC (dot (pt 1200 -200))))
+            )
+            (figure GRAPHIC
+              (figureGroupOverride GRAPHIC
+                (pathWidth 10))
+              (path
+                (pointList
+                  (pt 0 0)
+                  (pt 1000 0)
+                  (pt 1000 -500)
+                  (pt 0 -500)
+                  (pt 0 0)
+                )
+              )
+            )
+            (keywordDisplay DESIGNATOR (display PROPERTY (justify LOWERLEFT) (orientation R0) (origin (pt 1050 130))))
+            (propertyDisplay &_60__32_VALUE_32__62_ (display PROPERTY (justify LOWERLEFT) (orientation R0) (origin (pt 1050 30))))
+          )
+        )
+      )
+    )
+  )
+)

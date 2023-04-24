@@ -1,0 +1,18 @@
+.SJ1-3523N :1 ;Phone Connectors 3.5 MM AUDIO JACK
+SJ13523N
+*STM J
+*NGS
+*PLB 1="SLEEVE" 2="TIP" 3="RING" 10="NO PIN" 11="NO PIN "
+*MXP 10
+*DFN SJ1-3523N
+~!Manufacturer_Name (CUI Devices)
+~!Manufacturer_Part_Number (SJ1-3523N)
+~!Mouser Part Number (490-SJ1-3523N)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/CUI-Devices/SJ1-3523N?qs=WyjlAZoYn50aNl0vAhb3Tg%3D%3D)
+~!Arrow Part Number (SJ1-3523N)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/sj1-3523n/cui-devices?region=nac)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/1/SJ1-3523N.pdf)
+~!Height (5.5mm)
+~!3D_Model (SJ1-3523N)
+SJ1-3523N
+1.1!U 2.1!U 3.1!U 10.1!U 11.1!U 

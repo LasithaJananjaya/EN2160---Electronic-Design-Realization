@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SD1209T5-A1
+D Electromagnetic Buzzers, Sound Pressure Level=80dB min, Freq.=2048Hz nom
+K
+F https://product.tdk.com/system/files/dam/doc/product/sw_piezo/sw_piezo/em-buzzer/catalog/electromagnetic_buzzer_sd_en.pdf
+$ENDCMP
+#
+#End Doc Library

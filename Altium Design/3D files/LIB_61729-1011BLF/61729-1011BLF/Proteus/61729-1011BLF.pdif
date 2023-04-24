@@ -1,0 +1,160 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "61729-1011BLF"
+   (description "USB-B (USB TYPE-B) USB 2.0 Receptacle Connector 4 Position Through Hole, Right Angle")
+   (family "CON")
+   (package "617291011BLF")
+   (attribute "Datasheet Link" "https://www.amphenol-cs.com/media/wysiwyg/files/drawing/61729.pdf")
+   (attribute "Geometry.Height" "11.5mm")
+   (attribute "Mouser Part Number" "649-61729-1011BLF")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Amphenol-FCI/61729-1011BLF?qs=zxzm42eeoPNCjU%2FpHflioA%3D%3D")
+   (attribute "Manufacturer_Name" "Amphenol Communications Solutions")
+   (attribute "Manufacturer_Part_Number" "61729-1011BLF")
+   (gate
+    (symbol "61729-1011BLF")
+    (pin "1" 1 PS)
+    (pin "2" 2 PS)
+    (pin "3" 3 PS)
+    (pin "4" 4 PS)
+    (pin "MH1" MH1 PS)
+    (pin "MH2" MH2 PS)
+   )
+  )
+  (symbol "61729-1011BLF"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 700 100) (pt 700 -300) (pt 200 -300) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 900 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 900 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 900 -200) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "617291011BLF"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -7.35 1.01)
+      (pt 4.85 1.01)
+      (pt 4.85 -14.99)
+      (pt -7.35 -14.99)
+      (pt -7.35 1.01))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -9.995 2.01)
+      (pt 7.495 2.01)
+      (pt 7.495 -15.99)
+      (pt -9.995 -15.99)
+      (pt -9.995 2.01))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -7.35 -2.79)
+      (pt -7.35 1.01)
+      (pt 4.85 1.01)
+      (pt 4.85 -2.79))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 4.85 -6.69)
+      (pt 4.85 -14.99)
+      (pt -7.35 -14.99)
+      (pt -7.35 -6.69))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt 0 1.5)
+      (arc (pt 0.000 1.500) (pt -0.050 1.500) (pt 0.050 1.600) (start 180.0) (sweep -90.0))
+      (pt 0 1.6)
+      (arc (pt 0.000 1.600) (pt -0.050 1.500) (pt 0.050 1.600) (start 180.0) (sweep 90.0))
+      (pt 0 1.5))))
+   (leg 1 (pt 0.000 0.000) (padstack 1))
+   (leg 2 (pt -2.500 0.000) (padstack 0))
+   (leg 3 (pt -2.500 -2.000) (padstack 0))
+   (leg 4 (pt 0.000 -2.000) (padstack 0))
+   (leg MH1 (pt 4.770 -4.710) (padstack 5))
+   (leg MH2 (pt -7.270 -4.710) (padstack 6))
+   (padstack 0
+    (hole 0.92)
+    (plated true)
+    (pad (layer TCOP) (round 1.431))
+    (pad (layer INNER) (round 1.431))
+    (pad (layer BCOP) (round 1.431))
+   )
+   (padstack 1
+    (hole 0.92)
+    (plated true)
+    (pad (layer TCOP) (square 1.431))
+    (pad (layer INNER) (round 1.431))
+    (pad (layer BCOP) (square 1.431))
+   )
+   (padstack 5
+    (hole 2.3)
+    (plated true)
+    (pad (layer TCOP) (round 3.450))
+    (pad (layer INNER) (round 3.450))
+    (pad (layer BCOP) (round 3.450))
+   )
+   (padstack 6
+    (hole 2.3)
+    (plated true)
+    (pad (layer TCOP) (round 3.450))
+    (pad (layer INNER) (round 3.450))
+    (pad (layer BCOP) (round 3.450))
+   )
+   (model "61729-1011BLF.stp"
+    (euler 90 0 0)
+    (offset -1.25 -15 5.960000038146973)
+   )
+  )
+ )
+)

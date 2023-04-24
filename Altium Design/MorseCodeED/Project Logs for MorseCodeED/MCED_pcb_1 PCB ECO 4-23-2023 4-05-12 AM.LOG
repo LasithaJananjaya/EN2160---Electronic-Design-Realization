@@ -1,0 +1,77 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=C? NewDesignator=C4
+Change Component Designator: OldDesignator=C? NewDesignator=C5
+Change Component Designator: OldDesignator=C? NewDesignator=C6
+Change Component Designator: OldDesignator=C? NewDesignator=C7
+Change Component Designator: OldDesignator=C? NewDesignator=C8
+Change Component Designator: OldDesignator=C? NewDesignator=C9
+Change Component Designator: OldDesignator=D? NewDesignator=D1
+Change Component Designator: OldDesignator=FB? NewDesignator=B1
+Change Component Designator: OldDesignator=FB? NewDesignator=B2
+Change Component Designator: OldDesignator=J? NewDesignator=J1
+Change Component Designator: OldDesignator=J? NewDesignator=J2
+Change Component Designator: OldDesignator=J? NewDesignator=J3
+Change Component Designator: OldDesignator=J? NewDesignator=J4
+Change Component Designator: OldDesignator=J? NewDesignator=J5
+Change Component Designator: OldDesignator=J? NewDesignator=J6
+Change Component Designator: OldDesignator=MH? NewDesignator=MH1
+Change Component Designator: OldDesignator=MH? NewDesignator=MH2
+Change Component Designator: OldDesignator=MH? NewDesignator=MH3
+Change Component Designator: OldDesignator=MH? NewDesignator=MH4
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Change Component Designator: OldDesignator=R? NewDesignator=R6
+Change Component Designator: OldDesignator=R? NewDesignator=R7
+Change Component Designator: OldDesignator=R? NewDesignator=R8
+Change Component Designator: OldDesignator=R? NewDesignator=R9
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Change Component Designator: OldDesignator=Y? NewDesignator=Y1
+Change Net Name : Old Net Name=NetC?_1 New Net Name=NetC8_1
+Change Net Name : Old Net Name=NetC?_2 New Net Name=NetB1_2
+Change Net Name : Old Net Name=NetC?_2 New Net Name=NetB2_1
+Change Net Name : Old Net Name=NetC?_2 New Net Name=NetC5_2
+Change Net Name : Old Net Name=NetD?_P New Net Name=NetD1_P
+Change Net Name : Old Net Name=NetJ?_1 New Net Name=NetJ1_1
+Change Net Name : Old Net Name=NetJ?_2 New Net Name=NetJ6_2
+Change Net Name : Old Net Name=NetJ?_3 New Net Name=NetJ5_3
+Change Net Name : Old Net Name=NetJ?_4 New Net Name=NetJ5_4
+Change Net Name : Old Net Name=NetJ?_5 New Net Name=NetJ1_5
+Change Net Name : Old Net Name=NetR?_1 New Net Name=NetR8_1
+Added Pin To Net: NetName=NetC9_1 Pin=C9-1
+Added Pin To Net: NetName=NetC9_1 Pin=R9-1
+Added Pin To Net: NetName=NetC9_1 Pin=U1-10
+Added Pin To Net: NetName=NetC9_1 Pin=Y1-1
+Added Net: Name=NetC9_1
+Added Pin To Net: NetName=NetJ1_3 Pin=J1-3
+Added Pin To Net: NetName=NetJ1_3 Pin=R2-2
+Added Net: Name=NetJ1_3
+Added Member To Class: ClassName=MCED_schematic Member=Component B2 Ferrite Bead
+Added Member To Class: ClassName=MCED_schematic Member=Component C1 10 uF
+Added Member To Class: ClassName=MCED_schematic Member=Component C2 22pF
+Added Member To Class: ClassName=MCED_schematic Member=Component C4 22pF
+Added Member To Class: ClassName=MCED_schematic Member=Component C5 100 nF
+Added Member To Class: ClassName=MCED_schematic Member=Component C6 22pF
+Added Member To Class: ClassName=MCED_schematic Member=Component C7 10 uF
+Added Member To Class: ClassName=MCED_schematic Member=Component C8 22pF
+Added Member To Class: ClassName=MCED_schematic Member=Component C9 22pF
+Added Member To Class: ClassName=MCED_schematic Member=Component J1 LED - 6 Pin Header
+Added Member To Class: ClassName=MCED_schematic Member=Component J2 USB connector
+Added Member To Class: ClassName=MCED_schematic Member=Component J3 3.5 mm Audio Jack
+Added Member To Class: ClassName=MCED_schematic Member=Component J4 PB - 6 Pin Header
+Added Member To Class: ClassName=MCED_schematic Member=Component J5 4 Pin Header, 1 Row, Female, 2.54mm Pitch
+Added Member To Class: ClassName=MCED_schematic Member=Component MH1 MH
+Added Member To Class: ClassName=MCED_schematic Member=Component MH2 MH
+Added Member To Class: ClassName=MCED_schematic Member=Component MH3 MH
+Added Member To Class: ClassName=MCED_schematic Member=Component R2 330ohm
+Added Member To Class: ClassName=MCED_schematic Member=Component R3 330ohm
+Added Member To Class: ClassName=MCED_schematic Member=Component R4 10 kOhm
+Added Member To Class: ClassName=MCED_schematic Member=Component R5 10 kOhm
+Added Member To Class: ClassName=MCED_schematic Member=Component R6 10 kOhm
+Added Member To Class: ClassName=MCED_schematic Member=Component R7 10 kOhm
+Added Member To Class: ClassName=MCED_schematic Member=Component R8 10 kOhm
+Added Member To Class: ClassName=MCED_schematic Member=Component R9 10 kOhm

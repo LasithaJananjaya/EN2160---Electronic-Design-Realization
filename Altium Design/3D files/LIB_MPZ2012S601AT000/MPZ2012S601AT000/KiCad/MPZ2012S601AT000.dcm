@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MPZ2012S601AT000
+D Ferrite Beads 600ohms 2A 100mOhms 0805 Ferrite Chip
+K
+F https://product.tdk.com/system/files/dam/doc/product/emc/emc/beads/catalog/beads_commercial_power_mpz2012_en.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "CRCW0805330RFKEAC"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-11-14-23:19:31)
+    (mountForm default
+        (footprintRef "RESC2012X60N")
+        (spec "System")
+    )
+)
