@@ -1,0 +1,24 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 1:13:11 AM On 5/1/2023
+
+Output: MorseCodeEDGerber Files
+Type  : Gerber
+From  : PCB Document [MCED_pcb_1.PcbDoc]
+   Generated File[MCED_pcb_1.GTO]
+   Generated File[MCED_pcb_1.GTP]
+   Generated File[MCED_pcb_1.GTS]
+   Generated File[MCED_pcb_1.GTL]
+   Generated File[MCED_pcb_1.GBL]
+   Generated File[MCED_pcb_1.GBS]
+   Generated File[MCED_pcb_1.GBP]
+   Generated File[MCED_pcb_1.GBO]
+   Generated File[MCED_pcb_1.GM]
+   Generated File[MCED_pcb_1.EXTREP]
+   Generated File[MCED_pcb_1.REP]
+
+
+Files Generated   : 11
+Documents Printed : 0
+
+Finished Output Generation At 1:13:12 AM On 5/1/2023
