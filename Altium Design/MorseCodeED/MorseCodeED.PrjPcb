@@ -133,6 +133,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[ProjectVariant1]
+UniqueID=8431DC08-F0D4-4557-80E3-5F586737F5C1
+Description=First Variant
+AllowFabrication=0
+ParameterCount=0
+VariationCount=0
+ParamVariationCount=0
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for MorseCodeED\Design Rule Check - MCED_pcb_1.html
 DItemRevisionGUID=
