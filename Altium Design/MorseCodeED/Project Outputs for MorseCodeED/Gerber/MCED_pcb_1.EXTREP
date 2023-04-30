@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: MCED_pcb_1.GBR   5/1/2023  1:24:22 AM
+Gerber File Extension Report For: MCED_pcb_1.GBR   5/1/2023  1:52:33 AM
 ------------------------------------------------------------------------------------------
 
 
@@ -14,5 +14,7 @@ Layer Extension     Layer Description
 .GBS                Bottom Solder                           
 .GBP                Bottom Paste                            
 .GBO                Bottom Overlay                          
+.GM1                Mechanical 1                            
+.GKO                Keep-Out Layer                          
 .GM                 Profile                                 
 ------------------------------------------------------------------------------------------
