@@ -2,42 +2,6 @@
 FileName = MCED_pcb_1.GBR
 AutoAperture = True
 *************************************************************
-Generating : Mechanical 20
-      File : MCED_pcb_1.GM20
-
-    Adding Layer      : Mechanical 20
-
-
-Used DCodes :
-    D46
-    D47
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 15
-      File : MCED_pcb_1.GM15
-
-    Adding Layer      : Mechanical 15
-
-
-Used DCodes :
-    D11
-    D46
-    D47
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 13
-      File : MCED_pcb_1.GM13
-
-    Adding Layer      : Mechanical 13
-
-
-Used DCodes :
-    D10
-*************************************************************
-
-*************************************************************
 Generating : Mechanical 1
       File : MCED_pcb_1.GM1
 
@@ -198,6 +162,6 @@ Generating : Profile
 
 
 Used DCodes :
-    D48
+    D46
 *************************************************************
 
