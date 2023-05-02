@@ -1,10 +1,6 @@
-Project Outputs Generation Report
----------------------------------
-Start Output Generation At 1:54:43 AM On 5/1/2023
-
-Output: MorseCodeED NC Drill Files
+Output: NC Drill Files
 Type  : NC Drill
-From  : PCB Document [MCED_pcb_1.PcbDoc]
+From  : Project [MorseCodeED.PrjPcb]
    Generated File[MCED_pcb_1.TXT]
    Generated File[MCED_pcb_1.LDP]
    Generated File[MCED_pcb_1.DRR]
@@ -13,4 +9,4 @@ From  : PCB Document [MCED_pcb_1.PcbDoc]
 Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 1:54:43 AM On 5/1/2023
+Finished Output Generation At 12:48:12 PM On 5/2/2023
