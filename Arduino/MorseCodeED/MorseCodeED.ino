@@ -1,6 +1,7 @@
 #include <Wire.h>
 #include <Adafruit_GFX.h>
 #include <Adafruit_SSD1306.h>
+#include <avr/pgmspace.h>
 
 #define PB_OK 2
 #define PB_NEXT 3
@@ -34,63 +35,63 @@ char Letters[27] = "ABCDEFGHIJKLMNOPQRSTUVWXYZ_";
 // Array holding all Morse code letter dot dash combinations
 
 const PROGMEM char MorseCode[26][6] = {
-  { '.', '-', 'x', 'x', 'x', 'A' },
-  { '-', '.', '.', '.', 'x', 'B' },
-  { '-', '.', '-', '.', 'x', 'C' },
-  { '-', '.', '.', 'x', 'x', 'D' },
-  { '.', 'x', 'x', 'x', 'x', 'E' },
-  { '.', '.', '-', '.', 'x', 'F' },
-  { '-', '-', '.', 'x', 'x', 'G' },
-  { '.', '.', '.', '.', 'x', 'H' },
-  { '.', '.', 'x', 'x', 'x', 'I' },
-  { '.', '-', '-', '-', 'x', 'J' },
-  { '-', '.', '-', 'x', 'x', 'K' },
-  { '.', '-', '.', '.', 'x', 'L' },
-  { '-', '-', 'x', 'x', 'x', 'M' },
-  { '-', '.', 'x', 'x', 'x', 'N' },
-  { '-', '-', '-', 'x', 'x', 'O' },
-  { '.', '-', '-', '.', 'x', 'P' },
-  { '-', '-', '.', '-', 'x', 'Q' },
-  { '.', '-', '.', 'x', 'x', 'R' },
-  { '.', '.', '.', 'x', 'x', 'S' },
-  { '-', 'x', 'x', 'x', 'x', 'T' },
-  { '.', '.', '-', 'x', 'x', 'U' },
-  { '.', '.', '.', '-', 'x', 'V' },
-  { '.', '-', '-', '.', 'x', 'X' },
-  { '-', '-', '.', '-', 'x', 'Y' },
-  { '.', '-', '-', 'x', 'x', 'W' },
-  { '.', '-', '.', 'x', 'x', 'Z' },
+  {'.', '-', 'x', 'x', 'x', 'A'},
+  {'-', '.', '.', '.', 'x', 'B'},
+  {'-', '.', '-', '.', 'x', 'C'},
+  {'-', '.', '.', 'x', 'x', 'D'},
+  {'.', 'x', 'x', 'x', 'x', 'E'},
+  {'.', '.', '-', '.', 'x', 'F'},
+  {'-', '-', '.', 'x', 'x', 'G'},
+  {'.', '.', '.', '.', 'x', 'H'},
+  {'.', '.', 'x', 'x', 'x', 'I'},
+  {'.', '-', '-', '-', 'x', 'J'},
+  {'-', '.', '-', 'x', 'x', 'K'},
+  {'.', '-', '.', '.', 'x', 'L'},
+  {'-', '-', 'x', 'x', 'x', 'M'},
+  {'-', '.', 'x', 'x', 'x', 'N'},
+  {'-', '-', '-', 'x', 'x', 'O'},
+  {'.', '-', '-', '.', 'x', 'P'},
+  {'-', '-', '.', '-', 'x', 'Q'},
+  {'.', '-', '.', 'x', 'x', 'R'},
+  {'.', '.', '.', 'x', 'x', 'S'},
+  {'-', 'x', 'x', 'x', 'x', 'T'},
+  {'.', '.', '-', 'x', 'x', 'U'},
+  {'.', '.', '.', '-', 'x', 'V'},
+  {'.', '-', '-', '.', 'x', 'X'},
+  {'-', '-', '.', '-', 'x', 'Y'},
+  {'.', '-', '-', 'x', 'x', 'W'},
+  {'.', '-', '.', 'x', 'x', 'Z'},
 };
 
 /*
-String MorseCode[26][2] = {
-  { ".", "E" },
-  { "-", "T" },
-  { "..", "I" },
-  { ".-", "A" },
-  { "-.", "N" },
-  { "--", "M" },
-  { "...", "S" },
-  { "..-", "U" },
-  { ".-.", "R" },
-  { ".--", "W" },
-  { "-..", "D" },
-  { "-.-", "K" },
-  { "--.", "G" },
-  { "---", "O" },
-  { "....", "H" },
-  { "...", "V" },
-  { "..-.", "F" },
-  { ".-..", "L" },
-  { ".--.", "P" },
-  { ".---", "J" },
-  { "-...", "B" },
-  { ".--", "X" },
-  { "-.-.", "C" },
-  { "--.", "Y" },
-  { ".-", "Z" },
-  { "--.-", "Q" },
-};
+  const PROGMEM String Morse_Code[26][2] = {
+  {".", "E"},
+  {"-", "T"},
+  {"..", "I"},
+  {".-", "A"},
+  {"-.", "N"},
+  {"--", "M"},
+  {"...", "S"},
+  {"..-", "U"},
+  {".-.", "R"},
+  {".--", "W"},
+  {"-..", "D"},
+  {"-.-", "K"},
+  {"--.", "G"},
+  {"---", "O"},
+  {"....", "H"},
+  {"...", "V"},
+  {"..-.", "F"},
+  {".-..", "L"},
+  {".--.", "P"},
+  {".---", "J"},
+  {"-...", "B"},
+  {".--", "X"},
+  {"-.-.", "C"},
+  {"--.", "Y"},
+  {".-", "Z"},
+  {"--.-", "Q"},
+  };
 */
 
 
@@ -119,13 +120,10 @@ int To_Transmit_Length = 0;
 
 Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, OLED_RESET);
 
-String modes[] = { "ENCODE", "DECODE" };
+String modes[] = {"ENCODE", "DECODE"};
 int mode = 0;
 
 void setup() {
-
-  display_freeram();
-
   pinMode(BUZZER, OUTPUT);
   pinMode(PB_OK, INPUT);
   pinMode(PB_NEXT, INPUT);
@@ -141,8 +139,7 @@ void setup() {
   //SSD1306_SWITCHCAPVCC = generate display voltage from 3.3V internally
   if (!display.begin(SSD1306_SWITCHCAPVCC, SCREEN_ADDRESS)) {
     Serial.println(F("SSD1306 allocation failed!"));
-    for (;;)
-      ;
+    for (;;);
   }
 
   //show the display buffer on the screen. You MUST call display() after
@@ -162,16 +159,17 @@ void loop() {
   display.display();
   delay(1000);
   select_mode();
+
 }
 
 void print_line(String text, int column, int row, int text_size) {
 
   display.setTextSize(text_size);
   display.setTextColor(SSD1306_WHITE);
-  display.setCursor(column, row);  //(column, row)
+  display.setCursor(column, row); //(column, row)
   display.println(text);
 
-  display.display();  //call this function to display the message on the display
+  display.display(); //call this function to display the message on the display
 }
 
 void dot() {
@@ -220,7 +218,7 @@ void select_mode() {
 }
 
 void run_mode(int mode) {
-  while (mode == 0) {
+  while (mode == 0 && (digitalRead(PB_CANCEL) == HIGH)) {
     display.clearDisplay();
     print_line("ENCODER", 24, 24, 2);
     delay(700);
@@ -237,15 +235,14 @@ void run_mode(int mode) {
     To_Transmit = "";
     To_Transmit_Length = 0;
     select_letter();
-    break;
+    delay(200);
   }
 
-  while (mode == 1) {
+  while (mode == 1 && (digitalRead(PB_CANCEL) == HIGH)) {
     display.clearDisplay();
     print_line("DECODER", 24, 24, 2);
     delay(700);
-    //read_audio_level();
-    break;
+    read_audio_level();
   }
 }
 
@@ -272,7 +269,8 @@ int select_letter() {
 
         if (Pot_read < 100 or Pot_read == 100) {
           New_Position = 0;
-        } else if (Pot_read > 100 or Pot_read < 900) {
+        }
+        else if (Pot_read > 100 or Pot_read < 900) {
           New_Position = map(Pot_read, 101, 899, 0, 26);
         }
         if (Pot_read > 900 or Pot_read == 900) {
@@ -283,7 +281,7 @@ int select_letter() {
         // remove highlight from the old one and Highlight a new one
         // New position becomes also the current position now
         if (Old_Position != New_Position) {
-          Highlight_letter(New_Position, Old_Position);
+          Highlight_letter (New_Position, Old_Position);
           Old_Position = New_Position;
         }
 
@@ -301,12 +299,19 @@ int select_letter() {
     }
 
     if (digitalRead(PB_OK) == LOW) {
+      Serial.print(F("To transmit - "));
       Serial.println(To_Transmit);
-      for (int i = 0; i < To_Transmit_Length; i++) {
-        Play_Letter(To_Transmit.charAt(i));
+      char char_to_transmit[To_Transmit.length()];
+      strcpy(char_to_transmit, To_Transmit.c_str());
+      for (int i = 0; i < To_Transmit_Length; i++ ) {
+        //Serial.print("Letter to be played - ");
+        //Serial.println(F("Entering play letter to transmitt a new letter"));
+        Play_Letter(char_to_transmit[i]);
       }
       To_Transmit = "";
       To_Transmit_Length = 0;
+      Serial.print("To transmit length - ");
+      Serial.println(To_Transmit_Length);
       break;
     }
 
@@ -339,104 +344,118 @@ void Highlight_letter(int New_Pos, int Old_Pos) {
 }
 
 // Play/Display Morse code representation of the letter
-void Play_Letter(char Letter) {
+void Play_Letter (char Letter) {
 
   // searching in MorseCode array for the corresponding letter
   if (Letter == '_') {
-    delay(3000);
+    delay(1000);
   }
 
   else {
-    for (int j = 0; j < 27; j++) {
-      if (MorseCode[j][5] == Letter) {
+    for (int j = 0; j < 26; j++) {
+      //Serial.print(j);
+      // Necessary casts and dereferencing.
+      char c = pgm_read_byte(&(MorseCode[j][5]));
+      //Serial.print(c);
+
+      if (c == Letter) {
+        //Serial.println("Matched!");
         // if the right letter is detected run Play_Dot_Dash for . or -
+
         for (int k = 0; k < 4; k++) {
-          if (MorseCode[j][k] != 'x') {
-            Serial.print("J = ");
-            Serial.print(j);
-            Serial.print(" K = ");
-            Serial.print(k);
-            Serial.print("  ");
-            Serial.println(MorseCode[j][k]);
-            Play_Dot_Dash(MorseCode[j][k]);
+          char c = pgm_read_byte(&(MorseCode[j][k]));
+          if (c != 'x') {
+            //Serial.print("J = ");
+            //Serial.print(j);
+            //Serial.print(" K = ");
+            //Serial.print(k);
+            //Serial.print("  ");
+            //Serial.println(c);
+            Play_Dot_Dash(c);
           }
         }
       }
     }
-    delay(200);
   }
 }
 
 // Playing/Displaying . or -
 
 void Play_Dot_Dash(char sign) {
-
   if (sign == '.') {
-    tone(BUZZER, 3000, 1000);
+    //digitalWrite(5, 100);
+    tone(BUZZER, 3000, 200);
+    delay(500);
   }
-
   if (sign == '-') {
-    tone(BUZZER, 3000, 4500);
+    //digitalWrite(5, 100);
+    tone(BUZZER, 3000, 500);
+    delay(800);
   }
 }
 
 //----------------------------------------DECODER--------------------------------------
 void read_audio_level() {
-  display.clearDisplay();
-  print_line("Receiving...", 0, 0, 2);
-  bool exit = false;
-  unsigned long duration;
-  int audioLevel = analogRead(analogPin);
+  while (digitalRead(PB_CANCEL) == HIGH) {
+    display.clearDisplay();
+    print_line("Receiving...", 0, 0, 2);
+    bool exit = false;
+    unsigned long duration;
+    int audioLevel = analogRead(analogPin);
 
-  while (true) {
-    int reading = analogRead(analogPin);
+    while (true) {
+      int reading = analogRead(analogPin);
 
-    if (reading >= threshold) {
-      startTime = millis();
-      digitalWrite(RX, HIGH);
-      while (reading >= threshold) {
-        reading = analogRead(analogPin);
-      }
-      duration = millis() - startTime;
-      digitalWrite(RX, LOW);
-
-      if ((ditValue - 50) <= duration <= (ditValue + 50)) {
-        morseCode += ".";
-      } else if ((dahValue - 50) <= duration <= (dahValue + 50)) {
-        morseCode += "-";
-      }
-    }
-
-    else if ((reading < threshold)) {
-      startTime = millis();
-      while (reading < threshold) {
-        reading = analogRead(analogPin);
+      if (reading >= threshold) {
+        startTime = millis();
+        digitalWrite(RX, HIGH);
+        while (reading >= threshold) {
+          reading = analogRead(analogPin);
+        }
         duration = millis() - startTime;
-        if (duration > stop) {
-          decodeMorse();
-          display.clearDisplay();
-          print_line("Complete", 0, 0, 2);
-          print_line(message, 0, 16, 2);
-          morseCode = "";
-          message = "";
-          exit = true;
-          break;
+        digitalWrite(RX, LOW);
+
+        if ((ditValue - 50) <= duration <= (ditValue + 50)) {
+          morseCode += ".";
+        }
+        else if ((dahValue - 50) <= duration <= (dahValue + 50)) {
+          morseCode += "-";
         }
       }
 
-      if ((symbolSpace - 50) <= duration <= (symbolSpace + 50)) {
-        continue;
-      } else if ((letterSpace - 50) <= duration <= (letterSpace + 50)) {
-        decodeMorse();
-      } else if ((wordSpace - 50) <= duration <= (wordSpace + 50)) {
-        message += " ";
-        display.clearDisplay();
-        print_line(message, 0, 16, 2);
-      }
-    }
+      else if ((reading < threshold)) {
+        startTime = millis();
+        while (reading < threshold) {
+          reading = analogRead(analogPin);
+          duration = millis() - startTime;
+          if (duration > stop) {
+            decodeMorse();
+            display.clearDisplay();
+            print_line("Complete", 0, 0, 2);
+            print_line(message, 0, 16, 2);
+            morseCode = "";
+            message = "";
+            exit = true;
+            break;
+          }
+        }
 
-    if (exit) {
-      break;
+        if ((symbolSpace - 50) <= duration <= (symbolSpace + 50)) {
+          continue;
+        }
+        else if ((letterSpace - 50) <= duration <= (letterSpace + 50)) {
+          decodeMorse();
+        }
+        else if ((wordSpace - 50) <= duration <= (wordSpace + 50)) {
+          message += " ";
+          display.clearDisplay();
+          print_line(message, 0, 16, 2);
+        }
+      }
+
+      if (exit) {
+        break;
+      }
     }
   }
 }
@@ -444,24 +463,13 @@ void read_audio_level() {
 
 void decodeMorse() {
   /*
-  for (int i = 0; i < 27; i++) {
+    for (int i = 0; i < 27; i++) {
     if (MorseCode[i][0] == morseCode) {
       message += MorseCode[i][1];
       display.clearDisplay();
       print_line(message, 0, 16, 2);
     }
-  }
-  morseCode = "";
+    }
+    morseCode = "";
   */
-}
-
-void display_freeram() {
-  Serial.print(F("- SRAM left: "));
-  Serial.println(freeRam());
-}
-
-int freeRam() {
-  extern int __heap_start, *__brkval;
-  int v;
-  return (int)&v - (__brkval == 0 ? (int)&__heap_start : (int)__brkval);
 }
