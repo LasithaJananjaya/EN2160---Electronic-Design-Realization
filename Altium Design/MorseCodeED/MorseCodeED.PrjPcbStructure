@@ -1,1 +1,2 @@
-Record=TopLevelDocument|FileName=MCED_schematic.SchDoc|SheetNumber=1
+Record=TopLevelDocument|FileName=MCED_Controller.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=MCED_Controller.SchDoc|FileName=MCED_IO.SchDoc|SheetNumber=2
