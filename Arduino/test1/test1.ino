@@ -16,10 +16,19 @@ int POT = analogRead(A0);
 //int DATA = analogRead(A1);
 
 // Set up variables
-const int analogPin = A1;
-bool end_rx = false;
-int last_pos_x = 0;
-int last_pos_y = 16;
+int analogPin1 = A1;
+int analogPin2 = A2;
+const int threshold = 500;
+String morseCode = "";
+String message = "";
+unsigned long startTime = 0;
+const int ditValue = 100;
+const int dahValue = 300;
+const int symbolSpace = 100;
+const int letterSpace = 300;
+const int wordSpace = 700;
+const int stop = 2000;
+
 ///////////////////////////////////////////////////////////////////
 
 char Letters[27] = "ABCDEFGHIJKLMNOPQRSTUVWXYZ_";
@@ -27,32 +36,32 @@ char Letters[27] = "ABCDEFGHIJKLMNOPQRSTUVWXYZ_";
 // Array holding all Morse code letter dot dash combinations
 
 const PROGMEM char MorseCode[26][6] = {
-  { '.', '-', 'x', 'x', 'x', 'A' },
-  { '-', '.', '.', '.', 'x', 'B' },
-  { '-', '.', '-', '.', 'x', 'C' },
-  { '-', '.', '.', 'x', 'x', 'D' },
-  { '.', 'x', 'x', 'x', 'x', 'E' },
-  { '.', '.', '-', '.', 'x', 'F' },
-  { '-', '-', '.', 'x', 'x', 'G' },
-  { '.', '.', '.', '.', 'x', 'H' },
-  { '.', '.', 'x', 'x', 'x', 'I' },
-  { '.', '-', '-', '-', 'x', 'J' },
-  { '-', '.', '-', 'x', 'x', 'K' },
-  { '.', '-', '.', '.', 'x', 'L' },
-  { '-', '-', 'x', 'x', 'x', 'M' },
-  { '-', '.', 'x', 'x', 'x', 'N' },
-  { '-', '-', '-', 'x', 'x', 'O' },
-  { '.', '-', '-', '.', 'x', 'P' },
-  { '-', '-', '.', '-', 'x', 'Q' },
-  { '.', '-', '.', 'x', 'x', 'R' },
-  { '.', '.', '.', 'x', 'x', 'S' },
-  { '-', 'x', 'x', 'x', 'x', 'T' },
-  { '.', '.', '-', 'x', 'x', 'U' },
-  { '.', '.', '.', '-', 'x', 'V' },
-  { '.', '-', '-', '.', 'x', 'X' },
-  { '-', '-', '.', '-', 'x', 'Y' },
-  { '.', '-', '-', 'x', 'x', 'W' },
-  { '.', '-', '.', 'x', 'x', 'Z' },
+  {'.', '-', 'x', 'x', 'x', 'A'},
+  {'-', '.', '.', '.', 'x', 'B'},
+  {'-', '.', '-', '.', 'x', 'C'},
+  {'-', '.', '.', 'x', 'x', 'D'},
+  {'.', 'x', 'x', 'x', 'x', 'E'},
+  {'.', '.', '-', '.', 'x', 'F'},
+  {'-', '-', '.', 'x', 'x', 'G'},
+  {'.', '.', '.', '.', 'x', 'H'},
+  {'.', '.', 'x', 'x', 'x', 'I'},
+  {'.', '-', '-', '-', 'x', 'J'},
+  {'-', '.', '-', 'x', 'x', 'K'},
+  {'.', '-', '.', '.', 'x', 'L'},
+  {'-', '-', 'x', 'x', 'x', 'M'},
+  {'-', '.', 'x', 'x', 'x', 'N'},
+  {'-', '-', '-', 'x', 'x', 'O'},
+  {'.', '-', '-', '.', 'x', 'P'},
+  {'-', '-', '.', '-', 'x', 'Q'},
+  {'.', '-', '.', 'x', 'x', 'R'},
+  {'.', '.', '.', 'x', 'x', 'S'},
+  {'-', 'x', 'x', 'x', 'x', 'T'},
+  {'.', '.', '-', 'x', 'x', 'U'},
+  {'.', '.', '.', '-', 'x', 'V'},
+  {'.', '-', '-', '.', 'x', 'X'},
+  {'-', '-', '.', '-', 'x', 'Y'},
+  {'.', '-', '-', 'x', 'x', 'W'},
+  {'.', '-', '.', 'x', 'x', 'Z'},
 };
 
 /*
@@ -112,7 +121,7 @@ int To_Transmit_Length = 0;
 
 Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, OLED_RESET);
 
-String modes[] = { "ENCODE", "DECODE" };
+String modes[] = {"ENCODE", "DECODE"};
 int mode = 0;
 
 void setup() {
@@ -131,8 +140,7 @@ void setup() {
   //SSD1306_SWITCHCAPVCC = generate display voltage from 3.3V internally
   if (!display.begin(SSD1306_SWITCHCAPVCC, SCREEN_ADDRESS)) {
     Serial.println(F("SSD1306 allocation failed!"));
-    for (;;)
-      ;
+    for (;;);
   }
 
   //show the display buffer on the screen. You MUST call display() after
@@ -152,16 +160,17 @@ void loop() {
   display.display();
   delay(1000);
   select_mode();
+
 }
 
 void print_line(String text, int column, int row, int text_size) {
 
   display.setTextSize(text_size);
   display.setTextColor(SSD1306_WHITE);
-  display.setCursor(column, row);  //(column, row)
+  display.setCursor(column, row); //(column, row)
   display.println(text);
 
-  display.display();  //call this function to display the message on the display
+  display.display(); //call this function to display the message on the display
 }
 
 void dot() {
@@ -191,8 +200,7 @@ int wait_for_button_press() {
 }
 
 void select_mode() {
-  end_rx = false;
-  while (digitalRead(PB_CANCEL) == HIGH && !end_rx) {
+  while (digitalRead(PB_CANCEL) == HIGH) {
     int pressed = wait_for_button_press();
     if (pressed == PB_NEXT) {
       //delay(200);
@@ -216,7 +224,7 @@ void run_mode(int mode) {
     print_line("ENCODER", 24, 24, 2);
     delay(700);
     display.clearDisplay();
-    display.fillRect(0, 0, 128, 15, SSD1306_WHITE);
+    display.fillRect(0, 0, 128, 15, SSD1306_INVERSE);
     for (int j = 0; j < 3; j++) {
       for (int i = 0; i < 9; i++) {
         display.setCursor(i * 12 + 2 * i + 1, j * 16 + 17);
@@ -224,14 +232,14 @@ void run_mode(int mode) {
         display.display();
       }
     }
-    display.fillRect(last_pos_x, last_pos_y, 12, 16, SSD1306_INVERSE);
+    display.fillRect(0, 16, 12, 16, SSD1306_INVERSE);
     To_Transmit = "";
     To_Transmit_Length = 0;
     select_letter();
     delay(200);
   }
 
-  while (mode == 1 && (digitalRead(PB_CANCEL) == HIGH) && !end_rx) {
+  while (mode == 1 && (digitalRead(PB_CANCEL) == HIGH)) {
     display.clearDisplay();
     print_line("DECODER", 24, 24, 2);
     delay(700);
@@ -262,7 +270,8 @@ int select_letter() {
 
         if (Pot_read < 100 or Pot_read == 100) {
           New_Position = 0;
-        } else if (Pot_read > 100 or Pot_read < 900) {
+        }
+        else if (Pot_read > 100 or Pot_read < 900) {
           New_Position = map(Pot_read, 101, 899, 0, 26);
         }
         if (Pot_read > 900 or Pot_read == 900) {
@@ -273,7 +282,7 @@ int select_letter() {
         // remove highlight from the old one and Highlight a new one
         // New position becomes also the current position now
         if (Old_Position != New_Position) {
-          Highlight_letter(New_Position, Old_Position);
+          Highlight_letter (New_Position, Old_Position);
           Old_Position = New_Position;
         }
 
@@ -295,7 +304,7 @@ int select_letter() {
       Serial.println(To_Transmit);
       char char_to_transmit[To_Transmit.length()];
       strcpy(char_to_transmit, To_Transmit.c_str());
-      for (int i = 0; i < To_Transmit_Length; i++) {
+      for (int i = 0; i < To_Transmit_Length; i++ ) {
         //Serial.print("Letter to be played - ");
         //Serial.println(F("Entering play letter to transmitt a new letter"));
         Play_Letter(char_to_transmit[i]);
@@ -324,9 +333,6 @@ void Highlight_letter(int New_Pos, int Old_Pos) {
   X_pos = New_Pos - ((int)New_Pos / 9) * 9;
   Y_pos = (int)New_Pos / 9;
 
-  last_pos_x = X_pos * 12 + 2 * X_pos;
-  last_pos_y = Y_pos * 16 + 16;
-
   // Displaying Inverse rect
   display.fillRect(X_pos * 12 + 2 * X_pos, Y_pos * 16 + 16, 12, 16, SSD1306_INVERSE);
 
@@ -339,7 +345,7 @@ void Highlight_letter(int New_Pos, int Old_Pos) {
 }
 
 // Play/Display Morse code representation of the letter
-void Play_Letter(char Letter) {
+void Play_Letter (char Letter) {
 
   // searching in MorseCode array for the corresponding letter
   if (Letter == '_') {
@@ -391,90 +397,79 @@ void Play_Dot_Dash(char sign) {
 
 //----------------------------------------DECODER--------------------------------------
 void read_audio_level() {
-  const int threshold = 0;
-  String morseCode = "";
-  String message = "";
-  unsigned long startTime = 0;
-  const int ditValue = 200;
-  const int dahValue = 900;
-  const int symbolSpace = 10000;
-  const int letterSpace = 40000;
-  const int wordSpace = 180000;
+  while(true){
+  display.clearDisplay();
+  int value = analogRead(analogPin1);
+  print_line(String(value),0,0,2);
+  //print_line(String(analogRead(analogPin2)),0,16,2);
+  if (value > 0){
+    print_line("yes",0,16,2);
+  }
+  }
 
+  /*
   while (digitalRead(PB_CANCEL) == HIGH) {
+    display.clearDisplay();
+    print_line("Receiving...", 0, 0, 2);
     bool exit = false;
     unsigned long duration;
-    //int audioLevel = analogRead(analogPin);
+    int audioLevel = analogRead(analogPin1);
 
-    while (digitalRead(PB_CANCEL) == HIGH) {
-      int reading = analogRead(analogPin);
-      display.clearDisplay();
-      print_line("Receiving!", 0, 0, 2);
-      //print_line(String(reading), 0, 16, 2);
+    while (true) {
+      int reading = analogRead(analogPin1);
 
-
-      if (reading > threshold) {
-        startTime = micros();
-        //digitalWrite(RX, HIGH);
-        while (reading > threshold) {
-          reading = analogRead(analogPin);
+      if (reading >= threshold) {
+        startTime = millis();
+        digitalWrite(RX, HIGH);
+        while (reading >= threshold) {
+          reading = analogRead(analogPin1);
         }
-        duration = micros() - startTime;
-        display.clearDisplay();
-        print_line(String(duration), 0, 16, 2);
-        //digitalWrite(RX, LOW);
-        if (100 <= duration < 400) {
+        duration = millis() - startTime;
+        digitalWrite(RX, LOW);
+
+        if ((ditValue - 50) <= duration <= (ditValue + 50)) {
           morseCode += ".";
-        } else if (400 <= duration < 1500){
-          morseCode += "_";
+        }
+        else if ((dahValue - 50) <= duration <= (dahValue + 50)) {
+          morseCode += "-";
         }
       }
 
-      else if ((reading <= threshold)) {
-        startTime = micros();
-        while (reading <= threshold) {
-          reading = analogRead(analogPin);
-          duration = micros() - startTime;
-          display.clearDisplay();
-          print_line(String(duration), 0, 32, 2);
-          if (duration > 5000000) {
-            //decodeMorse();
+      else if ((reading < threshold)) {
+        startTime = millis();
+        while (reading < threshold) {
+          reading = analogRead(analogPin1);
+          duration = millis() - startTime;
+          if (duration > stop) {
+            decodeMorse();
             display.clearDisplay();
             print_line("Complete", 0, 0, 2);
-            print_line(morseCode, 0, 16, 2);
-            delay(5000);
+            print_line(message, 0, 16, 2);
             morseCode = "";
             message = "";
             exit = true;
             break;
           }
         }
-/*
+
         if ((symbolSpace - 50) <= duration <= (symbolSpace + 50)) {
           continue;
-        } else if ((letterSpace - 50) <= duration <= (letterSpace + 50)) {
-          //decodeMorse();
-          display.clearDisplay();
-          print_line("Decode morse", 0, 48, 2);
-        } else if ((wordSpace - 50) <= duration <= (wordSpace + 50)) {
+        }
+        else if ((letterSpace - 50) <= duration <= (letterSpace + 50)) {
+          decodeMorse();
+        }
+        else if ((wordSpace - 50) <= duration <= (wordSpace + 50)) {
           message += " ";
           display.clearDisplay();
-          print_line("Message", 0, 48, 2);
-          //print_line(message, 0, 48, 2);
-        }*/
+          print_line(message, 0, 16, 2);
+        }
       }
-
 
       if (exit) {
         break;
       }
     }
-    if (exit) {
-      end_rx = true;
-      mode = 0;
-      break;
-    }
-  }
+  } */
 }
 
 
