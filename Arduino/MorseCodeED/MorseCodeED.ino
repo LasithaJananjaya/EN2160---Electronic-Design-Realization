@@ -378,14 +378,18 @@ void Play_Letter(char Letter) {
 
 void Play_Dot_Dash(char sign) {
   if (sign == '.') {
-    //digitalWrite(5, 100);
+    digitalWrite(5, HIGH);
     tone(BUZZER, 3000, 200);
-    delay(500);
+    delay(300);
+    digitalWrite(5, LOW);
+    delay(200);
   }
   if (sign == '-') {
-    //digitalWrite(5, 100);
+    digitalWrite(5, HIGH);
     tone(BUZZER, 3000, 500);
-    delay(800);
+    delay(600);
+    digitalWrite(5, LOW);
+    delay(200);
   }
 }
 
@@ -410,7 +414,7 @@ void read_audio_level() {
       int reading = analogRead(analogPin);
       display.clearDisplay();
       print_line("Receiving!", 0, 0, 2);
-      //print_line(String(reading), 0, 16, 2);
+      print_line("Read-" + String(reading), 0, 16, 2);
 
 
       if (reading > threshold) {
@@ -421,7 +425,7 @@ void read_audio_level() {
         }
         duration = micros() - startTime;
         display.clearDisplay();
-        print_line(String(duration), 0, 16, 2);
+        print_line("Dur" + String(duration), 0, 32, 2);
         //digitalWrite(RX, LOW);
         if (100 <= duration < 400) {
           morseCode += ".";
@@ -436,13 +440,13 @@ void read_audio_level() {
           reading = analogRead(analogPin);
           duration = micros() - startTime;
           display.clearDisplay();
-          print_line(String(duration), 0, 32, 2);
+          print_line("Dur" + String(duration), 0, 32, 2);
           if (duration > 5000000) {
             //decodeMorse();
             display.clearDisplay();
             print_line("Complete", 0, 0, 2);
             print_line(morseCode, 0, 16, 2);
-            delay(5000);
+            delay(1000);
             morseCode = "";
             message = "";
             exit = true;
